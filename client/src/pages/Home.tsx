@@ -25,21 +25,19 @@ export default function Home() {
       <header className="border-b border-border">
         <div className="max-w-6xl mx-auto px-6">
           <div className="flex items-center justify-between h-16">
-            <Link href="/">
-              <a className="text-2xl font-bold tracking-tight">
-                AI Education Research
-              </a>
+            <Link href="/" className="text-2xl font-bold tracking-tight">
+              AI Education Research
             </Link>
             
             <nav className="flex items-center gap-8">
-              <Link href="/resources">
-                <a className="text-sm hover:opacity-60 transition-opacity">Resources</a>
+              <Link href="/resources" className="text-sm hover:opacity-60 transition-opacity">
+                Resources
               </Link>
-              <Link href="/tools">
-                <a className="text-sm hover:opacity-60 transition-opacity">Tools</a>
+              <Link href="/tools" className="text-sm hover:opacity-60 transition-opacity">
+                Tools
               </Link>
-              <Link href="/news">
-                <a className="text-sm hover:opacity-60 transition-opacity">News</a>
+              <Link href="/news" className="text-sm hover:opacity-60 transition-opacity">
+                News
               </Link>
             </nav>
           </div>
@@ -79,9 +77,9 @@ export default function Home() {
           <div className="flex flex-wrap gap-3 justify-center">
             {categories?.map((cat) => (
               <Link key={cat.id} href={`/category/${cat.slug}`}>
-                <button className="px-4 py-2 text-sm border border-border hover:border-foreground hover:bg-secondary/50 transition-all">
+                <span className="inline-block px-4 py-2 text-sm border border-border hover:border-foreground hover:bg-secondary/50 transition-all cursor-pointer">
                   {cat.name}
-                </button>
+                </span>
               </Link>
             ))}
           </div>
@@ -133,9 +131,9 @@ export default function Home() {
 
           <div className="mt-12 text-center">
             <Link href="/resources">
-              <Button variant="outline" className="border-foreground hover:bg-foreground hover:text-background">
+              <span className="inline-flex items-center justify-center px-4 py-2 text-sm font-medium border border-foreground hover:bg-foreground hover:text-background transition-colors cursor-pointer">
                 View All Research
-              </Button>
+              </span>
             </Link>
           </div>
         </div>
@@ -167,9 +165,9 @@ export default function Home() {
 
           <div className="mt-12 text-center">
             <Link href="/tools">
-              <Button variant="outline" className="border-foreground hover:bg-foreground hover:text-background">
+              <span className="inline-flex items-center justify-center px-4 py-2 text-sm font-medium border border-foreground hover:bg-foreground hover:text-background transition-colors cursor-pointer">
                 Browse All Tools
-              </Button>
+              </span>
             </Link>
           </div>
         </div>
@@ -227,9 +225,9 @@ export default function Home() {
 
           <div className="mt-12 text-center">
             <Link href="/news">
-              <Button variant="outline" className="border-foreground hover:bg-foreground hover:text-background">
+              <span className="inline-flex items-center justify-center px-4 py-2 text-sm font-medium border border-foreground hover:bg-foreground hover:text-background transition-colors cursor-pointer">
                 All News
-              </Button>
+              </span>
             </Link>
           </div>
         </div>
@@ -249,9 +247,9 @@ export default function Home() {
             <div>
               <h4 className="font-semibold mb-4 text-sm">Browse</h4>
               <ul className="space-y-2 text-sm text-muted-foreground">
-                <li><Link href="/resources"><a className="hover:text-foreground transition-colors">Research</a></Link></li>
-                <li><Link href="/tools"><a className="hover:text-foreground transition-colors">Tools</a></Link></li>
-                <li><Link href="/news"><a className="hover:text-foreground transition-colors">News</a></Link></li>
+                <li><Link href="/resources" className="hover:text-foreground transition-colors">Research</Link></li>
+                <li><Link href="/tools" className="hover:text-foreground transition-colors">Tools</Link></li>
+                <li><Link href="/news" className="hover:text-foreground transition-colors">News</Link></li>
               </ul>
             </div>
             
@@ -260,8 +258,8 @@ export default function Home() {
               <ul className="space-y-2 text-sm text-muted-foreground">
                 {categories?.slice(0, 4).map((cat) => (
                   <li key={cat.id}>
-                    <Link href={`/category/${cat.slug}`}>
-                      <a className="hover:text-foreground transition-colors">{cat.name}</a>
+                    <Link href={`/category/${cat.slug}`} className="hover:text-foreground transition-colors">
+                      {cat.name}
                     </Link>
                   </li>
                 ))}

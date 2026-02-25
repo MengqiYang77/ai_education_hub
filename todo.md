@@ -52,3 +52,6 @@
 - [x] Add Chinese language content sources (Tsinghua, Peking University, etc.)
 - [x] Add industry-changing sources (OpenAI, DeepMind, Anthropic)
 - [x] Create news aggregation focused on breakthrough research
+
+## Bug Fixes
+- [x] Fix nested <a> tag error in Home.tsx (Link components should not contain <a> children)

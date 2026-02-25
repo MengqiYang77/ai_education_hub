@@ -55,3 +55,10 @@
 
 ## Bug Fixes
 - [x] Fix nested <a> tag error in Home.tsx (Link components should not contain <a> children)
+
+## New Bug Fixes
+- [x] Create /news page to fix 404 error
+- [x] Create /resources page to fix 404 error
+- [x] Create /tools page to fix 404 error
+- [x] Create /search page to fix search functionality
+- [x] Update seed data with real news article URLs instead of institution homepages

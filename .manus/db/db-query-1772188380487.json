@@ -1,0 +1,9 @@
+{
+  "query": "DELETE n1 FROM news_items n1 INNER JOIN news_items n2 WHERE n1.id > n2.id AND n1.url = n2.url;\n\nALTER TABLE news_items ADD CONSTRAINT news_items_url_unique UNIQUE (url);",
+  "command": "mysql --batch --raw --column-names --default-character-set=utf8mb4 --host gateway02.us-east-1.prod.aws.tidbcloud.com --port 4000 --user 37aL8PRu4reUokB.3ce158dae0f2 --database ha696haGdmgR7E9uwQ7SYx --execute DELETE n1 FROM news_items n1 INNER JOIN news_items n2 WHERE n1.id > n2.id AND n1.url = n2.url;\n\nALTER TABLE news_items ADD CONSTRAINT news_items_url_unique UNIQUE (url);",
+  "rows": [],
+  "messages": [],
+  "stdout": "",
+  "stderr": "",
+  "execution_time_ms": 2545
+}

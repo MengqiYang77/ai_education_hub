@@ -166,9 +166,11 @@ function extractCdata(xml: string, tag: string): string | null {
 
 function cleanText(t: string): string {
   return t
-    .replace(/<[^>]+>/g, " ") // strip HTML tags
-    .replace(/&amp;/g, "&").replace(/&lt;/g, "<").replace(/&gt;/g, ">")
-    .replace(/&quot;/g, '"').replace(/&#\d+;/g, "")
+    .replace(/<!\[CDATA\[[\s\S]*?\]\]>/g, (m) => m.replace(/<!\[CDATA\[|\]\]>/g, ""))
+    .replace(/<[^>]+>/g, " ")  // strip all HTML tags
+    .replace(/&amp;/g, "&").replace(/&lt;/g, "<")
+    .replace(/&gt;/g, ">").replace(/&quot;/g, '"')
+    .replace(/&#\d+;/g, "").replace(/&nbsp;/g, " ")
     .replace(/\s+/g, " ").trim();
 }
 

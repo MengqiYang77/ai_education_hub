@@ -302,3 +302,10 @@
 - [x] Map papers to categories (AI Education, Robotics, Data Science, etc.)
 - [x] Update Research page to show papers filtered by topic
 - [x] Test that papers appear in their respective topic pages
+
+## News Fetch Bug Fixes (Urgent)
+- [x] Remove duplicate RSS source URLs in fetchNews.ts (e.g., CMU appears twice)
+- [x] Enhance cleanText() function to properly strip all HTML tags from descriptions
+- [x] Add unique constraint on news_items.url to prevent duplicates
+- [x] Verify insert logic uses onDuplicateKeyUpdate
+- [x] Test news fetch to verify no duplicate articles and clean descriptions

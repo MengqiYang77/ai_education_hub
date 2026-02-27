@@ -285,3 +285,8 @@
 - [ ] Test updated project to ensure everything works
 - [ ] Verify all pages render correctly
 - [ ] Save checkpoint with applied updates
+
+## Homepage Simplification (New Requirements)
+- [x] Remove Featured Research section from homepage (not real research papers)
+- [x] Make News and Research sections more prominent and醒目 on homepage
+- [x] Redesign homepage layout to focus only on News and Research entry points

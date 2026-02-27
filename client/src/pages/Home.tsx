@@ -8,9 +8,8 @@ import { useState } from "react";
 export default function Home() {
   const [searchQuery, setSearchQuery] = useState("");
   const { data: categories } = trpc.categories.list.useQuery();
-  const { data: curatedContent } = trpc.content.list.useQuery({ limit: 6 });
-  const { data: news } = trpc.news.recent.useQuery({ limit: 12 });
-  const { data: featuredTools } = trpc.tools.featured.useQuery({ limit: 8 });
+  const { data: news } = trpc.news.recent.useQuery({ limit: 8 });
+  const { data: research } = trpc.research.list.useQuery({ limit: 8 });
 
   const handleSearch = (e: React.FormEvent) => {
     e.preventDefault();
@@ -89,152 +88,107 @@ export default function Home() {
         </div>
       </section>
 
-      {/* Curated Content - NYT Style */}
+      {/* Main Content Sections - News and Research */}
       <section className="border-b border-border">
-        <div className="max-w-6xl mx-auto px-6 py-16">
-          <div className="mb-12">
-            <h2 className="text-4xl font-bold mb-3">Featured Research</h2>
-            <p className="text-muted-foreground">Expert-curated frameworks and studies from leading institutions</p>
-          </div>
-
-          <div className="space-y-12">
-            {curatedContent?.map((content, idx) => (
-              <Link key={content.id} href={`/resource/${content.slug}`}>
-                <article className="group cursor-pointer">
-                  <div className={`grid ${idx === 0 ? 'md:grid-cols-2' : 'md:grid-cols-3'} gap-8 pb-12 border-b border-border last:border-0`}>
-                    {content.imageUrl && (
-                      <div className={`${idx === 0 ? 'md:col-span-1' : 'md:col-span-1'} overflow-hidden bg-muted`}>
-                        <img
-                          src={content.imageUrl}
-                          alt={content.title}
-                          className="w-full h-64 object-cover group-hover:opacity-80 transition-opacity"
-                        />
-                      </div>
-                    )}
-                    <div className={`${idx === 0 ? 'md:col-span-1' : 'md:col-span-2'} flex flex-col justify-center`}>
-                      <h3 className={`${idx === 0 ? 'text-3xl' : 'text-2xl'} font-bold mb-3 group-hover:opacity-60 transition-opacity`}>
-                        {content.title}
+        <div className="max-w-6xl mx-auto px-6 py-20">
+          <div className="grid grid-cols-1 md:grid-cols-2 gap-16">
+            {/* News Section */}
+            <div className="space-y-8">
+              <div>
+                <h2 className="text-5xl font-bold mb-4">News</h2>
+                <p className="text-lg text-muted-foreground mb-8">
+                  Latest AI and education developments from top universities
+                </p>
+              </div>
+              
+              <div className="space-y-6">
+                {news?.slice(0, 4).map((item) => (
+                  <a
+                    key={item.id}
+                    href={item.url}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="group block pb-6 border-b border-border last:border-0"
+                  >
+                    <article>
+                      {item.source && (
+                        <span className="text-xs font-medium uppercase tracking-wide text-muted-foreground">
+                          {item.source}
+                        </span>
+                      )}
+                      <h3 className="text-xl font-bold mt-2 mb-2 group-hover:opacity-60 transition-opacity">
+                        {item.title}
                       </h3>
-                      <p className="text-muted-foreground mb-4 leading-relaxed">
-                        {content.description}
-                      </p>
-                      <div className="flex items-center gap-4 text-xs text-muted-foreground">
-                        {content.publishedAt && (
-                          <time>{new Date(content.publishedAt).toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' })}</time>
-                        )}
-                        <span>·</span>
-                        <span>{content.viewCount} reads</span>
-                      </div>
-                    </div>
-                  </div>
-                </article>
-              </Link>
-            ))}
-          </div>
+                      <time className="text-xs text-muted-foreground">
+                        {new Date(item.publishedAt).toLocaleDateString('en-US', { year: 'numeric', month: 'short', day: 'numeric' })}
+                      </time>
+                    </article>
+                  </a>
+                ))}
+              </div>
 
-          <div className="mt-12 text-center">
-            <Link href="/resources">
-              <span className="inline-flex items-center justify-center px-4 py-2 text-sm font-medium border border-foreground hover:bg-foreground hover:text-background transition-colors cursor-pointer">
-                View All Research
-              </span>
-            </Link>
+              <div className="pt-4">
+                <Link href="/news">
+                  <span className="inline-flex items-center justify-center px-6 py-3 text-base font-medium border-2 border-foreground hover:bg-foreground hover:text-background transition-colors cursor-pointer">
+                    View All News
+                  </span>
+                </Link>
+              </div>
+            </div>
+
+            {/* Research Section */}
+            <div className="space-y-8">
+              <div>
+                <h2 className="text-5xl font-bold mb-4">Research</h2>
+                <p className="text-lg text-muted-foreground mb-8">
+                  Peer-reviewed papers from leading academic journals
+                </p>
+              </div>
+              
+              <div className="space-y-6">
+                {research?.slice(0, 4).map((paper: any) => (
+                  <a
+                    key={paper.id}
+                    href={paper.url}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="group block pb-6 border-b border-border last:border-0"
+                  >
+                    <article>
+                      {paper.source && (
+                        <span className="text-xs font-medium uppercase tracking-wide text-muted-foreground">
+                          {paper.source}
+                        </span>
+                      )}
+                      <h3 className="text-xl font-bold mt-2 mb-2 group-hover:opacity-60 transition-opacity">
+                        {paper.title}
+                      </h3>
+                      {paper.authors && (
+                        <p className="text-sm text-muted-foreground mb-1 line-clamp-1">
+                          {paper.authors}
+                        </p>
+                      )}
+                      <time className="text-xs text-muted-foreground">
+                        {new Date(paper.publishedAt).toLocaleDateString('en-US', { year: 'numeric', month: 'short', day: 'numeric' })}
+                      </time>
+                    </article>
+                  </a>
+                ))}
+              </div>
+
+              <div className="pt-4">
+                <Link href="/research">
+                  <span className="inline-flex items-center justify-center px-6 py-3 text-base font-medium border-2 border-foreground hover:bg-foreground hover:text-background transition-colors cursor-pointer">
+                    View All Research
+                  </span>
+                </Link>
+              </div>
+            </div>
           </div>
         </div>
       </section>
 
-      {/* Tools - Grid Layout */}
-      <section className="border-b border-border bg-muted/30">
-        <div className="max-w-6xl mx-auto px-6 py-16">
-          <div className="mb-12">
-            <h2 className="text-4xl font-bold mb-3">Essential Tools</h2>
-            <p className="text-muted-foreground">Platforms for AI literacy, robotics, and data education</p>
-          </div>
 
-          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-px bg-border">
-            {featuredTools?.map((tool) => (
-              <Link key={tool.id} href={`/tool/${tool.slug}`}>
-                <div className="bg-background p-8 hover:bg-muted/50 transition-colors cursor-pointer h-full">
-                  <h3 className="text-lg font-bold mb-2">{tool.name}</h3>
-                  <p className="text-sm text-muted-foreground mb-4 line-clamp-3">
-                    {tool.description}
-                  </p>
-                  {tool.pricing && (
-                    <span className="text-xs text-muted-foreground">{tool.pricing}</span>
-                  )}
-                </div>
-              </Link>
-            ))}
-          </div>
-
-          <div className="mt-12 text-center">
-            <Link href="/tools">
-              <span className="inline-flex items-center justify-center px-4 py-2 text-sm font-medium border border-foreground hover:bg-foreground hover:text-background transition-colors cursor-pointer">
-                Browse All Tools
-              </span>
-            </Link>
-          </div>
-        </div>
-      </section>
-
-      {/* Latest News - Compact List */}
-      <section className="border-b border-border">
-        <div className="max-w-6xl mx-auto px-6 py-16">
-          <div className="mb-12">
-            <h2 className="text-4xl font-bold mb-3">Latest Updates</h2>
-            <p className="text-muted-foreground">Recent developments from top research institutions</p>
-          </div>
-
-          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
-            {news?.map((item) => (
-              <a
-                key={item.id}
-                href={item.url}
-                target="_blank"
-                rel="noopener noreferrer"
-                className="group"
-              >
-                <article className="space-y-3">
-                  {item.imageUrl && (
-                    <div className="aspect-[16/9] overflow-hidden bg-muted">
-                      <img
-                        src={item.imageUrl}
-                        alt={item.title}
-                        className="w-full h-full object-cover group-hover:opacity-80 transition-opacity"
-                      />
-                    </div>
-                  )}
-                  <div>
-                    {item.source && (
-                      <span className="text-xs font-medium uppercase tracking-wide text-muted-foreground">
-                        {item.source}
-                      </span>
-                    )}
-                    <h3 className="text-lg font-bold mt-2 mb-2 group-hover:opacity-60 transition-opacity line-clamp-2">
-                      {item.title}
-                    </h3>
-                    {item.description && (
-                      <p className="text-sm text-muted-foreground line-clamp-2">
-                        {item.description}
-                      </p>
-                    )}
-                    <time className="text-xs text-muted-foreground mt-2 block">
-                      {new Date(item.publishedAt).toLocaleDateString('en-US', { year: 'numeric', month: 'short', day: 'numeric' })}
-                    </time>
-                  </div>
-                </article>
-              </a>
-            ))}
-          </div>
-
-          <div className="mt-12 text-center">
-            <Link href="/news">
-              <span className="inline-flex items-center justify-center px-4 py-2 text-sm font-medium border border-foreground hover:bg-foreground hover:text-background transition-colors cursor-pointer">
-                All News
-              </span>
-            </Link>
-          </div>
-        </div>
-      </section>
 
       {/* Footer - Minimal */}
       <footer className="bg-muted/30">

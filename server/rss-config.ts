@@ -136,21 +136,59 @@ export const RSS_FEEDS: RSSFeedConfig[] = [
   // Stanford HAI (Human-Centered AI Institute - has education focus)
   {
     name: "Stanford HAI",
-    url: "https://hai.stanford.edu/news/rss.xml",
+    url: "https://hai.stanford.edu/rss.xml",
     category: "AI Education",
     language: "en",
     enabled: true,
     educationFocused: false, // Mixed content, will need filtering
+    contentType: "research",
+  },
+  {
+    name: "Stanford SAIL Blog",
+    url: "http://ai.stanford.edu/blog/feed.xml",
+    category: "AI Education",
+    language: "en",
+    enabled: true,
+    educationFocused: false,
+    contentType: "research",
   },
   
   // MIT News - AI (some education content)
   {
     name: "MIT News - AI",
-    url: "https://news.mit.edu/topic/mitartificial-intelligence2-rss.xml",
+    url: "https://news.mit.edu/rss/topic/artificial-intelligence2",
     category: "AI Education",
     language: "en",
     enabled: true,
     educationFocused: false, // Mixed content, will need filtering
+    contentType: "research",
+  },
+  {
+    name: "MIT News - Robotics",
+    url: "https://news.mit.edu/rss/topic/robotics",
+    category: "Robotics",
+    language: "en",
+    enabled: true,
+    educationFocused: false,
+    contentType: "research",
+  },
+  {
+    name: "MIT News - Education",
+    url: "https://news.mit.edu/rss/topic/education-teaching-online-learning",
+    category: "AI Education",
+    language: "en",
+    enabled: true,
+    educationFocused: true,
+    contentType: "research",
+  },
+  {
+    name: "MIT CSAIL",
+    url: "https://news.mit.edu/rss/topic/computer-science-and-artificial-intelligence-laboratory-csail",
+    category: "AI Education",
+    language: "en",
+    enabled: true,
+    educationFocused: false,
+    contentType: "research",
   },
   
   // CMU Robotics (some education applications)
@@ -161,6 +199,18 @@ export const RSS_FEEDS: RSSFeedConfig[] = [
     language: "en",
     enabled: true,
     educationFocused: false, // Mixed content, will need filtering
+    contentType: "research",
+  },
+  
+  // Cornell Chronicle - AI
+  {
+    name: "Cornell Chronicle - AI",
+    url: "https://news.cornell.edu/taxonomy/term/24043/feed",
+    category: "AI Education",
+    language: "en",
+    enabled: true,
+    educationFocused: false,
+    contentType: "research",
   },
   
   // === AI COMPANIES (Filtered for education applications) ===
@@ -400,15 +450,7 @@ export const RSS_FEEDS: RSSFeedConfig[] = [
   },
   
   // US News Education Top 30 Universities Research
-  {
-    name: "Stanford HAI Research",
-    url: "https://hai.stanford.edu/news/rss.xml",
-    category: "AI Education",
-    language: "en",
-    enabled: true,
-    educationFocused: false,
-    contentType: "research",
-  },
+  // Stanford HAI Research (duplicate removed, already added above)
   {
     name: "Harvard GSE Research",
     url: "https://www.gse.harvard.edu/news/rss.xml",
@@ -477,7 +519,7 @@ export const RSS_FEEDS: RSSFeedConfig[] = [
     url: "https://steinhardt.nyu.edu/news/rss",
     category: "AI Education",
     language: "en",
-    enabled: true,
+    enabled: false, // 404 error
     educationFocused: false,
     contentType: "research",
   },
@@ -486,7 +528,7 @@ export const RSS_FEEDS: RSSFeedConfig[] = [
     url: "https://education.wisc.edu/news/feed/",
     category: "AI Education",
     language: "en",
-    enabled: true,
+    enabled: false, // 404 error
     educationFocused: false,
     contentType: "research",
   },
@@ -495,7 +537,7 @@ export const RSS_FEEDS: RSSFeedConfig[] = [
     url: "https://soe.umich.edu/news-events/news/rss.xml",
     category: "AI Education",
     language: "en",
-    enabled: true,
+    enabled: false, // 403 error
     educationFocused: false,
     contentType: "research",
   },

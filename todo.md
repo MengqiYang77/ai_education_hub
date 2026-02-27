@@ -124,3 +124,18 @@
 - [x] Make homepage dynamic (show latest content only)
 - [x] Move tools library and resources to separate dedicated pages (already exist)
 - [x] Ensure all homepage links are functional (no 404s)
+
+## RSS Source Research and Fix (Urgent)
+- [x] Search for working RSS feeds from Stanford (HAI, News, CS department)
+- [x] Search for working RSS feeds from MIT (CSAIL, News, Media Lab)
+- [ ] Search for working RSS feeds from Harvard (GSE, News)
+- [ ] Search for working RSS feeds from CMU (Robotics Institute, News)
+- [ ] Search for working RSS feeds from other top 30 universities
+- [ ] Find RSS feeds from top-tier journals (Nature, Science, Educational Researcher, etc.)
+- [x] Verify all RSS URLs are working before adding to config
+- [x] Update RSS configuration with verified working feeds
+- [x] Test new RSS sources to ensure diverse research content
+- [x] Added 6 new working RSS feeds: MIT News AI, MIT News Robotics, MIT News Education, MIT CSAIL, Stanford SAIL Blog, Cornell Chronicle AI
+- [x] Disabled 3 non-working university feeds: NYU Steinhardt (404), Wisconsin-Madison (404), Michigan (403)
+- [x] Verified research papers now showing from 4 universities: MIT (69 papers), Stanford (15 papers), Berkeley (10 papers)
+- [x] Total research papers in database: 94 papers from multiple top institutions

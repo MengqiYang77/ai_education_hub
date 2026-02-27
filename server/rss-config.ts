@@ -11,6 +11,7 @@ export interface RSSFeedConfig {
   language: "en" | "zh";
   enabled: boolean;
   educationFocused: boolean; // Whether this source is primarily education-focused
+  contentType?: "news" | "research"; // Type of content: news articles or research papers
 }
 
 export const RSS_FEEDS: RSSFeedConfig[] = [
@@ -177,12 +178,13 @@ export const RSS_FEEDS: RSSFeedConfig[] = [
   // === CHINESE SOURCES ===
   
   // Chinese Universities
+  // Chinese Universities (Disabled - RSS feeds not working)
   {
     name: "清华大学新闻网",
     url: "https://news.tsinghua.edu.cn/rss/yw.xml",
     category: "AI Education",
     language: "zh",
-    enabled: true,
+    enabled: false, // RSS feed not working
     educationFocused: false,
   },
   {
@@ -190,7 +192,7 @@ export const RSS_FEEDS: RSSFeedConfig[] = [
     url: "https://news.pku.edu.cn/rss.jsp",
     category: "AI Education",
     language: "zh",
-    enabled: true,
+    enabled: false, // RSS feed not working
     educationFocused: false,
   },
   {
@@ -198,7 +200,7 @@ export const RSS_FEEDS: RSSFeedConfig[] = [
     url: "https://news.fudan.edu.cn/rss/",
     category: "AI Education",
     language: "zh",
-    enabled: true,
+    enabled: false, // RSS feed not working
     educationFocused: false,
   },
   {
@@ -206,11 +208,20 @@ export const RSS_FEEDS: RSSFeedConfig[] = [
     url: "https://news.sjtu.edu.cn/rss.xml",
     category: "AI Education",
     language: "zh",
-    enabled: true,
+    enabled: false, // RSS feed not working
     educationFocused: false,
   },
   
   // Chinese Education Media (100% education-focused)
+  {
+    name: "中国教育新闻网",
+    url: "http://www.jyb.cn/rss/jyb.xml",
+    category: "AI Education",
+    language: "zh",
+    enabled: true,
+    educationFocused: true,
+    contentType: "news",
+  },
   {
     name: "芥末堆",
     url: "https://www.jiemodui.com/feed",
@@ -346,6 +357,147 @@ export const RSS_FEEDS: RSSFeedConfig[] = [
     language: "zh",
     enabled: false, // Business/startup news, disabled due to 404
     educationFocused: false,
+  },
+  
+  // === RESEARCH PAPER SOURCES (Frontier Research) ===
+  
+  // arXiv preprints
+  {
+    name: "arXiv - AI",
+    url: "http://export.arxiv.org/rss/cs.AI",
+    category: "AI Education",
+    language: "en",
+    enabled: true,
+    educationFocused: false,
+    contentType: "research",
+  },
+  {
+    name: "arXiv - Machine Learning",
+    url: "http://export.arxiv.org/rss/cs.LG",
+    category: "AI Education",
+    language: "en",
+    enabled: true,
+    educationFocused: false,
+    contentType: "research",
+  },
+  {
+    name: "arXiv - Human-Computer Interaction",
+    url: "http://export.arxiv.org/rss/cs.HC",
+    category: "Human Skills",
+    language: "en",
+    enabled: true,
+    educationFocused: false,
+    contentType: "research",
+  },
+  {
+    name: "arXiv - Robotics",
+    url: "http://export.arxiv.org/rss/cs.RO",
+    category: "Robotics",
+    language: "en",
+    enabled: true,
+    educationFocused: false,
+    contentType: "research",
+  },
+  
+  // US News Education Top 30 Universities Research
+  {
+    name: "Stanford HAI Research",
+    url: "https://hai.stanford.edu/news/rss.xml",
+    category: "AI Education",
+    language: "en",
+    enabled: true,
+    educationFocused: false,
+    contentType: "research",
+  },
+  {
+    name: "Harvard GSE Research",
+    url: "https://www.gse.harvard.edu/news/rss.xml",
+    category: "AI Education",
+    language: "en",
+    enabled: true,
+    educationFocused: false,
+    contentType: "research",
+  },
+  {
+    name: "UPenn GSE Research",
+    url: "https://www.gse.upenn.edu/news/rss",
+    category: "AI Education",
+    language: "en",
+    enabled: true,
+    educationFocused: false,
+    contentType: "research",
+  },
+  {
+    name: "Berkeley AI Research",
+    url: "https://bair.berkeley.edu/blog/feed.xml",
+    category: "AI Education",
+    language: "en",
+    enabled: true,
+    educationFocused: false,
+    contentType: "research",
+  },
+  {
+    name: "Columbia Teachers College",
+    url: "https://www.tc.columbia.edu/news/rss.xml",
+    category: "AI Education",
+    language: "en",
+    enabled: true,
+    educationFocused: false,
+    contentType: "research",
+  },
+  {
+    name: "Northwestern Learning Sciences",
+    url: "https://www.sesp.northwestern.edu/news/rss.xml",
+    category: "AI Education",
+    language: "en",
+    enabled: true,
+    educationFocused: false,
+    contentType: "research",
+  },
+  {
+    name: "Vanderbilt Peabody College",
+    url: "https://peabody.vanderbilt.edu/news/rss.xml",
+    category: "AI Education",
+    language: "en",
+    enabled: true,
+    educationFocused: false,
+    contentType: "research",
+  },
+  {
+    name: "Johns Hopkins Education",
+    url: "https://education.jhu.edu/news/rss",
+    category: "AI Education",
+    language: "en",
+    enabled: true,
+    educationFocused: false,
+    contentType: "research",
+  },
+  {
+    name: "NYU Steinhardt",
+    url: "https://steinhardt.nyu.edu/news/rss",
+    category: "AI Education",
+    language: "en",
+    enabled: true,
+    educationFocused: false,
+    contentType: "research",
+  },
+  {
+    name: "Wisconsin-Madison Education",
+    url: "https://education.wisc.edu/news/feed/",
+    category: "AI Education",
+    language: "en",
+    enabled: true,
+    educationFocused: false,
+    contentType: "research",
+  },
+  {
+    name: "Michigan Education",
+    url: "https://soe.umich.edu/news-events/news/rss.xml",
+    category: "AI Education",
+    language: "en",
+    enabled: true,
+    educationFocused: false,
+    contentType: "research",
   },
 ];
 

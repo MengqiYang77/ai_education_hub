@@ -81,3 +81,26 @@
 - [x] Implement content filtering logic in RSS service to only save articles related to education
 - [x] Update RSS configuration to prioritize education-specific sources (21 education-first sources)
 - [x] Test filtered content to ensure quality and relevance (100+ education-focused articles from eSchool News)
+
+## Research Papers Integration (New Requirements)
+- [x] Re-enable research institution RSS sources without education filtering (Berkeley, DeepMind, Microsoft Research)
+- [x] Add arXiv RSS feeds for AI, ML, HCI, Robotics papers (4 feeds added)
+- [x] Create separate "Research Papers" database table with paper metadata (authors, institution, abstract, PDF link)
+- [ ] Build Research Papers page separate from News page
+- [ ] Add paper filtering by institution, topic, and date
+- [ ] Implement dual-track content strategy: Education News + Research Papers
+- [ ] Update navigation to include Research Papers section
+- [ ] Test research paper aggregation from all sources
+
+## Chinese RSS Sources Fix (Urgent)
+- [ ] Fix Chinese university RSS URLs (Tsinghua, Peking, Fudan, SJTU returning 404)
+- [ ] Find alternative Chinese education news sources
+- [ ] Test Chinese RSS aggregation to ensure Domestic tab shows content
+- [ ] Verify Chinese keyword filtering is working correctly
+
+## Research Papers Refinement
+- [x] Remove Chinese language support from research papers (English only)
+- [x] Add US News Education top 30 university RSS feeds (11 universities added)
+- [x] Limit university sources to US News Education top 30 institutions
+- [ ] Test research paper aggregation with new sources
+- [x] Update Research Papers page to remove language filter (English only)

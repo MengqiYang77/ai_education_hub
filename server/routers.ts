@@ -104,6 +104,22 @@ export const appRouter = router({
       return searchTools(input.query);
     }),
   }),
+
+  // Research papers router
+  research: router({
+    list: publicProcedure.input(z.object({
+      language: z.enum(["en", "zh"]).optional(),
+      categoryId: z.number().optional(),
+      limit: z.number().optional(),
+    }).optional()).query(async ({ input }) => {
+      const { getAllResearchPapers } = await import("./db");
+      return getAllResearchPapers(input || {});
+    }),
+    search: publicProcedure.input(z.object({ query: z.string() })).query(async ({ input }) => {
+      const { searchResearchPapers } = await import("./db");
+      return searchResearchPapers(input.query);
+    }),
+  }),
 });
 
 export type AppRouter = typeof appRouter;

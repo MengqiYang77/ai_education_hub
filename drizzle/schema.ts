@@ -106,3 +106,24 @@ export const tools = mysqlTable("tools", {
 
 export type Tool = typeof tools.$inferSelect;
 export type InsertTool = typeof tools.$inferInsert;
+
+/**
+ * Research papers from universities and arXiv
+ */
+export const researchPapers = mysqlTable("research_papers", {
+  id: int("id").autoincrement().primaryKey(),
+  title: varchar("title", { length: 500 }).notNull(),
+  authors: text("authors"), // comma-separated or JSON
+  institution: varchar("institution", { length: 255 }), // e.g., "Stanford", "MIT", "CMU"
+  abstract: text("abstract"),
+  url: varchar("url", { length: 500 }).notNull().unique(),
+  pdfUrl: varchar("pdfUrl", { length: 500 }),
+  source: varchar("source", { length: 100 }), // e.g., "arXiv", "Stanford HAI", "MIT CSAIL"
+  categoryId: int("categoryId"),
+  language: mysqlEnum("language", ["en", "zh"]).default("en").notNull(),
+  publishedAt: timestamp("publishedAt").notNull(),
+  createdAt: timestamp("createdAt").defaultNow().notNull(),
+});
+
+export type ResearchPaper = typeof researchPapers.$inferSelect;
+export type InsertResearchPaper = typeof researchPapers.$inferInsert;

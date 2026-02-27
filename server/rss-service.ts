@@ -1,7 +1,7 @@
 import Parser from "rss-parser";
 import { getEnabledFeeds, type RSSFeedConfig, isEducationRelated } from "./rss-config";
 import { getDb } from "./db";
-import { newsItems, categories } from "../drizzle/schema";
+import { newsItems, researchPapers, categories } from "../drizzle/schema";
 import { eq, and } from "drizzle-orm";
 
 const parser = new Parser({
@@ -134,7 +134,23 @@ async function newsItemExists(url: string): Promise<boolean> {
 }
 
 /**
- * Save RSS items to database
+ * Check if research paper already exists in database
+ */
+async function researchPaperExists(url: string): Promise<boolean> {
+  const db = await getDb();
+  if (!db) return false;
+
+  const existing = await db
+    .select()
+    .from(researchPapers)
+    .where(eq(researchPapers.url, url))
+    .limit(1);
+
+  return existing.length > 0;
+}
+
+/**
+ * Save RSS items to database (news or research papers based on contentType)
  */
 export async function saveRSSItems(
   items: ParsedRSSItem[],
@@ -148,27 +164,35 @@ export async function saveRSSItems(
 
   const categoryId = await getCategoryIdByName(feedConfig.category);
   let savedCount = 0;
+  const isResearch = feedConfig.contentType === "research";
 
   for (const item of items) {
     try {
       // Skip if already exists
-      if (await newsItemExists(item.link)) {
-        continue;
-      }
-
-      // Extract description (limit to 500 chars)
-      let description = item.contentSnippet || item.content || "";
-      description = description.replace(/<[^>]*>/g, "").substring(0, 500);
-      
-      // Filter by education relevance (skip if not education-focused source and not education-related)
-      if (!feedConfig.educationFocused) {
-        if (!isEducationRelated(item.title, description, feedConfig.language)) {
-          continue; // Skip non-education-related articles from mixed sources
+      if (isResearch) {
+        if (await researchPaperExists(item.link)) {
+          continue;
+        }
+      } else {
+        if (await newsItemExists(item.link)) {
+          continue;
         }
       }
 
-      // Extract image
-      const imageUrl = extractImageUrl(item);
+      // Extract description (limit to 500 chars for news, full for research)
+      let description = item.contentSnippet || item.content || "";
+      description = description.replace(/<[^>]*>/g, "");
+      
+      if (!isResearch) {
+        description = description.substring(0, 500);
+        
+        // Filter by education relevance for news (skip if not education-focused source and not education-related)
+        if (!feedConfig.educationFocused) {
+          if (!isEducationRelated(item.title, description, feedConfig.language)) {
+            continue; // Skip non-education-related articles from mixed sources
+          }
+        }
+      }
 
       // Parse publish date
       let publishedAt = new Date();
@@ -179,17 +203,35 @@ export async function saveRSSItems(
         }
       }
 
-      // Insert into database
-      await db.insert(newsItems).values({
-        title: item.title.substring(0, 255),
-        description,
-        url: item.link,
-        source: feedConfig.name,
-        language: feedConfig.language,
-        imageUrl,
-        categoryId,
-        publishedAt,
-      });
+      if (isResearch) {
+        // Save as research paper
+        await db.insert(researchPapers).values({
+          title: item.title.substring(0, 500),
+          abstract: description.substring(0, 2000),
+          url: item.link,
+          source: feedConfig.name,
+          language: feedConfig.language,
+          categoryId,
+          publishedAt,
+          authors: item.creator || null,
+          institution: feedConfig.name.includes("arXiv") ? "arXiv" : feedConfig.name,
+          pdfUrl: null, // Could be extracted from arXiv links if needed
+        });
+      } else {
+        // Save as news item
+        const imageUrl = extractImageUrl(item);
+        
+        await db.insert(newsItems).values({
+          title: item.title.substring(0, 255),
+          description,
+          url: item.link,
+          source: feedConfig.name,
+          language: feedConfig.language,
+          imageUrl,
+          categoryId,
+          publishedAt,
+        });
+      }
 
       savedCount++;
     } catch (error) {

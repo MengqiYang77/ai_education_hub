@@ -86,11 +86,11 @@
 - [x] Re-enable research institution RSS sources without education filtering (Berkeley, DeepMind, Microsoft Research)
 - [x] Add arXiv RSS feeds for AI, ML, HCI, Robotics papers (4 feeds added)
 - [x] Create separate "Research Papers" database table with paper metadata (authors, institution, abstract, PDF link)
-- [ ] Build Research Papers page separate from News page
-- [ ] Add paper filtering by institution, topic, and date
-- [ ] Implement dual-track content strategy: Education News + Research Papers
-- [ ] Update navigation to include Research Papers section
-- [ ] Test research paper aggregation from all sources
+- [x] Build Research Papers page separate from News page
+- [x] Add paper filtering by institution, topic, and date
+- [x] Implement dual-track content strategy: Education News + Research Papers
+- [x] Update navigation to include Research Papers section
+- [x] Test research paper aggregation from all sources (200+ papers from arXiv successfully loaded)
 
 ## Chinese RSS Sources Fix (Urgent)
 - [ ] Fix Chinese university RSS URLs (Tsinghua, Peking, Fudan, SJTU returning 404)
@@ -102,7 +102,7 @@
 - [x] Remove Chinese language support from research papers (English only)
 - [x] Add US News Education top 30 university RSS feeds (11 universities added)
 - [x] Limit university sources to US News Education top 30 institutions
-- [ ] Test research paper aggregation with new sources
+- [x] Test research paper aggregation with new sources (200+ arXiv papers successfully loaded)
 - [x] Update Research Papers page to remove language filter (English only)
 
 ## Bug Fixes - Resource Detail Page

@@ -154,3 +154,18 @@
 - [x] Verified resource card links properly navigate to /resource/:slug
 - [x] Verified resource detail page displays correct information
 - [x] Tested navigation from homepage to resource detail pages - working correctly
+
+
+## Populate Research Page with Top-Tier Journal Papers (High Priority)
+- [x] Search for Nature journal RSS feeds (Nature, Nature Machine Intelligence, Nature Human Behaviour)
+- [x] Search for Science journal RSS feeds (Science, Science Robotics, Science Advances)
+- [ ] Search for ACM journal RSS feeds (ACM Transactions, Communications of the ACM)
+- [ ] Search for IEEE journal RSS feeds (IEEE Transactions on Learning Technologies, IEEE Intelligent Systems)
+- [ ] Search for education research journal RSS feeds (Educational Researcher, Journal of Learning Sciences, Review of Educational Research)
+- [x] Test all top-tier journal RSS feed URLs to ensure they work
+- [x] Add working journal RSS feeds to rss-config.ts with contentType="research"
+- [x] Trigger RSS update to fetch journal papers
+- [x] Verify Research page displays peer-reviewed journal papers with proper metadata
+- [x] Successfully added 3 top-tier journal RSS feeds: Nature Machine Intelligence, Nature Human Behaviour, Science Robotics
+- [x] Fetched 24 research papers from top journals (8 from each journal)
+- [x] Research page now displays real peer-reviewed papers instead of news articles

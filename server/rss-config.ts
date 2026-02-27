@@ -411,6 +411,46 @@ export const RSS_FEEDS: RSSFeedConfig[] = [
   
   // === RESEARCH PAPER SOURCES (Frontier Research) ===
   
+  // Top-Tier Journals - Nature
+  {
+    name: "Nature Machine Intelligence",
+    url: "https://www.nature.com/natmachintell.rss",
+    category: "AI Education",
+    language: "en",
+    enabled: true,
+    educationFocused: false,
+    contentType: "research",
+  },
+  {
+    name: "Nature Human Behaviour",
+    url: "https://www.nature.com/nathumbehav.rss",
+    category: "Human Skills",
+    language: "en",
+    enabled: true,
+    educationFocused: false,
+    contentType: "research",
+  },
+  
+  // Top-Tier Journals - Science
+  {
+    name: "Science Robotics",
+    url: "https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=scirobotics",
+    category: "Robotics",
+    language: "en",
+    enabled: true,
+    educationFocused: false,
+    contentType: "research",
+  },
+  {
+    name: "Science Advances",
+    url: "https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=sciadv",
+    category: "AI Education",
+    language: "en",
+    enabled: false, // Disabled: too broad, needs filtering
+    educationFocused: false,
+    contentType: "research",
+  },
+  
   // arXiv preprints
   {
     name: "arXiv - AI",

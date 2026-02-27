@@ -1,5 +1,5 @@
 import Parser from "rss-parser";
-import { getEnabledFeeds, type RSSFeedConfig } from "./rss-config";
+import { getEnabledFeeds, type RSSFeedConfig, isEducationRelated } from "./rss-config";
 import { getDb } from "./db";
 import { newsItems, categories } from "../drizzle/schema";
 import { eq, and } from "drizzle-orm";
@@ -159,6 +159,13 @@ export async function saveRSSItems(
       // Extract description (limit to 500 chars)
       let description = item.contentSnippet || item.content || "";
       description = description.replace(/<[^>]*>/g, "").substring(0, 500);
+      
+      // Filter by education relevance (skip if not education-focused source and not education-related)
+      if (!feedConfig.educationFocused) {
+        if (!isEducationRelated(item.title, description, feedConfig.language)) {
+          continue; // Skip non-education-related articles from mixed sources
+        }
+      }
 
       // Extract image
       const imageUrl = extractImageUrl(item);
@@ -174,10 +181,11 @@ export async function saveRSSItems(
 
       // Insert into database
       await db.insert(newsItems).values({
-        title: item.title.substring(0, 500),
+        title: item.title.substring(0, 255),
         description,
         url: item.link,
         source: feedConfig.name,
+        language: feedConfig.language,
         imageUrl,
         categoryId,
         publishedAt,

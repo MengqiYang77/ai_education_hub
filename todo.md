@@ -71,3 +71,13 @@
 - [x] Create admin page for manual RSS refresh
 - [ ] Add automatic daily RSS update task (scheduled)
 - [x] Test RSS aggregation with all configured sources (160+ articles fetched successfully)
+
+## Content Refinement (New Requirements)
+- [x] Separate news display by language: International (English) and Domestic (Chinese)
+- [x] Add language filter tabs on News page
+- [x] Review and refine RSS sources to focus strictly on education-related content
+- [x] Remove pure technology/business RSS sources that don't relate to education (disabled 15+ non-education sources)
+- [x] Add education-focused keyword filtering to RSS service
+- [x] Implement content filtering logic in RSS service to only save articles related to education
+- [x] Update RSS configuration to prioritize education-specific sources (21 education-first sources)
+- [x] Test filtered content to ensure quality and relevance (100+ education-focused articles from eSchool News)

@@ -1,0 +1,1 @@
+ALTER TABLE `news_items` ADD `language` enum('en','zh') DEFAULT 'en' NOT NULL;

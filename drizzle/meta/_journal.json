@@ -15,6 +15,13 @@
       "when": 1772013264838,
       "tag": "0001_nervous_onslaught",
       "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1772160674644,
+      "tag": "0002_stormy_norman_osborn",
+      "breakpoints": true
     }
   ]
 }

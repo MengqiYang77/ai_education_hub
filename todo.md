@@ -220,3 +220,16 @@
 - [x] Successfully added 3 new papers from Nature Communications
 - [x] Research page now displays 180+ papers from 9 top-tier journals
 - [ ] Consider implementing web scraper for journals without RSS feeds
+
+
+## Implement Intelligent Content Filtering for Research Papers (Critical Priority)
+- [x] Re-enable all journal RSS feeds (Nature, PNAS, Nature Communications, Science Advances)
+- [x] Implement LLM-based content filter in RSS service
+- [x] Filter analyzes title and abstract to determine if paper is related to AI, education, future learning, or learning sciences
+- [x] Only save papers that pass the relevance filter to research_papers table
+- [x] Delete existing irrelevant papers from research_papers table (cancer, climate, geology, etc.)
+- [x] Test filtering with RSS update
+- [x] Verify Research page only displays AI and education related papers
+- [x] Successfully filtered 200+ papers from Nature, Science, PNAS down to 13 relevant papers
+- [x] LLM correctly identified and saved papers about: STEM education, neural networks, AI, LLM feedback, collaborative learning, computational literacy
+- [x] LLM correctly skipped irrelevant papers about: cancer, climate, geology, biology, chemistry, physics

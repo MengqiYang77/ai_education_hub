@@ -446,7 +446,7 @@ export const RSS_FEEDS: RSSFeedConfig[] = [
     url: "https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=sciadv",
     category: "AI Education",
     language: "en",
-    enabled: true,
+    enabled: true, // Re-enabled with LLM content filtering
     educationFocused: false,
     contentType: "research",
   },
@@ -455,7 +455,7 @@ export const RSS_FEEDS: RSSFeedConfig[] = [
     url: "https://www.nature.com/ncomms.rss",
     category: "AI Education",
     language: "en",
-    enabled: true,
+    enabled: true, // Re-enabled with LLM content filtering
     educationFocused: false,
     contentType: "research",
   },
@@ -464,7 +464,7 @@ export const RSS_FEEDS: RSSFeedConfig[] = [
     url: "https://www.pnas.org/action/showFeed?type=etoc&feed=rss&jc=pnas",
     category: "AI Education",
     language: "en",
-    enabled: true,
+    enabled: true, // Re-enabled with LLM content filtering
     educationFocused: false,
     contentType: "research",
   },
@@ -473,7 +473,7 @@ export const RSS_FEEDS: RSSFeedConfig[] = [
     url: "https://www.nature.com/nature.rss",
     category: "AI Education",
     language: "en",
-    enabled: true,
+    enabled: true, // Re-enabled with LLM content filtering
     educationFocused: false,
     contentType: "research",
   },

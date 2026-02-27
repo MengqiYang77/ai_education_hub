@@ -3,6 +3,7 @@ import { getEnabledFeeds, type RSSFeedConfig, isEducationRelated } from "./rss-c
 import { getDb } from "./db";
 import { newsItems, researchPapers, categories } from "../drizzle/schema";
 import { eq, and } from "drizzle-orm";
+import { invokeLLM } from "./_core/llm";
 
 const parser = new Parser({
   customFields: {
@@ -134,6 +135,53 @@ async function newsItemExists(url: string): Promise<boolean> {
 }
 
 /**
+ * Use LLM to determine if a research paper is relevant to AI, education, future learning, or learning sciences
+ */
+async function isResearchPaperRelevant(
+  title: string,
+  abstract: string
+): Promise<boolean> {
+  try {
+    const prompt = `You are an expert in AI education and learning sciences. Analyze the following research paper title and abstract to determine if it is relevant to:
+- Artificial Intelligence in education
+- Educational technology
+- Future of learning
+- Learning sciences
+- Human-computer interaction in education
+- Cognitive science and learning
+- Educational psychology
+- Robotics in education
+
+Title: ${title}
+
+Abstract: ${abstract.substring(0, 1000)}
+
+Respond with ONLY "YES" if the paper is relevant to any of the above topics, or "NO" if it is not relevant.`;
+
+    const response = await invokeLLM({
+      messages: [
+        {
+          role: "system",
+          content: "You are an expert classifier for AI and education research papers. Respond with only YES or NO."
+        },
+        {
+          role: "user",
+          content: prompt
+        }
+      ]
+    });
+
+    const content = response.choices[0]?.message?.content;
+    const answer = typeof content === 'string' ? content.trim().toUpperCase() : '';
+    return answer === "YES";
+  } catch (error) {
+    console.error("[RSS] Error checking research relevance with LLM:", error);
+    // On error, default to accepting the paper (fail open)
+    return true;
+  }
+}
+
+/**
  * Check if research paper already exists in database
  */
 async function researchPaperExists(url: string): Promise<boolean> {
@@ -204,6 +252,13 @@ export async function saveRSSItems(
       }
 
       if (isResearch) {
+        // Check if research paper is relevant using LLM
+        const isRelevant = await isResearchPaperRelevant(item.title, description);
+        if (!isRelevant) {
+          console.log(`[RSS] Skipping irrelevant paper: ${item.title.substring(0, 80)}...`);
+          continue;
+        }
+        
         // Save as research paper
         await db.insert(researchPapers).values({
           title: item.title.substring(0, 500),

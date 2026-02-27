@@ -104,3 +104,9 @@
 - [x] Limit university sources to US News Education top 30 institutions
 - [ ] Test research paper aggregation with new sources
 - [x] Update Research Papers page to remove language filter (English only)
+
+## Bug Fixes - Resource Detail Page
+- [x] Create /resource/:slug dynamic route for individual resource detail pages
+- [x] Add ResourceDetail.tsx page component
+- [x] Add Research link to all page navigations
+- [x] Test resource detail page navigation from homepage

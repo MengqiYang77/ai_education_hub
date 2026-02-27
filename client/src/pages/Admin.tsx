@@ -44,6 +44,9 @@ export default function Admin() {
               <Link href="/news" className="text-sm hover:opacity-60 transition-opacity">
                 News
               </Link>
+              <Link href="/research" className="text-sm hover:opacity-60 transition-opacity">
+                Research
+              </Link>
               <Link href="/admin" className="text-sm font-semibold">
                 Admin
               </Link>

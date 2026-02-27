@@ -367,7 +367,7 @@ export const RSS_FEEDS: RSSFeedConfig[] = [
     url: "http://export.arxiv.org/rss/cs.AI",
     category: "AI Education",
     language: "en",
-    enabled: true,
+    enabled: false, // Disabled: unpublished preprints, quality varies
     educationFocused: false,
     contentType: "research",
   },
@@ -376,7 +376,7 @@ export const RSS_FEEDS: RSSFeedConfig[] = [
     url: "http://export.arxiv.org/rss/cs.LG",
     category: "AI Education",
     language: "en",
-    enabled: true,
+    enabled: false, // Disabled: unpublished preprints, quality varies
     educationFocused: false,
     contentType: "research",
   },
@@ -385,7 +385,7 @@ export const RSS_FEEDS: RSSFeedConfig[] = [
     url: "http://export.arxiv.org/rss/cs.HC",
     category: "Human Skills",
     language: "en",
-    enabled: true,
+    enabled: false, // Disabled: unpublished preprints, quality varies
     educationFocused: false,
     contentType: "research",
   },
@@ -394,7 +394,7 @@ export const RSS_FEEDS: RSSFeedConfig[] = [
     url: "http://export.arxiv.org/rss/cs.RO",
     category: "Robotics",
     language: "en",
-    enabled: true,
+    enabled: false, // Disabled: unpublished preprints, quality varies
     educationFocused: false,
     contentType: "research",
   },

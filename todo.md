@@ -110,3 +110,17 @@
 - [x] Add ResourceDetail.tsx page component
 - [x] Add Research link to all page navigations
 - [x] Test resource detail page navigation from homepage
+
+## Research Source Refinement (New Requirements)
+- [x] Remove all arXiv RSS feeds (low quality, unpublished papers)
+- [ ] Add top-tier journal RSS feeds (Nature, Science, Educational Researcher, etc.)
+- [x] Keep only US News top 30 university official research news (not arXiv preprints)
+- [x] Clear existing arXiv papers from database
+- [x] Test new research sources to ensure quality (Berkeley AI Research papers showing correctly)
+
+## Homepage Redesign (New Requirements)
+- [x] Remove "Featured Research" static section from homepage
+- [x] Redesign homepage to clearly separate News and Research sections
+- [x] Make homepage dynamic (show latest content only)
+- [x] Move tools library and resources to separate dedicated pages (already exist)
+- [x] Ensure all homepage links are functional (no 404s)

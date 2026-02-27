@@ -188,7 +188,65 @@ export default function Home() {
         </div>
       </section>
 
+      {/* Latest Updates - Image Cards */}
+      <section className="border-b border-border">
+        <div className="max-w-6xl mx-auto px-6 py-16">
+          <div className="mb-12">
+            <h2 className="text-4xl font-bold mb-3">Latest Updates</h2>
+            <p className="text-muted-foreground">Recent developments from top research institutions</p>
+          </div>
 
+          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+            {news?.slice(0, 12).map((item) => (
+              <a
+                key={item.id}
+                href={item.url}
+                target="_blank"
+                rel="noopener noreferrer"
+                className="group"
+              >
+                <article className="space-y-3">
+                  {item.imageUrl && (
+                    <div className="aspect-[16/9] overflow-hidden bg-muted">
+                      <img
+                        src={item.imageUrl}
+                        alt={item.title}
+                        className="w-full h-full object-cover group-hover:opacity-80 transition-opacity"
+                      />
+                    </div>
+                  )}
+                  <div>
+                    {item.source && (
+                      <span className="text-xs font-medium uppercase tracking-wide text-muted-foreground">
+                        {item.source}
+                      </span>
+                    )}
+                    <h3 className="text-lg font-bold mt-2 mb-2 group-hover:opacity-60 transition-opacity line-clamp-2">
+                      {item.title}
+                    </h3>
+                    {item.description && (
+                      <p className="text-sm text-muted-foreground line-clamp-2">
+                        {item.description}
+                      </p>
+                    )}
+                    <time className="text-xs text-muted-foreground mt-2 block">
+                      {new Date(item.publishedAt).toLocaleDateString('en-US', { year: 'numeric', month: 'short', day: 'numeric' })}
+                    </time>
+                  </div>
+                </article>
+              </a>
+            ))}
+          </div>
+
+          <div className="mt-12 text-center">
+            <Link href="/news">
+              <span className="inline-flex items-center justify-center px-4 py-2 text-sm font-medium border border-foreground hover:bg-foreground hover:text-background transition-colors cursor-pointer">
+                All News
+              </span>
+            </Link>
+          </div>
+        </div>
+      </section>
 
       {/* Footer - Minimal */}
       <footer className="bg-muted/30">

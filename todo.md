@@ -290,3 +290,8 @@
 - [x] Remove Featured Research section from homepage (not real research papers)
 - [x] Make News and Research sections more prominent and醒目 on homepage
 - [x] Redesign homepage layout to focus only on News and Research entry points
+
+## Homepage Layout Adjustment (Urgent)
+- [x] Restore Latest Updates section with image card layout (3-column grid)
+- [x] Keep News and Research sections prominent but adjust layout
+- [x] Ensure Latest Updates shows news with images in card format

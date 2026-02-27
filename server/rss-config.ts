@@ -141,7 +141,7 @@ export const RSS_FEEDS: RSSFeedConfig[] = [
     language: "en",
     enabled: true,
     educationFocused: false, // Mixed content, will need filtering
-    contentType: "research",
+    contentType: "news",
   },
   {
     name: "Stanford SAIL Blog",
@@ -150,7 +150,7 @@ export const RSS_FEEDS: RSSFeedConfig[] = [
     language: "en",
     enabled: true,
     educationFocused: false,
-    contentType: "research",
+    contentType: "news",
   },
   
   // MIT News - AI (some education content)
@@ -161,7 +161,7 @@ export const RSS_FEEDS: RSSFeedConfig[] = [
     language: "en",
     enabled: true,
     educationFocused: false, // Mixed content, will need filtering
-    contentType: "research",
+    contentType: "news",
   },
   {
     name: "MIT News - Robotics",
@@ -170,7 +170,7 @@ export const RSS_FEEDS: RSSFeedConfig[] = [
     language: "en",
     enabled: true,
     educationFocused: false,
-    contentType: "research",
+    contentType: "news",
   },
   {
     name: "MIT News - Education",
@@ -179,7 +179,7 @@ export const RSS_FEEDS: RSSFeedConfig[] = [
     language: "en",
     enabled: true,
     educationFocused: true,
-    contentType: "research",
+    contentType: "news",
   },
   {
     name: "MIT CSAIL",
@@ -188,7 +188,7 @@ export const RSS_FEEDS: RSSFeedConfig[] = [
     language: "en",
     enabled: true,
     educationFocused: false,
-    contentType: "research",
+    contentType: "news",
   },
   
   // CMU Robotics (some education applications)
@@ -199,7 +199,7 @@ export const RSS_FEEDS: RSSFeedConfig[] = [
     language: "en",
     enabled: true,
     educationFocused: false, // Mixed content, will need filtering
-    contentType: "research",
+    contentType: "news",
   },
   
   // Cornell Chronicle - AI
@@ -210,7 +210,7 @@ export const RSS_FEEDS: RSSFeedConfig[] = [
     language: "en",
     enabled: true,
     educationFocused: false,
-    contentType: "research",
+    contentType: "news",
   },
   
   // === AI COMPANIES (Filtered for education applications) ===
@@ -452,13 +452,13 @@ export const RSS_FEEDS: RSSFeedConfig[] = [
   // US News Education Top 30 Universities Research
   // Stanford HAI Research (duplicate removed, already added above)
   {
-    name: "Harvard GSE Research",
+    name: "Harvard GSE",
     url: "https://www.gse.harvard.edu/news/rss.xml",
     category: "AI Education",
     language: "en",
     enabled: true,
     educationFocused: false,
-    contentType: "research",
+    contentType: "news",
   },
   {
     name: "UPenn GSE Research",
@@ -467,7 +467,7 @@ export const RSS_FEEDS: RSSFeedConfig[] = [
     language: "en",
     enabled: true,
     educationFocused: false,
-    contentType: "research",
+    contentType: "news",
   },
   {
     name: "Berkeley AI Research",
@@ -476,7 +476,7 @@ export const RSS_FEEDS: RSSFeedConfig[] = [
     language: "en",
     enabled: true,
     educationFocused: false,
-    contentType: "research",
+    contentType: "news",
   },
   {
     name: "Columbia Teachers College",
@@ -485,7 +485,7 @@ export const RSS_FEEDS: RSSFeedConfig[] = [
     language: "en",
     enabled: true,
     educationFocused: false,
-    contentType: "research",
+    contentType: "news",
   },
   {
     name: "Northwestern Learning Sciences",
@@ -494,7 +494,7 @@ export const RSS_FEEDS: RSSFeedConfig[] = [
     language: "en",
     enabled: true,
     educationFocused: false,
-    contentType: "research",
+    contentType: "news",
   },
   {
     name: "Vanderbilt Peabody College",
@@ -503,7 +503,7 @@ export const RSS_FEEDS: RSSFeedConfig[] = [
     language: "en",
     enabled: true,
     educationFocused: false,
-    contentType: "research",
+    contentType: "news",
   },
   {
     name: "Johns Hopkins Education",
@@ -512,7 +512,7 @@ export const RSS_FEEDS: RSSFeedConfig[] = [
     language: "en",
     enabled: true,
     educationFocused: false,
-    contentType: "research",
+    contentType: "news",
   },
   {
     name: "NYU Steinhardt",
@@ -521,7 +521,7 @@ export const RSS_FEEDS: RSSFeedConfig[] = [
     language: "en",
     enabled: false, // 404 error
     educationFocused: false,
-    contentType: "research",
+    contentType: "news",
   },
   {
     name: "Wisconsin-Madison Education",
@@ -530,7 +530,7 @@ export const RSS_FEEDS: RSSFeedConfig[] = [
     language: "en",
     enabled: false, // 404 error
     educationFocused: false,
-    contentType: "research",
+    contentType: "news",
   },
   {
     name: "Michigan Education",
@@ -539,7 +539,7 @@ export const RSS_FEEDS: RSSFeedConfig[] = [
     language: "en",
     enabled: false, // 403 error
     educationFocused: false,
-    contentType: "research",
+    contentType: "news",
   },
 ];
 

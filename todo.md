@@ -139,3 +139,18 @@
 - [x] Disabled 3 non-working university feeds: NYU Steinhardt (404), Wisconsin-Madison (404), Michigan (403)
 - [x] Verified research papers now showing from 4 universities: MIT (69 papers), Stanford (15 papers), Berkeley (10 papers)
 - [x] Total research papers in database: 94 papers from multiple top institutions
+
+
+## Bug Fix - Research Page Data Source (Urgent)
+- [x] Investigate why Research page is showing news items instead of research papers
+- [x] Fix Research page to query research_papers table instead of news_feed table
+- [x] Migrated 256 university news items from research_papers to news_items table
+- [x] Changed all university RSS feeds from contentType="research" to contentType="news"
+- [x] Verified news page now shows 870 items including university research news
+- [x] Verified research page is now empty and ready for real academic papers
+
+## Bug Fix - Resource Detail Page Navigation (Urgent)
+- [x] Investigate why Resource links are not navigating to detail pages
+- [x] Verified resource card links properly navigate to /resource/:slug
+- [x] Verified resource detail page displays correct information
+- [x] Tested navigation from homepage to resource detail pages - working correctly

@@ -169,3 +169,54 @@
 - [x] Successfully added 3 top-tier journal RSS feeds: Nature Machine Intelligence, Nature Human Behaviour, Science Robotics
 - [x] Fetched 24 research papers from top journals (8 from each journal)
 - [x] Research page now displays real peer-reviewed papers instead of news articles
+
+
+## Add 5 More Top-Tier Journal RSS Feeds (Critical Priority)
+- [x] Search for Nature Communications RSS feed (综合顶刊)
+- [x] Search for Science Advances RSS feed (综合顶刊)
+- [x] Search for PNAS (Proceedings of National Academy of Sciences) RSS feed
+- [ ] Search for Nature Reviews journals RSS feeds (Education/Psychology related)
+- [ ] Search for Cell系列期刊 RSS feeds
+- [x] Test all found RSS feed URLs to ensure they work
+- [x] Add 4 working top journal RSS feeds to rss-config.ts: Nature Communications, Science Advances, PNAS, Nature
+- [x] Enabled Science Advances RSS feed (was previously disabled)
+- [ ] Trigger RSS update to fetch papers from new journals
+- [ ] Verify Research page displays papers from the new top journals
+
+## Add Journal of Learning Sciences and Computers & Education (High Priority)
+- [x] Found Journal of the Learning Sciences RSS feed: https://www.tandfonline.com/feed/rss/hlns20
+- [ ] Check if Computers & Education has RSS feed available
+- [ ] Add Journal of Learning Sciences to rss-config.ts
+- [ ] Add Computers & Education if RSS available, otherwise use web scraper
+- [ ] Trigger RSS update to fetch papers from these education-focused journals
+
+
+## Create Journal Web Scraper for AI+Education Papers (High Priority)
+- [ ] Design journal scraper service architecture
+- [ ] Implement scraper for Computers & Education (Elsevier/ScienceDirect)
+- [ ] Implement scraper for AI in Education (MDPI)
+- [ ] Implement scraper for International Journal of AI in Education (Springer)
+- [ ] Implement scraper for British Journal of Educational Technology
+- [ ] Test scrapers to extract title, authors, abstract, publication date, DOI/URL
+- [ ] Save scraped papers to research_papers table with proper metadata
+- [ ] Integrate scraper into admin RSS update workflow
+- [ ] Add error handling and rate limiting to avoid blocking
+- [ ] Verify Research page displays scraped journal papers correctly
+
+
+## Add 5 More AI+Education Journals (High Priority)
+- [x] Search for International Journal of STEM Education RSS feed - No RSS available (Springer)
+- [x] Search for IEEE Transactions on Learning Technologies RSS feed - Found: https://ieeexplore.ieee.org/rss/TOC4620076.XML
+- [x] Search for Journal of Science Education and Technology RSS feed - No RSS available
+- [x] Search for International Journal of Artificial Intelligence in Education (IJAIED) RSS feed - No RSS available
+- [x] Search for Computers & Education: Artificial Intelligence RSS feed - No RSS available (Elsevier)
+- [x] Test all found RSS feed URLs
+- [x] Add IEEE Transactions on Learning Technologies RSS to rss-config.ts with contentType="research"
+- [x] Trigger RSS update to fetch papers from IEEE TLT
+- [x] Verify Research page displays papers from IEEE TLT and all top journals
+- [x] Successfully added 6 new papers from IEEE TLT
+- [x] Successfully added 14 new papers from Journal of the Learning Sciences
+- [x] Successfully added 107 new papers from PNAS
+- [x] Successfully added 3 new papers from Nature Communications
+- [x] Research page now displays 180+ papers from 9 top-tier journals
+- [ ] Consider implementing web scraper for journals without RSS feeds

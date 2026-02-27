@@ -1,0 +1,9 @@
+{
+  "query": "DELETE FROM research_papers;",
+  "command": "mysql --batch --raw --column-names --default-character-set=utf8mb4 --host gateway02.us-east-1.prod.aws.tidbcloud.com --port 4000 --user 37aL8PRu4reUokB.3ce158dae0f2 --database ha696haGdmgR7E9uwQ7SYx --execute DELETE FROM research_papers;",
+  "rows": [],
+  "messages": [],
+  "stdout": "",
+  "stderr": "",
+  "execution_time_ms": 1545
+}

@@ -1,0 +1,1 @@
+ALTER TABLE `curated_content` ADD `url` varchar(500);

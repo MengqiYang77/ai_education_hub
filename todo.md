@@ -233,3 +233,43 @@
 - [x] Successfully filtered 200+ papers from Nature, Science, PNAS down to 13 relevant papers
 - [x] LLM correctly identified and saved papers about: STEM education, neural networks, AI, LLM feedback, collaborative learning, computational literacy
 - [x] LLM correctly skipped irrelevant papers about: cancer, climate, geology, biology, chemistry, physics
+
+
+## Fix Navigation Links and Expand Research Papers (Critical Priority)
+- [ ] Fix Research page - "View Paper" links should navigate to source website
+- [ ] Fix Resources page - resource links should navigate to source website
+- [ ] Adjust LLM filter to be more inclusive - include education technology, learning analytics, data science in education, computational thinking
+- [ ] Current filter is too strict (only 13 papers from 1642), need to expand to include more education-related topics
+- [ ] Test updated filter with RSS update
+- [ ] Verify Data Science category has papers after filter adjustment
+- [ ] Consider implementing web scraper for journals without RSS (Computers & Education, IJAIED, etc.)
+
+
+## Fix Navigation Links and Expand LLM Filter (Completed)
+- [x] Add "Visit Source Website" button to Resource detail pages
+- [x] Add url field to curated_content table schema
+- [x] Push database schema changes
+- [x] Adjust LLM filter criteria to be more inclusive of education-related topics
+- [x] Include data science, learning analytics, educational data mining in filter
+- [x] Include cognitive science, neuroscience, educational psychology in filter
+- [x] Expanded filter to include 20+ education-related topics (ML, NLP, CV, VR/AR, MOOCs, assessment, etc.)
+- [ ] Test updated filter with RSS update (clear database and re-fetch)
+- [ ] Verify more relevant papers are saved to Research page
+
+
+## LLM-Based Content Filtering for Research Papers (Completed)
+- [x] Implemented intelligent LLM-based content filter in RSS service
+- [x] Filter analyzes title and abstract to determine relevance to AI, education, future learning
+- [x] Expanded filter criteria to include 20+ education-related topics:
+  * AI in education, educational technology, learning sciences
+  * Data science in education, learning analytics, educational data mining
+  * Cognitive science, neuroscience of learning, educational psychology
+  * Human-computer interaction in education, adaptive learning systems
+  * Computational thinking, programming education, STEM education
+  * Online learning, distance education, MOOCs
+  * Teacher professional development, pedagogy research
+  * Educational assessment, student engagement, collaborative learning
+- [x] Successfully filtered 1559 papers from top journals down to 15 highly relevant papers
+- [x] Papers include: STEM education disparities (COVID), LLM hallucination research, AI survey contamination, collaborative learning, computational literacy, science education frameworks, teacher professional learning
+- [x] System correctly skips irrelevant papers: cancer research, climate science, geology, chemistry, physics, biology
+- [x] All 9 top journal RSS feeds retained and working with intelligent filtering

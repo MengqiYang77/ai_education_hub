@@ -51,6 +51,7 @@ export const curatedContent = mysqlTable("curated_content", {
   slug: varchar("slug", { length: 255 }).notNull().unique(),
   description: text("description").notNull(),
   content: text("content").notNull(), // markdown or html
+  url: varchar("url", { length: 500 }), // source website URL
   imageUrl: varchar("imageUrl", { length: 500 }),
   categoryId: int("categoryId").notNull(),
   authorId: int("authorId").notNull(),

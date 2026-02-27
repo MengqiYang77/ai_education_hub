@@ -116,7 +116,17 @@ export default function ResourceDetail() {
             )}
           </div>
 
-          <div className="mt-12 pt-8 border-t border-gray-200">
+          <div className="mt-12 pt-8 border-t border-gray-200 flex gap-4">
+            {resource.url && (
+              <a
+                href={resource.url}
+                target="_blank"
+                rel="noopener noreferrer"
+                className="inline-block bg-black text-white px-6 py-3 hover:bg-gray-800 transition-colors"
+              >
+                Visit Source Website
+              </a>
+            )}
             <Link
               href="/resources"
               className="inline-block border border-black px-6 py-3 hover:bg-black hover:text-white transition-colors"

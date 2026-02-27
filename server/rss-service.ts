@@ -144,13 +144,25 @@ async function isResearchPaperRelevant(
   try {
     const prompt = `You are an expert in AI education and learning sciences. Analyze the following research paper title and abstract to determine if it is relevant to:
 - Artificial Intelligence in education
-- Educational technology
-- Future of learning
-- Learning sciences
+- Machine learning and deep learning applications in education
+- Educational technology and digital learning
+- Future of learning and education innovation
+- Learning sciences and instructional design
 - Human-computer interaction in education
-- Cognitive science and learning
-- Educational psychology
-- Robotics in education
+- Cognitive science, neuroscience, and learning
+- Educational psychology and learning theory
+- Robotics in education and STEM learning
+- Data science, learning analytics, and educational data mining
+- Natural language processing for education
+- Computer vision and image recognition in learning contexts
+- Adaptive learning systems and personalized education
+- Online learning, MOOCs, and distance education
+- Educational assessment and evaluation using technology
+- Student engagement, motivation, and learning outcomes
+- Teacher professional development and technology integration
+- Computational thinking and programming education
+- Virtual reality, augmented reality in education
+- Social-emotional learning and character development
 
 Title: ${title}
 

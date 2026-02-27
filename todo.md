@@ -62,3 +62,12 @@
 - [x] Create /tools page to fix 404 error
 - [x] Create /search page to fix search functionality
 - [x] Update seed data with real news article URLs instead of institution homepages
+
+## RSS Aggregation Feature
+- [x] Install RSS parsing library (rss-parser)
+- [x] Create RSS feed configuration with top-tier institutions (48 sources)
+- [x] Implement RSS fetching and parsing logic
+- [x] Implement deduplication logic to avoid duplicate news items
+- [x] Create admin page for manual RSS refresh
+- [ ] Add automatic daily RSS update task (scheduled)
+- [x] Test RSS aggregation with all configured sources (160+ articles fetched successfully)

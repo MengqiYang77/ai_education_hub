@@ -64,6 +64,20 @@ export const appRouter = router({
     }),
   }),
 
+  rss: router({
+    updateFeeds: publicProcedure.mutation(async () => {
+      const { updateAllRSSFeeds } = await import("./rss-service");
+      return updateAllRSSFeeds();
+    }),
+    getFeedConfig: publicProcedure.query(async () => {
+      const { getEnabledFeeds, getFeedCount } = await import("./rss-config");
+      return {
+        feeds: getEnabledFeeds(),
+        totalCount: getFeedCount(),
+      };
+    }),
+  }),
+
   tools: router({
     list: publicProcedure.query(async () => {
       const { getAllTools } = await import("./db");

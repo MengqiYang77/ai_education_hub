@@ -7,8 +7,7 @@ export default function ResearchPapers() {
   const [categoryFilter, setCategoryFilter] = useState<string | null>(null);
 
   const { data: papers, isLoading } = trpc.research.list.useQuery({
-    language: "en", // English only
-    categoryId: categoryFilter ? parseInt(categoryFilter) : undefined,
+    topic: categoryFilter || undefined,
   });
 
   const { data: categories } = trpc.categories.list.useQuery();
@@ -115,8 +114,7 @@ export default function ResearchPapers() {
                 )}
 
                 <div className="flex gap-4 text-sm text-gray-500 mb-4">
-                  {paper.institution && <span>{paper.institution}</span>}
-                  {paper.source && <span>· {paper.source}</span>}
+                  {paper.source && <span>{paper.source}</span>}
                   <span>
                     · {new Date(paper.publishedAt).toLocaleDateString()}
                   </span>

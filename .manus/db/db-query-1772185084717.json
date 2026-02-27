@@ -1,0 +1,9 @@
+{
+  "query": "CREATE TABLE IF NOT EXISTS `research_papers` (\n  `id` int AUTO_INCREMENT NOT NULL,\n  `title` varchar(500) NOT NULL,\n  `abstract` text,\n  `authors` text,\n  `url` varchar(500) NOT NULL,\n  `pdfUrl` varchar(500),\n  `source` varchar(100) NOT NULL,\n  `sourceId` varchar(100),\n  `categoryId` int,\n  `topic` varchar(100),\n  `publishedAt` timestamp NOT NULL,\n  `fetchedAt` timestamp NOT NULL DEFAULT (now()),\n  `createdAt` timestamp NOT NULL DEFAULT (now()),\n  CONSTRAINT `research_papers_id` PRIMARY KEY(`id`),\n  CONSTRAINT `research_papers_url_unique` UNIQUE(`url`)\n);",
+  "command": "mysql --batch --raw --column-names --default-character-set=utf8mb4 --host gateway02.us-east-1.prod.aws.tidbcloud.com --port 4000 --user 37aL8PRu4reUokB.3ce158dae0f2 --database ha696haGdmgR7E9uwQ7SYx --execute CREATE TABLE IF NOT EXISTS `research_papers` (\n  `id` int AUTO_INCREMENT NOT NULL,\n  `title` varchar(500) NOT NULL,\n  `abstract` text,\n  `authors` text,\n  `url` varchar(500) NOT NULL,\n  `pdfUrl` varchar(500),\n  `source` varchar(100) NOT NULL,\n  `sourceId` varchar(100),\n  `categoryId` int,\n  `topic` varchar(100),\n  `publishedAt` timestamp NOT NULL,\n  `fetchedAt` timestamp NOT NULL DEFAULT (now()),\n  `createdAt` timestamp NOT NULL DEFAULT (now()),\n  CONSTRAINT `research_papers_id` PRIMARY KEY(`id`),\n  CONSTRAINT `research_papers_url_unique` UNIQUE(`url`)\n);",
+  "rows": [],
+  "messages": [],
+  "stdout": "",
+  "stderr": "",
+  "execution_time_ms": 1528
+}

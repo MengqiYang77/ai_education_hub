@@ -1,6 +1,6 @@
 import { eq, desc, like, or, and, sql } from "drizzle-orm";
 import { drizzle } from "drizzle-orm/mysql2";
-import { InsertUser, users, categories, curatedContent, newsItems, tools, researchPapers, Category, CuratedContent, NewsItem, Tool, ResearchPaper, InsertResearchPaper } from "../drizzle/schema";
+import { InsertUser, users, categories, curatedContent, newsItems, tools, Category, CuratedContent, NewsItem, Tool } from "../drizzle/schema";
 import { ENV } from './_core/env';
 
 let _db: ReturnType<typeof drizzle> | null = null;
@@ -211,69 +211,36 @@ export async function incrementToolViewCount(id: number): Promise<void> {
   await db.update(tools).set({ viewCount: sql`${tools.viewCount} + 1` }).where(eq(tools.id, id));
 }
 
-// ===== Research Papers =====
+// ============ Research Papers ============
+import { researchPapers, ResearchPaper } from "../drizzle/schema";
 
-export async function getAllResearchPapers(options?: {
-  language?: "en" | "zh";
-  categoryId?: number;
-  limit?: number;
-}): Promise<ResearchPaper[]> {
+export async function getRecentResearchPapers(limit: number = 20, topic?: string): Promise<ResearchPaper[]> {
   const db = await getDb();
   if (!db) return [];
-  
-  let query = db.select().from(researchPapers);
-  
-  const conditions = [];
-  if (options?.language) {
-    conditions.push(eq(researchPapers.language, options.language));
+  if (topic) {
+    return db.select().from(researchPapers).where(eq(researchPapers.topic, topic)).orderBy(desc(researchPapers.publishedAt)).limit(limit);
   }
-  if (options?.categoryId) {
-    conditions.push(eq(researchPapers.categoryId, options.categoryId));
-  }
-  
-  if (conditions.length > 0) {
-    query = query.where(and(...conditions)) as any;
-  }
-  
-  query = query.orderBy(desc(researchPapers.publishedAt)) as any;
-  
-  if (options?.limit) {
-    query = query.limit(options.limit) as any;
-  }
-  
-  return query;
-}
-
-export async function insertResearchPaper(paper: InsertResearchPaper): Promise<void> {
-  const db = await getDb();
-  if (!db) return;
-  
-  try {
-    await db.insert(researchPapers).values(paper).onDuplicateKeyUpdate({
-      set: {
-        title: paper.title,
-        authors: paper.authors,
-        institution: paper.institution,
-        abstract: paper.abstract,
-        pdfUrl: paper.pdfUrl,
-        source: paper.source,
-        publishedAt: paper.publishedAt,
-      },
-    });
-  } catch (error) {
-    console.error("[Database] Failed to insert research paper:", error);
-  }
+  return db.select().from(researchPapers).orderBy(desc(researchPapers.publishedAt)).limit(limit);
 }
 
 export async function searchResearchPapers(searchTerm: string): Promise<ResearchPaper[]> {
   const db = await getDb();
   if (!db) return [];
-  
   return db.select().from(researchPapers).where(
     or(
       like(researchPapers.title, `%${searchTerm}%`),
       like(researchPapers.abstract, `%${searchTerm}%`),
       like(researchPapers.authors, `%${searchTerm}%`)
     )
-  ).orderBy(desc(researchPapers.publishedAt)).limit(20);
+  ).orderBy(desc(researchPapers.publishedAt)).limit(30);
+}
+
+export async function triggerResearchFetch(): Promise<{ added: number; skipped: number }> {
+  const { fetchAndStoreResearchPapers } = await import("./fetchResearch");
+  return fetchAndStoreResearchPapers();
+}
+
+export async function triggerNewsFetch(): Promise<{ added: number; skipped: number }> {
+  const { fetchAndStoreUniversityNews } = await import("./fetchNews");
+  return fetchAndStoreUniversityNews();
 }

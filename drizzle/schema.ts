@@ -109,20 +109,22 @@ export type Tool = typeof tools.$inferSelect;
 export type InsertTool = typeof tools.$inferInsert;
 
 /**
- * Research papers from universities and arXiv
+ * Research papers from top-tier journals
+ * Fetched automatically via RSS + LLM filtering
  */
 export const researchPapers = mysqlTable("research_papers", {
   id: int("id").autoincrement().primaryKey(),
   title: varchar("title", { length: 500 }).notNull(),
-  authors: text("authors"), // comma-separated or JSON
-  institution: varchar("institution", { length: 255 }), // e.g., "Stanford", "MIT", "CMU"
   abstract: text("abstract"),
+  authors: text("authors"),
   url: varchar("url", { length: 500 }).notNull().unique(),
   pdfUrl: varchar("pdfUrl", { length: 500 }),
-  source: varchar("source", { length: 100 }), // e.g., "arXiv", "Stanford HAI", "MIT CSAIL"
+  source: varchar("source", { length: 100 }).notNull(),
+  sourceId: varchar("sourceId", { length: 100 }),
   categoryId: int("categoryId"),
-  language: mysqlEnum("language", ["en", "zh"]).default("en").notNull(),
+  topic: varchar("topic", { length: 100 }),
   publishedAt: timestamp("publishedAt").notNull(),
+  fetchedAt: timestamp("fetchedAt").defaultNow().notNull(),
   createdAt: timestamp("createdAt").defaultNow().notNull(),
 });
 

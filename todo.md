@@ -273,3 +273,15 @@
 - [x] Papers include: STEM education disparities (COVID), LLM hallucination research, AI survey contamination, collaborative learning, computational literacy, science education frameworks, teacher professional learning
 - [x] System correctly skips irrelevant papers: cancer research, climate science, geology, chemistry, physics, biology
 - [x] All 9 top journal RSS feeds retained and working with intelligent filtering
+
+
+## Apply User-Provided Updates from ai_education_hub_v2.zip (High Priority)
+- [ ] Analyze changes in uploaded files
+- [ ] Compare Home.tsx, Research.tsx, News.tsx, Resources.tsx, Tools.tsx, Search.tsx
+- [ ] Check for schema changes in drizzle/schema.ts
+- [ ] Check for router changes in server/routers.ts
+- [ ] Check for database helper changes in server/db.ts
+- [ ] Apply all file changes to current project
+- [ ] Test updated project to ensure everything works
+- [ ] Verify all pages render correctly
+- [ ] Save checkpoint with applied updates

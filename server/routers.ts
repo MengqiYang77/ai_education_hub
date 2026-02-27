@@ -62,19 +62,30 @@ export const appRouter = router({
       const { getNewsByCategory } = await import("./db");
       return getNewsByCategory(input.categoryId, input.limit);
     }),
+    // Trigger live fetch from university RSS feeds
+    fetch: publicProcedure.mutation(async () => {
+      const { triggerNewsFetch } = await import("./db");
+      return triggerNewsFetch();
+    }),
   }),
 
-  rss: router({
-    updateFeeds: publicProcedure.mutation(async () => {
-      const { updateAllRSSFeeds } = await import("./rss-service");
-      return updateAllRSSFeeds();
-    }),
-    getFeedConfig: publicProcedure.query(async () => {
-      const { getEnabledFeeds, getFeedCount } = await import("./rss-config");
-      return {
-        feeds: getEnabledFeeds(),
-        totalCount: getFeedCount(),
-      };
+  research: router({
+    list: publicProcedure
+      .input(z.object({ limit: z.number().default(20), topic: z.string().optional() }).optional())
+      .query(async ({ input }) => {
+        const { getRecentResearchPapers } = await import("./db");
+        return getRecentResearchPapers(input?.limit || 20, input?.topic);
+      }),
+    search: publicProcedure
+      .input(z.object({ query: z.string() }))
+      .query(async ({ input }) => {
+        const { searchResearchPapers } = await import("./db");
+        return searchResearchPapers(input.query);
+      }),
+    // Admin: manually trigger a fetch (useful after first deploy)
+    fetch: publicProcedure.mutation(async () => {
+      const { triggerResearchFetch } = await import("./db");
+      return triggerResearchFetch();
     }),
   }),
 
@@ -102,22 +113,6 @@ export const appRouter = router({
     search: publicProcedure.input(z.object({ query: z.string() })).query(async ({ input }) => {
       const { searchTools } = await import("./db");
       return searchTools(input.query);
-    }),
-  }),
-
-  // Research papers router
-  research: router({
-    list: publicProcedure.input(z.object({
-      language: z.enum(["en", "zh"]).optional(),
-      categoryId: z.number().optional(),
-      limit: z.number().optional(),
-    }).optional()).query(async ({ input }) => {
-      const { getAllResearchPapers } = await import("./db");
-      return getAllResearchPapers(input || {});
-    }),
-    search: publicProcedure.input(z.object({ query: z.string() })).query(async ({ input }) => {
-      const { searchResearchPapers } = await import("./db");
-      return searchResearchPapers(input.query);
     }),
   }),
 });

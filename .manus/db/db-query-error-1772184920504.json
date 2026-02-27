@@ -1,0 +1,8 @@
+{
+  "query": "CREATE TABLE `research_papers` (\n\t`id` int AUTO_INCREMENT NOT NULL,\n\t`title` varchar(500) NOT NULL,\n\t`abstract` text,\n\t`authors` text,\n\t`url` varchar(500) NOT NULL,\n\t`pdfUrl` varchar(500),\n\t`source` varchar(100) NOT NULL,\n\t`sourceId` varchar(100),\n\t`categoryId` int,\n\t`topic` varchar(100),\n\t`publishedAt` timestamp NOT NULL,\n\t`fetchedAt` timestamp NOT NULL DEFAULT (now()),\n\t`createdAt` timestamp NOT NULL DEFAULT (now()),\n\tCONSTRAINT `research_papers_id` PRIMARY KEY(`id`),\n\tCONSTRAINT `research_papers_url_unique` UNIQUE(`url`)\n);",
+  "command": "mysql --batch --raw --column-names --default-character-set=utf8mb4 --host gateway02.us-east-1.prod.aws.tidbcloud.com --port 4000 --user 37aL8PRu4reUokB.3ce158dae0f2 --database ha696haGdmgR7E9uwQ7SYx --execute CREATE TABLE `research_papers` (\n\t`id` int AUTO_INCREMENT NOT NULL,\n\t`title` varchar(500) NOT NULL,\n\t`abstract` text,\n\t`authors` text,\n\t`url` varchar(500) NOT NULL,\n\t`pdfUrl` varchar(500),\n\t`source` varchar(100) NOT NULL,\n\t`sourceId` varchar(100),\n\t`categoryId` int,\n\t`topic` varchar(100),\n\t`publishedAt` timestamp NOT NULL,\n\t`fetchedAt` timestamp NOT NULL DEFAULT (now()),\n\t`createdAt` timestamp NOT NULL DEFAULT (now()),\n\tCONSTRAINT `research_papers_id` PRIMARY KEY(`id`),\n\tCONSTRAINT `research_papers_url_unique` UNIQUE(`url`)\n);",
+  "returncode": 1,
+  "logs": [
+    "ERROR 1050 (42S01) at line 1: Table 'ha696haGdmgR7E9uwQ7SYx.research_papers' already exists"
+  ]
+}

@@ -1,20 +1,20 @@
 import { trpc } from "@/lib/trpc";
 import { Link } from "wouter";
 import { useState } from "react";
+import { RefreshCw } from "lucide-react";
 
 export default function News() {
   const [selectedCategory, setSelectedCategory] = useState<number | null>(null);
-  const [selectedLanguage, setSelectedLanguage] = useState<"all" | "en" | "zh">("all");
-  
+  const [fetchMsg, setFetchMsg] = useState("");
+  const [isFetching, setIsFetching] = useState(false);
   const { data: categories } = trpc.categories.list.useQuery();
-  const { data: news } = trpc.news.recent.useQuery({ limit: 200 });
+  const { data: news, refetch } = trpc.news.recent.useQuery({ limit: 100 });
 
-  // Filter by category and language
-  const filteredNews = news?.filter((item) => {
-    const categoryMatch = selectedCategory ? item.categoryId === selectedCategory : true;
-    const languageMatch = selectedLanguage === "all" ? true : item.language === selectedLanguage;
-    return categoryMatch && languageMatch;
-  });
+  // Fetch mutation removed - using RSS update instead
+
+  const filteredNews = selectedCategory
+    ? news?.filter((item) => item.categoryId === selectedCategory)
+    : news;
 
   return (
     <div className="min-h-screen bg-background">
@@ -36,12 +36,6 @@ export default function News() {
               <Link href="/news" className="text-sm hover:opacity-60 transition-opacity">
                 News
               </Link>
-              <Link href="/research" className="text-sm hover:opacity-60 transition-opacity">
-                Research
-              </Link>
-              <Link href="/admin" className="text-sm hover:opacity-60 transition-opacity">
-                Admin
-              </Link>
             </nav>
           </div>
         </div>
@@ -57,83 +51,51 @@ export default function News() {
         </div>
       </section>
 
-      {/* Language Filter */}
-      <section className="border-b border-border bg-muted/10">
-        <div className="max-w-6xl mx-auto px-6 py-4">
-          <div className="flex items-center gap-2">
-            <button
-              onClick={() => setSelectedLanguage("all")}
-              className={`px-4 py-2 text-sm transition-colors ${
-                selectedLanguage === "all"
-                  ? "bg-foreground text-background"
-                  : "bg-transparent hover:bg-muted"
-              }`}
-            >
-              All Sources
-            </button>
-            <button
-              onClick={() => setSelectedLanguage("en")}
-              className={`px-4 py-2 text-sm transition-colors ${
-                selectedLanguage === "en"
-                  ? "bg-foreground text-background"
-                  : "bg-transparent hover:bg-muted"
-              }`}
-            >
-              International
-            </button>
-            <button
-              onClick={() => setSelectedLanguage("zh")}
-              className={`px-4 py-2 text-sm transition-colors ${
-                selectedLanguage === "zh"
-                  ? "bg-foreground text-background"
-                  : "bg-transparent hover:bg-muted"
-              }`}
-            >
-              Domestic
-            </button>
-          </div>
-        </div>
-      </section>
-
       {/* Category Filter */}
       <section className="border-b border-border bg-muted/30">
-        <div className="max-w-6xl mx-auto px-6 py-4">
-          <div className="flex items-center gap-2 flex-wrap">
+        <div className="max-w-6xl mx-auto px-6 py-6 flex flex-wrap items-center justify-between gap-4">
+          <div className="flex flex-wrap gap-3">
             <button
               onClick={() => setSelectedCategory(null)}
-              className={`px-4 py-2 text-sm transition-colors ${
+              className={`px-4 py-2 text-sm border transition-all ${
                 selectedCategory === null
-                  ? "bg-foreground text-background"
-                  : "bg-transparent hover:bg-muted"
+                  ? "border-foreground bg-foreground text-background"
+                  : "border-border hover:border-foreground"
               }`}
             >
               All Topics
             </button>
-            {categories?.map((category) => (
+            {categories?.map((cat) => (
               <button
-                key={category.id}
-                onClick={() => setSelectedCategory(category.id)}
-                className={`px-4 py-2 text-sm transition-colors ${
-                  selectedCategory === category.id
-                    ? "bg-foreground text-background"
-                    : "bg-transparent hover:bg-muted"
+                key={cat.id}
+                onClick={() => setSelectedCategory(cat.id)}
+                className={`px-4 py-2 text-sm border transition-all ${
+                  selectedCategory === cat.id
+                    ? "border-foreground bg-foreground text-background"
+                    : "border-border hover:border-foreground"
                 }`}
               >
-                {category.name}
+                {cat.name}
               </button>
             ))}
+          </div>
+          <div className="flex items-center gap-3">
+            {fetchMsg && <span className="text-sm text-muted-foreground">{fetchMsg}</span>}
+            <button
+              onClick={() => window.location.href = '/admin'}
+              className="flex items-center gap-2 px-4 py-2 text-sm border border-border hover:border-foreground transition-colors"
+            >
+              <RefreshCw className="w-4 h-4" />
+              Update News
+            </button>
           </div>
         </div>
       </section>
 
       {/* News Grid */}
-      <section className="py-12">
-        <div className="max-w-6xl mx-auto px-6">
-          {!filteredNews || filteredNews.length === 0 ? (
-            <div className="text-center py-16">
-              <p className="text-muted-foreground">No news items found.</p>
-            </div>
-          ) : (
+      <section>
+        <div className="max-w-6xl mx-auto px-6 py-16">
+          {filteredNews && filteredNews.length > 0 ? (
             <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
               {filteredNews.map((item) => (
                 <a
@@ -141,46 +103,57 @@ export default function News() {
                   href={item.url}
                   target="_blank"
                   rel="noopener noreferrer"
-                  className="group block"
+                  className="group"
                 >
-                  {item.imageUrl && (
-                    <div className="aspect-[16/9] bg-muted mb-4 overflow-hidden">
-                      <img
-                        src={item.imageUrl}
-                        alt={item.title}
-                        className="w-full h-full object-cover transition-transform duration-300 group-hover:scale-105"
-                      />
-                    </div>
-                  )}
-                  
-                  <div className="space-y-2">
-                    <p className="text-xs uppercase tracking-wider text-muted-foreground">
-                      {item.source}
-                    </p>
-                    <h3 className="text-xl font-bold leading-tight group-hover:opacity-60 transition-opacity">
-                      {item.title}
-                    </h3>
-                    {item.description && (
-                      <p className="text-sm text-muted-foreground line-clamp-3">
-                        {item.description}
-                      </p>
+                  <article className="space-y-3">
+                    {item.imageUrl && (
+                      <div className="aspect-[16/9] overflow-hidden bg-muted">
+                        <img
+                          src={item.imageUrl}
+                          alt={item.title}
+                          className="w-full h-full object-cover group-hover:opacity-80 transition-opacity"
+                        />
+                      </div>
                     )}
-                    <p className="text-xs text-muted-foreground">
-                      {new Date(item.publishedAt).toLocaleDateString()}
-                    </p>
-                  </div>
+                    <div>
+                      {item.source && (
+                        <span className="text-xs font-medium uppercase tracking-wide text-muted-foreground">
+                          {item.source}
+                        </span>
+                      )}
+                      <h3 className="text-lg font-bold mt-2 mb-2 group-hover:opacity-60 transition-opacity">
+                        {item.title}
+                      </h3>
+                      {item.description && (
+                        <p className="text-sm text-muted-foreground line-clamp-3">
+                          {item.description}
+                        </p>
+                      )}
+                      <time className="text-xs text-muted-foreground mt-2 block">
+                        {new Date(item.publishedAt).toLocaleDateString("en-US", {
+                          year: "numeric",
+                          month: "long",
+                          day: "numeric",
+                        })}
+                      </time>
+                    </div>
+                  </article>
                 </a>
               ))}
+            </div>
+          ) : (
+            <div className="text-center py-16">
+              <p className="text-muted-foreground">No news items found for this category.</p>
             </div>
           )}
         </div>
       </section>
 
       {/* Footer */}
-      <footer className="border-t border-border mt-24">
+      <footer className="bg-muted/30 border-t border-border">
         <div className="max-w-6xl mx-auto px-6 py-12">
           <div className="text-center text-sm text-muted-foreground">
-            <p>© 2026 AI Education Research. Curated insights for K-12 educators.</p>
+            <p>© 2026 AI Education Research Hub</p>
           </div>
         </div>
       </footer>

@@ -5,22 +5,39 @@ import { useState } from "react";
 import { toast } from "sonner";
 
 export default function Admin() {
-  const [isUpdating, setIsUpdating] = useState(false);
-  const { data: feedConfig } = trpc.rss.getFeedConfig.useQuery();
-  const updateFeeds = trpc.rss.updateFeeds.useMutation();
+  const [isFetchingNews, setIsFetchingNews] = useState(false);
+  const [isFetchingResearch, setIsFetchingResearch] = useState(false);
+  
+  const fetchNews = trpc.news.fetch.useMutation();
+  const fetchResearch = trpc.research.fetch.useMutation();
 
-  const handleUpdateFeeds = async () => {
-    setIsUpdating(true);
+  const handleFetchNews = async () => {
+    setIsFetchingNews(true);
     try {
-      const result = await updateFeeds.mutateAsync();
+      const result = await fetchNews.mutateAsync();
       toast.success(
-        `RSS Update Complete: ${result.totalSaved} new items from ${result.totalFetched} fetched`
+        `News Fetch Complete: ${result.added} new articles, ${result.skipped} duplicates skipped`
       );
     } catch (error) {
-      toast.error("Failed to update RSS feeds");
+      toast.error("Failed to fetch news");
       console.error(error);
     } finally {
-      setIsUpdating(false);
+      setIsFetchingNews(false);
+    }
+  };
+
+  const handleFetchResearch = async () => {
+    setIsFetchingResearch(true);
+    try {
+      const result = await fetchResearch.mutateAsync();
+      toast.success(
+        `Research Fetch Complete: ${result.added} new papers, ${result.skipped} duplicates skipped`
+      );
+    } catch (error) {
+      toast.error("Failed to fetch research papers");
+      console.error(error);
+    } finally {
+      setIsFetchingResearch(false);
     }
   };
 
@@ -58,79 +75,87 @@ export default function Admin() {
       {/* Page Header */}
       <section className="border-b border-border">
         <div className="max-w-6xl mx-auto px-6 py-16">
-          <h1 className="text-5xl font-bold mb-4">RSS Feed Management</h1>
+          <h1 className="text-5xl font-bold mb-4">Content Management</h1>
           <p className="text-lg text-muted-foreground">
-            Manage and update RSS feeds from top research institutions
+            Fetch latest news and research papers from universities and academic sources
           </p>
         </div>
       </section>
 
-      {/* RSS Update Section */}
+      {/* Fetch Controls */}
       <section className="border-b border-border">
         <div className="max-w-6xl mx-auto px-6 py-12">
-          <div className="flex items-center justify-between mb-8">
-            <div>
-              <h2 className="text-2xl font-bold mb-2">Update All Feeds</h2>
-              <p className="text-muted-foreground">
-                Fetch latest articles from all configured RSS sources
+          <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
+            {/* News Fetch */}
+            <div className="border border-border p-8">
+              <h2 className="text-2xl font-bold mb-2">University News</h2>
+              <p className="text-muted-foreground mb-6">
+                Fetch latest AI and education news from top 30 US universities
+              </p>
+              <Button
+                onClick={handleFetchNews}
+                disabled={isFetchingNews}
+                className="w-full py-6 text-base"
+              >
+                {isFetchingNews ? "Fetching News..." : "Fetch Latest News"}
+              </Button>
+              <p className="text-xs text-muted-foreground mt-4">
+                Sources: MIT, Stanford, Harvard, Berkeley, CMU, and 25+ more universities
               </p>
             </div>
-            <Button
-              onClick={handleUpdateFeeds}
-              disabled={isUpdating}
-              className="px-8 py-6 text-base"
-            >
-              {isUpdating ? "Updating..." : "Update Now"}
-            </Button>
-          </div>
 
-          {feedConfig && (
-            <div className="bg-muted/30 border border-border p-6">
-              <p className="text-sm">
-                <span className="font-semibold">Total RSS Sources:</span> {feedConfig.totalCount}
+            {/* Research Fetch */}
+            <div className="border border-border p-8">
+              <h2 className="text-2xl font-bold mb-2">Research Papers</h2>
+              <p className="text-muted-foreground mb-6">
+                Fetch peer-reviewed papers from Semantic Scholar and ERIC
               </p>
-              <p className="text-xs text-muted-foreground mt-2">
-                Sources include Stanford, MIT, Harvard, OpenAI, DeepMind, and {feedConfig.totalCount - 5} more
+              <Button
+                onClick={handleFetchResearch}
+                disabled={isFetchingResearch}
+                className="w-full py-6 text-base"
+              >
+                {isFetchingResearch ? "Fetching Research..." : "Fetch Latest Research"}
+              </Button>
+              <p className="text-xs text-muted-foreground mt-4">
+                Topics: AI in education, LLMs for learning, educational technology
               </p>
             </div>
-          )}
+          </div>
         </div>
       </section>
 
-      {/* Feed List */}
+      {/* Info Section */}
       <section>
         <div className="max-w-6xl mx-auto px-6 py-12">
-          <h2 className="text-2xl font-bold mb-8">Configured RSS Feeds</h2>
+          <h2 className="text-2xl font-bold mb-8">Data Sources</h2>
           
-          {feedConfig && feedConfig.feeds.length > 0 ? (
-            <div className="space-y-4">
-              {feedConfig.feeds.map((feed, idx) => (
-                <div
-                  key={idx}
-                  className="border border-border p-6 hover:border-foreground transition-colors"
-                >
-                  <div className="flex items-start justify-between">
-                    <div>
-                      <h3 className="font-bold mb-1">{feed.name}</h3>
-                      <p className="text-sm text-muted-foreground mb-2">{feed.url}</p>
-                      <div className="flex items-center gap-4 text-xs">
-                        <span className="px-2 py-1 bg-muted border border-border">
-                          {feed.category}
-                        </span>
-                        <span className="px-2 py-1 bg-muted border border-border">
-                          {feed.language === "en" ? "English" : "中文"}
-                        </span>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-              ))}
+          <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
+            <div className="border border-border p-6">
+              <h3 className="font-bold mb-4">News Sources (30+ Universities)</h3>
+              <ul className="text-sm text-muted-foreground space-y-2">
+                <li>• MIT News (AI + Education topics)</li>
+                <li>• Stanford HAI & SAIL</li>
+                <li>• Harvard Gazette</li>
+                <li>• Berkeley News & BAIR</li>
+                <li>• Carnegie Mellon</li>
+                <li>• Princeton, Yale, Columbia, UChicago</li>
+                <li>• Northwestern, Duke, Cornell, Penn</li>
+                <li>• And 15+ more top universities</li>
+              </ul>
             </div>
-          ) : (
-            <div className="text-center py-16">
-              <p className="text-muted-foreground">No RSS feeds configured</p>
+
+            <div className="border border-border p-6">
+              <h3 className="font-bold mb-4">Research Sources</h3>
+              <ul className="text-sm text-muted-foreground space-y-2">
+                <li>• Semantic Scholar API</li>
+                <li>• ERIC (Education Resources Information Center)</li>
+                <li>• Peer-reviewed papers only</li>
+                <li>• AI + Education intersection</li>
+                <li>• LLMs, educational technology, learning analytics</li>
+              </ul>
             </div>
-          )}
+          </div>
         </div>
       </section>
 

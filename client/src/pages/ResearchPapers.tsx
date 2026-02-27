@@ -68,9 +68,9 @@ export default function ResearchPapers() {
             {categories?.map((category) => (
               <button
                 key={category.id}
-                onClick={() => setCategoryFilter(category.id.toString())}
+                onClick={() => setCategoryFilter(category.name)}
                 className={`px-4 py-2 ${
-                  categoryFilter === category.id.toString()
+                  categoryFilter === category.name
                     ? "bg-black text-white"
                     : "bg-white text-black border border-gray-300"
                 }`}

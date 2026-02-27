@@ -295,3 +295,10 @@
 - [x] Restore Latest Updates section with image card layout (3-column grid)
 - [x] Keep News and Research sections prominent but adjust layout
 - [x] Ensure Latest Updates shows news with images in card format
+
+## Research Paper Topic Classification (Urgent)
+- [x] Check if research_papers table has topic field populated
+- [x] Implement topic assignment logic in fetchResearch.ts
+- [x] Map papers to categories (AI Education, Robotics, Data Science, etc.)
+- [x] Update Research page to show papers filtered by topic
+- [x] Test that papers appear in their respective topic pages

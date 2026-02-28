@@ -78,7 +78,7 @@ export default function Home() {
         <div className="max-w-6xl mx-auto px-6 py-8">
           <div className="flex flex-wrap gap-3 justify-center">
             {categories?.map((cat) => (
-              <Link key={cat.id} href={`/category/${cat.slug}`}>
+              <Link key={cat.id} href={`/research?topic=${encodeURIComponent(cat.name)}`}>
                 <span className="inline-block px-4 py-2 text-sm border border-border hover:border-foreground hover:bg-secondary/50 transition-all cursor-pointer">
                   {cat.name}
                 </span>

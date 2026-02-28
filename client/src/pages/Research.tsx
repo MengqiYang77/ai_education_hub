@@ -1,8 +1,8 @@
 import { trpc } from "@/lib/trpc";
-import { useState } from "react";
+import { useState, useEffect } from "react";
 import { Input } from "@/components/ui/input";
 import { Search, ExternalLink, FileText, RefreshCw } from "lucide-react";
-import { Link } from "wouter";
+import { Link, useSearch } from "wouter";
 
 const TOPICS = ["All Topics", "AI Education", "Robotics", "Data Science", "Human Skills", "Policy & Ethics"];
 
@@ -40,11 +40,23 @@ function formatDate(dateStr: string | Date): string {
 }
 
 export default function Research() {
-  const [activeTopic, setActiveTopic] = useState("All Topics");
+  const searchString = useSearch();
+  const urlTopic = new URLSearchParams(searchString).get("topic") ?? "";
+  const initialTopic = TOPICS.includes(urlTopic) ? urlTopic : "All Topics";
+
+  const [activeTopic, setActiveTopic] = useState(initialTopic);
   const [searchQuery, setSearchQuery] = useState("");
   const [searchInput, setSearchInput] = useState("");
   const [isFetching, setIsFetching] = useState(false);
   const [fetchMsg, setFetchMsg] = useState("");
+
+  // Sync activeTopic when URL query param changes (e.g. navigating from Home)
+  useEffect(() => {
+    const t = new URLSearchParams(searchString).get("topic") ?? "";
+    setActiveTopic(TOPICS.includes(t) ? t : "All Topics");
+    setSearchQuery("");
+    setSearchInput("");
+  }, [searchString]);
 
   const topicParam = activeTopic === "All Topics" ? undefined : activeTopic;
 

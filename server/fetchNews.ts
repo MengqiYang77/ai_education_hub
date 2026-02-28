@@ -115,9 +115,7 @@ interface ParsedItem {
 
 function parseRss(xml: string): ParsedItem[] {
   const items: ParsedItem[] = [];
-  const itemMatches = xml.matchAll(/<item>([\s\S]*?)<\/item>/g);
-
-  for (const [, item] of itemMatches) {
+  for (const [, item] of Array.from(xml.matchAll(/<item>([\s\S]*?)<\/item>/g))) {
     const title = cleanText(
       extractCdata(item, "title") || extractTag(item, "title") || ""
     );

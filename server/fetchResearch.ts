@@ -176,7 +176,7 @@ async function fetchArxivPublished(): Promise<Array<{
       if (!res.ok) continue;
       const xml = await res.text();
 
-      for (const [, entry] of xml.matchAll(/<entry>([\s\S]*?)<\/entry>/g)) {
+      for (const [, entry] of Array.from(xml.matchAll(/<entry>([\s\S]*?)<\/entry>/g))) {
         // Only published papers have journal_ref
         const journalRef = entry.match(/<arxiv:journal_ref>([\s\S]*?)<\/arxiv:journal_ref>/)?.[1]?.trim();
         if (!journalRef) continue;
@@ -185,7 +185,7 @@ async function fetchArxivPublished(): Promise<Array<{
         const title = cleanText(entry.match(/<title>([\s\S]*?)<\/title>/)?.[1] || "");
         const abstract = cleanText(entry.match(/<summary>([\s\S]*?)<\/summary>/)?.[1] || "");
         const published = entry.match(/<published>(.*?)<\/published>/)?.[1] || "";
-        const authors = [...entry.matchAll(/<name>(.*?)<\/name>/g)].map(m => m[1].trim());
+        const authors = Array.from(entry.matchAll(/<name>(.*?)<\/name>/g)).map(m => m[1].trim());
 
         if (title && matchesEduFilter(title, abstract)) {
           results.push({ title, abstract, authors, published, journalRef,

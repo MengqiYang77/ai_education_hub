@@ -12,6 +12,7 @@ export default function Admin() {
   
   const fetchNews = trpc.news.fetch.useMutation();
   const fetchResearch = trpc.research.fetch.useMutation();
+  const { data: stats, refetch: refetchStats } = trpc.news.stats.useQuery();
 
   const handleFetchNews = async () => {
     setIsFetchingNews(true);
@@ -21,6 +22,7 @@ export default function Admin() {
       toast.success(
         `News Fetch Complete: ${result.added} new articles, ${result.skipped} duplicates skipped`
       );
+      refetchStats();
     } catch (error) {
       toast.error("Failed to fetch news");
       console.error(error);
@@ -37,6 +39,7 @@ export default function Admin() {
       toast.success(
         `Research Fetch Complete: ${result.added} new papers, ${result.skipped} duplicates skipped`
       );
+      refetchStats();
     } catch (error) {
       toast.error("Failed to fetch research papers");
       console.error(error);
@@ -83,6 +86,27 @@ export default function Admin() {
           <p className="text-lg text-muted-foreground">
             Fetch latest news and research papers from universities and academic sources
           </p>
+        </div>
+      </section>
+
+      {/* Database Statistics */}
+      <section className="border-b border-border">
+        <div className="max-w-6xl mx-auto px-6 py-10">
+          <h2 className="text-xl font-bold mb-6">Database Statistics</h2>
+          <div className="grid grid-cols-2 gap-6 max-w-sm">
+            <div className="border border-border p-6 text-center">
+              <div className="text-4xl font-bold mb-1">
+                {stats ? stats.newsCount.toLocaleString() : "—"}
+              </div>
+              <div className="text-sm text-muted-foreground">News Articles</div>
+            </div>
+            <div className="border border-border p-6 text-center">
+              <div className="text-4xl font-bold mb-1">
+                {stats ? stats.researchCount.toLocaleString() : "—"}
+              </div>
+              <div className="text-sm text-muted-foreground">Research Papers</div>
+            </div>
+          </div>
         </div>
       </section>
 

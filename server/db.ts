@@ -244,3 +244,19 @@ export async function triggerNewsFetch(): Promise<{ added: number; skipped: numb
   const { fetchAndStoreUniversityNews } = await import("./fetchNews");
   return fetchAndStoreUniversityNews();
 }
+
+export async function getDbStats(): Promise<{
+  newsCount: number;
+  researchCount: number;
+}> {
+  const db = await getDb();
+  if (!db) return { newsCount: 0, researchCount: 0 };
+
+  const [newsRows] = await db.select({ count: sql<number>`count(*)` }).from(newsItems);
+  const [researchRows] = await db.select({ count: sql<number>`count(*)` }).from(researchPapers);
+
+  return {
+    newsCount: Number(newsRows.count),
+    researchCount: Number(researchRows.count),
+  };
+}

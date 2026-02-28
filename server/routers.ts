@@ -67,6 +67,11 @@ export const appRouter = router({
       const { triggerNewsFetch } = await import("./db");
       return triggerNewsFetch();
     }),
+    // Database statistics
+    stats: publicProcedure.query(async () => {
+      const { getDbStats } = await import("./db");
+      return getDbStats();
+    }),
   }),
 
   research: router({

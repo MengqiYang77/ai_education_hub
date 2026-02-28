@@ -70,10 +70,15 @@ const RSS_SOURCES: RssSource[] = [
   { name: "EdTech Innovation",  url: "https://www.edtechinnovationhub.com/feed" },
 
   // ── 中文教育AI新闻源（China tab） ──
-  { name: "澎湃教育",            url: "https://rsshub.app/thepaper/list/25457",          language: "zh" },
-  { name: "教育部官网",           url: "https://rsshub.app/moe/news",                    language: "zh" },
-  { name: "36Kr科技",            url: "https://rsshub.app/36kr/news/technology-and-science", language: "zh" },
-  { name: "中国教育报",           url: "https://rsshub.app/jyb/zgjyb",                  language: "zh" },
+  // 澎湃教育: rssforever instance works (200 + items)
+  { name: "澎湃教育",            url: "https://rsshub.rssforever.com/thepaper/list/25457", language: "zh" },
+  // feedx.net 澎湃全站 (200 + items, general news — filtered by keywords)
+  { name: "澎湃新闻",            url: "https://feedx.net/rss/thepaper.xml",              language: "zh" },
+  // 36Kr direct native RSS (200 + items)
+  { name: "36Kr科技",            url: "https://36kr.com/feed",                           language: "zh" },
+  // 教育部 & 中国教育报: all tested instances returned 503/404/TLS error — kept as placeholders
+  // { name: "教育部官网",        url: "https://rsshub.rssforever.com/moe/news",          language: "zh" },
+  // { name: "中国教育报",        url: "https://rsshub.rssforever.com/jyb/zgjyb",         language: "zh" },
 ];
 
 // ─── Education + AI keyword filter ─────────────────────────────────────────────
@@ -104,7 +109,7 @@ function isRelevant(title: string, description: string): boolean {
 const SPECIALIST_SOURCES = new Set(["EdSurge", "EDUCAUSE", "EdTech Magazine", "Stanford HAI",
   "Stanford SAIL", "Harvard GSE", "CMU ML Blog", "Berkeley BAIR", "EdTech Innovation",
   // Chinese sources — all content is relevant by definition
-  "澎湃教育", "教育部官网", "36Kr科技", "中国教育报"]);
+  "澎湃教育", "澎湃新闻", "36Kr科技", "教育部官网", "中国教育报"]);
 
 function isRelevantForSource(sourceName: string, title: string, description: string): boolean {
   if (SPECIALIST_SOURCES.has(sourceName)) return true;

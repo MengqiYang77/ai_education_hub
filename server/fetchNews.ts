@@ -165,13 +165,28 @@ function extractCdata(xml: string, tag: string): string | null {
 }
 
 function cleanText(t: string): string {
-  return t
-    .replace(/<!\[CDATA\[[\s\S]*?\]\]>/g, (m) => m.replace(/<!\[CDATA\[|\]\]>/g, ""))
-    .replace(/<[^>]+>/g, " ")  // strip all HTML tags
-    .replace(/&amp;/g, "&").replace(/&lt;/g, "<")
-    .replace(/&gt;/g, ">").replace(/&quot;/g, '"')
-    .replace(/&#\d+;/g, "").replace(/&nbsp;/g, " ")
-    .replace(/\s+/g, " ").trim();
+  let s = t;
+  // Step 1: unwrap CDATA
+  s = s.replace(/<!\[CDATA\[([\s\S]*?)\]\]>/g, "$1");
+  // Step 2: decode HTML entities FIRST (so &lt;p&gt; becomes <p>)
+  s = s.replace(/&lt;/g, "<");
+  s = s.replace(/&gt;/g, ">");
+  s = s.replace(/&amp;/g, "&");
+  s = s.replace(/&quot;/g, '"');
+  s = s.replace(/&apos;/g, "'");
+  s = s.replace(/&nbsp;/g, " ");
+  s = s.replace(/&#x([0-9a-fA-F]+);/g, (_, h) => String.fromCharCode(parseInt(h, 16)));
+  s = s.replace(/&#(\d+);/g, (_, d) => String.fromCharCode(parseInt(d, 10)));
+  // Step 3: strip all HTML tags
+  s = s.replace(/<[^>]+>/g, " ");
+  // Step 4: decode any remaining entities after stripping
+  s = s.replace(/&lt;/g, "<");
+  s = s.replace(/&gt;/g, ">");
+  s = s.replace(/&amp;/g, "&");
+  s = s.replace(/&quot;/g, '"');
+  // Step 5: clean whitespace
+  s = s.replace(/\s+/g, " ");
+  return s.trim();
 }
 
 function sleep(ms: number) { return new Promise(r => setTimeout(r, ms)); }

@@ -26,7 +26,7 @@ import { newsItems, InsertNewsItem } from "../drizzle/schema";
 interface RssSource {
   name: string;
   url: string;
-  // If provided, only this category slug will be used for categoryId lookup
+  language?: string; // e.g. 'zh' for Chinese sources
 }
 
 const RSS_SOURCES: RssSource[] = [
@@ -36,18 +36,18 @@ const RSS_SOURCES: RssSource[] = [
   // Stanford main feed returns 403, using HAI feed only
   { name: "Stanford HAI",       url: "https://hai.stanford.edu/rss.xml" },
   { name: "Stanford SAIL",      url: "https://ai.stanford.edu/blog/feed.xml" },
-  { name: "Harvard Gazette",    url: "https://news.harvard.edu/gazette/feed" },
+  { name: "Harvard Gazette",    url: "https://news.harvard.edu/gazette/feed/" },
   // Harvard GSE feed removed (404), using main Harvard Gazette
   { name: "Carnegie Mellon",    url: "https://www.cmu.edu/news/rss/news.xml" },
   // CMU ML Blog timeout, using main CMU news feed
   { name: "Berkeley BAIR",      url: "https://bair.berkeley.edu/blog/feed.xml" },
   { name: "Berkeley News",      url: "https://news.berkeley.edu/feed" },
-  { name: "Princeton",          url: "https://www.princeton.edu/feed/news" },
-  { name: "Yale News",          url: "https://news.yale.edu/feed" },
-  { name: "Columbia",           url: "https://news.columbia.edu/feed" },
+  { name: "Princeton",          url: "https://www.princeton.edu/feed" },
+  { name: "Yale News",          url: "https://news.yale.edu/rss.xml" },
+  { name: "Columbia",           url: "https://news.columbia.edu/rss.xml" },
   { name: "UChicago",           url: "https://news.uchicago.edu/rss.xml" },
   { name: "Northwestern",       url: "https://www.northwestern.edu/newscenter/rss/news.xml" },
-  { name: "Duke",               url: "https://today.duke.edu/rss.xml" },
+  { name: "Duke",               url: "https://duke.edu/feed/" },
   { name: "Johns Hopkins",      url: "https://hub.jhu.edu/feed" },
   { name: "Cornell",            url: "https://news.cornell.edu/feed" },
   { name: "Penn",               url: "https://penntoday.upenn.edu/feed" },
@@ -56,7 +56,7 @@ const RSS_SOURCES: RssSource[] = [
   { name: "Michigan",           url: "https://news.umich.edu/feed" },
   { name: "UCLA",               url: "https://newsroom.ucla.edu/rss.xml" },
   { name: "NYU",                url: "https://www.nyu.edu/about/news-publications/news.rss" },
-  { name: "Georgia Tech",       url: "https://news.gatech.edu/feed" },
+  { name: "Georgia Tech",       url: "https://news.gatech.edu/rss.xml" },
   { name: "Caltech",            url: "https://www.caltech.edu/rss/news.xml" },
   { name: "Notre Dame",         url: "https://news.nd.edu/feed" },
   { name: "Georgetown",         url: "https://www.georgetown.edu/news/feed" },
@@ -68,6 +68,12 @@ const RSS_SOURCES: RssSource[] = [
   { name: "EdTech Magazine",    url: "https://edtechmagazine.com/higher/rss.xml" },
   { name: "THE",                url: "https://www.timeshighereducation.com/news/rss.xml" },
   { name: "EdTech Innovation",  url: "https://www.edtechinnovationhub.com/feed" },
+
+  // ── 中文教育AI新闻源（China tab） ──
+  { name: "澎湃教育",            url: "https://rsshub.app/thepaper/list/25457",          language: "zh" },
+  { name: "教育部官网",           url: "https://rsshub.app/moe/news",                    language: "zh" },
+  { name: "36Kr科技",            url: "https://rsshub.app/36kr/news/technology-and-science", language: "zh" },
+  { name: "中国教育报",           url: "https://rsshub.app/jyb/zgjyb",                  language: "zh" },
 ];
 
 // ─── Education + AI keyword filter ─────────────────────────────────────────────
@@ -96,7 +102,9 @@ function isRelevant(title: string, description: string): boolean {
 
 // Specialist sources — everything they publish is relevant
 const SPECIALIST_SOURCES = new Set(["EdSurge", "EDUCAUSE", "EdTech Magazine", "Stanford HAI",
-  "Stanford SAIL", "Harvard GSE", "CMU ML Blog", "Berkeley BAIR", "EdTech Innovation"]);
+  "Stanford SAIL", "Harvard GSE", "CMU ML Blog", "Berkeley BAIR", "EdTech Innovation",
+  // Chinese sources — all content is relevant by definition
+  "澎湃教育", "教育部官网", "36Kr科技", "中国教育报"]);
 
 function isRelevantForSource(sourceName: string, title: string, description: string): boolean {
   if (SPECIALIST_SOURCES.has(sourceName)) return true;
@@ -236,6 +244,7 @@ export async function fetchAndStoreUniversityNews(): Promise<{ added: number; sk
         url: item.url.slice(0, 500),
         imageUrl: item.imageUrl?.slice(0, 500) || null,
         source: source.name,
+        language: source.language || null,
         categoryId: null, // Could be enriched later
         publishedAt: item.publishedAt,
       };

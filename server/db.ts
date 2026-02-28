@@ -1,6 +1,6 @@
 import { eq, desc, like, or, and, sql } from "drizzle-orm";
 import { drizzle } from "drizzle-orm/mysql2";
-import { InsertUser, users, categories, curatedContent, newsItems, tools, Category, CuratedContent, NewsItem, Tool } from "../drizzle/schema";
+import { InsertUser, users, categories, curatedContent, newsItems, tools, Category, CuratedContent, NewsItem, Tool, researchPapers, ResearchPaper, InsertResearchPaper } from "../drizzle/schema";
 import { ENV } from './_core/env';
 
 let _db: ReturnType<typeof drizzle> | null = null;
@@ -212,7 +212,7 @@ export async function incrementToolViewCount(id: number): Promise<void> {
 }
 
 // ============ Research Papers ============
-import { researchPapers, ResearchPaper } from "../drizzle/schema";
+
 
 export async function getRecentResearchPapers(limit: number = 20, topic?: string): Promise<ResearchPaper[]> {
   const db = await getDb();

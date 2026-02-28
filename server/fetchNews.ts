@@ -70,18 +70,18 @@ const RSS_SOURCES: RssSource[] = [
   { name: "EdTech Innovation",  url: "https://www.edtechinnovationhub.com/feed" },
 
   // ── 中文教育AI新闻源（China tab） ──
-  // 澎湃教育: rssforever instance works (200 + items)
-  { name: "澎湃教育",            url: "https://rsshub.rssforever.com/thepaper/list/25457", language: "zh" },
-  // feedx.net 澎湃全站 (200 + items, general news — filtered by keywords)
+  // feedx.net 澎湃全站 (general news — filtered by AI+edu keywords)
   { name: "澎湃新闻",            url: "https://feedx.net/rss/thepaper.xml",              language: "zh" },
-  // 36Kr direct native RSS (200 + items)
+  // 36Kr direct native RSS
   { name: "36Kr科技",            url: "https://36kr.com/feed",                           language: "zh" },
-  // 教育部 & 中国教育报: all tested instances returned 503/404/TLS error — kept as placeholders
+  // AI专业媒体 — 只需含教育关键词即可（本身就是AI媒体）
+  { name: "量子位",              url: "https://www.qbitai.com/feed",                     language: "zh" },
+  { name: "雷锋网",              url: "https://www.leiphone.com/feed",                   language: "zh" },
+  // 澎湃教育 rssforever: consistently timing out — removed until a stable instance is found
+  // { name: "澎湃教育",          url: "https://rsshub.rssforever.com/thepaper/list/25457", language: "zh" },
+  // 教育部 & 中国教育报: all instances returned 503/404 — kept as placeholders
   // { name: "教育部官网",        url: "https://rsshub.rssforever.com/moe/news",          language: "zh" },
   // { name: "中国教育报",        url: "https://rsshub.rssforever.com/jyb/zgjyb",         language: "zh" },
-  // AI专业媒体 — 只需含教育关键词即可
-  { name: "机器之心",            url: "https://www.jiqizhixin.com/rss",                  language: "zh" },
-  { name: "雷锋网",              url: "https://www.leiphone.com/feed",                   language: "zh" },
 ];
 
 // ─── Education + AI keyword filter ─────────────────────────────────────────────
@@ -114,7 +114,7 @@ const AI_KEYWORDS_ZH = ['人工智能', 'AI', 'ai', '机器学习', '深度学�
 const EDU_KEYWORDS_ZH = ['教育', '学习', '课程', '学校', '大学', '高校', '教学', '培训', '学生', '老师', '教师', '课堂', '学院'];
 
 // AI专业媒体 — 只需包含教育关键词（本身就是AI媒体，无需再过滤AI关键词）
-const AI_ONLY_SOURCES = new Set(['机器之心', '雷锋网']);
+const AI_ONLY_SOURCES = new Set(['量子位', '雷锋网']);
 // 教育专栏 — 只需包含AI关键词（本身就是教育频道，无需再过滤教育关键词）
 const EDU_ONLY_SOURCES = new Set(['澎湃教育']);
 
@@ -139,7 +139,7 @@ const SPECIALIST_SOURCES = new Set(["EdSurge", "EDUCAUSE", "EdTech Magazine", "S
   "Stanford SAIL", "Harvard GSE", "CMU ML Blog", "Berkeley BAIR", "EdTech Innovation"]);
 
 // Chinese sources — use isRelevantZh() filter
-const CHINESE_SOURCES = new Set(["澎湃教育", "澎湃新闻", "36Kr科技", "机器之心", "雷锋网", "教育部官网", "中国教育报"]);
+const CHINESE_SOURCES = new Set(["澎湃教育", "澎湃新闻", "36Kr科技", "量子位", "雷锋网", "教育部官网", "中国教育报"]);
 
 function isRelevantForSource(sourceName: string, title: string, description: string): boolean {
   if (CHINESE_SOURCES.has(sourceName)) return isRelevantZh(sourceName, title, description);

@@ -12,6 +12,7 @@ import Search from "./pages/Search";
 import Admin from "./pages/Admin";
 import ResearchPapers from "./pages/ResearchPapers";
 import ResourceDetail from "./pages/ResourceDetail";
+import Topic from "./pages/Topic";
 
 function Router() {
   // make sure to consider if you need authentication for certain routes
@@ -25,6 +26,7 @@ function Router() {
       <Route path={"/admin"} component={Admin} />
       <Route path={"/research"} component={ResearchPapers} />
       <Route path={"/resource/:slug"} component={ResourceDetail} />
+      <Route path={"/topic/:topicName"} component={Topic} />
       <Route path={"/404"} component={NotFound} />
       {/* Final fallback route */}
       <Route component={NotFound} />

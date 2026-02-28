@@ -180,6 +180,23 @@ export async function getNewsByCategory(categoryId: number, limit: number = 10):
   return db.select().from(newsItems).where(eq(newsItems.categoryId, categoryId)).orderBy(desc(newsItems.publishedAt)).limit(limit);
 }
 
+export async function getNewsByTopic(keyword: string, limit: number = 8): Promise<NewsItem[]> {
+  const db = await getDb();
+  if (!db) return [];
+  return db.select().from(newsItems)
+    .where(
+      and(
+        or(isNull(newsItems.language), ne(newsItems.language, 'zh')),
+        or(
+          like(newsItems.title, `%${keyword}%`),
+          like(newsItems.description, `%${keyword}%`)
+        )
+      )
+    )
+    .orderBy(desc(newsItems.publishedAt))
+    .limit(limit);
+}
+
 // ============ Tools ============
 export async function getAllTools(): Promise<Tool[]> {
   const db = await getDb();

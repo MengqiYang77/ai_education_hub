@@ -79,6 +79,13 @@ export const appRouter = router({
       const { getDbStats } = await import("./db");
       return getDbStats();
     }),
+    // Topic page: search news by keyword in title/description
+    byTopic: publicProcedure
+      .input(z.object({ keyword: z.string(), limit: z.number().default(8) }))
+      .query(async ({ input }) => {
+        const { getNewsByTopic } = await import("./db");
+        return getNewsByTopic(input.keyword, input.limit);
+      }),
   }),
 
   research: router({
@@ -99,6 +106,13 @@ export const appRouter = router({
       const { triggerResearchFetch } = await import("./db");
       return triggerResearchFetch();
     }),
+    // Topic page: filter research papers by topic field
+    byTopic: publicProcedure
+      .input(z.object({ topic: z.string(), limit: z.number().default(8) }))
+      .query(async ({ input }) => {
+        const { getRecentResearchPapers } = await import("./db");
+        return getRecentResearchPapers(input.limit, input.topic);
+      }),
   }),
 
   tools: router({

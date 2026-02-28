@@ -1,4 +1,4 @@
-import { eq, desc, like, or, and, sql } from "drizzle-orm";
+import { eq, desc, like, or, and, sql, ne, isNull } from "drizzle-orm";
 import { drizzle } from "drizzle-orm/mysql2";
 import { InsertUser, users, categories, curatedContent, newsItems, tools, Category, CuratedContent, NewsItem, Tool, researchPapers, ResearchPaper, InsertResearchPaper } from "../drizzle/schema";
 import { ENV } from './_core/env';
@@ -158,7 +158,11 @@ export async function incrementContentViewCount(id: number): Promise<void> {
 export async function getRecentNews(limit: number = 10): Promise<NewsItem[]> {
   const db = await getDb();
   if (!db) return [];
-  return db.select().from(newsItems).orderBy(desc(newsItems.publishedAt)).limit(limit);
+  // Global tab: exclude Chinese-language articles (those go to the China tab)
+  return db.select().from(newsItems)
+    .where(or(isNull(newsItems.language), ne(newsItems.language, 'zh')))
+    .orderBy(desc(newsItems.publishedAt))
+    .limit(limit);
 }
 
 export async function getNewsByLanguage(language: string, limit: number = 30): Promise<NewsItem[]> {

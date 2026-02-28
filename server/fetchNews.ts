@@ -105,13 +105,27 @@ function isRelevant(title: string, description: string): boolean {
   return hasAI && hasEdu;
 }
 
-// Specialist sources — everything they publish is relevant
+// ─── Chinese keyword filter ────────────────────────────────────────────────────
+
+const AI_KEYWORDS_ZH = ['人工智能', 'AI', 'ai', '机器学习', '深度学习', '大模型', '智能', 'ChatGPT', 'GPT', '算法', '自动化', '机器人'];
+const EDU_KEYWORDS_ZH = ['教育', '学习', '课程', '学校', '大学', '高校', '教学', '培训', '学生', '老师', '教师', '课堂', '学院'];
+
+function isRelevantZh(title: string, description: string): boolean {
+  const text = title + ' ' + description;
+  const hasAI = AI_KEYWORDS_ZH.some(k => text.includes(k));
+  const hasEdu = EDU_KEYWORDS_ZH.some(k => text.includes(k));
+  return hasAI && hasEdu;
+}
+
+// Specialist sources — everything they publish is relevant (English only)
 const SPECIALIST_SOURCES = new Set(["EdSurge", "EDUCAUSE", "EdTech Magazine", "Stanford HAI",
-  "Stanford SAIL", "Harvard GSE", "CMU ML Blog", "Berkeley BAIR", "EdTech Innovation",
-  // Chinese sources — all content is relevant by definition
-  "澎湃教育", "澎湃新闻", "36Kr科技", "教育部官网", "中国教育报"]);
+  "Stanford SAIL", "Harvard GSE", "CMU ML Blog", "Berkeley BAIR", "EdTech Innovation"]);
+
+// Chinese sources — use isRelevantZh() filter
+const CHINESE_SOURCES = new Set(["澎湃教育", "澎湃新闻", "36Kr科技", "教育部官网", "中国教育报"]);
 
 function isRelevantForSource(sourceName: string, title: string, description: string): boolean {
+  if (CHINESE_SOURCES.has(sourceName)) return isRelevantZh(title, description);
   if (SPECIALIST_SOURCES.has(sourceName)) return true;
   return isRelevant(title, description);
 }

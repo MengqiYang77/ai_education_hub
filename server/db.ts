@@ -161,6 +161,15 @@ export async function getRecentNews(limit: number = 10): Promise<NewsItem[]> {
   return db.select().from(newsItems).orderBy(desc(newsItems.publishedAt)).limit(limit);
 }
 
+export async function getNewsByLanguage(language: string, limit: number = 30): Promise<NewsItem[]> {
+  const db = await getDb();
+  if (!db) return [];
+  return db.select().from(newsItems)
+    .where(eq(newsItems.language, language))
+    .orderBy(desc(newsItems.publishedAt))
+    .limit(limit);
+}
+
 export async function getNewsByCategory(categoryId: number, limit: number = 10): Promise<NewsItem[]> {
   const db = await getDb();
   if (!db) return [];

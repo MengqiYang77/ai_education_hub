@@ -3,18 +3,25 @@ import { Link } from "wouter";
 import { useState } from "react";
 import { RefreshCw } from "lucide-react";
 
+type TabMode = "all" | "china";
+
 export default function News() {
   const [selectedCategory, setSelectedCategory] = useState<number | null>(null);
+  const [tabMode, setTabMode] = useState<TabMode>("all");
   const [fetchMsg, setFetchMsg] = useState("");
   const [isFetching, setIsFetching] = useState(false);
   const { data: categories } = trpc.categories.list.useQuery();
-  const { data: news, refetch } = trpc.news.recent.useQuery({ limit: 100 });
+  const { data: allNews } = trpc.news.recent.useQuery({ limit: 100 });
+  const { data: chinaNews } = trpc.news.byLanguage.useQuery({ language: "zh", limit: 60 });
 
-  // Fetch mutation removed - using RSS update instead
+  const activeNews = tabMode === "china" ? chinaNews : allNews;
 
-  const filteredNews = selectedCategory
-    ? news?.filter((item) => item.categoryId === selectedCategory)
-    : news;
+  const filteredNews =
+    tabMode === "china"
+      ? chinaNews
+      : selectedCategory
+      ? allNews?.filter((item) => item.categoryId === selectedCategory)
+      : allNews;
 
   return (
     <div className="min-h-screen bg-background">
@@ -51,34 +58,63 @@ export default function News() {
         </div>
       </section>
 
-      {/* Category Filter */}
+      {/* Tab + Filter Bar */}
       <section className="border-b border-border bg-muted/30">
         <div className="max-w-6xl mx-auto px-6 py-6 flex flex-wrap items-center justify-between gap-4">
           <div className="flex flex-wrap gap-3">
+            {/* Language tabs */}
             <button
-              onClick={() => setSelectedCategory(null)}
+              onClick={() => { setTabMode("all"); setSelectedCategory(null); }}
               className={`px-4 py-2 text-sm border transition-all ${
-                selectedCategory === null
+                tabMode === "all"
                   ? "border-foreground bg-foreground text-background"
                   : "border-border hover:border-foreground"
               }`}
             >
-              All Topics
+              🌐 Global
             </button>
-            {categories?.map((cat) => (
-              <button
-                key={cat.id}
-                onClick={() => setSelectedCategory(cat.id)}
-                className={`px-4 py-2 text-sm border transition-all ${
-                  selectedCategory === cat.id
-                    ? "border-foreground bg-foreground text-background"
-                    : "border-border hover:border-foreground"
-                }`}
-              >
-                {cat.name}
-              </button>
-            ))}
+            <button
+              onClick={() => { setTabMode("china"); setSelectedCategory(null); }}
+              className={`px-4 py-2 text-sm border transition-all ${
+                tabMode === "china"
+                  ? "border-foreground bg-foreground text-background"
+                  : "border-border hover:border-foreground"
+              }`}
+            >
+              🇨🇳 China
+            </button>
+
+            {/* Category filters — only shown in Global tab */}
+            {tabMode === "all" && (
+              <>
+                <span className="border-l border-border mx-1" />
+                <button
+                  onClick={() => setSelectedCategory(null)}
+                  className={`px-4 py-2 text-sm border transition-all ${
+                    selectedCategory === null
+                      ? "border-foreground bg-foreground text-background"
+                      : "border-border hover:border-foreground"
+                  }`}
+                >
+                  All Topics
+                </button>
+                {categories?.map((cat) => (
+                  <button
+                    key={cat.id}
+                    onClick={() => setSelectedCategory(cat.id)}
+                    className={`px-4 py-2 text-sm border transition-all ${
+                      selectedCategory === cat.id
+                        ? "border-foreground bg-foreground text-background"
+                        : "border-border hover:border-foreground"
+                    }`}
+                  >
+                    {cat.name}
+                  </button>
+                ))}
+              </>
+            )}
           </div>
+
           <div className="flex items-center gap-3">
             {fetchMsg && <span className="text-sm text-muted-foreground">{fetchMsg}</span>}
             <button
@@ -130,16 +166,22 @@ export default function News() {
                         </p>
                       )}
                       <time className="text-xs text-muted-foreground mt-2 block">
-                        {new Date(item.publishedAt).toLocaleDateString("en-US", {
-                          year: "numeric",
-                          month: "long",
-                          day: "numeric",
-                        })}
+                        {new Date(item.publishedAt).toLocaleDateString(
+                          tabMode === "china" ? "zh-CN" : "en-US",
+                          { year: "numeric", month: "long", day: "numeric" }
+                        )}
                       </time>
                     </div>
                   </article>
                 </a>
               ))}
+            </div>
+          ) : tabMode === "china" && (!chinaNews || chinaNews.length === 0) ? (
+            <div className="text-center py-16">
+              <p className="text-muted-foreground text-lg mb-2">暂无中文新闻</p>
+              <p className="text-sm text-muted-foreground">
+                请前往 <a href="/admin" className="underline">Admin 页面</a> 点击「Fetch Latest News」抓取中文源
+              </p>
             </div>
           ) : (
             <div className="text-center py-16">

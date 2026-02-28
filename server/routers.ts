@@ -67,6 +67,13 @@ export const appRouter = router({
       const { triggerNewsFetch } = await import("./db");
       return triggerNewsFetch();
     }),
+    // Filter by language (e.g. 'zh' for China tab)
+    byLanguage: publicProcedure
+      .input(z.object({ language: z.string(), limit: z.number().default(30) }))
+      .query(async ({ input }) => {
+        const { getNewsByLanguage } = await import("./db");
+        return getNewsByLanguage(input.language, input.limit);
+      }),
     // Database statistics
     stats: publicProcedure.query(async () => {
       const { getDbStats } = await import("./db");

@@ -14,7 +14,7 @@ export default function Home() {
   const handleSearch = (e: React.FormEvent) => {
     e.preventDefault();
     if (searchQuery.trim()) {
-      window.location.href = `/search?q=${encodeURIComponent(searchQuery)}`;
+      window.location.href = `/research?q=${encodeURIComponent(searchQuery.trim())}`;
     }
   };
 

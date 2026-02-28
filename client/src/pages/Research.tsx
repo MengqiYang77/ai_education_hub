@@ -1,8 +1,8 @@
 import { trpc } from "@/lib/trpc";
-import { useState, useEffect } from "react";
+import { useState } from "react";
 import { Input } from "@/components/ui/input";
 import { Search, ExternalLink, FileText, RefreshCw } from "lucide-react";
-import { Link, useSearch } from "wouter";
+import { Link } from "wouter";
 
 const TOPICS = ["All Topics", "AI Education", "Robotics", "Data Science", "Human Skills", "Policy & Ethics"];
 
@@ -40,29 +40,40 @@ function formatDate(dateStr: string | Date): string {
 }
 
 export default function Research() {
-  const searchString = useSearch();
-  const urlTopic = new URLSearchParams(searchString).get("topic") ?? "";
-  const initialTopic = TOPICS.includes(urlTopic) ? urlTopic : "All Topics";
+  // Read URL params synchronously — window.location.search is always available at render time
+  const params = new URLSearchParams(window.location.search);
+  const urlQ = params.get("q") ?? "";
+  const urlTopic = params.get("topic") ?? "";
 
-  const [activeTopic, setActiveTopic] = useState(initialTopic);
-  const [searchQuery, setSearchQuery] = useState("");
-  const [searchInput, setSearchInput] = useState("");
+  // Local state: user interactions on this page
+  const [localQuery, setLocalQuery] = useState("");
+  const [localTopic, setLocalTopic] = useState<string>(
+    TOPICS.includes(urlTopic) ? urlTopic : "All Topics"
+  );
   const [isFetching, setIsFetching] = useState(false);
   const [fetchMsg, setFetchMsg] = useState("");
 
-  // Sync activeTopic when URL query param changes (e.g. navigating from Home)
-  useEffect(() => {
-    const t = new URLSearchParams(searchString).get("topic") ?? "";
-    setActiveTopic(TOPICS.includes(t) ? t : "All Topics");
-    setSearchQuery("");
-    setSearchInput("");
-  }, [searchString]);
+  // URL param takes priority over local state
+  const searchQuery = urlQ || localQuery;
+  const activeTopic = urlQ ? "All Topics" : localTopic;
+
+  // Aliases for compatibility with existing JSX
+  const searchInput = urlQ || localQuery;
+  const setSearchInput = (v: string) => setLocalQuery(v);
+  const setSearchQuery = (q: string) => setLocalQuery(q);
+  const setActiveTopic = setLocalTopic;
 
   const topicParam = activeTopic === "All Topics" ? undefined : activeTopic;
 
-  const { data: papers, isLoading, refetch } = searchQuery
-    ? trpc.research.search.useQuery({ query: searchQuery }, { enabled: !!searchQuery })
-    : trpc.research.list.useQuery({ limit: 50 });
+  // Always call both queries; switch display based on searchQuery
+  // (React hooks cannot be called conditionally)
+  const { data: searchResults, isLoading: searchLoading } = trpc.research.search.useQuery(
+    { query: searchQuery },
+    { enabled: !!searchQuery }
+  );
+  const { data: allPapers, isLoading: listLoading, refetch } = trpc.research.list.useQuery({ limit: 50 });
+  const papers = searchQuery ? searchResults : allPapers;
+  const isLoading = searchQuery ? searchLoading : listLoading;
 
   // Fetch mutation removed - using RSS update instead
 

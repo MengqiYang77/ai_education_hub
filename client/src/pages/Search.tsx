@@ -1,41 +1,41 @@
 import { trpc } from "@/lib/trpc";
-import { Link, useLocation } from "wouter";
-import { useState, useEffect } from "react";
-import { Input } from "@/components/ui/input";
-import { Search as SearchIcon } from "lucide-react";
+import { Link } from "wouter";
+import { ExternalLink, FileText, Newspaper } from "lucide-react";
+
+function formatDate(dateStr: string | Date | null): string {
+  if (!dateStr) return "";
+  const d = new Date(dateStr);
+  return d.toLocaleDateString("en-US", { year: "numeric", month: "short", day: "numeric" });
+}
+
+function parseAuthors(authorsJson: string | null): string {
+  if (!authorsJson) return "";
+  try {
+    const arr = JSON.parse(authorsJson) as string[];
+    if (arr.length === 0) return "";
+    if (arr.length === 1) return arr[0];
+    if (arr.length === 2) return arr.join(" & ");
+    return `${arr[0]} et al.`;
+  } catch {
+    return authorsJson;
+  }
+}
 
 export default function Search() {
-  const [, setLocation] = useLocation();
-  const [searchQuery, setSearchQuery] = useState("");
-  const [activeQuery, setActiveQuery] = useState("");
+  // Read q param synchronously — window.location.search is always available at render time
+  const q = new URLSearchParams(window.location.search).get("q") ?? "";
 
-  // Get query from URL
-  useEffect(() => {
-    const params = new URLSearchParams(window.location.search);
-    const q = params.get("q") || "";
-    setSearchQuery(q);
-    setActiveQuery(q);
-  }, []);
-
-  const { data: contentResults } = trpc.content.search.useQuery(
-    { query: activeQuery },
-    { enabled: activeQuery.length > 0 }
+  const { data: newsResults, isLoading: newsLoading } = trpc.news.searchByTitle.useQuery(
+    { q },
+    { enabled: !!q }
+  );
+  const { data: researchResults, isLoading: researchLoading } = trpc.research.searchByTitle.useQuery(
+    { q },
+    { enabled: !!q }
   );
 
-  const { data: toolResults } = trpc.tools.search.useQuery(
-    { query: activeQuery },
-    { enabled: activeQuery.length > 0 }
-  );
-
-  const handleSearch = (e: React.FormEvent) => {
-    e.preventDefault();
-    if (searchQuery.trim()) {
-      setActiveQuery(searchQuery.trim());
-      setLocation(`/search?q=${encodeURIComponent(searchQuery.trim())}`);
-    }
-  };
-
-  const totalResults = (contentResults?.length || 0) + (toolResults?.length || 0);
+  const newsCount = newsResults?.length ?? 0;
+  const researchCount = researchResults?.length ?? 0;
 
   return (
     <div className="min-h-screen bg-background">
@@ -46,147 +46,153 @@ export default function Search() {
             <Link href="/" className="text-2xl font-bold tracking-tight">
               AI Education Research
             </Link>
-            
             <nav className="flex items-center gap-8">
-              <Link href="/resources" className="text-sm hover:opacity-60 transition-opacity">
-                Resources
-              </Link>
-              <Link href="/tools" className="text-sm hover:opacity-60 transition-opacity">
-                Tools
-              </Link>
-              <Link href="/news" className="text-sm hover:opacity-60 transition-opacity">
-                News
-              </Link>
+              <Link href="/resources" className="text-sm hover:opacity-60 transition-opacity">Resources</Link>
+              <Link href="/tools" className="text-sm hover:opacity-60 transition-opacity">Tools</Link>
+              <Link href="/news" className="text-sm hover:opacity-60 transition-opacity">News</Link>
+              <Link href="/research" className="text-sm hover:opacity-60 transition-opacity">Research</Link>
             </nav>
           </div>
         </div>
       </header>
 
-      {/* Search Section */}
-      <section className="border-b border-border">
-        <div className="max-w-4xl mx-auto px-6 py-16">
-          <h1 className="text-4xl font-bold mb-8">Search</h1>
-          
-          <form onSubmit={handleSearch} className="mb-8">
-            <div className="relative">
-              <SearchIcon className="absolute left-4 top-1/2 -translate-y-1/2 w-5 h-5 text-muted-foreground" />
-              <Input
-                type="text"
-                placeholder="Search research, tools, topics..."
-                value={searchQuery}
-                onChange={(e) => setSearchQuery(e.target.value)}
-                className="pl-12 h-14 text-base border-foreground/20 focus:border-foreground"
-              />
-            </div>
-          </form>
-
-          {activeQuery && (
-            <p className="text-muted-foreground">
-              {totalResults} {totalResults === 1 ? "result" : "results"} for "{activeQuery}"
-            </p>
-          )}
-        </div>
-      </section>
-
-      {/* Results */}
-      <section>
-        <div className="max-w-6xl mx-auto px-6 py-16">
-          {activeQuery ? (
+      {/* Search header */}
+      <section className="border-b border-border bg-muted/30">
+        <div className="max-w-6xl mx-auto px-6 py-10">
+          {q ? (
             <>
-              {/* Content Results */}
-              {contentResults && contentResults.length > 0 && (
-                <div className="mb-16">
-                  <h2 className="text-2xl font-bold mb-8 pb-4 border-b border-border">
-                    Research & Resources ({contentResults.length})
-                  </h2>
-                  <div className="space-y-8">
-                    {contentResults.map((item) => (
-                      <Link key={item.id} href={`/resource/${item.slug}`}>
-                        <article className="group cursor-pointer pb-8 border-b border-border last:border-0">
-                          <h3 className="text-xl font-bold mb-2 group-hover:opacity-60 transition-opacity">
-                            {item.title}
-                          </h3>
-                          <p className="text-muted-foreground mb-3">
-                            {item.description}
-                          </p>
-                          <div className="flex items-center gap-4 text-xs text-muted-foreground">
-                            {item.publishedAt && (
-                              <time>
-                                {new Date(item.publishedAt).toLocaleDateString("en-US", {
-                                  year: "numeric",
-                                  month: "long",
-                                  day: "numeric",
-                                })}
-                              </time>
-                            )}
-                            <span>·</span>
-                            <span>{item.viewCount} reads</span>
-                          </div>
-                        </article>
-                      </Link>
-                    ))}
-                  </div>
-                </div>
-              )}
-
-              {/* Tool Results */}
-              {toolResults && toolResults.length > 0 && (
-                <div>
-                  <h2 className="text-2xl font-bold mb-8 pb-4 border-b border-border">
-                    Tools ({toolResults.length})
-                  </h2>
-                  <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
-                    {toolResults.map((tool) => (
-                      <a
-                        key={tool.id}
-                        href={tool.websiteUrl || "#"}
-                        target="_blank"
-                        rel="noopener noreferrer"
-                        className="group border border-border hover:border-foreground transition-all p-6"
-                      >
-                        <h3 className="text-lg font-bold mb-2 group-hover:opacity-60 transition-opacity">
-                          {tool.name}
-                        </h3>
-                        <p className="text-sm text-muted-foreground line-clamp-3">
-                          {tool.description}
-                        </p>
-                        {tool.pricing && (
-                          <p className="text-xs text-muted-foreground mt-3 pt-3 border-t border-border">
-                            {tool.pricing}
-                          </p>
-                        )}
-                      </a>
-                    ))}
-                  </div>
-                </div>
-              )}
-
-              {/* No Results */}
-              {totalResults === 0 && (
-                <div className="text-center py-16">
-                  <p className="text-muted-foreground text-lg mb-2">No results found</p>
-                  <p className="text-sm text-muted-foreground">
-                    Try different keywords or browse by category
-                  </p>
-                </div>
-              )}
+              <p className="text-sm text-muted-foreground mb-1">Search results for</p>
+              <h1 className="text-3xl font-bold">"{q}"</h1>
+              <p className="text-sm text-muted-foreground mt-2">
+                {newsCount + researchCount} results — {newsCount} news articles, {researchCount} research papers
+              </p>
             </>
           ) : (
-            <div className="text-center py-16">
-              <p className="text-muted-foreground">Enter a search query to find resources and tools</p>
-            </div>
+            <h1 className="text-3xl font-bold text-muted-foreground">Enter a search term</h1>
           )}
         </div>
       </section>
 
-      {/* Footer */}
-      <footer className="bg-muted/30 border-t border-border">
-        <div className="max-w-6xl mx-auto px-6 py-12">
-          <div className="text-center text-sm text-muted-foreground">
-            <p>© 2026 AI Education Research Hub</p>
+      {/* Dual-column results */}
+      <main className="max-w-6xl mx-auto px-6 py-10">
+        {!q ? (
+          <p className="text-muted-foreground text-center py-20">
+            Use the search box on the homepage to find news and research.
+          </p>
+        ) : (
+          <div className="grid grid-cols-1 md:grid-cols-2 gap-10">
+            {/* Left: News */}
+            <div>
+              <div className="flex items-center gap-2 mb-6">
+                <Newspaper className="w-5 h-5" />
+                <h2 className="text-xl font-semibold">News</h2>
+                <span className="text-sm text-muted-foreground ml-1">({newsCount})</span>
+              </div>
+
+              {newsLoading ? (
+                <div className="space-y-4">
+                  {[1, 2, 3].map(i => (
+                    <div key={i} className="border-b border-border pb-4 animate-pulse">
+                      <div className="h-4 bg-muted rounded w-3/4 mb-2" />
+                      <div className="h-3 bg-muted rounded w-1/2" />
+                    </div>
+                  ))}
+                </div>
+              ) : newsCount === 0 ? (
+                <p className="text-muted-foreground text-sm py-8">No news articles found for "{q}".</p>
+              ) : (
+                <div className="space-y-5">
+                  {newsResults!.map(item => (
+                    <div key={item.id} className="border-b border-border pb-5">
+                      <a
+                        href={item.url}
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        className="font-medium leading-snug hover:underline block mb-1"
+                      >
+                        {item.title}
+                      </a>
+                      <div className="flex items-center gap-2 text-xs text-muted-foreground">
+                        <span className="font-medium">{item.source}</span>
+                        {item.publishedAt && (
+                          <>
+                            <span>·</span>
+                            <span>{formatDate(item.publishedAt)}</span>
+                          </>
+                        )}
+                        <a
+                          href={item.url}
+                          target="_blank"
+                          rel="noopener noreferrer"
+                          className="ml-auto hover:opacity-70"
+                        >
+                          <ExternalLink className="w-3 h-3" />
+                        </a>
+                      </div>
+                    </div>
+                  ))}
+                </div>
+              )}
+            </div>
+
+            {/* Right: Research */}
+            <div>
+              <div className="flex items-center gap-2 mb-6">
+                <FileText className="w-5 h-5" />
+                <h2 className="text-xl font-semibold">Research</h2>
+                <span className="text-sm text-muted-foreground ml-1">({researchCount})</span>
+              </div>
+
+              {researchLoading ? (
+                <div className="space-y-4">
+                  {[1, 2, 3].map(i => (
+                    <div key={i} className="border-b border-border pb-4 animate-pulse">
+                      <div className="h-4 bg-muted rounded w-3/4 mb-2" />
+                      <div className="h-3 bg-muted rounded w-1/2" />
+                    </div>
+                  ))}
+                </div>
+              ) : researchCount === 0 ? (
+                <p className="text-muted-foreground text-sm py-8">No research papers found for "{q}".</p>
+              ) : (
+                <div className="space-y-5">
+                  {researchResults!.map(paper => (
+                    <div key={paper.id} className="border-b border-border pb-5">
+                      <a
+                        href={paper.url}
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        className="font-medium leading-snug hover:underline block mb-1"
+                      >
+                        {paper.title}
+                      </a>
+                      <div className="flex items-center gap-2 text-xs text-muted-foreground flex-wrap">
+                        {paper.authors && (
+                          <span>{parseAuthors(paper.authors)}</span>
+                        )}
+                        {paper.publishedAt && (
+                          <>
+                            <span>·</span>
+                            <span>{formatDate(paper.publishedAt)}</span>
+                          </>
+                        )}
+                        <a
+                          href={paper.url}
+                          target="_blank"
+                          rel="noopener noreferrer"
+                          className="ml-auto hover:opacity-70"
+                        >
+                          <ExternalLink className="w-3 h-3" />
+                        </a>
+                      </div>
+                    </div>
+                  ))}
+                </div>
+              )}
+            </div>
           </div>
-        </div>
-      </footer>
+        )}
+      </main>
     </div>
   );
 }

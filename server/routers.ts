@@ -86,6 +86,23 @@ export const appRouter = router({
         const { getNewsByTopic } = await import("./db");
         return getNewsByTopic(input.keyword, input.limit);
       }),
+    // Search page: search news by title only (English only)
+    searchByTitle: publicProcedure
+      .input(z.object({ q: z.string() }))
+      .query(async ({ input }) => {
+        const { getDb } = await import("./db");
+        const { newsItems } = await import("../drizzle/schema");
+        const { like, desc, or, isNull, ne, and } = await import("drizzle-orm");
+        const db = await getDb();
+        if (!db || !input.q.trim()) return [];
+        return db.select().from(newsItems)
+          .where(and(
+            like(newsItems.title, `%${input.q}%`),
+            or(isNull(newsItems.language), ne(newsItems.language, 'zh'))
+          ))
+          .orderBy(desc(newsItems.publishedAt))
+          .limit(20);
+      }),
   }),
 
   research: router({
@@ -112,6 +129,20 @@ export const appRouter = router({
       .query(async ({ input }) => {
         const { getRecentResearchPapers } = await import("./db");
         return getRecentResearchPapers(input.limit, input.topic);
+      }),
+    // Search page: search research papers by title only
+    searchByTitle: publicProcedure
+      .input(z.object({ q: z.string() }))
+      .query(async ({ input }) => {
+        const { getDb } = await import("./db");
+        const { researchPapers } = await import("../drizzle/schema");
+        const { like, desc } = await import("drizzle-orm");
+        const db = await getDb();
+        if (!db || !input.q.trim()) return [];
+        return db.select().from(researchPapers)
+          .where(like(researchPapers.title, `%${input.q}%`))
+          .orderBy(desc(researchPapers.publishedAt))
+          .limit(20);
       }),
   }),
 

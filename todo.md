@@ -309,3 +309,6 @@
 - [x] Add unique constraint on news_items.url to prevent duplicates
 - [x] Verify insert logic uses onDuplicateKeyUpdate
 - [x] Test news fetch to verify no duplicate articles and clean descriptions
+
+## /news Page tRPC Error Fix
+- [ ] Fix tRPC error on /news page: server returning HTML instead of JSON

@@ -75,7 +75,7 @@ export const newsItems = mysqlTable("news_items", {
   url: varchar("url", { length: 500 }).notNull(),
   imageUrl: varchar("imageUrl", { length: 500 }),
   source: varchar("source", { length: 100 }), // e.g., "ASCD", "Harvard", "EdTech Magazine"
-  language: mysqlEnum("language", ["en", "zh"]).default("en").notNull(),
+  language: varchar("language", { length: 10 }),
   categoryId: int("categoryId"),
   publishedAt: timestamp("publishedAt").notNull(),
   createdAt: timestamp("createdAt").defaultNow().notNull(),

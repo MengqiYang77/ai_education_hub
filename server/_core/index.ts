@@ -7,6 +7,7 @@ import { registerOAuthRoutes } from "./oauth";
 import { appRouter } from "../routers";
 import { createContext } from "./context";
 import { serveStatic, setupVite } from "./vite";
+import { triggerNewsFetch, triggerResearchFetch } from "../db";
 
 function isPortAvailable(port: number): Promise<boolean> {
   return new Promise(resolve => {
@@ -59,7 +60,43 @@ async function startServer() {
 
   server.listen(port, () => {
     console.log(`Server running on http://localhost:${port}/`);
+    scheduleDailyFetch();
   });
+}
+
+function scheduleDailyFetch() {
+  const now = new Date();
+  const next2am = new Date();
+  next2am.setHours(2, 0, 0, 0);
+
+  // If today's 2am has passed, schedule for tomorrow
+  if (next2am <= now) {
+    next2am.setDate(next2am.getDate() + 1);
+  }
+
+  const msUntilNext2am = next2am.getTime() - now.getTime();
+
+  console.log(`[Scheduler] Next fetch scheduled at ${next2am.toISOString()}`);
+
+  setTimeout(async () => {
+    console.log("[Scheduler] Starting daily auto-fetch...");
+    try {
+      const newsResult = await triggerNewsFetch();
+      console.log(`[Scheduler] News fetch done — added:${newsResult.added}`);
+    } catch (err) {
+      console.error("[Scheduler] News fetch failed:", err);
+    }
+
+    try {
+      const researchResult = await triggerResearchFetch();
+      console.log(`[Scheduler] Research fetch done — added:${researchResult.added}`);
+    } catch (err) {
+      console.error("[Scheduler] Research fetch failed:", err);
+    }
+
+    // Recurse to schedule the next day
+    scheduleDailyFetch();
+  }, msUntilNext2am);
 }
 
 startServer().catch(console.error);

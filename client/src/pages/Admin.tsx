@@ -105,7 +105,7 @@ export default function Admin() {
               </Button>
               {newsResult && (
                 <p className="text-sm text-muted-foreground mt-2">
-                  上次更新：{newsResult.time} · 新增 {newsResult.added} 条，跳过 {newsResult.skipped} 条
+                  Last updated: {newsResult.time} · Added {newsResult.added}, skipped {newsResult.skipped}
                 </p>
               )}
               <p className="text-xs text-muted-foreground mt-4">
@@ -128,7 +128,7 @@ export default function Admin() {
               </Button>
               {researchResult && (
                 <p className="text-sm text-muted-foreground mt-2">
-                  上次更新：{researchResult.time} · 新增 {researchResult.added} 条，跳过 {researchResult.skipped} 条
+                  Last updated: {researchResult.time} · Added {researchResult.added}, skipped {researchResult.skipped}
                 </p>
               )}
               <p className="text-xs text-muted-foreground mt-4">

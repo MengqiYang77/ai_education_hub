@@ -180,17 +180,28 @@ export async function getNewsByCategory(categoryId: number, limit: number = 10):
   return db.select().from(newsItems).where(eq(newsItems.categoryId, categoryId)).orderBy(desc(newsItems.publishedAt)).limit(limit);
 }
 
-export async function getNewsByTopic(keyword: string, limit: number = 8): Promise<NewsItem[]> {
+const TOPIC_KEYWORDS: Record<string, string[]> = {
+  'AI Education': ['AI', 'artificial intelligence', 'machine learning', 'education', 'learning', 'classroom', 'student', 'teacher', 'school'],
+  'Robotics': ['robot', 'robotics', 'automation', 'STEM'],
+  'Data Science': ['data science', 'data analytics', 'statistics', 'python', 'data literacy'],
+  'Human Skills': ['critical thinking', 'creativity', 'soft skills', 'social-emotional', 'SEL', 'human skills'],
+  'Policy & Ethics': ['policy', 'ethics', 'regulation', 'bias', 'fairness', 'governance', 'equity'],
+};
+
+export async function getNewsByTopic(topicName: string, limit: number = 8): Promise<NewsItem[]> {
   const db = await getDb();
   if (!db) return [];
+  const keywords = TOPIC_KEYWORDS[topicName] ?? [topicName];
+  // Build OR conditions: title LIKE '%kw%' OR description LIKE '%kw%' for each keyword
+  const keywordConditions = keywords.flatMap(kw => [
+    like(newsItems.title, `%${kw}%`),
+    like(newsItems.description, `%${kw}%`),
+  ]);
   return db.select().from(newsItems)
     .where(
       and(
         or(isNull(newsItems.language), ne(newsItems.language, 'zh')),
-        or(
-          like(newsItems.title, `%${keyword}%`),
-          like(newsItems.description, `%${keyword}%`)
-        )
+        or(...keywordConditions)
       )
     )
     .orderBy(desc(newsItems.publishedAt))

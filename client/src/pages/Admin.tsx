@@ -7,6 +7,8 @@ import { toast } from "sonner";
 export default function Admin() {
   const [isFetchingNews, setIsFetchingNews] = useState(false);
   const [isFetchingResearch, setIsFetchingResearch] = useState(false);
+  const [newsResult, setNewsResult] = useState<{added: number, skipped: number, time: string} | null>(null);
+  const [researchResult, setResearchResult] = useState<{added: number, skipped: number, time: string} | null>(null);
   
   const fetchNews = trpc.news.fetch.useMutation();
   const fetchResearch = trpc.research.fetch.useMutation();
@@ -15,6 +17,7 @@ export default function Admin() {
     setIsFetchingNews(true);
     try {
       const result = await fetchNews.mutateAsync();
+      setNewsResult({ added: result.added, skipped: result.skipped, time: new Date().toLocaleString() });
       toast.success(
         `News Fetch Complete: ${result.added} new articles, ${result.skipped} duplicates skipped`
       );
@@ -30,6 +33,7 @@ export default function Admin() {
     setIsFetchingResearch(true);
     try {
       const result = await fetchResearch.mutateAsync();
+      setResearchResult({ added: result.added, skipped: result.skipped, time: new Date().toLocaleString() });
       toast.success(
         `Research Fetch Complete: ${result.added} new papers, ${result.skipped} duplicates skipped`
       );
@@ -99,6 +103,11 @@ export default function Admin() {
               >
                 {isFetchingNews ? "Fetching News..." : "Fetch Latest News"}
               </Button>
+              {newsResult && (
+                <p className="text-sm text-muted-foreground mt-2">
+                  上次更新：{newsResult.time} · 新增 {newsResult.added} 条，跳过 {newsResult.skipped} 条
+                </p>
+              )}
               <p className="text-xs text-muted-foreground mt-4">
                 Sources: MIT, Stanford, Harvard, Berkeley, CMU, and 25+ more universities
               </p>
@@ -117,6 +126,11 @@ export default function Admin() {
               >
                 {isFetchingResearch ? "Fetching Research..." : "Fetch Latest Research"}
               </Button>
+              {researchResult && (
+                <p className="text-sm text-muted-foreground mt-2">
+                  上次更新：{researchResult.time} · 新增 {researchResult.added} 条，跳过 {researchResult.skipped} 条
+                </p>
+              )}
               <p className="text-xs text-muted-foreground mt-4">
                 Topics: AI in education, LLMs for learning, educational technology
               </p>

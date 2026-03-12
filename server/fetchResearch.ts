@@ -230,7 +230,7 @@ export async function fetchAndStoreResearchPapers(): Promise<{ added: number; sk
           abstract: p.abstract || null,
           authors: JSON.stringify((p.authors || []).map(a => a.name)),
           url, pdfUrl: p.openAccessPdf?.url || null,
-          source: shortName, sourceId: p.paperId, categoryId: null,
+          source: venue, sourceId: p.paperId, categoryId: null,
           topic: classifyTopic(p.title, p.abstract || ""),
           publishedAt: p.publicationDate ? new Date(p.publicationDate) : new Date(`${p.year}-01-01`),
           fetchedAt: new Date(),

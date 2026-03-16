@@ -166,7 +166,10 @@ function parseRss(xml: string): ParsedItem[] {
     const description = cleanText(
       extractCdata(item, "description") || extractTag(item, "description") || ""
     );
-    const link = extractTag(item, "link") || extractTag(item, "guid") || "";
+    // Extract link: try CDATA first (36Kr wraps links in CDATA), then plain text
+    const rawLink = extractCdata(item, "link") || extractTag(item, "link") || extractCdata(item, "guid") || extractTag(item, "guid") || "";
+    // Strip CDATA wrapper if still present, remove RSS tracking params
+    const link = rawLink.replace(/<!\[CDATA\[([\s\S]*?)\]\]>/g, "$1").replace(/[?&]f=rss$/, "").trim();
     const pubDate = extractTag(item, "pubDate") || extractTag(item, "dc:date") || "";
 
     // Try to find an image

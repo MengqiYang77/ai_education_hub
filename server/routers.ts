@@ -1,14 +1,21 @@
 import { COOKIE_NAME } from "@shared/const";
 import { getSessionCookieOptions } from "./_core/cookies";
 import { systemRouter } from "./_core/systemRouter";
-import { publicProcedure, router } from "./_core/trpc";
+import { ownerProcedure, publicProcedure, router } from "./_core/trpc";
 import { z } from "zod";
 
 export const appRouter = router({
     // if you need to use socket.io, read and register route in server/_core/index.ts, all api should start with '/api/' so that the gateway can route correctly
   system: systemRouter,
   auth: router({
-    me: publicProcedure.query(opts => opts.ctx.user),
+    me: publicProcedure.query(async opts => {
+      if (!opts.ctx.user) return null;
+      const { ENV } = await import("./_core/env");
+      return {
+        ...opts.ctx.user,
+        isOwner: opts.ctx.user.openId === ENV.ownerOpenId,
+      };
+    }),
     logout: publicProcedure.mutation(({ ctx }) => {
       const cookieOptions = getSessionCookieOptions(ctx.req);
       ctx.res.clearCookie(COOKIE_NAME, { ...cookieOptions, maxAge: -1 });
@@ -62,8 +69,8 @@ export const appRouter = router({
       const { getNewsByCategory } = await import("./db");
       return getNewsByCategory(input.categoryId, input.limit);
     }),
-    // Trigger live fetch from university RSS feeds
-    fetch: publicProcedure.mutation(async () => {
+    // Trigger live fetch from university RSS feeds (owner only)
+    fetch: ownerProcedure.mutation(async () => {
       const { triggerNewsFetch } = await import("./db");
       return triggerNewsFetch();
     }),
@@ -103,8 +110,8 @@ export const appRouter = router({
           .orderBy(desc(newsItems.publishedAt))
           .limit(20);
       }),
-    // Admin: manually add a news article
-    addManual: publicProcedure
+    // Admin: manually add a news article (owner only)
+    addManual: ownerProcedure
       .input(z.object({
         title: z.string().min(1),
         url: z.string().url(),
@@ -147,8 +154,8 @@ export const appRouter = router({
         const { searchResearchPapers } = await import("./db");
         return searchResearchPapers(input.query);
       }),
-    // Admin: manually trigger a fetch (useful after first deploy)
-    fetch: publicProcedure.mutation(async () => {
+    // Admin: manually trigger a fetch (owner only)
+    fetch: ownerProcedure.mutation(async () => {
       const { triggerResearchFetch } = await import("./db");
       return triggerResearchFetch();
     }),

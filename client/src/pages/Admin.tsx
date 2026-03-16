@@ -1,13 +1,32 @@
 import { trpc } from "@/lib/trpc";
-import { Link } from "wouter";
+import { useAuth } from "@/_core/hooks/useAuth";
+import { Link, useLocation } from "wouter";
 import { Button } from "@/components/ui/button";
 import { Input } from "@/components/ui/input";
 import { Textarea } from "@/components/ui/textarea";
 import { Label } from "@/components/ui/label";
-import { useState } from "react";
+import { useState, useEffect } from "react";
 import { toast } from "sonner";
 
 export default function Admin() {
+  const { user, loading } = useAuth();
+  const [, navigate] = useLocation();
+
+  // Redirect non-owners to homepage
+  useEffect(() => {
+    if (loading) return;
+    if (!user || !(user as any).isOwner) {
+      navigate('/');
+    }
+  }, [user, loading, navigate]);
+
+  if (loading || !user || !(user as any).isOwner) {
+    return (
+      <div className="min-h-screen flex items-center justify-center">
+        <p className="text-muted-foreground">Loading...</p>
+      </div>
+    );
+  }
   const [isFetchingNews, setIsFetchingNews] = useState(false);
   const [isFetchingResearch, setIsFetchingResearch] = useState(false);
   const [newsResult, setNewsResult] = useState<{added: number, skipped: number, time: string} | null>(null);

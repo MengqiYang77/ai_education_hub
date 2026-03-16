@@ -312,3 +312,5 @@
 
 ## /news Page tRPC Error Fix
 - [ ] Fix tRPC error on /news page: server returning HTML instead of JSON
+- [x] Protect Admin page: only owner (OWNER_OPEN_ID) can access, redirect others to home
+- [x] Fix 36Kr article 404 links - CDATA wrapper and ?f=rss param stripped from URLs in DB and fetchNews.ts

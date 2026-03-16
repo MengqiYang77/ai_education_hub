@@ -103,6 +103,35 @@ export const appRouter = router({
           .orderBy(desc(newsItems.publishedAt))
           .limit(20);
       }),
+    // Admin: manually add a news article
+    addManual: publicProcedure
+      .input(z.object({
+        title: z.string().min(1),
+        url: z.string().url(),
+        source: z.string().min(1),
+        description: z.string().optional(),
+        language: z.enum(['en', 'zh']).default('zh'),
+      }))
+      .mutation(async ({ input }) => {
+        const { getDb } = await import("./db");
+        const { newsItems } = await import("../drizzle/schema");
+        const db = await getDb();
+        if (!db) throw new Error('Database unavailable');
+        // Check for duplicate URL
+        const { eq } = await import("drizzle-orm");
+        const existing = await db.select({ id: newsItems.id }).from(newsItems).where(eq(newsItems.url, input.url)).limit(1);
+        if (existing.length > 0) throw new Error('Article with this URL already exists');
+        const [inserted] = await db.insert(newsItems).values({
+          title: input.title,
+          url: input.url,
+          source: input.source,
+          description: input.description ?? null,
+          language: input.language,
+          publishedAt: new Date(),
+          imageUrl: null,
+        }).$returningId();
+        return { success: true, id: inserted.id };
+      }),
   }),
 
   research: router({

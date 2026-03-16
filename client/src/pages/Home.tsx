@@ -102,7 +102,7 @@ export default function Home() {
               </div>
               
               <div className="space-y-6">
-                {news?.slice(0, 4).map((item) => (
+                {news?.slice(0, 6).map((item) => (
                   <a
                     key={item.id}
                     href={item.url}
@@ -116,9 +116,14 @@ export default function Home() {
                           {item.source}
                         </span>
                       )}
-                      <h3 className="text-xl font-bold mt-2 mb-2 group-hover:opacity-60 transition-opacity">
+                      <h3 className="text-base font-bold mt-2 mb-1 group-hover:opacity-60 transition-opacity leading-snug">
                         {item.title}
                       </h3>
+                      {item.description && (
+                        <p className="text-sm text-muted-foreground mb-2 line-clamp-2 leading-relaxed">
+                          {item.description}
+                        </p>
+                      )}
                       <time className="text-xs text-muted-foreground">
                         {new Date(item.publishedAt).toLocaleDateString('en-US', { year: 'numeric', month: 'short', day: 'numeric' })}
                       </time>
@@ -146,7 +151,7 @@ export default function Home() {
               </div>
               
               <div className="space-y-6">
-                {research?.slice(0, 4).map((paper: any) => (
+                {research?.slice(0, 6).map((paper: any) => (
                   <a
                     key={paper.id}
                     href={paper.url}
@@ -160,11 +165,16 @@ export default function Home() {
                           {paper.source}
                         </span>
                       )}
-                      <h3 className="text-xl font-bold mt-2 mb-2 group-hover:opacity-60 transition-opacity">
+                      <h3 className="text-base font-bold mt-2 mb-1 group-hover:opacity-60 transition-opacity leading-snug">
                         {paper.title}
                       </h3>
+                      {paper.abstract && (
+                        <p className="text-sm text-muted-foreground mb-2 line-clamp-2 leading-relaxed">
+                          {paper.abstract}
+                        </p>
+                      )}
                       {paper.authors && (
-                        <p className="text-sm text-muted-foreground mb-1 line-clamp-1">
+                        <p className="text-xs text-muted-foreground mb-1 line-clamp-1 italic">
                           {paper.authors}
                         </p>
                       )}

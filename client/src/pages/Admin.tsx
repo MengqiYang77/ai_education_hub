@@ -1,6 +1,9 @@
 import { trpc } from "@/lib/trpc";
 import { Link } from "wouter";
 import { Button } from "@/components/ui/button";
+import { Input } from "@/components/ui/input";
+import { Textarea } from "@/components/ui/textarea";
+import { Label } from "@/components/ui/label";
 import { useState } from "react";
 import { toast } from "sonner";
 
@@ -9,10 +12,21 @@ export default function Admin() {
   const [isFetchingResearch, setIsFetchingResearch] = useState(false);
   const [newsResult, setNewsResult] = useState<{added: number, skipped: number, time: string} | null>(null);
   const [researchResult, setResearchResult] = useState<{added: number, skipped: number, time: string} | null>(null);
-  
+
   const fetchNews = trpc.news.fetch.useMutation();
   const fetchResearch = trpc.research.fetch.useMutation();
   const { data: stats, refetch: refetchStats } = trpc.news.stats.useQuery();
+  const addManual = trpc.news.addManual.useMutation();
+
+  // Manual add form state
+  const [manualForm, setManualForm] = useState({
+    title: '',
+    url: '',
+    source: '',
+    description: '',
+    language: 'zh' as 'en' | 'zh',
+  });
+  const [isAddingManual, setIsAddingManual] = useState(false);
 
   const handleFetchNews = async () => {
     setIsFetchingNews(true);
@@ -48,6 +62,31 @@ export default function Admin() {
     }
   };
 
+  const handleManualAdd = async () => {
+    if (!manualForm.title.trim() || !manualForm.url.trim() || !manualForm.source.trim()) {
+      toast.error('Title, URL, and Source are required');
+      return;
+    }
+    setIsAddingManual(true);
+    try {
+      await addManual.mutateAsync({
+        title: manualForm.title.trim(),
+        url: manualForm.url.trim(),
+        source: manualForm.source.trim(),
+        description: manualForm.description.trim() || undefined,
+        language: manualForm.language,
+      });
+      toast.success('Article added successfully');
+      setManualForm({ title: '', url: '', source: '', description: '', language: 'zh' });
+      refetchStats();
+    } catch (error: unknown) {
+      const msg = error instanceof Error ? error.message : 'Failed to add article';
+      toast.error(msg);
+    } finally {
+      setIsAddingManual(false);
+    }
+  };
+
   return (
     <div className="min-h-screen bg-background">
       {/* Header */}
@@ -57,23 +96,12 @@ export default function Admin() {
             <Link href="/" className="text-2xl font-bold tracking-tight">
               AI Education Research
             </Link>
-            
             <nav className="flex items-center gap-8">
-              <Link href="/resources" className="text-sm hover:opacity-60 transition-opacity">
-                Resources
-              </Link>
-              <Link href="/tools" className="text-sm hover:opacity-60 transition-opacity">
-                Tools
-              </Link>
-              <Link href="/news" className="text-sm hover:opacity-60 transition-opacity">
-                News
-              </Link>
-              <Link href="/research" className="text-sm hover:opacity-60 transition-opacity">
-                Research
-              </Link>
-              <Link href="/admin" className="text-sm font-semibold">
-                Admin
-              </Link>
+              <Link href="/resources" className="text-sm hover:opacity-60 transition-opacity">Resources</Link>
+              <Link href="/tools" className="text-sm hover:opacity-60 transition-opacity">Tools</Link>
+              <Link href="/news" className="text-sm hover:opacity-60 transition-opacity">News</Link>
+              <Link href="/research" className="text-sm hover:opacity-60 transition-opacity">Research</Link>
+              <Link href="/admin" className="text-sm font-semibold">Admin</Link>
             </nav>
           </div>
         </div>
@@ -120,11 +148,7 @@ export default function Admin() {
               <p className="text-muted-foreground mb-6">
                 Fetch latest AI and education news from top 30 US universities
               </p>
-              <Button
-                onClick={handleFetchNews}
-                disabled={isFetchingNews}
-                className="w-full py-6 text-base"
-              >
+              <Button onClick={handleFetchNews} disabled={isFetchingNews} className="w-full py-6 text-base">
                 {isFetchingNews ? "Fetching News..." : "Fetch Latest News"}
               </Button>
               {newsResult && (
@@ -143,11 +167,7 @@ export default function Admin() {
               <p className="text-muted-foreground mb-6">
                 Fetch peer-reviewed papers from Semantic Scholar and ERIC
               </p>
-              <Button
-                onClick={handleFetchResearch}
-                disabled={isFetchingResearch}
-                className="w-full py-6 text-base"
-              >
+              <Button onClick={handleFetchResearch} disabled={isFetchingResearch} className="w-full py-6 text-base">
                 {isFetchingResearch ? "Fetching Research..." : "Fetch Latest Research"}
               </Button>
               {researchResult && (
@@ -163,11 +183,78 @@ export default function Admin() {
         </div>
       </section>
 
+      {/* Manual Add Article */}
+      <section className="border-b border-border">
+        <div className="max-w-6xl mx-auto px-6 py-12">
+          <h2 className="text-2xl font-bold mb-2">Add Article Manually</h2>
+          <p className="text-muted-foreground mb-8">
+            Manually add a news article that cannot be fetched automatically (e.g., WeChat articles)
+          </p>
+          <div className="max-w-2xl space-y-5">
+            <div className="space-y-2">
+              <Label htmlFor="manual-title">Title <span className="text-destructive">*</span></Label>
+              <Input
+                id="manual-title"
+                placeholder="Article title"
+                value={manualForm.title}
+                onChange={(e) => setManualForm(f => ({ ...f, title: e.target.value }))}
+              />
+            </div>
+            <div className="space-y-2">
+              <Label htmlFor="manual-url">URL <span className="text-destructive">*</span></Label>
+              <Input
+                id="manual-url"
+                placeholder="https://..."
+                value={manualForm.url}
+                onChange={(e) => setManualForm(f => ({ ...f, url: e.target.value }))}
+              />
+            </div>
+            <div className="grid grid-cols-2 gap-4">
+              <div className="space-y-2">
+                <Label htmlFor="manual-source">Source <span className="text-destructive">*</span></Label>
+                <Input
+                  id="manual-source"
+                  placeholder="e.g. 新智元"
+                  value={manualForm.source}
+                  onChange={(e) => setManualForm(f => ({ ...f, source: e.target.value }))}
+                />
+              </div>
+              <div className="space-y-2">
+                <Label htmlFor="manual-language">Language</Label>
+                <select
+                  id="manual-language"
+                  className="flex h-10 w-full rounded-md border border-input bg-background px-3 py-2 text-sm ring-offset-background focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2"
+                  value={manualForm.language}
+                  onChange={(e) => setManualForm(f => ({ ...f, language: e.target.value as 'en' | 'zh' }))}
+                >
+                  <option value="zh">🇨🇳 Chinese (zh)</option>
+                  <option value="en">🌐 English (en)</option>
+                </select>
+              </div>
+            </div>
+            <div className="space-y-2">
+              <Label htmlFor="manual-desc">
+                Description <span className="text-muted-foreground text-xs">(optional)</span>
+              </Label>
+              <Textarea
+                id="manual-desc"
+                placeholder="Brief summary of the article..."
+                rows={3}
+                value={manualForm.description}
+                onChange={(e) => setManualForm(f => ({ ...f, description: e.target.value }))}
+              />
+            </div>
+            <Button onClick={handleManualAdd} disabled={isAddingManual} className="w-full py-5">
+              {isAddingManual ? 'Adding...' : 'Add Article'}
+            </Button>
+          </div>
+        </div>
+      </section>
+
       {/* Info Section */}
       <section>
         <div className="max-w-6xl mx-auto px-6 py-12">
           <h2 className="text-2xl font-bold mb-8">Data Sources</h2>
-          
           <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
             <div className="border border-border p-6">
               <h3 className="font-bold mb-4">News Sources (30+ Universities)</h3>
@@ -182,7 +269,6 @@ export default function Admin() {
                 <li>• And 15+ more top universities</li>
               </ul>
             </div>
-
             <div className="border border-border p-6">
               <h3 className="font-bold mb-4">Research Sources</h3>
               <ul className="text-sm text-muted-foreground space-y-2">

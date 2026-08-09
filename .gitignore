@@ -137,3 +137,5 @@ seed-db.mjs
 todo.md
 update-news-urls.sql
 pnpm-workspace.yaml
+.vercel
+.env*

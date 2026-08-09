@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "name": "AI Education",
+    "slug": "ai-education",
+    "description": "Research on AI literacy and pedagogy",
+    "icon": "Brain",
+    "displayOrder": 1,
+    "createdAt": "2026-02-25 10:01:45",
+    "updatedAt": "2026-02-25 10:01:45"
+  },
+  {
+    "id": 2,
+    "name": "Robotics",
+    "slug": "robotics",
+    "description": "Physical computing and robotics education",
+    "icon": "Bot",
+    "displayOrder": 2,
+    "createdAt": "2026-02-25 10:01:45",
+    "updatedAt": "2026-02-25 10:01:45"
+  },
+  {
+    "id": 3,
+    "name": "Data Science",
+    "slug": "data-science",
+    "description": "Data literacy and computational thinking",
+    "icon": "BarChart",
+    "displayOrder": 3,
+    "createdAt": "2026-02-25 10:01:45",
+    "updatedAt": "2026-02-25 10:01:45"
+  },
+  {
+    "id": 4,
+    "name": "Human Skills",
+    "slug": "human-skills",
+    "description": "Emotional intelligence and creativity",
+    "icon": "Heart",
+    "displayOrder": 4,
+    "createdAt": "2026-02-25 10:01:45",
+    "updatedAt": "2026-02-25 10:01:45"
+  },
+  {
+    "id": 5,
+    "name": "Policy & Ethics",
+    "slug": "policy-ethics",
+    "description": "Educational policy and AI ethics",
+    "icon": "Scale",
+    "displayOrder": 5,
+    "createdAt": "2026-02-25 10:01:45",
+    "updatedAt": "2026-02-25 10:01:45"
+  }
+]

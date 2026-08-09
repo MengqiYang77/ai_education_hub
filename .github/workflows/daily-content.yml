@@ -1,0 +1,35 @@
+name: Daily content update
+
+on:
+  schedule:
+    # 06:00 Asia/Shanghai (22:00 UTC on the previous day)
+    - cron: "0 22 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: daily-content-update
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: Fetch new content
+        run: node scripts/update-content.mjs
+      - name: Commit verified changes
+        run: |
+          git diff --check
+          git add client/public/data/news.json client/public/data/research.json
+          if git diff --cached --quiet; then exit 0; fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "content: daily update"
+          git push

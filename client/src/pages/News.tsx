@@ -5,15 +5,15 @@ import { useState } from "react";
 type TabMode = "global" | "china";
 
 const topics = [
-  "AI Models & Agents",
-  "Robotics & Embodied AI",
-  "Chips & Compute",
-  "Quantum Technology",
-  "Space & Aerospace",
-  "Bioengineering",
-  "Advanced Manufacturing",
-  "Education & Future Skills",
-  "Policy & Society",
+  { name: "AI Models & Agents", zh: "AI 模型与智能体", description: "Foundation models, agents and multimodal AI", zhDescription: "大模型、智能体与多模态 AI" },
+  { name: "Robotics & Embodied AI", zh: "机器人与具身智能", description: "Humanoids, autonomous systems and physical AI", zhDescription: "人形机器人、自动系统与物理 AI" },
+  { name: "Chips & Compute", zh: "芯片与算力", description: "Semiconductors, GPUs and computing infrastructure", zhDescription: "半导体、GPU 与计算基础设施" },
+  { name: "Quantum Technology", zh: "量子科技", description: "Quantum computing, sensing and communication", zhDescription: "量子计算、传感与通信" },
+  { name: "Space & Aerospace", zh: "航天与航空", description: "Spacecraft, satellites and aerospace engineering", zhDescription: "航天器、卫星与航空工程" },
+  { name: "Bioengineering", zh: "生物工程", description: "AI for biology, medicine and neuroscience", zhDescription: "AI 生物学、医疗与神经科学" },
+  { name: "Advanced Manufacturing", zh: "先进制造", description: "3D printing, materials, batteries and fabrication", zhDescription: "3D 打印、材料、电池与数字制造" },
+  { name: "Education & Future Skills", zh: "教育与未来技能", description: "Teaching, learning and workforce transformation", zhDescription: "教学、学习与职业技能转型" },
+  { name: "Policy & Society", zh: "政策、伦理与社会", description: "Safety, governance, privacy and social impact", zhDescription: "安全、治理、隐私与社会影响" },
 ];
 
 export default function News() {
@@ -59,11 +59,11 @@ export default function News() {
         </div>
       </section>
 
-      {/* Tab + Filter Bar */}
+      {/* Region + language selector */}
       <section className="border-b border-border bg-muted/30">
-        <div className="max-w-6xl mx-auto px-6 py-6 flex flex-wrap items-center justify-between gap-4">
-          <div className="flex flex-wrap gap-3">
-            {/* Language tabs */}
+        <div className="max-w-6xl mx-auto px-6 py-7">
+          <div className="flex flex-wrap items-center justify-between gap-4">
+            <div className="flex gap-3">
             <button
               onClick={() => { setTabMode("global"); setSelectedTopic(null); }}
               className={`px-4 py-2 text-sm border transition-all ${
@@ -72,7 +72,8 @@ export default function News() {
                   : "border-border hover:border-foreground"
               }`}
             >
-              🌐 Global
+              <span className="block font-semibold">🌐 Global</span>
+              <span className="block text-[11px] opacity-70 mt-0.5">English sources only</span>
             </button>
             <button
               onClick={() => { setTabMode("china"); setSelectedTopic(null); }}
@@ -82,34 +83,55 @@ export default function News() {
                   : "border-border hover:border-foreground"
               }`}
             >
-              🇨🇳 China
+              <span className="block font-semibold">🇨🇳 China</span>
+              <span className="block text-[11px] opacity-70 mt-0.5">仅限中文来源</span>
             </button>
-
-            <span className="border-l border-border mx-1" />
-            <button
-              onClick={() => setSelectedTopic(null)}
-              className={`px-4 py-2 text-sm border transition-all ${selectedTopic === null ? "border-foreground bg-foreground text-background" : "border-border hover:border-foreground"}`}
-            >
-              {tabMode === "china" ? "全部主题" : "All Topics"}
-            </button>
-            {topics.map((topic) => (
-              <button
-                key={topic}
-                onClick={() => setSelectedTopic(topic)}
-                className={`px-4 py-2 text-sm border transition-all ${selectedTopic === topic ? "border-foreground bg-foreground text-background" : "border-border hover:border-foreground"}`}
-              >
-                {topic}
-              </button>
-            ))}
+            </div>
+            <p className="text-xs text-muted-foreground">Updated automatically every day at 06:00 (Asia/Shanghai)</p>
           </div>
+        </div>
+      </section>
 
-          <p className="text-xs text-muted-foreground">Updated automatically every day at 06:00 (Asia/Shanghai)</p>
+      {/* Frontier topic navigation */}
+      <section className="border-b border-border">
+        <div className="max-w-6xl mx-auto px-6 py-10">
+          <div className="flex items-end justify-between gap-4 mb-6">
+            <div>
+              <p className="text-xs uppercase tracking-[0.18em] text-muted-foreground mb-2">Frontier Technology Index</p>
+              <h2 className="text-2xl font-bold">{tabMode === "china" ? "按前沿科技主题浏览" : "Explore frontier technology"}</h2>
+            </div>
+            <button onClick={() => setSelectedTopic(null)} className={`text-sm px-3 py-2 border ${selectedTopic === null ? "border-foreground bg-foreground text-background" : "border-border"}`}>
+              {tabMode === "china" ? `全部 ${activeNews?.length ?? 0}` : `All ${activeNews?.length ?? 0}`}
+            </button>
+          </div>
+          <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-3">
+            {topics.map((topic) => {
+              const count = activeNews?.filter((item) => item.topic === topic.name).length ?? 0;
+              const selected = selectedTopic === topic.name;
+              return (
+                <button key={topic.name} onClick={() => setSelectedTopic(selected ? null : topic.name)} className={`text-left p-4 border transition-all ${selected ? "border-foreground bg-foreground text-background" : "border-border hover:border-foreground hover:bg-muted/40"}`}>
+                  <div className="flex justify-between gap-3">
+                    <span className="font-semibold">{tabMode === "china" ? topic.zh : topic.name}</span>
+                    <span className="text-sm opacity-60 tabular-nums">{count}</span>
+                  </div>
+                  <p className="text-xs opacity-60 mt-1">{tabMode === "china" ? topic.name : topic.zh}</p>
+                  <p className="text-xs opacity-70 mt-3">{tabMode === "china" ? topic.zhDescription : topic.description}</p>
+                </button>
+              );
+            })}
+          </div>
         </div>
       </section>
 
       {/* News Grid */}
       <section>
         <div className="max-w-6xl mx-auto px-6 py-16">
+          <div className="mb-8 flex items-baseline justify-between gap-4">
+            <h2 className="text-2xl font-bold">
+              {selectedTopic ? (tabMode === "china" ? topics.find(topic => topic.name === selectedTopic)?.zh : selectedTopic) : (tabMode === "china" ? "全部中文资讯" : "All English stories")}
+            </h2>
+            <span className="text-sm text-muted-foreground">{filteredNews?.length ?? 0} {tabMode === "china" ? "条" : "stories"}</span>
+          </div>
           {filteredNews && filteredNews.length > 0 ? (
             <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
               {filteredNews.map((item) => (

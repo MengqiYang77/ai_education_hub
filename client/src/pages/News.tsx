@@ -2,23 +2,27 @@ import { trpc } from "@/lib/trpc";
 import { Link } from "wouter";
 import { useState } from "react";
 
-type TabMode = "all" | "china";
+type TabMode = "global" | "china";
+
+const topics = [
+  "AI Models & Agents",
+  "Robotics & Embodied AI",
+  "Chips & Compute",
+  "Quantum Technology",
+  "Space & Aerospace",
+  "Bioengineering",
+  "Advanced Manufacturing",
+  "Education & Future Skills",
+  "Policy & Society",
+];
 
 export default function News() {
-  const [selectedCategory, setSelectedCategory] = useState<number | null>(null);
-  const [tabMode, setTabMode] = useState<TabMode>("all");
-  const { data: categories } = trpc.categories.list.useQuery();
-  const { data: allNews } = trpc.news.recent.useQuery({ limit: 100 });
-  const { data: chinaNews } = trpc.news.byLanguage.useQuery({ language: "zh", limit: 60 });
-
-  const activeNews = tabMode === "china" ? chinaNews : allNews;
-
-  const filteredNews =
-    tabMode === "china"
-      ? chinaNews
-      : selectedCategory
-      ? allNews?.filter((item) => item.categoryId === selectedCategory)
-      : allNews;
+  const [selectedTopic, setSelectedTopic] = useState<string | null>(null);
+  const [tabMode, setTabMode] = useState<TabMode>("global");
+  const { data: globalNews } = trpc.news.byLanguage.useQuery({ language: "en", limit: 300 });
+  const { data: chinaNews } = trpc.news.byLanguage.useQuery({ language: "zh", limit: 300 });
+  const activeNews = tabMode === "china" ? chinaNews : globalNews;
+  const filteredNews = selectedTopic ? activeNews?.filter((item) => item.topic === selectedTopic) : activeNews;
 
   return (
     <div className="min-h-screen bg-background">
@@ -61,9 +65,9 @@ export default function News() {
           <div className="flex flex-wrap gap-3">
             {/* Language tabs */}
             <button
-              onClick={() => { setTabMode("all"); setSelectedCategory(null); }}
+              onClick={() => { setTabMode("global"); setSelectedTopic(null); }}
               className={`px-4 py-2 text-sm border transition-all ${
-                tabMode === "all"
+                tabMode === "global"
                   ? "border-foreground bg-foreground text-background"
                   : "border-border hover:border-foreground"
               }`}
@@ -71,7 +75,7 @@ export default function News() {
               🌐 Global
             </button>
             <button
-              onClick={() => { setTabMode("china"); setSelectedCategory(null); }}
+              onClick={() => { setTabMode("china"); setSelectedTopic(null); }}
               className={`px-4 py-2 text-sm border transition-all ${
                 tabMode === "china"
                   ? "border-foreground bg-foreground text-background"
@@ -81,35 +85,22 @@ export default function News() {
               🇨🇳 China
             </button>
 
-            {/* Category filters — only shown in Global tab */}
-            {tabMode === "all" && (
-              <>
-                <span className="border-l border-border mx-1" />
-                <button
-                  onClick={() => setSelectedCategory(null)}
-                  className={`px-4 py-2 text-sm border transition-all ${
-                    selectedCategory === null
-                      ? "border-foreground bg-foreground text-background"
-                      : "border-border hover:border-foreground"
-                  }`}
-                >
-                  All Topics
-                </button>
-                {categories?.map((cat) => (
-                  <button
-                    key={cat.id}
-                    onClick={() => setSelectedCategory(cat.id)}
-                    className={`px-4 py-2 text-sm border transition-all ${
-                      selectedCategory === cat.id
-                        ? "border-foreground bg-foreground text-background"
-                        : "border-border hover:border-foreground"
-                    }`}
-                  >
-                    {cat.name}
-                  </button>
-                ))}
-              </>
-            )}
+            <span className="border-l border-border mx-1" />
+            <button
+              onClick={() => setSelectedTopic(null)}
+              className={`px-4 py-2 text-sm border transition-all ${selectedTopic === null ? "border-foreground bg-foreground text-background" : "border-border hover:border-foreground"}`}
+            >
+              {tabMode === "china" ? "全部主题" : "All Topics"}
+            </button>
+            {topics.map((topic) => (
+              <button
+                key={topic}
+                onClick={() => setSelectedTopic(topic)}
+                className={`px-4 py-2 text-sm border transition-all ${selectedTopic === topic ? "border-foreground bg-foreground text-background" : "border-border hover:border-foreground"}`}
+              >
+                {topic}
+              </button>
+            ))}
           </div>
 
           <p className="text-xs text-muted-foreground">Updated automatically every day at 06:00 (Asia/Shanghai)</p>
@@ -145,6 +136,9 @@ export default function News() {
                           {item.source}
                         </span>
                       )}
+                      {item.topic && (
+                        <span className="text-xs text-muted-foreground ml-2">· {item.topic}</span>
+                      )}
                       <h3 className="text-lg font-bold mt-2 mb-2 group-hover:opacity-60 transition-opacity">
                         {item.title}
                       </h3>
@@ -159,6 +153,15 @@ export default function News() {
                           { year: "numeric", month: "long", day: "numeric" }
                         )}
                       </time>
+                      {Array.isArray(item.contentFormats) && item.contentFormats.length > 0 && (
+                        <div className="flex flex-wrap gap-2 mt-3">
+                          {item.contentFormats.map((format: string) => (
+                            <span key={format} className="text-[11px] border border-border px-2 py-1 text-muted-foreground">
+                              {format}
+                            </span>
+                          ))}
+                        </div>
+                      )}
                     </div>
                   </article>
                 </a>

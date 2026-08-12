@@ -495,6 +495,21 @@
     "createdAt": "2026-05-21 02:13:26"
   },
   {
+    "id": 840089,
+    "title": "Co-Designing Media Plans With Generative AI: Teaching Media Planning as Human–AI Collaboration in the Classroom",
+    "abstract": "As media planning becomes increasingly data-intensive and algorithmically driven, advertising educators face the challenges of preparing students to operate effectively within hybrid human–Artificial Intelligence (AI) workflows. This paper introduces a human–AI collaborative model for teaching undergraduate media planning, centered on a custom GPT tool, the Media Planning AI Assistant, embedded within a semester-long course. Rather than functioning as an autonomous decision-maker, the Assistant serves as a generative partner that models industry-standard workflows while requiring students to construct the knowledge base, interpret research inputs, and critically evaluate outputs. Using a mock national campaign, the paper demonstrates how students engage in iterative human–AI collaboration across audience analysis, competitive assessment, media strategy, budgeting, and scheduling. The study offers a practical pedagogical framework for integrating generative AI into media planning education, designed to reduce cognitive load, scaffold strategic reasoning, and support ethical AI literacy without displacing human judgment.",
+    "authors": "[\"T. Wen\",\"K. Walker\",\"Carrie Jingyi Xiao\"]",
+    "url": "https://doi.org/10.1177/10980482261443245",
+    "pdfUrl": "https://doi.org/10.1177/10980482261443245",
+    "source": "Journal of Advertising Education",
+    "sourceId": "d6670aa3e701ddccd6fe4e2933ab89fe4b668ee4",
+    "categoryId": null,
+    "topic": "Policy & Ethics",
+    "publishedAt": "2026-04-19",
+    "fetchedAt": "2026-08-12T22:41:37.614Z",
+    "createdAt": "2026-08-12T22:41:37.614Z"
+  },
+  {
     "id": 660003,
     "title": "Machine Learning and Geographic Information Systems for Aircraft Route Analysis in Large-Scale Airport Transportation Networks",
     "abstract": "This study proposes a scalable, AI-driven, and Geographic Information System (GIS)-integrated framework for intelligent route-level classification in large-scale airport transportation networks to support airport operations, logistics planning, and network-level decision-making. The framework addresses the need for practical artificial intelligence applications that combine spatial network analysis with supervised machine learning to improve route assessment and resource allocation in complex air transport systems. A structured dataset was developed using operational and traffic-related attributes, including route distance, aircraft capacity, weekly frequency, annual passenger volume, demand variability, and route performance indicators, with additional normalized features to improve data representation. A Gradient Boosting ensemble classifier was trained to categorize routes into high-, medium-, and low-priority classes. The model achieved strong predictive performance, with a testing area under the ROC curve of 0.961, accuracy of 0.922, F1-score of 0.915, precision of 0.918, and a recall of 0.922. Feature importance analysis identified demand variability and route-density indicators as the main drivers of classification, enhancing interpretability and practical trust. The proposed framework demonstrates the real-world potential of AI for scalable, explainable, and efficient decision support in airport logistics and transportation network management.",

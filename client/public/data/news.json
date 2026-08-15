@@ -1,5 +1,130 @@
 [
   {
+    "id": 2160252,
+    "title": "至知研究院提出大模型可解释性新路线：拆权重，数据成本不到1%",
+    "description": "理解大模型，无需再训练一个替代网络",
+    "url": "https://www.qbitai.com/2026/08/473876.html",
+    "imageUrl": null,
+    "source": "量子位",
+    "categoryId": null,
+    "publishedAt": "2026-08-15T06:42:23.000Z",
+    "createdAt": "2026-08-15T22:22:21.631Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "AI Models & Agents",
+    "contentFormats": [
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160253,
+    "title": "根治AI音乐通病！这家国产音乐模型正面挑战SUNO",
+    "description": "音潮API限时免费开放",
+    "url": "https://www.qbitai.com/2026/08/473866.html",
+    "imageUrl": null,
+    "source": "量子位",
+    "categoryId": null,
+    "publishedAt": "2026-08-15T06:36:05.000Z",
+    "createdAt": "2026-08-15T22:22:21.631Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "AI Models & Agents",
+    "contentFormats": [
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160254,
+    "title": "对话郎咸朋：用机器人创业重做一次“百万智驾量产”",
+    "description": "1.9万字全文实录",
+    "url": "https://www.qbitai.com/2026/08/473407.html",
+    "imageUrl": null,
+    "source": "量子位",
+    "categoryId": null,
+    "publishedAt": "2026-08-15T04:21:09.000Z",
+    "createdAt": "2026-08-15T22:22:21.631Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "Robotics & Embodied AI",
+    "contentFormats": [
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160255,
+    "title": "发布即热销：大疆 Osmo 360 II 首日拿下全渠道销量 TOP1",
+    "description": "8月13日20:00，大疆正式发布全新 8K 全景相机 Osmo 360 II。根据24小时战报数据，Osmo 360 II 全渠道首日销量位列 TOP1，并在京东、天猫、抖音三大平台全景相机相关榜单中登顶，上市首日即展现出强劲市场表现。 战报显示，Osmo 360 II 发布4小时后，已拿下京东、天猫、抖音三大平台新品相关榜单 TOP1；截至首发24小时，产品热度进一步释放，实现线上全渠道、多平台、销量维度的持续领跑。 与此同时，Osmo 360 II 上市首日全网总曝光量达到 1.17 亿+，销售端与传播端同时展现出强劲首发势能。 值得关注的是，在8月12日行业新品密集发布节点，大疆上一代产品 Osmo 360 在国内三大平台全景相机榜单中稳居榜首。 此外，洛图科技《2026年手持智能影像报告》显示，暑期出行季（7月13日至8月9日），在全景相机这一细分品类中，大疆 Osmo 360 销量份额达到 56%位居行业第一。从前代产品领跑暑期消费旺季，到 Osmo 360 II 首发即登顶三大平台，大疆在全景影像品类中的市场势能进一步增强。 Osmo 360 II 搭载 1 英寸全景影像系统与高性能芯片，支持原生 8K/60fps 超清全景视频；14.5 级动态范围与 AI 超级夜景 2.0 让复杂光线下的画面依然清晰细腻。主角跟随、NFC 一碰即连、AI 一键成片等智能功能，则进一步降低创作门槛；配合超硬防刮可更换镜片与 105GB 内置存储，体现出大疆在画质、体验与可靠性上的综合产品力。 Osmo 360 II 延续大疆在全景影像领域的技术积累，面向旅行、运动、聚会、亲子等多元场景，帮助用户更轻松地记录完整现场。随着新品首日战报出炉，全景相机市场竞争也将进入新阶段。",
+    "url": "https://www.leiphone.com/category/industrynews/WvOWhJBIPKxhzMoo.html",
+    "imageUrl": null,
+    "source": "雷锋网",
+    "categoryId": null,
+    "publishedAt": "2026-08-15T04:07:00.000Z",
+    "createdAt": "2026-08-15T22:22:24.507Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "Chips & Compute",
+    "contentFormats": [
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160256,
+    "title": "索塔无界：全球首家原生物理世界模型落地商超，具身智能迎来“索塔时刻”",
+    "description": "在 具身智能仍 陷于“资本热、落地冷”之际，成立仅 4 个月的索塔无界，率先以欧洲最大商超 集 团 的 战略合作，打破商业落地僵局。根据规划，双方未来3年将在真实商超场景中部署超过千台具身智能机器人。索塔无界不造硬件，而是为机器人打造 “原生物理大脑”——首次将4D世界动作模型部署于真实商超货架之间 ，开启物理智能的“场景收敛+通用泛化”新路径。 破局：不追 “ 虚拟温床 ” ，直击 “ 物理考场 ” 2026 年的具身智能，融资额屡创新高，但机器人进工厂仍 困于 专机专用 、进家庭 做家务 仍 在 可望难及的远期蓝图 。多数玩家沉迷视频生成或仿真训练，这些 “ 虚拟温床 ” 对具身操作并不实质 。 索塔无界创始人胡德波给出截然不同的判断： “ 跨本体、跨场景的通用大脑 路径过长 ，但让原生物理基模先沉入一类高复杂度场景，垂类跑通通用泛化，再反哺全场景 —— 这是当下最可能走通的路径。 ” 于是， 索塔无界 直接把实验室搬进 欧洲商超 ， 在 真实货架、真实商品、真实人流 中 ，训练机器人的 “ 场景智商 ” 。 技术跃迁：以原生4D世界模型构建机器人的安全决策底座 索塔无界首席科学家刘哲博士领衔团队，正推动世界模型从视频预测、仿真生成，迈向原生物理世界模型的新阶段，开启具身智能技术代际跃迁。 刘哲，华中科技大学博士（师从 国家杰青、 IEEE/IAPR双料会士 白翔教授）， 香港大学博士后（师从国家优青 、MIT TR35榜单 赵恒爽教授） 。 近十年来持续深耕3D/4D感知、自动驾驶世界模型与具身智能，曾主导15人以上规模的研究团队。已发表顶级会议及期刊论文35余篇，Google Scholar引用超过2,380次。代表工作包括多模态3D感知模型 EPNet ／ EPNet ++、鲁棒点云检测模型 TANet 及统一高效3D建模框架LION等，在3D感知与自动驾驶领域获得广泛关注和引用。近期代表工作聚焦4D世界模型与具身智能，包括物理感知4D世界模型 GenieDrive 、统一感知—预测—规划的4D多模态模型 DrivePI ，以及实时流式VLA架构FASTER和通用World-Action Model 架构Metis。 依托 与华为、长安、小米、理想、大晓机器人等头部产业伙伴的深度合作积累， 刘哲博士团队沉淀出覆盖高维场景表征、可解释安全规划与物理一致评测闭",
+    "url": "https://www.leiphone.com/category/industrynews/aEyXlap53PQXDDYJ.html",
+    "imageUrl": null,
+    "source": "雷锋网",
+    "categoryId": null,
+    "publishedAt": "2026-08-15T04:07:00.000Z",
+    "createdAt": "2026-08-15T22:22:24.507Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "Robotics & Embodied AI",
+    "contentFormats": [
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160257,
+    "title": "鹿明发布MOS2：全球首个双臂负载50kg轮臂式机器人，加速AI Worker进入产业现场",
+    "description": "8月14日，鹿明机器人发布全新重载轮臂式具身智能机器人 Lumos MOS2 。 面向真实工业场景，Lumos MOS2具备 50kg双臂负载能力 ，同时在硬件性能、全向移动能力、多模态感知系统和整机控制架构等方面实现全面升级，胜任真实工业场景高强度、持续性作业任务。 鹿明机器人创始人兼CEO喻超表示，具身智能正在加速进入产业落地阶段，如何让机器人更高效地完成更多真实任务，取决于 数据获取效率、硬件成本及产业交付效率 。 在这一判断下，MOS2被定位为面向工业场景的 重载AI Worker ：既拥有7×24小时不间断工作的强健躯体，也具备环境感知、任务理解与自主操作等能力，是鹿明产业具身理念的产品化实践。 当前工业现场中，仍存在大量同时需要 负载能力、灵活移动和复杂操作 的任务，而这一类场景仍缺少成熟的具身智能机器人解决方案。MOS 2以50kg双臂负载能力切入，融合移动、感知与操作能力， 为重载工业任务提供新的具身智能解决方案， 让具身智能进一步覆盖重载工业作业场景。 图：MOS2在真实生产场景中执行物料搬运任务 产业具身的核心，让机器人执行真实任务 过去几十年，制造业通过自动化设备解决了大量标准化、批量化和流程化生产任务。固定工位、重复动作、流程明确的环节，已经形成成熟的自动化体系。 但在真实工业现场，仍有大量任务具有更高的柔性要求，难以通过传统自动化方式高效覆盖。 这些场景通常具备几个共同特征：产线换型频繁，机器人需快速适应不同任务；操作过程涉及复杂装配与精细动作，对灵巧性要求更高；部分任务产量较低，专用设备投入不经济；生产中存在大量动态变化，需要机器人具备现场判断与调整能力；此外，多工序、多设备之间的协同，也对机器人的任务衔接能力提出更高要求。 因此，具身智能进入产业场景的核心，在于让机器人真正理解任务、适应环境，并具备自主完成工作的能力。面对生产过程中的变化，机器人需要能够灵活调整工作方式，完成复杂操作，主动判断和处理异常，并在真实任务中不断积累经验、学习新的技能。 鹿明提出「产业具身」，围绕真实产业任务构建机器人的综合能力，包括灵活移动、末端工具适配、多模态感知、任务执行与技能学习，让机器人能够适应更加开放、动态的工业环境。 基于轮臂式形态，MOS2融合了移动能力、双臂操作能力、多模态感知能力与任务执行能力，进一步拓展在开放工业场景中的应用空间。 图：M",
+    "url": "https://www.leiphone.com/category/industrynews/24fbshcNUNahZuQz.html",
+    "imageUrl": null,
+    "source": "雷锋网",
+    "categoryId": null,
+    "publishedAt": "2026-08-15T04:01:00.000Z",
+    "createdAt": "2026-08-15T22:22:24.507Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "Robotics & Embodied AI",
+    "contentFormats": [
+      "Xiaohongshu Explainer",
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160258,
+    "title": "限量手办 + 实景体验，浙江人行NAVIAI2026WRC 福利提前曝光",
+    "description": "8 月 19 日至 23 日，2026 世界机器人大会（WRC2026）将在北京亦庄亦创国际会展中心举办。浙江人形机器人创新中心将携旗下 NAVIAI 人形机器人亮相 C-105 展位，集中展示人形机器人在多元场景的落地应用成果。 本次展会上，NAVIAI 将呈现工业制造、智慧零售、家庭服务、遥操数采多场景的实操能力，现场演示拆垛分拣搬运、货品递送、烹饪清洁、远程数据采集等功能，展现多机协同作业、精准泛化的技术特性。另有文娱演绎类场景在 8 月 19 日开展当天作为特别环节限时展示。 大会期间，浙江人形机器人创新中心有限公司首席科学家熊蓉教授将于 8 月 21 日站上主论坛，分享 NAVIAI 的技术演进与未来落地规划，多家产业链合作伙伴也将联合亮相。官方同步开启线上预热活动，转发指定预热推文即可参与抽奖，赢取 NAVIAI i3 限量手办等好礼，展会现场也同步开放该手办的售卖通道。",
+    "url": "https://www.leiphone.com/category/industrynews/YW6iXkaDum3xwwBJ.html",
+    "imageUrl": null,
+    "source": "雷锋网",
+    "categoryId": null,
+    "publishedAt": "2026-08-15T01:12:00.000Z",
+    "createdAt": "2026-08-15T22:22:24.507Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "Robotics & Embodied AI",
+    "contentFormats": [
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
     "id": 2160237,
     "title": "NASA Competition Invites Students to Help Imagine a Future Enabled by Lunar Technologies",
     "description": "NASA is asking U.S.-based collegiate teams to&#160;submit&#160;bold, original concepts to the 2027 edition of a student challenge focused on aerospace innovation that could&#160;help the agency envision&#160;a future on the Moon shaped by&#160;new technology.&#160; The latest NASA Revolutionary Aerospace Systems Concepts – Academic Linkage (RASC-AL) competition&#160;invites&#160;student teams to explore new&#160;operations paradigms&#160;and advance the technologies needed to [&#8230;]",

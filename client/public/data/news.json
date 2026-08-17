@@ -1,5 +1,441 @@
 [
   {
+    "id": 2160263,
+    "title": "NASA Selects Companies to Provide Payload Processing Services",
+    "description": "NASA has selected four companies to provide payload processing facilities under the Spacecraft Processing Operations Contract on‑ramp provision. The provision enables qualified providers to offer commercial payload processing services for agency missions launching from multiple locations where capabilities were not available at the time of the initial contract award. Contract awardees are: Through the contract, [&#8230;]",
+    "url": "https://www.nasa.gov/news-release/nasa-selects-companies-to-provide-payload-processing-services/",
+    "imageUrl": null,
+    "source": "NASA",
+    "categoryId": null,
+    "publishedAt": "2026-08-17T20:17:20.000Z",
+    "createdAt": "2026-08-17T22:25:09.121Z",
+    "language": "en",
+    "region": "Global",
+    "topic": "Space & Aerospace",
+    "contentFormats": [
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160262,
+    "title": "Is Shipyard Welding the Right First Job for Humanoid Robots?",
+    "description": "Humanoids desperately need to stop making YouTube videos and get a job already, and Persona AI is one of the few humanoid companies which seems to be entirely focused on making that happen. Persona’s approach has been to carefully select a job that is economically viable for robots right now, and they’ve found one that was also the job of one of the very first industrial robots ever sold : welding. IEEE Spectrum first spoke with Persona two years ago , shortly after it was founded by Nic Radford and Jerry Pratt . Radford led NASA JSC’s Valkyrie program back in the day and was also the founder of Nauticus Robotics , while Pratt led IHMC’s DARPA Robotics Challenge team before spending a couple of years as CTO of Figure . The Challenge of Humanoids As of our first conversation in 2024 , Persona had committed to building an economically viable humanoid, but they hadn’t yet figured out where their focus was going to be. “We were all over the place,” Radford says. “Warehousing, automotive, w",
+    "url": "https://spectrum.ieee.org/persona-ai-humanoid-robot-welding",
+    "imageUrl": null,
+    "source": "IEEE Spectrum Robotics",
+    "categoryId": null,
+    "publishedAt": "2026-08-17T15:33:42.000Z",
+    "createdAt": "2026-08-17T22:25:08.209Z",
+    "language": "en",
+    "region": "Global",
+    "topic": "Robotics & Embodied AI",
+    "contentFormats": [
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160264,
+    "title": "NASA Challenge Tests Wheel Designs for Moon Base Mobility",
+    "description": "As NASA prepares to&#160;establish&#160;the&#160;Moon Base,&#160;advancing surface mobility will be key to helping crews and robotic systems travel farther across&#160;the lunar surface.&#160; To help advance that capability, the&#160;Rock and Roll with NASA Challenge invited&#160;public&#160;innovators&#160;to design and build next-generation lunar rover wheels.&#160; Five teams from 128 submissions and 49 countries advanced to the final phase of the [&#8230;]",
+    "url": "https://www.nasa.gov/centers-and-facilities/johnson/nasa-challenge-tests-wheel-designs-for-moon-base-mobility/",
+    "imageUrl": null,
+    "source": "NASA",
+    "categoryId": null,
+    "publishedAt": "2026-08-17T15:09:05.000Z",
+    "createdAt": "2026-08-17T22:25:09.121Z",
+    "language": "en",
+    "region": "Global",
+    "topic": "Robotics & Embodied AI",
+    "contentFormats": [
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160268,
+    "title": "HTML正在成为 AI 办公的新载体？WorkBuddy 升级了一个关键能力",
+    "description": "HTML也能人机协同编辑了。（雷峰网） 作者丨李娜 编辑丨岑峰 仅仅十几秒，我就用WorkBuddy最新的功能做出了一个网页，并直接发布成了可以分享的公网链接，任何人都能访问。 这次WorkBuddy升级“资料库”之后，普通用户不需要写代码，也不用自己处理复杂部署，就能用自然语言生成、编辑和发布HTML页面。网页做出来这件事，已经变得非常简单。 但“十几秒做出一个网页”只是第一步。为了看看普通人到底能把它用到什么程度，我先从自己积累多年的书影音记录下手，做了一个可以不断扩展的网页版世界地图。 01 我做了一个书影音世界地图网站 世界很远，很多时候我们却只能困在当下的工作和琐事里。真正把人带到远方的，往往是书和电影。 （零散的书影记录） 我的阅读和观影记录散落在不同App里，零散、静态，彼此也没有什么关联。这些工具很擅长告诉我“看过什么”，却很难回答另一个问题：这些年，我究竟通过书和电影认识了一个怎样的世界？ 哪些地方主要通过文学进入我的视野，哪些地方更多来自电影？世界地图上，还有哪些区域几乎从未出现过？ 于是我想做一个“书影音世界地图”。 ▎ 从20条书影记录开始 我在豆瓣上找到了最近几个月的阅读和观影记录，选择其中一部分让AI帮我根据截图生成了一份CSV格式的文档，其中存储的有书籍名称、电影名称等，作品也分为阅读中、阅读完成和愿望清单三种状态，AI自动识别了每本书和每部电影对应的国家，比如《Lost in Translation》自动关联到日本东京。 (为了让地图的归类标准一致，我按照作品的主要故事发生地进行标记，而不是作者或导演国籍。) （CSV表格数据） ▎ 一张CSV表格，变成一张世界地图 将生成好的CSV文件添加到WorkBuddy的资料库中，选择执行任务，让其生成“我的书影音世界地图”的HTML网站。 很快页面就生成好了，并且可以在公网访问，我通过书和电影“抵达”过的国家会被点亮，想读、想看的地方则处在另一种状态。点击不同国家，还可以继续看到对应的作品 和城市。原本散落在CSV里的国家代码和书影记录，第一次变成了一种更直观的观察方式。 （“我的书影世界地图”HTML页面） ▎ 真正有意思的是，数据开始变化 令我觉得非常有用的一个功能是，在当前页面我也可以添加书籍或者电影，同样CSV数据表格中也会修改；如果直接在CSV数据表格中修改的话，也会直接反馈在当前",
+    "url": "https://www.leiphone.com/category/yanxishe/oKb8M5M7ub7JmG47.html",
+    "imageUrl": null,
+    "source": "雷锋网",
+    "categoryId": null,
+    "publishedAt": "2026-08-17T10:19:00.000Z",
+    "createdAt": "2026-08-17T22:25:16.412Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "AI Models & Agents",
+    "contentFormats": [
+      "Xiaohongshu Explainer",
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160269,
+    "title": "共生知行发布人形机器人赛车Demo：以卡丁车测试双足机器人的“全身智能”",
+    "description": "8月17日，具身智能初创公司共生知行（Symbiosis Robotics）发布双足人形机器人驾驶卡丁车Demo，官方网站同步上线。这是公司成立后首次较为完整地对外展示技术方向和阶段性研发成果。 公开视频中，人形机器人进入卡丁车驾驶位，双手接触方向盘、双脚进入踏板区域，并在封闭赛道上完成车辆行驶。驾驶不是单一动作：机器人需要根据环境调整方向，在狭窄座舱中保持稳定，并协调手部转向与脚部油门、刹车控制。 共生知行将这段赛车Demo定义为一次面向全身智能的综合测试。“卡丁车不是应用本身，而是一场全身智能压力测试。”卡丁车并非其商业应用方向，公司希望借这一场景，把视觉感知、多接触点平衡、手眼脚协同和精细力控放进同一条连续任务链，检验机器人能否像人一样调动全身完成复杂物理交互。 当前公开展示多聚焦行走、奔跑等运动能力，或固定位置的上肢抓取。前者考验本体和运控，后者考验视觉与机械臂操作；一旦需要同时保持平衡、理解环境并连续操作，模型、运控和硬件耦合显著增加。这正是人形机器人从“能运动”走向“能完成任务”的难点。 围绕这一问题，共生知行将自身定位为面向双足人形机器人的全身智能基座模型公司，探索从视觉等感知信息到机器人全身动作输出的端到端技术路线。公司希望减少传统分层架构中多个模块之间的信息损失和适配成本，使模型更直接地学习身体、环境与动作之间的关系，并通过扩大数据规模获得跨任务能力。 端到端也不意味着通用能力已经实现，它仍需要数据、底层控制、真机训练基础设施和严格评测共同支撑。因此，赛车Demo更适合被视为阶段性验证，而不是机器人已具备通用驾驶能力的证明。公司表示，后续将通过技术报告披露模型架构、测试条件和评测方式。 对于一家成立时间不长的公司，外界更关心的是：团队为什么有能力同时推进模型、运动控制和数据链路？ 共生知行的核心成员来自智源研究院，港科大，极佳视界，小米，达摩院，蚂蚁，清华等机构，均为博士研究者。几位成员创业前已持续合作两年以上，研究覆盖视觉—语言—动作模型（VLA）、全身运动控制、力位统一控制、跨本体学习及数据利用。 在可公开核验的成果中，创始人丁鹏翔参与的ReconVLA获得AAAI-26杰出论文奖；其主导的VLA-Adapter尝试以更小的模型和训练成本实现VLA能力，开源项目在GitHub已获得超过2200颗星。原生双足机器人基座模型团队，还是多篇早期的人行",
+    "url": "https://www.leiphone.com/category/ai/ex540RmkgK2urRRq.html",
+    "imageUrl": null,
+    "source": "雷锋网",
+    "categoryId": null,
+    "publishedAt": "2026-08-17T09:41:00.000Z",
+    "createdAt": "2026-08-17T22:25:16.412Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "Robotics & Embodied AI",
+    "contentFormats": [
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160265,
+    "title": "共生知行发布人形机器人赛车Demo：以卡丁车测试双足机器人的“全身智能”",
+    "description": "8月17日，具身智能初创公司共生知行发布双足人形机器人驾驶卡丁车Demo",
+    "url": "https://www.qbitai.com/2026/08/474537.html",
+    "imageUrl": null,
+    "source": "量子位",
+    "categoryId": null,
+    "publishedAt": "2026-08-17T09:30:49.000Z",
+    "createdAt": "2026-08-17T22:25:12.549Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "Robotics & Embodied AI",
+    "contentFormats": [
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160270,
+    "title": "YC 开源自家 Harness，3 天斩获 3.9k Star，QM 如何划清 Agent 的权限边界",
+    "description": "从拼模型能力，到搭管控骨架。 作者丨 樊天骄 编辑丨 郑佳美 过去两年，AI Agent 的竞争逻辑一直围绕一个核心问题展开：如何让一个 Agent 助手变得更加聪明及能干。 从 Claude Code、Codex，到 OpenClaw、Manus，现在的 Agent 可以写代码、分析数据、调用工具，甚至独立完成过去需要数小时、数天才能完成的复杂任务。 现在的 Agent 开始进入企业场景。这个时候 需要解决的就不仅仅是 “如何让一个程序员更高效”，还有 “如何让100个 AI 员工安全协作” 的问题。 近日，由顶级孵化器 Y Combinator（YC）开源的 QM 项目迅速引爆技术社区 ——YC 正是 OpenAI CEO 山姆・奥特曼早年执掌、奠定其全球创投地位的平台。这个项目上线 3 天狂揽 3.9k GitHub Star，官宣当日直接登顶 Hacker News 榜首。 区别于市面上主打个人生产力的 Agent 工具，QM 的定位是面向多人协作的企业级 Agent Harness。它不直接执行具体业务任务。作为一个给团队和公司使用的 Agent 管理工具，它专门解决 AI 规模化落地过程中的数据隔离、权限治理、环境统一、审计合规等全链路管理难题。 01 QM: 一个专门面向企业的 Harness 要理解 QM 的价值，先要厘清 Agent 产业的三层分工逻辑：底层大模型承担思考与决策，中间层 Agent 负责具体任务执行，而 Harness 作为外层管控框架，负责提供执行环境、管理上下文与记忆、调度工具权限、约束行为边界。 目前主流的 AI 编程与效率工具，比如 Claude Code、OpenClaw、Hermes 等，本质都属于个人级 Harness。 它们并非没有基础的沙箱隔离、权限控制与会话恢复能力，但其设计核心更多围绕单用户体验优化，优先保障个人使用的便捷性与执行效率，在个人生产力场景下优势突出。 ▎ 但当 Agent 进入企业规模化使用，个人工具的原生局限就会集中爆发，主要集中在三个问题上： 1.组织级数据边界缺失：个人 Harness 默认以单用户为单位共享运行环境与记忆空间，多人、多项目共用时极易出现跨团队、跨项目的记忆串台；也缺少按组织架构、项目维度划分的细粒度隔离机制，员工个人密钥、项目敏感文件存在意外泄露风险。 2.企业级权限治理空",
+    "url": "https://www.leiphone.com/category/ai/5fYkbR7Q1K3l0ImP.html",
+    "imageUrl": null,
+    "source": "雷锋网",
+    "categoryId": null,
+    "publishedAt": "2026-08-17T09:05:00.000Z",
+    "createdAt": "2026-08-17T22:25:16.412Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "Policy & Society",
+    "contentFormats": [
+      "Xiaohongshu Explainer",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160266,
+    "title": "人形机器人开始打国球了！两台机器人完整打完11分制比赛",
+    "description": "没有遥控、没人喂球",
+    "url": "https://www.qbitai.com/2026/08/474518.html",
+    "imageUrl": null,
+    "source": "量子位",
+    "categoryId": null,
+    "publishedAt": "2026-08-17T09:04:37.000Z",
+    "createdAt": "2026-08-17T22:25:12.549Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "Robotics & Embodied AI",
+    "contentFormats": [
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160271,
+    "title": "拆解 Mistral AI 新项目Shieldstral，看 3B 小模型如何重构 AI 安全审核范式",
+    "description": "一款 3B 级分类器，可通过统一接口审核文本、图片以及图文混合内容。 作者丨 樊天骄 编辑丨 郑佳美 2026 年 8 月 4 日，法国大模型厂商 Mistral AI 正式发布 Shieldstral，一款 3B 级规则自适应多模态安全分类器，可通过统一接口审核文本、图片以及图文混合内容。 与依赖固定风险标签的传统安全模型不同，Shieldstral 支持在推理阶段通过自然语言输入自定义审核规则，从而根据不同业务场景调整审核标准。 它围绕三层设计重构了安全审核流程：将不同审核任务统一为 Yes/No 判断题，通过对比式训练让模型学习具体的规则匹配关系，再将文本理解、视觉理解和规则适应能力整合到同一个轻量级模型中。 在多个文本和多模态安全基准上，Shieldstral 甚至取得了接近甚至超过部分参数量更大模型的结果，同时保持较低的部署门槛。 因此，本文将从任务建模、训练数据构造、视觉能力扩展和模型融合等方面，拆解这套方案的技术逻辑。 01 图文审核，只需一道判断题 传统安全模型通常采用固定分类方式：开发者预先设定暴力、色情、仇恨等风险类别，再使用相应的标注数据训练模型。模型上线后，主要负责判断待审内容是否命中这些预设类别。 但企业真正需要判断的往往不是这个内容属于什么类别，而是按照当前业务规则，这段内容是否应当受到限制：同样是暴力内容，新闻平台可能允许正常报道战争，儿童类产品则连轻微打斗画面都需要拦截。 这就导致，企业每次调整审核规则或进入新的业务场景时，原有分类标准可能不再适用，需要重新设计标签或者补充训练数据，必要时甚至要再次微调模型。 此外，文本和图片通常由两套独立模型分别审核，由此导致了不同模型判断尺度不一致，让企业需要同时维护多套审核系统，承担更高的部署与运维成本。 Shieldstral 的核心解法，是把不同来源的安全数据统一成相同的格式： 自然语言审核规则+待审内容→是否命中规则（yes/no） ，以此训练模型学习规则与内容之间的语义匹配关系。 ▎ 这个审核公式由三个可配置字段组成： &lt;Instruct&gt; ：规定审核场景和判断尺度； &lt;Query&gt; ：提出本次需要检查的具体问题； &lt;Document&gt; ：提供待审核的文本、图片或图文混合内容。 模型根据这三部分信息，判断待审内容是否符合当前规则，最终在 yes 和 n",
+    "url": "https://www.leiphone.com/category/ai/mx99nwAcQHgHCbka.html",
+    "imageUrl": null,
+    "source": "雷锋网",
+    "categoryId": null,
+    "publishedAt": "2026-08-17T09:02:00.000Z",
+    "createdAt": "2026-08-17T22:25:16.412Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "Policy & Society",
+    "contentFormats": [
+      "Xiaohongshu Explainer",
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160272,
+    "title": "关于 Hugging Face 入侵事件，OpenAI 终于放出了时间线",
+    "description": "一批原本彼此独立运行的 AI 智能体，在 OpenAI 内部创建了一块留言板。 作者丨 樊天骄 编辑丨 郑佳美 今年 7 月，Hugging Face 披露了一起罕见的网络安全事件： 由 OpenAI 模型驱动的自主智能体，在执行内部网络安全能力评估时突破沙箱限制，利用第三方服务作为攻击跳板，最终进入 Hugging Face 的生产基础设施。 针对这起事件，当地时间 8 月 5 日，在 Black Hat USA 2026 安全大会上，OpenAI 终于首次首次公开还原该事件的完整时间线和技术过程。 负责复盘事件的是两名直接参与本次安全事件调查的 OpenAI 员工：Eric Wallace 和 Michael Dalton。 两人都从事 AI 安全相关工作。其中，Eric Wallace 是 OpenAI 对齐与安全研究员，主要研究大模型安全、对齐与鲁棒性，目前共同负责 Alignment Training 团队； Michael Dalton 则来自 OpenAI 安全与基础设施团队，此前曾参与 xAI 超级计算集群 Colossus 的基础设施建设。 两人在演讲中主要回答了两个问题：雷峰网 原本彼此独立运行的智能体，如何利用共享基础设施相互留言，继而交换漏洞、共享凭据并分配任务； 事件发生后，OpenAI 采取了哪些行动来进行修复，并加强防范措施。 01 模型为什么会「作弊」 首先，Eric Wallace 演示了模型为什么会在训练和评估中寻找捷径，甚至尝试作弊。 OpenAI 通常会给模型布置任务，再通过测试程序或奖励信号判断完成质量。例如，让编程智能体为代码库增加一项功能，任务结束后运行单元测试；如果测试通过，模型就可能获得奖励。 问题在于，这类评估主要检查最终结果，却未必能够完整判断模型通过什么方式得到结果。 Wallace 表示，在完成任务、提高效率和减少工具调用等目标的共同作用下，模型可能发现，与其从头编写代码，不如直接在 GitHub 上搜索同一项目的代码或 PR 记录。 只要最后通过单元测试，这条捷径同样可能被评估系统判定为成功。 为了防止模型直接上网寻找测试答案，OpenAI 会关闭部分训练和评估环境的互联网访问。但编程和网络安全任务经常需要安装 Python 包等软件依赖，因此又不能完全切断所有外部连接。 OpenAI 采取的办法，是把模型",
+    "url": "https://www.leiphone.com/category/ai/JyuBFwcuu4VhHQjM.html",
+    "imageUrl": null,
+    "source": "雷锋网",
+    "categoryId": null,
+    "publishedAt": "2026-08-17T09:00:00.000Z",
+    "createdAt": "2026-08-17T22:25:16.412Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "Policy & Society",
+    "contentFormats": [
+      "Xiaohongshu Explainer",
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160273,
+    "title": "为了「自我锤炼」，OpenAI 造了一个攻击力极强的「AI 黑客」",
+    "description": "红队模型高危安全任务完成率达到 95%。 作者丨 樊天骄 编辑丨 郑佳美 昨天，OpenAI 宣布扩展网络安全计划 Daybreak，并推出了一款专门面向网络安全场景的模型 GPT‑5.6‑Cyber 。雷峰网 值得注意的是，GPT‑5.6‑Cyber 将 AI 网络安全能力划分为两个方向：面向防御工作的 Daybreak Blue（蓝队），以及面向高级安全研究和攻击模拟的 Daybreak Red（红队）。 这种 “红蓝攻防体系” 是传统网络安全领域中用于验证系统安全性的核心演练机制。 通俗来讲，就是红队模型模拟黑客视角，主动寻找漏洞，帮助安全团队提前发现系统中的薄弱环节；蓝队模型则模拟防御视角，根据红方发现的漏洞进行修复，提升系统抵御攻击的能力。 之所以采用这种方式，是 OpenAI 认为，未来网络攻击和防御都将被 AI 重新塑造。攻击者将利用 AI 自动发现漏洞并构建攻击路径时，因此防御者也需要具备理解攻击逻辑的 AI 能力。 但值得注意的是，OpenAI 此次真正进行专项训练、并重点公布量化评测结果的，并不是 “蓝队模型”，而是 Daybreak Red 所使用的 GPT‑5.6‑Cyber。 且，这个红队模型的模拟攻击力还很强悍。 这也形成了 Daybreak 最核心的矛盾：为了让防御者更早发现攻击路径，OpenAI 没有提高防御侧的模型，反而首先把 AI 的攻击模拟能力往前推进了一大步。 01 红队的模拟攻击力有多强 那么，GPT‑5.6‑Cyber 的攻击模拟能力究竟强到了什么程度？ 从 OpenAI 公布的测试来看，这次对红队能力的强化并不仅仅是单纯让模型更懂网络安全，而是把能力进一步向真实漏洞研究的流程推进。 首先测试的是红队模型 “找 Bug” 的能力。 在内部零日漏洞挖掘评测（Zero‑Day Discovery Eval）中，OpenAI 仅向模型提供对应开源代码仓库的当前版本源码，全程不透露漏洞的具体位置与类型，要求模型自主发掘全新零日漏洞并生成可验证漏洞最大潜在危害的相关报告。 结果显示，经过专项训练的 GPT‑5.6‑Cyber 在平均漏洞发现质量上，已经远远超过了 Daybreak Blue 使用的 GPT‑5.6 Sol。 不仅仅是跑 Benchmark，GPT‑5.6‑Cyber 的研究评测还延伸到了真实世界漏洞研究。 在模型完成",
+    "url": "https://www.leiphone.com/category/ai/2b8vHYIEycW0DmQE.html",
+    "imageUrl": null,
+    "source": "雷锋网",
+    "categoryId": null,
+    "publishedAt": "2026-08-17T08:57:00.000Z",
+    "createdAt": "2026-08-17T22:25:16.412Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "Policy & Society",
+    "contentFormats": [
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160274,
+    "title": "豆包“工作任务”升级，支持手机远程操控电脑",
+    "description": "近日豆包发布产品更新，“工作任务”模式新增手机远程控制电脑功能。同一账号授权后，用户在手机端下达任务指令，可以由已连接的电脑端读取本地文件、操作软件完成执行，进度和结果实时回传手机，帮助用户在通勤、离开工位等各类场景中自动执行任务，提升效率。 今年6月豆包上线“工作任务”模式，AI 可在授权后直接操作本地电脑和浏览器。此次更新把操控任务扩展到手机端，支持关联多台电脑，可跨设备调取文件。豆包官号演示的案例显示，外出时远程让电脑找到桌面文件、转成 PDF 回传；通勤途中让电脑继续未完成的数据分析、生成图表发到手机；所需文件分散在工作和家庭两台电脑时，分别调取后合并修改。 使用该功能需在豆包官网下载最新的“豆包电脑版”， 并将手机端豆包App更新至最新版，在“工作任务”模式中点击“云电脑”，并在对话运行环境中选择“添加新的本地电脑”完成授权。",
+    "url": "https://www.leiphone.com/category/industrynews/u0uYIWvrxUmEXHxx.html",
+    "imageUrl": null,
+    "source": "雷锋网",
+    "categoryId": null,
+    "publishedAt": "2026-08-17T08:56:00.000Z",
+    "createdAt": "2026-08-17T22:25:16.412Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "AI Models & Agents",
+    "contentFormats": [
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160275,
+    "title": "Seedance 2.5 正式支持 1080P，API 同步开放",
+    "description": "8月17日，火山引擎官网显示 Seedance 2.5 正式支持原生1080P视频生成，API 同步上线。 Seedance 2.5 定位为“电影级长叙事”的真实画面质感和长镜头能力，此前已支持480P、720P 视频生成。随着 1080P 能力上线，Seedance2.5 进一步提升画面清晰度和影像质感，拓展后期制作的空间和专业场景的能力上限。 图注：Seedance 2.5 1080P生成的光影色彩质感更接近真实自然环境。 Seedance 2.5 1080P主要在色彩、细节与真实感三个方面实现升级。色彩方面，Seedance 2.5 1080P率先支持原生10-bit色深输出，色彩过渡更加平滑，能在暗部和高光区域保留更丰富的信息，为专业调色提供更大空间。在画质方面，人物轮廓边缘更加清晰，毛发、布料及不同材质的纹理细节进一步增强。光影方面，Seedance 2.5在面部明暗关系和环境光散射等方面更接近真实物理规律，肤质呈现也更加自然，进一步降低画面的AI生成感。 火山引擎官网显示，Seedance 2.5 1080P API已开启首月限时优惠。活动期间，1080P图生视频价格由3.7元/秒降至约2.7元/秒，相当于日常价格的72折，优惠持续至9月17日。 图注：火山引擎官网显示，Seedance 2.5 1080P API首月限时72折。",
+    "url": "https://www.leiphone.com/category/industrynews/xvsvCI7gPqM0YzFJ.html",
+    "imageUrl": null,
+    "source": "雷锋网",
+    "categoryId": null,
+    "publishedAt": "2026-08-17T08:54:00.000Z",
+    "createdAt": "2026-08-17T22:25:16.412Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "AI Models & Agents",
+    "contentFormats": [
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160276,
+    "title": "深度拆解 DeepSeek Harness 架构：AGI 的自进化，终于有了「后悔药」",
+    "description": "DeepSeek：一切皆插件，包括 Harness 作者丨 樊天骄 编辑丨 岑 峰 8 月 13 日，DeepSeek 正式开放 DeepSeek Harness v0.1 Developer Preview。项目非常火热，截至 8 月 14 日下午，DeepSeek Harness 在Github 上已经获得了 4.5 万星 。 不过这次比较值得讨论的倒不是 DeepSeek 又做了一个 Coding Agent，而是它对 Harness 提出了一个明确概念 ： 一切皆插件。 过去的 Harness 像一个固定浇筑的大楼，遵循一个相对固定的结构： 核心 Harness + 外挂插件。 用户可以在外围增加 Skill 或者接入 MCP 等其他工具，但工具调用、会话管理、沙箱、存储以及 Agent Loop 等底层运行机制，通常已经由厂商提前搭好并封装在产品内部，普通用户无法直接修改。 这次 DeepSeek Harness 把这栋“固定的大楼”拆成了一盒乐高： 不只是外围能力可以插件化，连 Model Adapter、Tool Registry、Session Log，甚至 Agent Loop 这样的核心组件，也都可插拔。 也就是说， 没有 什么核心 Harness 或 者外挂插 件的分别了，Harness 自己就是由插件拼出来的。 01 核心架构 Cordis 为什么 DeepSeek 连核心都要插件化？ Deepseek 给出的答案是：实现 Self-Evolving Agent Harness 。 Harness 不只是调用固定能力，而是能够在运行过程中生成、替换自己的组件。这样 Agent 不只是调用 Harness 提供的能力，它甚至可以开始检查、挂载和修改自己的 Runtime。 也正因为如此，Runtime 本身需要先被拆成可以动态组合的对象。 不过这时候有个问题：如果所有东西都能动，怎么保证不把系统搞爆炸？ 对此，DeepSeek-AI 与北京大学研究者联合发表了一篇名为 《A Programming Paradigm for Spatiotemporal Composability》 的论文，并提出了一套名为 Cordis 的动态组件框架。 这套机制曾经长期运行在 Koishi 里——这是一个高度插件化的开源聊天机器人框架，拥有数千个社区插件；雷",
+    "url": "https://www.leiphone.com/category/ai/u43j44fx6Rly10nI.html",
+    "imageUrl": null,
+    "source": "雷锋网",
+    "categoryId": null,
+    "publishedAt": "2026-08-17T08:53:00.000Z",
+    "createdAt": "2026-08-17T22:25:16.412Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "Robotics & Embodied AI",
+    "contentFormats": [
+      "Xiaohongshu Explainer",
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160277,
+    "title": "原生全模态路线进阶，智象未来发布交互式世界模型HiDream-O1-World",
+    "description": "HiDream-O1-World，一款原生全模态交互式世界模型。 HiDream-O1-World 具备 漫游、编辑、交互三大功能，支持文本、图像、交互等多模态方式输入。 用户可一键生成时空一致、符合物理规律、可长时推演的完整世界。 HiDream-O1-World 搭载的是智象自研的原生全模态（ UiT ）架构。作为核心基座， UiT 此次迎来升级，在交互式世界模型领域公认的核心技术挑战——时空一致性与物理一致性上，取得了关键性突破。在新发布的世界模型中，这种突破表现为：当镜头推拉摇移时，场景空间的几何结构保持高度稳定，物体不会消失或变形；物体间的碰撞、遮挡、重力响应高度符合真实世界的因果逻辑，而非随机“猜”出来的画面拼接。 智象未来CTO姚霆表示：“交互式世界模型的价值，不在于生成一个逼真的三维场景， 而在于AI开始真正理解空间的深度、物体的质感、运动的惯性与光影的逻辑。这是对物理世界运行规律的系统性认知与重塑。 HiDream O1 World，正是这场系统性重塑的第一道桥梁——让每一次交互，都通往一个从未抵达的世界。它的突破性效果，既坚定了我们推动原生全模态架构技术路线纵深发展的信心，也为智象持续构建世界模型的核心技术壁垒提供了关键支撑。” 不久前，HiDream-O1-World 在第三方评测中交出了首份成绩单。由美团 LongCat 团队与复旦大学联合推出的交互式视频世界模型评测基准 WBench 公布了最新榜单。 智象HiDream-O1-World在核心的Navi分榜中，以平均分80.9的成绩登顶榜首，其中在物理（Physical）维度以73.3分位列第一，Consistency（一致性）维度达88.0分。 两项关键指标均位居前列，成为该榜单中综合表现排名第一的模型。 WBench 是业内首个面向交互式世界模型的系统性评测基准，涵盖289个多轮交互案例、共计1058个交互轮次，并基于五大维度、22项指标构建起一套严谨的量化评测体系。评测分为Navi与Full两个榜单，其中Navi分榜聚焦空间导航与视角控制，被业内视为衡量世界模型空间理解能力的核心标尺。HiDream-O1-World首次参评即登顶Navi分榜，刷新交互式世界模型性能上限。这背后，是智象自研 UiT 架构在时空一致性与物理一致性上的关键突破，让“构建可信交互世界”有了坚实的技术支点。 ",
+    "url": "https://www.leiphone.com/category/ai/ZBZ8uxaPm2OTe7nN.html",
+    "imageUrl": null,
+    "source": "雷锋网",
+    "categoryId": null,
+    "publishedAt": "2026-08-17T08:46:00.000Z",
+    "createdAt": "2026-08-17T22:25:16.412Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "Education & Future Skills",
+    "contentFormats": [
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160267,
+    "title": "菲尔兹奖得主：AI现在主要靠「抬杠」突破重大数学猜想",
+    "description": "AI最近最出圈的数学突破，都在“找反例”",
+    "url": "https://www.qbitai.com/2026/08/474381.html",
+    "imageUrl": null,
+    "source": "量子位",
+    "categoryId": null,
+    "publishedAt": "2026-08-17T08:36:07.000Z",
+    "createdAt": "2026-08-17T22:25:12.549Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "AI Models & Agents",
+    "contentFormats": [
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160278,
+    "title": "人人都能写好听的歌，阿里发布AI音乐模型HappyShrimp",
+    "description": "8月17日，阿里巴巴发布AI音乐模型HappyShrimp（中文名：快乐虾米）。HappyShrimp能精准理解自然语言，用户只需描述一种情绪、一个故事或一段记忆，模型便能完成从作词、作曲、编曲到演唱的完整创作。其核心优势在于：端到端整曲生成，让歌词、旋律、编曲与人声一体成型；深度的意图理解能力让模型能听懂创作意图，听懂生活语言，生成符合用户需求的歌曲；极强的提示词控制力，确保长短描述均能精准落实，让灵感化身旋律。 图：HappyShrimp官网首页 HappyShrimp 采用端到端整曲生成路线，把音乐理解为一种有语法、语义和上下文的特殊语言，对于用户提出的语言描述、歌词、曲风、情绪、年代及人声等要求，模型不是分头处理后拼接，而是整体规划、同步创作、兼顾长程结构，一体成型，生成完整歌曲。 AI音乐工具通常擅于处理标准化标签，较难理解自然语言的文化语境、时代审美与情绪意图。HappyShrimp不仅能听懂“Lo-fi R&B”等专业表达，也能理解情绪、场景与叙事，听懂生活语言。比如用户输入“适合在咖啡馆播放的曲子”或“写给刚毕业的自己”，模型便能自动转化为专业音乐决策，生成符合想象的歌曲。 面对人声性别、唱法、调性、BPM、配器组合与情绪推进等多维复杂指令，HappyShrimp 不会简单照搬，而是能够结合整体创作意图进行推理，并将合适的元素自然融合到作品中，在保持音乐整体性与协调性的同时，准确呈现核心创作诉求。 上线首日，HappyShrimp宣布与太合音乐集团达成战略合作。未来，双方将围绕音乐产业生态共建、AI 音乐平台合作及音乐人共创等方向展开深入探索，共同拓展 AI 音乐创作与产业发展。 即日起，HappyShrimp在国内及海外同步上线 PC 网页端（国内：https://www.happyshrimp.cn/；海外：https://www.happyshrimp.ai/），新用户享大额免费积分。8月28日至30日，HappyShrimp还将亮相2026阿那亚·虾米音乐节，并以虾米音乐节为灵感创作现场氛围音乐。",
+    "url": "https://www.leiphone.com/category/industrynews/hGcCVT4LhwHEpOh9.html",
+    "imageUrl": null,
+    "source": "雷锋网",
+    "categoryId": null,
+    "publishedAt": "2026-08-17T08:33:00.000Z",
+    "createdAt": "2026-08-17T22:25:16.412Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "AI Models & Agents",
+    "contentFormats": [
+      "Xiaohongshu Explainer",
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160279,
+    "title": "周鸿祎发布全员信：360启动AI时代组织变革，用领导力驱动AI原生转型",
+    "description": "8月17日，360集团创始人周鸿祎发布全员信。这封题为《用领导力驱动业务创新和组织变革》的信中明确提出，在公司向AI Native（AI原生）组织转型过程中，各级管理者是培养超级个体、打造超级团队的第一责任人，并直言“这不是一次普通的干部领导力升级，而是360用AI重新创业”。 据了解，这封全员信是360推进“All in Agent”战略的进一步升级。此前，周鸿祎曾多次公开表示，企业AI化转型首先要从管理者开始。过去一年，360持续推动AI在产品研发、业务运营和组织协同等场景落地，多个团队已跑通AI原生实践，研发效率和业务创新能力明显提升。此次全员信，则把这些探索进一步明确为面向全体管理者的统一行动。 信中，周鸿祎向各级管理者提出三点明确要求：大力推动创新变革，加快业务和产品的突破；全力推进组织重塑，让管理者从\"审批机器\"转向\"超级个体的教练和指挥官\"；学习迭代、躬身入局，先把自己进化成精通AI的\"超级个体\"。 更受外界关注的是信中提出的\"三份作业\"。周鸿祎要求，每一位干部都要带着团队交出实打实的结果：至少推动一个AI产品或业务创新，至少跑通一条由AI重构的核心流程，至少拿出一项自己亲手使用AI完成的实质性成果。这些成果将直接纳入管理者年度考核。为保障转型落地，360同步启动组织层面的配套调整：推动组织扁平化，引导基层管理者回归个人创新；加快产研团队的AI原生转型；加大校招生力度，促进人才结构年轻化。 业内人士认为，这封全员信的意义已不只是一次企业内部管理升级。当AI从工具走向智能体，从辅助工作走向参与决策与执行，企业竞争的关键正从“会不会用AI”转向“组织是否具备AI原生能力”。未来，比拼的不只是技术和工具，更是组织学习速度、创新效率以及人机协同能力。 周鸿祎提出的“用AI重新创业”，本质上是在探索AI时代企业发展的新路径。当技术逐渐普及、工具日趋同质化，真正拉开差距的将是组织进化能力。如何把个体能力提升沉淀为组织能力跃迁，如何让AI成为创新引擎而非简单工具，正成为越来越多企业必须面对的新课题。而360此次率先推动AI原生组织转型，也为行业提供了一个中国企业AI变革的新样本。",
+    "url": "https://www.leiphone.com/category/industrynews/WjQLacGTcoSW4yTA.html",
+    "imageUrl": null,
+    "source": "雷锋网",
+    "categoryId": null,
+    "publishedAt": "2026-08-17T08:26:00.000Z",
+    "createdAt": "2026-08-17T22:25:16.412Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "Education & Future Skills",
+    "contentFormats": [
+      "Xiaohongshu Explainer",
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160280,
+    "title": "RoboScience 机器科学发布轮式仿人形通用机器人 REX G1，让机器人真正成为新一代具身生产力伙伴",
+    "description": "走向真实生产：让机器人持续创造价值。 编辑丨李希 8 月 17 日， RoboScience 机器科学正式发布轮式仿人形通用操作机器人 ——REX G1 ，定位为 “ 新一代具身智能生产力伙伴 ” 。 作为 RoboScience 机器科学发布的首款机器人， REX G1 搭载其自研的 VLOA 架构通用具身大模型 Visics ， 面向物流、工厂、零售及家庭等场景打造，可在非结构化、高动态的真实世界中完成从任务理解到执行的完整闭环， 推动机器人从替代单一工序走向承接完整任务。 REX G1 的外观设计以 \" 力量可控、稳定可信、柔和亲近、可靠易维护 \" 为出发点，整机采用 \"1+1\" 构成形式——由大体量本体承载动力系统、小体量头部单元负责指令输出与信息交互。机身通体圆润过渡、取消尖锐边角并辅以磨砂表面处理，兼顾与人近距离共处场景下的视觉与触感需求；墨水屏作为主要信息界面，仅在必要时输出反馈。此外， REX G1 预留了快拆检修口设计，彻底免除了整机拆解的烦恼，让日常运维更加高效可靠。 01 打造全能形态， 流态连续作业展现极致效率 在工业场景中，移动与作业长期是两套彼此割裂的能力。以 AGV 为代表的移动机器人解决了物料位移问题，却难以承接分拣、取放等精细作业；工业机械臂具备足够的作业精度，却受限于固定工位，无法随场景移动。在极窄通道、密集货架和动态变化的现场，真正需要的是移动与操作合一的通用型终端。 REX G1 将移动与操作融为一体，打造 “ 全能形态、极致效率 ” 的具身智能生产力伙伴。 REX G1 整机拥有 22 个自由度（ 2 头颈、 7×2 臂、 2 腰部、 1 升降以及 3 底盘） ，自由度对标人体，双臂抱持 10KG 。 在受限空间内， REX G1 可通过零空间控制保持末端位姿稳定，底盘、升降机构与双臂协同工作，在行进过程中同步完成目标定位与抓取——即 \" 边走、边升、边抓 \" ，减少传统机器人频繁停机、调整和重新定位带来的时间损耗。 在精细操作方面， REX G1 支持 ±0.1mm 重复定位精度 ，能够完成高频物体抓取、放置等精细操作，结合视觉能力，对抓取库位码进行二次校验，为连续作业提供更稳定的操作精度。 02 适应真实生产环境： 不改场景，也能进入现场作业 传统仓储机器人往往需要对现场进行部分改造，如加宽通道、调整货架间距、预留转弯半",
+    "url": "https://www.leiphone.com/category/industrynews/G2lZ6kx4We8V7m1o.html",
+    "imageUrl": null,
+    "source": "雷锋网",
+    "categoryId": null,
+    "publishedAt": "2026-08-17T07:47:00.000Z",
+    "createdAt": "2026-08-17T22:25:16.412Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "Robotics & Embodied AI",
+    "contentFormats": [
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160281,
+    "title": "别再乱调图像塔了！浙大 IJCAI 论文揭露 VLM 非对称性真相，给 CLIP 微调「踩刹车」",
+    "description": "A 3 B 2 自适应非对称适配器，诠释大模型微调的“克制”艺术。 作者丨 张 璐 编辑丨 幸丽娟 在视觉语言大模型（VLM）落地少样本迁移任务时，高效参数微调（PEFT）是大家普遍采用的低成本方案。 然而，业界长期存在一个惯性思维：既然是做图像分类，给图像编码器多挂几个 Adapter、多做微调，模型理应能看懂更多视觉细节。 但现实却演化出一个尴尬的矛盾：在面对未知的现实场景（域外数据/OOD）时，在图像编码器上微调得越激进，模型的泛化能力反而破坏得越惨烈。 预训练大模型原本拥有一双看懂万物的“好眼睛”，强行局部微调反而把它“改近视了”。 这一矛盾引发了研究者的反思：在 VLM 微调中微调中，我们是否一定要死板地对称更新双塔？浙江大学陈静远教授课题组与斯旺西大学的联合团队提出了一个全新的方案—— （自适应非对称适配器）。 它放弃了对图像分支的硬性微调，而是引入预测置信度，自动在合适的时候给视觉塔“踩刹车”，在保留预训练强泛化力的同时实现高效适配。 论文链 接：http s://a rxiv.org/html/2605.13161v2 01 颠覆直觉的发现： 文本放开改，图像看情况 为了彻底搞清楚双塔到底该怎么调，研究团队在 11 个主流视觉数据集上展开了严谨的实验。他们给 CLIP 的图像塔和文本塔分别挂载基础 Adapter，在不同任务场景下进行了交叉对比，最终总结出推翻传统范式的 三大核心洞察 ： ▎ 实验试出来的三条“微调铁律” 洞察一：文本分支的改动收益更高 。 在大多数任务中，微调文本编码器带来的性能提升，显著高于微调图像编码器。这是因为文本本身包含高度抽象的高层语义，通过微调文本端，模型能以极小的参数代价快速对齐新类别的概念。 洞察二：已知场景，双管齐下。 在 分布内任务 （例如基类到新类的泛化）中，由于测试集和训练集的数据分布一致，同时微调图像塔和文本塔能达到最佳表现。此时图像塔的微调有助于捕捉特定领域内的细粒度视觉特征。 洞察三：未知场景，图像微调是“毒药”。 一旦到了 分布外任务（OOD） （例如跨数据集迁移或域泛化），激进地微调图像塔不仅带不来收益，反而会严重破坏 CLIP 原本强大的通用视觉表达。 在（b）跨数据集评估和（c）域泛化等 OOD 任务中，仅微调图像分支（Image 柱）的准确率大幅下滑；而仅仅微调文本分支（Text 柱）反而能维",
+    "url": "https://www.leiphone.com/category/private/xQX0laen8XifhvXD.html",
+    "imageUrl": null,
+    "source": "雷锋网",
+    "categoryId": null,
+    "publishedAt": "2026-08-17T04:45:00.000Z",
+    "createdAt": "2026-08-17T22:25:16.413Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "Education & Future Skills",
+    "contentFormats": [
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160282,
+    "title": "从「3D相册」到「物理底座」：CVPR 2026 开启 3DGS 的具身智能时代",
+    "description": "秒级前馈生成、Neural ODE 物理碰撞与真实抗噪建图，3DGS 正演变为机器人模仿学习的数字孪生工厂。 作者丨张 璐 编辑丨齐铖湧 在过去两年的 3DGS 研发浪潮中，我们经常看到这样的奇观：算法在论文里跑出了惊艳的 3D 渲染画面，但一拿到真实手机或机器人上，立刻卡成ppt甚至崩溃。 “能在实验室发论文”与“能在工业现场干活”之间，隔着一条残酷的工程鸿沟。 到了 CVPR 2026，这场画质内卷的狂欢终于踩下了刹车。前沿团队们的视角全面转向工业落地：从秒级前馈生成、GPU 算子重构，到抗噪 SLAM 建图与 Neural ODE 物理碰撞推算，3DGS 正打通“生产-运行-架构-应用”全管线，演变为具身智能与世界模型的物理底座。 接下来，雷峰网AI科技评论将通过 8 篇代表性顶会工作，拆解 3DGS 跨越工业化门槛的完整蜕变路径。 01 生产端：告别几十分钟等待， 实现秒级生成与算力按需分配 在传统的 3DGS 工作流中，场景构建一直是一项非常耗时的任务。每拿到一组新拍摄的图像，算法都需要针对该场景跑上几十分钟甚至更久的逐场景迭代优化。 为了追求极高画质，早期算法倾向于采用像素对齐（Pixel-aligned）策略。简单来说，就是为输入的每一个像素都生成一颗 3D 高斯图元。这种做法导致无论是一面毫无纹理的白墙，还是一树极其复杂的枝叶，都被塞满了同样密度的高斯点，最终导出一个庞大而臃肿的场景文件。 针对这一问题，研究者们给出的破局思路非常明确 ：弃用漫长的逐场景优化，转向“前馈神经网络（Feed-forward）”实现秒级甚至毫秒级单次推理出图；同时彻底打碎死板的“一像素一高斯”限制，让高斯图元的数量与密度能够根据场景复杂度和硬件性能按需分配。 ▎ EcoSplat：像切视频清晰度一样，随时按算力裁剪 3D 模型 本研究来自 KAIST（韩国科学技术院）Flawless AI 与 中央大学 联合团队，共同一作位 Jongmin Park 与 Minh-Quan Viet Bui，通讯作者为 KAIST Munchurl Kim 教授与中央大学 Jihyong Oh 教授。 现有的前馈重建模型通常只能预测固定数量的密集高斯图元，无法根据端侧设备的实际算力进行动态调整。把一个拥有上百万高斯图元的大模型强行塞给低配手机或 VR 头显，要么显存直接爆掉，要么渲染卡成",
+    "url": "https://www.leiphone.com/category/private/aUhbF0DAHdEEWDDY.html",
+    "imageUrl": null,
+    "source": "雷锋网",
+    "categoryId": null,
+    "publishedAt": "2026-08-17T04:41:00.000Z",
+    "createdAt": "2026-08-17T22:25:16.413Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "Robotics & Embodied AI",
+    "contentFormats": [
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160283,
+    "title": "中国电信领投，觅蜂科技再获数亿元融资，聚焦物理AI数据服务平台",
+    "description": "雷峰网获悉，近日，一站式物理AI数据服务平台觅蜂科技完成新一轮数亿元融资。本轮由中国电信领投，张江集团跟投，红杉中国、元启创新等老股东超额追加。资金将用于扩大MEgo系列无本体采集产品量产、提升数据采集—治理—评测全栈能力，并加速千万小时级物理交互数据产能落地。 成立约半年，觅蜂科技已连续完成多轮融资，投资方涵盖国资平台、头部基金及产业方。 进入真实场景采集，定位“懂模型与场景”的数据平台 觅蜂科技认为，物理AI要实现高阶推理和物理规律掌握，需依赖大规模、高质量真实交互数据。相比大语言模型，物理AI数据有效信息密度更低、噪声更高，需求更大。 MEgo系列已进入真实场景采集 公司从采集、治理、评测三端切入： 采集端：自研MEgo系列无本体采集产品已量产，并在工厂、物流、超市、家庭、酒店、餐饮、安防、养老、文旅等真实场景部署。产品轻量化，可同步采集环境感知与手部操作数据，轨迹精度达毫米级，实现低成本、规模化采集。同时构建分层数据供给金字塔，覆盖真机遥操等多种类型。 治理端：MEgo Engine平台打通预处理、空间重建、多模态标注、质量评测自动化闭环，效率提升10倍以上。自研VIO位姿算法支持人机技能迁移、长时序动作切分和智能标注，降低数据处理成本。 评测端：建立闭环迭代体系，通过数据回流飞轮实现持续优化。部分场景中，每轮数据闭环可推动任务成功率提升5%至10%。 目前，觅蜂科技已在国内20多个城市设创新中心，海外布局超5个节点，与蚂蚁灵波等企业合作，为LingBot-VLA 2.0等基座模型提供训练数据。 云网、场景与生态协同，共建数据基础设施 本轮投资方将强化觅蜂科技的生态协同： 中国电信发挥云网融合、算力调度、场景连接及安全合规优势，与觅蜂联合打造“云网+具身数据”一体化解决方案，面向人形机器人、智能制造、智慧园区等客户，推动标准化数据产品与行业数据集落地。 张江集团开放园区、工业、商业等场景资源，协同共建具身智能数据公共服务载体，推动数据标准与产业集聚。 张江集团副总经理林晨表示，觅蜂拥有完整的硬件采集、自动化治理和规模化供给能力，双方将深化数据要素价值转化。 觅蜂科技董事长兼CEO姚卯青称，本轮融资不仅是资本支持，更是云网、场景与生态的协同。公司将依托已形成的“采集—治理—供给—评测”闭环，加速高质量数据向模型能力与产业价值转化。 关于觅蜂科技（Manifor",
+    "url": "https://www.leiphone.com/category/ai/b2S92lazehrBwmdP.html",
+    "imageUrl": null,
+    "source": "雷锋网",
+    "categoryId": null,
+    "publishedAt": "2026-08-17T03:54:00.000Z",
+    "createdAt": "2026-08-17T22:25:16.413Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "Robotics & Embodied AI",
+    "contentFormats": [
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160284,
+    "title": "具身智能开始进入「下半场」：从会干活到干完活",
+    "description": "拉格朗日用 Agentic OS 和工序重构，让机器人在工厂把任务闭环跑完。 作者丨 邓哲敏 编辑丨 齐铖湧 近日，两台轮式双臂机器人、一只机器狗和一台 AGV，第一次被推进汽车物流产线，开始它们为期至少一个月的连续调试。 阵容谈不上惊艳，机器人的任务也很朴素。引起我们雷峰网注意的，是整个 工序架构 ： 三种设备同时进场，围绕同一条任务链路运转，一台机器人做零件分拣上料，另一台机器人做满箱搬运和空箱回收，机器狗和 AGV 负责中间的运输和调度。 和过去两年大多数机器人进工厂不一样，这套系统似乎不是为了把机器人塞进去干活而找一个工位，而是 从工厂真实任务出发 ，把工序重新拆解，把技能重新排序，把不同设备的调度逻辑重新设计，然后让整套系统围绕一个目标运转——任务结果，有没有被验证？ 这种务实的评判方法，戳中了具身行业被长期忽视的工程问题。 01 一场 935 亿的交付焦虑 具身智能正处在它最热的时点。 今年上半年，国内具身智能赛道融资额冲到 935 亿元，是去年同期的 5 倍，超过去年全年总量；融资事件 322 笔，同比增长 137%。Demo 视频的刷屏频率，不亚于任何一轮 AI 浪潮。 但钱与落地之间，隔着一道明显的落差：头部企业人形机器人出货量刚过万台，全年预计难超 10 万台，商业化投入占比仅约三成。 这道落差的来源，行业通常归结为模型不够强、数据不够多。但如果在真实工厂里待过一段时间，会发现问题远不止于此。 模型做出正确判断，指令下发，机器人执行，任务完成。这套链路在仿真环境里基本成立，进了工厂就开始漏洞百出。 设备回执不等于现场结果，单机动作跑通不等于跨设备链路闭环。 更麻烦的是，来料摆放偏了、上游堵线了、传感器瞬间丢帧，这些异常情况发生时，大多数系统的处理方式，是停下来等人。 谁来持续观察现场状态、判断执行有没有偏差、在出错后诊断和恢复、从中断处继续？ 去年在杭州成立的拉格朗日具身技术，把这层工程当作创业的核心命题。 他们自研的 Agentic OS，为 Agent 提供统一的环境状态感知、机器人技能调度、安全边界约束、运行记录和人工接管机制。Agent 围绕目标，在一条循环里推进：理解场景、组织技能、观察结果、判断偏差、恢复或继续，直到业务目标被验证，而不是命令被下发。每一次成功、失败和恢复，都被记录为可复盘的任务日志，驱动后续系统优化。 02 大模型全",
+    "url": "https://www.leiphone.com/category/ai/KW4ChhveDJVpOjl1.html",
+    "imageUrl": null,
+    "source": "雷锋网",
+    "categoryId": null,
+    "publishedAt": "2026-08-17T03:36:00.000Z",
+    "createdAt": "2026-08-17T22:25:16.413Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "Robotics & Embodied AI",
+    "contentFormats": [
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160285,
+    "title": "国内第一视角数据最早押注者，北大卢宗青：隐空间才是具身的路",
+    "description": "具身智能的确定性技术还没出现，世界模型可能也不是答案。 作者丨 邓哲敏 编辑丨 齐铖湧 25 年 6 月，卢宗青在智源大会上提出一个判断： 人类视频，是具身智能唯一可以 scale up 的数据路径。 彼时，行业的注意力集中在机器人本体、素材场搭建、数据飞轮上，没有多少模型公司把目光投向第一视角人类视频。卢宗青不一样，他不仅提出这个判断，而且按这个方向积累数据，到现在已经积累了 超过 5 0 万小时 。 卢宗青是北京大学计算机学院长聘副教授，长期担任 ICML、NeurIPS、ICLR 高级领域主席，也是 国内隐空间路线最早的系统性推进者 。 2025 年，他创立了 BeingBeyond 智在无界，走的是一条与主流视频生成路线截然不同的技术路径—— 隐空间世界动作模型 （Latent World-Action Model）：不生成画面，直接在 embedding space 里联合预测机器人下一步做什么、世界将如何响应。 这条路线训练成本是视频生成路线的 约 1% ，推理速度足以支撑实时控制，但有一个缺点——没有画面，不好展示。在具身智能融资热、demo 竞赛激烈的当下，这是一个需要定力才能坚持的选择。 不过卢宗青本人并不把这当成笃定的押注。 他在采访中说了一句话，让人意外：具身基础模型的确定性技术尚未出现，世界模型可能都不是。 他的逻辑是，GPT 能堆出来，是因为先有了 Transformer 和 Next Token Prediction，有了确定性范式，堆数据才有意义。具身现在还没到那一步， “ 我们现在连确定性技术是什么都不知道。” 这不是自谦，是判断。 26 年 7 月 28 日，BeingBeyond 正式发布 Being-H0.8—— 全球首个隐式触觉世界动作模型 。Being-H0.8 首次将触觉模态引入大规模模型预训练，并将视觉、触觉、动作以及未来状态变化统一到同一隐空间（latent space） 。这使机器人不仅能够理解“看到了什么、做了什么、接触到了什么”，还能够进一步理解“世界因此发生了怎样的变化”，从而形成对物理交互过程更加完整的认知与预测能力。 围绕技术路线的选择、数据的真实价值、行业分工如何形成，以及通用具身基础模型究竟还有多远的路要走， AI科技评论（雷峰网公众号）与卢宗青展开了对话 ，以下为未经改变原意的编辑整理： 01 从北大",
+    "url": "https://www.leiphone.com/category/ai/cTpkd2xI7DZBdCRk.html",
+    "imageUrl": null,
+    "source": "雷锋网",
+    "categoryId": null,
+    "publishedAt": "2026-08-17T03:31:00.000Z",
+    "createdAt": "2026-08-17T22:25:16.413Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "Robotics & Embodied AI",
+    "contentFormats": [
+      "Xiaohongshu Explainer",
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
     "id": 2160259,
     "title": "李飞飞最新访谈：AI咋能代替人呢？",
     "description": "AI不是替代者，而是个人能力的放大镜",

@@ -1,5 +1,314 @@
 [
   {
+    "id": 2160337,
+    "title": "200 Startup Teams Mark a Record-Breaking Year for Entrepreneurship at Georgia Tech",
+    "description": "&lt;span&gt;200 Startup Teams Mark a Record-Breaking Year for Entrepreneurship at Georgia Tech &lt;/span&gt; &lt;span&gt;&lt;a title=\"View user profile.\" href=\"https://news.gatech.edu/user/1\"&gt;Superadmin&lt;/a&gt;&lt;/span&gt; &lt;span&gt;&lt;time datetime=\"2026-08-20T17:01:32-04:00\" title=\"Thursday, August 20, 2026 - 17:01\"&gt;Thu, 08/20/2026 - 17:01&lt;/time&gt; &lt;/span&gt; &lt;div&gt;&lt;p&gt;This year, Georgia Tech's Startup Launch program surpassed 200 startup teams for the first time, marking the largest cohort in the program's history and highlighting the growing momentum for entrepreneurship across campus.&lt;/p&gt;&lt;p&gt;The milestone was driven by startup activity in CREATE-X and Quadrant-i, two cornerstone initiatives of the Office of Commercialization, and reflects the expanding reach of Tech's innovation ecosystem. The programs support students, faculty, researchers, and alumni in transforming ideas into companies within industries ranging from healthcare and robotic",
+    "url": "https://news.gatech.edu/news/2026/08/19/200-startup-teams-mark-record-breaking-year-entrepreneurship-georgia-tech",
+    "imageUrl": null,
+    "source": "Georgia Tech",
+    "categoryId": null,
+    "publishedAt": "2026-08-20T21:01:32.000Z",
+    "createdAt": "2026-08-20T22:27:56.327Z",
+    "language": "en",
+    "region": "Global",
+    "topic": "Robotics & Embodied AI",
+    "contentFormats": [
+      "Xiaohongshu Explainer",
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160335,
+    "title": "Broadening access to Skala creates a faster path to predictive DFT",
+    "description": "Skala 1.1, the updated deep-learning exchange-correlation functional from Microsoft Research, provides greater accuracy, expanded accessibility across the computational chemistry ecosystem, and a living benchmark to track computational performance. The post Broadening access to Skala creates a faster path to predictive DFT appeared first on Microsoft Research .",
+    "url": "https://www.microsoft.com/en-us/research/blog/broadening-access-to-skala-creates-a-faster-path-to-predictive-dft/",
+    "imageUrl": null,
+    "source": "Microsoft Research",
+    "categoryId": null,
+    "publishedAt": "2026-08-20T16:00:00.000Z",
+    "createdAt": "2026-08-20T22:27:54.594Z",
+    "language": "en",
+    "region": "Global",
+    "topic": "Education & Future Skills",
+    "contentFormats": [
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160336,
+    "title": "The View from Above: The Gemini Visual Acuity Experiments",
+    "description": "NASA astronaut L. Gordon Cooper, Jr. took 29 color photographs of the Earth with a 70mm camera as he orbited our planet during the Mercury-Atlas 9 mission in May 1963. Cooper’s view from the window of his Faith 7 spacecraft was spectacular, and he reported that he could see vehicles motoring on dirt roads, smoke-belching&#160;trains, [&#8230;]",
+    "url": "https://www.nasa.gov/history/the-view-from-above-the-gemini-visual-acuity-experiments/",
+    "imageUrl": null,
+    "source": "NASA",
+    "categoryId": null,
+    "publishedAt": "2026-08-20T14:30:00.000Z",
+    "createdAt": "2026-08-20T22:27:54.887Z",
+    "language": "en",
+    "region": "Global",
+    "topic": "Space & Aerospace",
+    "contentFormats": [
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160338,
+    "title": "1×N+1：一个大脑，与更多可能相连——晨昏线科技亮相2026世界机器人大会",
+    "description": "2026世界机器人大会开展首日，恰逢七夕节，一朵玫瑰花被晨昏线科技展台的机器人送了出去。 这不是一朵为节日准备的“救急玫瑰”，而是一台原本服务于制造场景的机器人，在面对不同任务时完成的一次温暖表达。 通过现场屏幕，观众可自主选择生产主板所需料盘，或发起玫瑰抓取任务。此前，这台机器人面对的是SMT 主板生产 车间高频、精细的物料上下料任务：在料盘间隙仅有1–2mm的货架环境中，机器人根据WMS仓储管理系统下发的任务指令，结合现场LED定位信息识别目标料盘，完成精准定位、抓取与传递。 图：晨昏线科技工业 SMT主板生产车间上下料机器人 而面对玫瑰花枝时，机器人则需要根据视觉感知到的花杆位置与尺寸特征，调整抓取动作。 一个是工业场景中的标准化料盘，一个是纤细的玫瑰花枝。看似不同的任务背后，考验的是机器人能否将对环境、对象和任务的理解，转化为具体行动。 这也正是近年 来 整个行业 不断探索的跨机 器人形态智能迁移方向：当机器人更换不同本体、末端执行器和操作方式后，能否依然复用对环境、任务与动作的理解。 晨昏线科技正在用自己的方式回应这一问题。 在2026世界机器人大会上，晨昏线科技提出“ 1×N+1 ”这一核心概念，探索一个具身大脑如何连接不同机器人身体、生态伙伴与产业场景，让智能能力在更多真实场景中得到验证。 一个大脑 × N种身体：让智能跨越身体的边界 从一个对象到另一个对象，是操作能力的变化；从一种身体到另一种身体，则是智能能否迁移的问题。 在现场，除了这台“七夕当天兼职送玫瑰”的工业机器人，晨昏线科技还带来了钢琴大师机器人，以及与生态伙伴理工华汇联合打造的零售场景服务机器人。 它们拥有不同的机器人本体，面对不同的任务需求，也进入不同的真实场景。 三个机器人，三种身体，三个真实场景。 在晨昏线科技看来，具身智能的发展方向，并不是让每一种机器人都成为一个独立的智能系统，而是让机器人本体成为智能能力落地的不同载体。 这也是“一个大脑 × N种身体”的核心含义：不是制造孤立的机器人，而是让一个大脑连接更多身体。 一个大脑 × N个伙伴：让生态成为智能落地的基础 不同的机器人身体背后，也需要不同产业伙伴的共同支撑。 此次展会现场的零售场景服务机器人，由晨昏线科技与生态伙伴理工华汇联合打造。理工华汇长期聚焦机器人本体、核心零部件与场景作业能力，在复杂环境机器人应用领域积累了系统",
+    "url": "https://www.leiphone.com/category/industrynews/4lF5e7l4pBhX8QPS.html",
+    "imageUrl": null,
+    "source": "雷锋网",
+    "categoryId": null,
+    "publishedAt": "2026-08-20T12:52:00.000Z",
+    "createdAt": "2026-08-20T22:28:10.485Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "Robotics & Embodied AI",
+    "contentFormats": [
+      "Xiaohongshu Explainer",
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160339,
+    "title": "章鱼动力亮相WRC 2026， 携“脑-手-数据”技术体系探索具身智能未来范式",
+    "description": "8月19日，2026世界机器人大会（WRC）于北京正式开幕。作为全球机器人领域极具影响力的产研盛会，大会以“人机共生，产需共融”为主题，集中展示机器人与AI行业技术创新、应用落地的最新突破性成果。 章鱼动力（SynapX）作为物理AI赛道备受瞩目的新锐势力，受邀亮相本次大会，正式发布并展出由SYNWorld具身原生世界基础模型、OctoH-Hand高自由度仿生灵巧手、OctoSense下一代具身数采方案共同构成的“脑-手-数据”技术体系，完整呈现对下一代物理AI技术路线的深度创新探索。 三大产品技术矩阵重磅发布 伴随着“AI进入物理世界”成为行业共识，具身智能已跻身全行业聚焦关注、紧迫投入的核心方向。章鱼动力围绕“脑-手-数据”搭建的独创技术体系，则为全行业探索具身智能落地范式，提供了一条全新路径。 在本次大会上，章鱼动力重磅首发以“脑-手-数据”为内核的三大产品技术矩阵。 其中，“脑”即 SYNWorld 通用世界基础模型，承担机器人的认知、推演与决策职能，让机器人理解不同任务背后共同的物理规律，颠覆性实现跨场景、跨本体的能力泛化与迁移。 “手”即OctoHHand 高自由度仿生灵巧手，是机器人与物理世界交互的载体，基于突破行业瓶颈的运动与操作能力，赋能机器人完成各类精细且复杂的操作任务。 “数据”即OctoSense下一代具身数采方案，全球首次实现肌电跨个体零样本泛化，让肌电跨越个体，让人类操作数据近乎无损地对齐真机，让每一次真实操作都成为机器人可以学习的经验。 章鱼动力CEO都大龙表示，传统机器人大多依靠预设的数字程序完成工作，难以应对复杂、多变的真实业务环境。面向未来，下一代机器人必须真正走进物理世界，兼具环境理解、落地操作与持续自主迭代能力，才能真正适配技术进程与产业要求。 “章鱼动力在做的事，就是以通用世界基础模型和通用灵巧手，构建物理世界的通用生产力，更好地赋能物理世界的下一次智能跃迁。” “脑-手-数据”协同构建生产力飞轮 在本次大会的展位上，章鱼动力带来的系列产品与演示，则完整展现了“脑-手-数据”协同工作的物理世界通用生产力基础设施。 现场观众通过“脑”SYNWorld在烤面包、叠衣服、精细化拼图等场景的演示，可以直观理解SYNWorld延展出的两条能力路线（ACWM动作可控世界模型和WAM世界动作模型），并感知一个模型如何同时理解并作用于物理世",
+    "url": "https://www.leiphone.com/category/industrynews/L6IQmDmj1sCKOrJO.html",
+    "imageUrl": null,
+    "source": "雷锋网",
+    "categoryId": null,
+    "publishedAt": "2026-08-20T12:48:00.000Z",
+    "createdAt": "2026-08-20T22:28:10.485Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "Robotics & Embodied AI",
+    "contentFormats": [
+      "Xiaohongshu Explainer",
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160340,
+    "title": "豆包上线侧边工作台，支持对话与操作同屏进行",
+    "description": "近日，豆包围绕生产力场景发布多项更新，“工作任务模式”界面也进行了升级。“对话”页面右侧新增了侧边工作台，以多标签形式统一承载任务相关资源，让 AI 对话与实际操作可以同屏完成，无需在多个窗口间频繁切换。 据介绍，侧边工作台支持打开本地文件、飞书文档、在线网页，以及代码、应用和终端，覆盖日常办公与应用开发的主要场景。针对长任务，对话中生成的应用、文件、图片等多类产物会以标签形式并排展示，即点即看；每个对话拥有独立工作台，切换任务时自动恢复此前状态，避免长对话中产物分散、难以回溯。 在应用开发场景下，侧边工作台支持代码实时预览，生成网页后可直接点击 “编辑”按钮对局部细节进行调整，无需整体重新生成。办公文档方面，飞书文档、PPT、Excel 均可在侧边工作台直接打开，模型生成的内容能即时更新至文档，省去复制粘贴与二次保存。此外，模型还可直接在侧边工作台浏览和操作网页，根据用户指令自主完成搜索、点击、翻页及信息提取，并基于网页内容整理总结。 雷峰网 雷峰网",
+    "url": "https://www.leiphone.com/category/industrynews/NUnI2tLusJdGxAar.html",
+    "imageUrl": null,
+    "source": "雷锋网",
+    "categoryId": null,
+    "publishedAt": "2026-08-20T10:13:00.000Z",
+    "createdAt": "2026-08-20T22:28:10.485Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "AI Models & Agents",
+    "contentFormats": [
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160341,
+    "title": "阿里财报：云收入增长45%创新高、利润暴增133%，模型发布全面提速",
+    "description": "8月20日晚间，阿里巴巴集团发布新季度业绩，阿里云外部商业化收入增速提升至45%，创22个季度新高。本季度，AI云及算力服务收入484.37亿元，经调整EBITA为56.28亿元，同比暴增133%，利润率升至12%。其中，AI相关产品收入连续第12个季度实现三位数同比增长，该季度已达123.76亿元，驱动阿里云加速增长。 过去一个月，阿里巴巴模型发布全面提速，大语言、图像、语音、视频、音乐五大类模型密集完成重要版本迭代，性能均跻身国际第一梯队。 8月发布的旗舰模型Qwen3.8-Max总参数达2.4万亿，在编程竞技场CodeArena中排名全球第三，在智能体评测Artificial Analysis Agentic全球榜单中排名第一，该模型已经开放权重。截至目前，阿里累计开源模型超460个，Qwen系列全球下载量超30亿次。 同步推出的还有Qwen-Image-3.0，在Image Arena上排名中国第一；Qwen-Audio-3.0-TTS在Speech Arena中排名全球第一；Wan3.0进入视频模型第一阵营；此外还推出了全新的音乐模型HappyShrimp。 芯片层面，平头哥已构建覆盖GPU、CPU、存储和网络芯片的全栈自研芯片体系，实现跨计算、存储、网络的系统级硬件优化，并增强了阿里在AI基础设施上的性能表现和成本效率。 阿里真武AI芯片通过阿里云服务，已在自动驾驶、互联网、金融服务等20多个行业的超过650家外部客户中实现规模化商业应用，验证了其支持从训练、微调到推理的全流程AI工作负载的能力。 在企业端，阿里巴巴推出旗舰Agent产品“千问办公”，面向个人与企业用户，致力于提升办公生产力。作为业内首款同时支持桌面端Agent、云端Agent和企业协同Agent的产品，“千问办公”不仅帮助个人提效，更面向企业真实的AI需求，为组织提效而设计。 在消费端，旗舰C端AI应用千问App正在增加多元化增值服务，并推出针对生产力及专业功能的付费订阅。千问App深度集成淘宝天猫、淘宝闪购等生态核心业务，上线以来已有2.5亿用户通过其智能体功能首次实现AI驱动的购物体验。 AI应用的部署、访问和持续运行，还直接带动了计算、存储、网络等通用云资源需求的加速增长。阿里云正将核心云产品升级为面向Agentic时代的全新形态，向Agentic Cloud全面演进。 当前，全",
+    "url": "https://www.leiphone.com/category/industrynews/OFqcAq9Z0T4eZo4F.html",
+    "imageUrl": null,
+    "source": "雷锋网",
+    "categoryId": null,
+    "publishedAt": "2026-08-20T09:52:00.000Z",
+    "createdAt": "2026-08-20T22:28:10.485Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "Robotics & Embodied AI",
+    "contentFormats": [
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160342,
+    "title": "携手韶音，光帆的「AI OS 野心」已经藏不住了",
+    "description": "2026 年 8 月 18 日，韶音在上海举办媒体沟通会，正式发布开放式耳机新品 OpenFit 2 AI。而光帆科技作为韶音重要的技术合作伙伴，为本款产品提供了 AI 技术支撑。 沟通会上，韶音宣布与光帆科技达成 AI 技术合作，将在 OpenFit 2 AI 中上线基于光帆自研 AI OS 的效率功能合集 ——“AI 实验室”，为智能对话、日程待办、快记快查、智能消息等创新类 AI 能力提供技术支撑，助力韶音为强沟通人群打造更高效的 AI 耳机体验。值得关注的是， 这是光帆 AI 技术能力首次正式落地第三方头部硬件品牌，标志着其系统化 AI 能力已从自有产品验证，进阶为可向行业伙伴输出。 基于光帆自研 AI OS 的效率功能合集——“AI 实验室”，即将在韶音 OpenFit 2 AI 耳机上线。 目前 AI 硬件正加速进入端侧规模化落地阶段。据 The Business Research Company 预测，2026 年全球 AI 耳机市场规模将达到 74.2 亿美元，2030 年有望增长至 173.4 亿美元。 在中国市场，开放式耳机是增长最快的细分品类之一，IDC 数据显示，2025 年中国开放式耳机出货量达 2996 万台，同比增长 20.2%。作为该品类的全球头部品牌，韶音此次与光帆的合作，也代表着开放式耳机率先从单点 AI 功能走向系统化 AI 能力。 与此同时，AI 硬件的竞争焦点正在迁移：接入大模型不再是稀缺能力，真正拉开体验差距的是 AI 体系化能力。多名业内人士对雷峰网·鲸犀表示，过去几年 AI 在耳机上的落地多为降噪、佩戴监测等单点功能，而真正的分水岭在于 AI 能否提供更主动智能、更多样化的能力，并依托系统化支撑实现跨应用调度。此次光帆与韶音的合作，正是这一行业趋势的代表性落地。 据雷峰网·鲸犀了解，光帆此次在 OpenFit 2 AI 耳机上落地的 AI 能力，以效率功能合集形式面向强沟通人群，包含智能对话、日程待办、快记快查、智能消息等。开启后，用户可通过双击按键唤醒智能助手“晓帆”，OpenFit 2 AI 可按需自动安排日程、添加定制化备忘；即使收到超长消息，也能筛选要点读给你听。据悉，相关功能将在近期推送给 OpenFit 2 AI 耳机用户，并通过持续 OTA 不断升级。 光帆为 OpenFit 2 AI 提供的 AI 技术",
+    "url": "https://www.leiphone.com/category/industrynews/UWWitkLdnH1adhl6.html",
+    "imageUrl": null,
+    "source": "雷锋网",
+    "categoryId": null,
+    "publishedAt": "2026-08-20T09:04:00.000Z",
+    "createdAt": "2026-08-20T22:28:10.485Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "AI Models & Agents",
+    "contentFormats": [
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160343,
+    "title": "跨境圈爆火的 AI，潜入了淘宝商家的后台",
+    "description": "近几年，随着国内竞争加剧和全托管等新模式带动，越来越多内贸商家开始出海寻找新的生意机会。与此同时，很多从海外市场成长起来的品牌，也开始发力经营国内市场，比如消费电子相关的品牌 Anker 和一加手机等等。 双向流动下，内外贸一体化发展，正在成为越来越多企业的新常态。根据商务部数据，仅在规模以上工业企业中，就有 8.7 万家企业实现了内外贸一体化经营。 内外贸两条腿走路，带来了双倍的机会，但也使得经营复杂程度指数级上升。 国内电商、跨境电商、B2B、B2C，不同业务模式的运营逻辑完全不同；不同平台、渠道的人群特征和消费偏好也大相径庭；这些维度交织在一起，让经营难度陡然增加。仅仅依靠人力已经难以应对如此复杂的局面。 生意可以多平台，但是管理运营可不可以有且仅有一个平台？在这样的需求强烈推动之下，已经在跨境电商圈拥有 1000 万用户的 Accio，跨界打通了淘宝、天猫、拼多多、京东、抖店等国内主流平台。 多个电商平台，一个 AI 工作台，应运而生。 电商 AI Agent，也开始内外贸一体化 Accio 最早是阿里国际站面向外贸 B2B 商家推出的专门帮外贸老板做生意的 AI Agent。它能 7x24 小时在线、自主处理复杂的商业任务，帮企业、创业者自动化地运营生意，自主解决流程中遇到的各种难题。 自今年3月推出以来，Accio 的全球用户已经超过了 1000 万。 用户量爆发式增长的同时，Accio 不断拓展能力边界，逐渐从外贸 B2B 延伸到独立站、Amazon 等跨境 B2C 平台，覆盖了跨境全链路。现在，这款“外贸 AI”持续进化，正在悄悄潜入国内电商商家的后台。 昨晚，Accio 的一场国内电商的实战直播，让不少商家看到了 AI 在电商领域的可能。 有几个数字，也是可圈可点：做家居生意的吕修琼开了淘宝、京东、抖音、拼多多等十多个平台，过往想要了解全盘生意的全貌，人工要干 5 小时，Accio 接手后只用了 5 分钟； 干了 17 年电商的周明辉，十几个人的团队管几十个店铺，过往投流实时往外烧钱，每次计算 ROI 都是表格套表格。现在 Accio 帮他自动抓取多店铺的投流数据，交叉分析后直接给出调优建议，识别低效计划、建议关停或调整。单月节省推广费两到三万，这些钱就是实打实的利润。 不难看出，Accio 已经深入到国内电商生意运营环节中，而且淘宝、天猫、拼多多",
+    "url": "https://www.leiphone.com/category/smartretailing/0w2SDhpkUaCdV6GK.html",
+    "imageUrl": null,
+    "source": "雷锋网",
+    "categoryId": null,
+    "publishedAt": "2026-08-20T08:53:00.000Z",
+    "createdAt": "2026-08-20T22:28:10.486Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "AI Models & Agents",
+    "contentFormats": [
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160344,
+    "title": "首个航天“影像盒子”随朱雀三号完成天地往返全过程拍摄，SmallRig斯莫格为大疆创新定制专属影像“宇航服”",
+    "description": "北京时间2026年8月19日7时35分，朱雀三号重复使用遥二运载火箭在东风商业航天创新试验区发射升空。起飞约137秒，火箭一二级分离，二子级继续飞行，将搭载鸿擎科技自主研制的鸿鹄03星准确送入预定轨道；7时41分许，火箭一子级按预定程序成功着陆于甘肃省民勤县朱雀三号着陆场，飞行试验任务取得圆满成功。 蓝箭航天朱雀三号遥二运载火箭在东风商业航天创新试验区发射升空 本次飞行试验任务实现国内运载火箭一子级首次着陆支腿式垂直回收，也是我国首次实现入轨级运载火箭一子级陆地回收，是朱雀三号由回收技术验证开始进入工程化复用验证阶段的重要飞行试验。朱雀三号是由蓝箭航天自研新一代液氧甲烷复用运载火箭，依托不锈钢箭体、专用返回控制、液氧甲烷动力等整套复用技术体系，可适配卫星组网、空间站低成本货运、多星批量发射等多元商业航天需求。 值得注意的是，本次火箭天地往返全过程拍摄工作依托一套定制航天拍摄载体 “影像盒子” 落地，首次实现民用消费级相机完整拍摄火箭发射、高空飞行、陆地回收全链路，并成功获取火箭着陆腿内部独家实拍画面。 “影像盒子”相关数据及示意图 这套被命名为“影像盒子”的箭上成像载体，核心成像单元为大疆 Action6消费级运动相机，搭配SmallRig（斯莫格）定制防护承载结构，该防护载体如同为成像设备量身打造的专属 “宇航服”。 蓝箭航天朱雀三号遥二运载火箭发射现场 DJI大疆创新自无人机赛道起步，是全球民用影像领域头部企业，为本次航天拍摄提供核心成像硬件；深圳市乐其创新旗下品牌SmallRig（斯莫格）2013年成立，专注全场景的影像辅助设备赛道，业务触达全球160个国家和地区，旗下DreamRig（联合定制）项目，长期面向影像创作者提供定制化配套开发服务。 为丰富此次任务的箭上观测视角，蓝箭航天团队经由乐其创新 SmallRig的DreamRig（联合定制）项目，三方共同启动了适配研发工作。 据了解，火箭飞行全程环境复杂严苛，高速飞行过程中将持续经受大荷载冲击、大幅温差、剧烈振动等多重环境考验，发动机区域振动强度远超民用电子产品常规使用区间。基于极端影像场景拍摄环境，乐其创新SmallRig团队摒弃传统影视支架设计思路，选用钛合金等航天级材料打造防护载体，与大疆Action6相机深度适配，实现整套 “影像盒子” 强兼容。 “影像盒子“安装在蓝箭航天朱雀三号遥二运载火箭箭身",
+    "url": "https://www.leiphone.com/category/industrynews/gVXaxJldKv9NOp3A.html",
+    "imageUrl": null,
+    "source": "雷锋网",
+    "categoryId": null,
+    "publishedAt": "2026-08-20T08:53:00.000Z",
+    "createdAt": "2026-08-20T22:28:10.486Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "Robotics & Embodied AI",
+    "contentFormats": [
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160345,
+    "title": "腾讯云发布 AI 数据底座 TDSQL Nexa，多项 AI 数据库能力进入生产环境",
+    "description": "数据库这款有着 60 多年历史的基础软件，正在加速面向 Agent 重构。 8 月 20 日，在 2026 DTCC 中国数据库技术大会上，腾讯云正式发布面向 AI 时代的数据底座 TDSQL Nexa，通过统一入口连接企业分散的多源数据，并为 Agent 提供业务语义理解和权限治理能力。同期，腾讯云还公布了数据库产品在 AI 方向的最新进展，多项能力已进入腾讯内部 AI 产品、开发者及企业生产环境。 腾讯云副总裁王义成表示，Agent 带来的变化，不只是数据库多了一类新用户，数据形态、运行负载、上下文需求和安全边界也随之改变。面向 AI 时代，数据库需要具备多模统一承载、Agent 原生架构、语义与记忆、治理与自治四类核心能力。 （图：腾讯云副总裁王义成在现场发布 TDSQL Nexa ） 一个入口，让 Agent 读懂企业数据 库 企业建设 AI 应用时，数据往往分散在多个技术栈和平台中。一个 Agent 如果需要在多套系统之间查找、调用数据，开发、运维和权限管理都会变得复杂。 此次发布的 TDSQL Nexa，将事务处理、全文及向量检索、AI 计算、大规模分析等能力统一到一个数据平台。对于不适合搬迁的数据，也可以直接连接原有数据源参与计算，减少重复存储和数据搬运。 在企业落地 Agent 常见的运行记录分析（可观测）场景中，腾讯云测试显示，TDSQL Nexa 相比开源组合方案，计算性能提升 10 倍以上，成本降低 60% 以上。 但 Agent 能访问数据，还要真正理解数据。企业中的表名、字段、指标口径以及长期积累的数据使用经验，都包含大量业务语义。Nexa 中的 Nexa Knowledge 可以识别并沉淀这些业务知识，让 Agent 在查询数据时同时获得业务上下文。 在几十至上百张表的中等规模应用构建场景中，结合业务语义和专家经验后，Agent 生成的 SQL 基本无需人工修改，业务性能平均提升 50% 以上。 企业还可依托TDSQL Nexa为每个 Agent 配置独立的身份与访问范围，系统支持行列级权限和操作审计，对高风险操作可以拦截或转入人工确认。 AI 数据库已大规模进入生产环境 TDSQL Nexa 之外，腾讯云已打造了面向Agent 的整体数据库布局。从 Agent 自身所需的数据、检索和记忆，到 Agent 应用所需的弹性数据库环境，再到数",
+    "url": "https://www.leiphone.com/category/industrynews/MNvS1YuzAPFPFN7n.html",
+    "imageUrl": null,
+    "source": "雷锋网",
+    "categoryId": null,
+    "publishedAt": "2026-08-20T08:43:00.000Z",
+    "createdAt": "2026-08-20T22:28:10.486Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "Policy & Society",
+    "contentFormats": [
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160346,
+    "title": "宇树科技上市首日大涨629%，世界机器人大会里谁是“下一个宇树”？",
+    "description": "8月19日，北京亦庄北人亦创国际会展中心，2026 WRC世界机器人大会 在万众瞩目下 拉开帷幕。同一天，“人形机器人第一股”宇树科技正式登陆上交所科创板， 开盘暴涨 629.44% ， 最终以 460.34% 、 总市值超3400 亿元交出首个交易日答卷。 一家明星公司上市、一场行业盛会开幕 的背后都可以看出，市场对于机器人领域的 评判标尺 ， 正发生着翻天覆地的跃迁，市场 不再迷信 秀场里的 炫技，而是把场景落地 、商业交付 当成了抬高 估值 预期的 最重要的锚点。 超300家 企业参展2026 WRC大会、较去年增长36%、首次设置的“采购日”种种数据足以证明，具身智能已被视作AI产业的下一个宏大出口，人形机器人毫无疑问成为了关键载体。 而宇树科技的上市，不仅成功摘下了A股“人形机器人第一股”的头衔，也让整个人形机器人赛道为之兴奋，有关“谁是下一个宇树”的讨论成为了当下热议的话题。 从 WRC的展馆布局 来看 ，智创馆汇聚的是整机企业，智造馆聚焦零部件领域，智合馆侧重供应链，而智趣馆则主打体验 。 四个馆串联起来，恰好是机器人产业链的完整脉络。 随着整个产业的基本盘不断放大，每一个细分领域都有望跑出更多备受行业和资本追逐的明星对象。 那么 在这300多家企业同台的大会场里，谁有可能成为“下一个宇树” ， 逛完整场活动，下面几个行业玩家或许最值得被“押注”。 云深处科技：“一人一猫一狗”冲刺科创板 国内四足机器人的领军企业云深处科技，在电力巡检、消防应急等行业场景的市占率均超过85%，累计落地场景超1200个。 云深处的产品矩阵可以概括为“一人一猫一狗”。“狗”是绝影系列四足机器人，其中旗舰款绝影X30是地下管廊、变电站巡检的标杆产品；“猫”是山猫系列轮足复合机器人，兼顾轮式高速移动与足式越障能力，适配狭窄通道、复杂地形作业；“人”是DR系列行业级人形机器人，主打全天候工业场景适配。 本次参展，云深处“一人一猫一狗”全产品矩阵全面亮相，展示六大行业标准化方案，覆盖能源、应急、安防、工业、民生、教育等领域。其中，DR02行业级全天候人形机器人目前已完成变电站精准作业实地测试，即将启动商用投放。 资本化进程也非常值得关注，2026年5月，云深处科创板IPO申请已正式获上交所受理。和多数仍在亏损的人形企业不同，云深处已实现连续盈利，2025年营收达3.37亿元，三年复",
+    "url": "https://www.leiphone.com/category/ai/RWqTJlvzkwXLamiH.html",
+    "imageUrl": null,
+    "source": "雷锋网",
+    "categoryId": null,
+    "publishedAt": "2026-08-20T06:32:00.000Z",
+    "createdAt": "2026-08-20T22:28:10.486Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "Robotics & Embodied AI",
+    "contentFormats": [
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160347,
+    "title": "中国信通院联合淘宝闪购发布首份即时零售智能体可信规范",
+    "description": "8月18日，中国人工智能产业发展联盟第十八次全体会议上，中国信息通信研究院联合淘宝闪购正式发布《即时零售智能体可信基本要求》。这是即时零售领域首份针对AI Agent的系统性可信规范，标志着即时零售智能体应用迈入“有规可依”的新阶段。 该规范由中国人工智能产业发展联盟安全治理委员会发起，中国信通院与淘宝闪购牵头起草，蚂蚁、百度、阶跃星辰、MiniMax、同盾等企业共同参编。 中国信通院人工智能研究所安全治理部工程师郭苏敏介绍，在技术框架上，《即时零售智能体可信基本要求》围绕功能完备性、执行准确性、执行效率性三大能力维度，以及数据安全、访问安全、运行安全、漏洞管理、服务管理、科技伦理六大领域，构建覆盖智能体全生命周期的可信评估体系。规范明确，简单任务执行准确率应超过95%，复杂任务超过90%，接口成功率超过99%，评测须分别构建不少于100道测试题。“该技术规范填补行业可信评估空白，为人工智能技术在即时零售领域应用筑牢安全底线。” 淘宝闪购AI工程技术相关负责人刘广峰表示：“即时零售场景下，智能体面对的是高约束、多意图、实时变化的用户需求，行业亟需一套可量化、可复现的评测基准。基于即时零售场景的实践，各方共同构建了这套技术规范。未来我们也将持续与行业各方协同，推动智能体技术的可信发展与规范应用。” 今年5月，国家网信办、国家发展改革委、工业和信息化部联合印发《智能体规范应用与创新发展实施意见》，提出要“完善技术底座、构建标准协议”。同月，中国信通院发布“2026智能体十大关键词”，将“智能体可信”列为重要方向。 上海市商务委员会等9部门则于6月联合印发《上海市支持即时零售高质量发展行动方案（2026—2028年）》，也明确提出“深化AI+即时零售应用”。作为上海即时零售的代表性企业，淘宝闪购于8月5日开放MCP能力，成为餐饮外卖领域首个开放该协议的平台，让AI能直连15大业务场景。此次推动可信标准的建立，将进一步助力行业健康有序发展。 淘宝闪购科技法务负责人郝鹏表示：“AI普惠的理念也体现在了此次规范的编写中。”例如，规范面向特定群体与民生场景，提出宜具备语音交互能力支持老年人便捷使用等内容。即时零售智能体除了“能办事”，还可以“有温度”。",
+    "url": "https://www.leiphone.com/category/industrynews/xVJthZockA9RDYB6.html",
+    "imageUrl": null,
+    "source": "雷锋网",
+    "categoryId": null,
+    "publishedAt": "2026-08-20T05:16:00.000Z",
+    "createdAt": "2026-08-20T22:28:10.486Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "Policy & Society",
+    "contentFormats": [
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160348,
+    "title": "中科通量推出OmniMate移动AI数字员工，用本地智能重构线下服务场景",
+    "description": "当下，实体网点、展厅、门店等普遍面临人力成本高企、人员流动带来服务标准难以统一、高峰时段服务供给不足等现实问题。传统云端数字人方案受网络条件制约，同时存在业务数据外溢、交互时延波动等风险，一定程度限制了AI数字人在线下场景的规模化落地。近日，中科通量发布OmniMate移动AI数字员工产品，依托本地边缘智能架构，面向线下实体空间提供可移动、多岗位复用的AI数字劳动力解决方案。 OmniMate并非传统意义上的服务机器人或信息屏终端。从产品架构来看，其核心是一套“边缘智能主机+多模态交互系统+可扩展业务软件”的通用型数字劳动力平台。 中科通量将其定位为一岗多职的本地AI数字员工，意在替代或辅助网点中高频、重复、标准化程度较高的服务职能。据企业方面介绍，该产品已完成在通信营业厅、科技展厅等场景的部署验证。 一岗多职，解锁线下服务全场景能力矩阵 从功能维度看，OmniMate覆盖了线下服务中“迎宾讲解—培训赋能—获客引流—管理提效”的关键环节： AI大堂经理：支持多语言交互、视觉感知与复杂产品讲解，可承担主动迎宾、业务导览、问答咨询等职责，旨在统一服务口径，降低因人员差异导致的体验波动。 AI培训导师：提供7×24小时多轮对话陪练，支持模拟客诉与异议处理。据企业方数据，该功能可帮助新员工上岗周期缩短约50%，实现销售话术与服务能力的标准化复制。 AI获客主播：利用营业低峰时段开展实景直播，支持多平台分发与到店券发放，以期打通线上引流与线下转化的闭环。 AI会议助手：可接入业务系统数据，自动生成会议报告并完成语音播报，将管理人员的精力从数据整理工作中释放出来。 本地边缘算力底座，筑牢实时交互与数据安全防线 与当前多数依赖云端大模型的数字人方案不同，OmniMate采用本地算力一体化部署方案。机身搭载算力单元，支持240 TOPS INT8算力与128GB LPDDR5 ECC统一内存配置，可在离线环境下完成大模型推理、数字人交互、视觉识别等任务。 这一架构选择在多个场景中具有实际意义：一是降低响应延迟，实现无网络依赖的实时交互；二是保障业务数据与客户隐私信息在本地闭环处理，避免因数据传输带来的合规风险；三是适配营业厅、政务大厅等对网络环境或数据安全有较高要求的场所。 据悉，该产品还支持按需更新知识库与场景化模型训练，面向不同行业客户提供数字人IP定制和业务接口对接等增值服务",
+    "url": "https://www.leiphone.com/category/industrynews/LvcXHrAYqLNnxcpo.html",
+    "imageUrl": null,
+    "source": "雷锋网",
+    "categoryId": null,
+    "publishedAt": "2026-08-20T04:08:00.000Z",
+    "createdAt": "2026-08-20T22:28:10.487Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "Robotics & Embodied AI",
+    "contentFormats": [
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160349,
+    "title": "Harness 神器 J-Space 造假案背后，思维链作者暴论，小模型 + 工具干不掉顶级大模型",
+    "description": "外挂补不了模型智商，《苦涩的教训》再次上演。 作者丨 高允毅 编辑丨 岑 峰 这两天在 X 上，一款蹭 DeepSeek 热度的 Harness 工具被打假了。 这是一个名为 J-Space Cognition Suite 的开源项目，它声称无需修改模型权重，仅靠 DeepSeek V4 Flash 加其精巧的外部 Harness，就能在 Agent 任务中追平 GLM-5.3；若换成 DeepSeek V4 Pro，甚至能直接超越Claude Fable 5。同时速度提升 2.53倍，Token 效率提升 2.21倍。 如果这是真的，这无疑是 AI 工程史上的奇迹。这意味着J-Space能用几十分之一的成本复刻顶级大模型的效果。 然而，泡沫破裂的速度比想象中更快。 GitHub 用户 GoForceX 严格按照项目说明，使用 Terminal Bench 完成了独立复测，最终结果与宣传完全相反。加入 J-Space 后，基准测试分数不升反降，Token 消耗量明显增加，推理速度也比原生模型更慢。 当社区进一步要求公开完整原始实验数据时，作者承认数据 \"确实夸张\"，却始终拿不出可复现的运行日志，反而开始删除质疑的 issue。 几乎在同一时间，Open AI 思维链（CoT）核心发明者 Jason Wei 在 X 上发布了一篇长文，精准戳破了 \"小模型 + 万能工具\" 的幻想。 他用自己学羽毛球的经历做比，“在球场上，我就像一个 1B 参数的认知核心。教练教的每个击球动作我都能做，但要在高速回合里把架拍、转体、击球点、随挥这些要点全部串联起来，几乎要耗尽全部精力。这跟那些练了上万次、将动作化为肌肉记忆的专业选手完全不是一个级别。” Jason Wei隐喻的正是“小模型+ 工具”与“大模型内化能力”的本质区别。 他强调“模型不依赖外部工具，自然且快速地完成任务，这件事至关重要”。 一旦承认高维认知应该以内生的方式处理，那么 1B、甚至 10B 的核心显然都是不够的。 01 J-Space 神话切中的行业焦虑 J-Space之所以能在 48 小时内引发全行业狂欢，在于它精准地切中了当前 AI 产业的两大行业焦虑： 大模型太贵，算力烧不起怎么办？大模型要落地，端侧设备太弱怎么跑？ 事实上，业内一直在寻找一种可能，小模型 + 工具也能干掉顶级大模型。 AI大牛吴恩达正是这一",
+    "url": "https://www.leiphone.com/category/yanxishe/EwXFwuIZiBRqbgCs.html",
+    "imageUrl": null,
+    "source": "雷锋网",
+    "categoryId": null,
+    "publishedAt": "2026-08-20T03:53:00.000Z",
+    "createdAt": "2026-08-20T22:28:10.487Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "Chips & Compute",
+    "contentFormats": [
+      "Xiaohongshu Explainer",
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160350,
+    "title": "欧洲五城「落子」2000辆，小马智行跨过Robotaxi出海分水岭",
+    "description": "2000辆Robotaxi，把中国自动驾驶公司的海外竞争推向新高度。 8月14日，小马智行宣布进一步扩大与Uber的合作，双方计划在欧洲五个城市部署超过2000辆Robotaxi。 据悉，克罗地亚首都萨格勒布将率先接入Uber平台，用户通过Uber App即可呼叫小马智行Robotaxi，此后双方还计划继续扩大在欧洲和中东的运营版图。如此一来，小马智行海外部署规划总规模超过4000辆Robotaxi。 双方于去年5月首次合作，计划在中东及更多国家部署Robotaxi，而合作方Uber，此前已经参与全球Robotaxi商业化多年。 这意味着，以小马智行为代表的中国自动驾驶公司，正在进入全球Robotaxi成熟的商业运营体系。 小马智行，决定Robotaxi的生意上限 Waymo于2018年12月首次推出商业化Robotaxi服务，如今已经建立全球最大规模的Robotaxi车队，超3800辆Robotaxi在美国15座城市行驶，每周为其贡献超50万份订单。 但Waymo目标远不止于此，预计2026年在美国实现每周百万份Robotaxi订单，并将商业化运营扩展至美国及海外共20个城市。 如今，Uber与小马智行建立数千辆Robotaxi合作，也让中美两家头部Robotaxi公司的商业生态第一次产生交集。 过去几年，中国自动驾驶公司进入海外市场，往往是小规模车队测试运营，在限定区域验证技术后，再逐渐实现商业化大范围运营，难以快速改变当地出行市场。 对于商业运营的Robotaxi公司而言，车队规模颇为重要。更大的车队意味着更高的车辆供给密度，也有机会扩大服务范围、缩短等待时间，承接更多真实订单。与此同时，研发、场站和运营体系的固定投入，也只有在更大的车队规模下才能被逐渐摊薄。 因此，随着Robotaxi从测试走向规模运营，越来越多自动驾驶公司开始借助当地出行平台和运营伙伴进入新市场。一位业内人士曾对新智驾表示，与外部公司合作，可以让自动驾驶企业更快补齐运营经验和本地资源上的短板。 在海外市场与出行平台等公司合作，小马智行将这种合作方式概括为“共建车队”。 在这一模式下，小马智行提供L4虚拟司机、Robotaxi车辆和既有运营经验，Uber提供用户、订单、支付及客服等平台能力，当地合作伙伴则可以根据实际情况承担车辆资产和日常运营。车辆资金投入、资产归属，也可以根据不同市场灵活调",
+    "url": "https://www.leiphone.com/category/transportation/B2nCxK9toeTqdkCJ.html",
+    "imageUrl": null,
+    "source": "雷锋网",
+    "categoryId": null,
+    "publishedAt": "2026-08-20T02:46:00.000Z",
+    "createdAt": "2026-08-20T22:28:10.487Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "Robotics & Embodied AI",
+    "contentFormats": [
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160351,
+    "title": "奕境X9发布会送假Labubu？品牌方回应；宇树科技IPO名场面：王兴兴表情极为平静像「打工人」；豆包大模型，正式上车特斯拉丨雷峰早报",
+    "description": "要闻提示 1.奕境X9发布会送假Labubu？品牌方回应 2.宇树科技股价暴涨，IPO名场面：王兴兴表情极为平静像“打工人”！ 3.豆包大模型，正式上车特斯拉 4.歌词照进现实？月之暗面杨植麟十年前写的歌词成真了 5.快手Q2总收入355亿元，经调整净利润39亿元 6.计划训超大模型后，字节 Seed 基模团队调整了组织架构 7.百度李彦宏：目标让文心回到第一梯队 8.OpenAI第二季度营收67亿美元，增速18%远不及对手Anthropic 今日头条 奕境X9发布会送假Labubu？品牌方回应 8月19日下午消息，近日有车主反映称，参加南昌当地奕境X9预售发布会，签到礼品可以选择领取labubu盲盒一个，拆开后却发现是假labubu。网传图片显示，车主输入领取的labubu盲盒防伪码，在泡泡玛特官网查询时显示防伪码错误，盲盒背面也将“搪胶”错写成了“塘胶”。 针对此事，南昌奕境汽车用户中心工作人员向媒体表示，现场发的Labubu盲盒确实是假的。据其介绍，有多位顾客前来询问Labubu是否为正品，门店会真实告知Labubu不是正品。被问及为何不发放正品Labubu，工作人员表示该盲盒仅作为给顾客的小纪念品，没有考虑的那么周全，相关问题会与门店进行反馈。 8月18日，奕境X9开启预售，预售价29.98万元起。预售当晚，奕境汽车App一度崩溃无法下单。当日晚间，奕境汽车品牌总经理曾清林在微博上回应称，没有发订单战报，因为不到10点系统就崩了，到现在一直都下不了单。“向支持奕境的客户和朋友道一声抱歉！我现在正在盯着连夜排查。” 19日凌晨，他再度发文称，从发布会现场回来，刚盯着把App崩的问题解决掉。他还调侃称，“我经常在内部自嘲我们是个草台班子，一方面是自嘲，另一方面也是鞭策自己不要变成真草台班子。”（新浪科技、正在新闻） 国内资讯 宇树科技股价暴涨，IPO名场面：王兴兴表情极为平静像“打工人”！ 8月19日，宇树科技登陆科创板正式挂牌交易，开盘涨超629%，报1100元/股。截至当日下午收盘，宇树科技报845元/股，较发行价150.80元/股仍上涨约460.34%，但较开盘价已有较大幅回落，换手率超85%，成交额231.6亿元，公司总市值3418亿元。 同日，媒体实探上交所看到，公司创始人王兴兴在与领导嘉宾和承销团合影环节，全程表情极为平静，像一个来上班的“打工人”，",
+    "url": "https://www.leiphone.com/category/zaobao/qx0OhNlDup8GY2uR.html",
+    "imageUrl": null,
+    "source": "雷锋网",
+    "categoryId": null,
+    "publishedAt": "2026-08-20T00:41:00.000Z",
+    "createdAt": "2026-08-20T22:28:10.487Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "AI Models & Agents",
+    "contentFormats": [
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
     "id": 2160311,
     "title": "UC Berkeley computer scientist on the promise and perils of agentic AI",
     "description": "Professor Dawn Song discusses how autonomous AI agents are reshaping technology — and why safety, reliability and democratization must guide their development. The post UC Berkeley computer scientist on the promise and perils of agentic AI appeared first on Berkeley News .",

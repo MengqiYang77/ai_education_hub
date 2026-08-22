@@ -1,5 +1,148 @@
 [
   {
+    "id": 2160381,
+    "title": "不是Demo！优必选把客户产线1:1搬进WRC，解锁具身智能真落地路径",
+    "description": "端侧部署解决了具身大脑能否装进身体的问题。那么，同一个「大脑」，如何快速适配工业、商用和家庭三类机器人呢？",
+    "url": "https://www.qbitai.com/2026/08/477253.html",
+    "imageUrl": null,
+    "source": "量子位",
+    "categoryId": null,
+    "publishedAt": "2026-08-22T14:46:43.000Z",
+    "createdAt": "2026-08-22T22:22:36.051Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "Robotics & Embodied AI",
+    "contentFormats": [
+      "Xiaohongshu Explainer",
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160382,
+    "title": "伽利略机器人首发“陆行具身系统”，打通轮车足底层技术壁垒",
+    "description": "直击WRC",
+    "url": "https://www.qbitai.com/2026/08/477246.html",
+    "imageUrl": null,
+    "source": "量子位",
+    "categoryId": null,
+    "publishedAt": "2026-08-22T14:19:39.000Z",
+    "createdAt": "2026-08-22T22:22:36.051Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "Robotics & Embodied AI",
+    "contentFormats": [
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160383,
+    "title": "魔法原子亮相WRC 2026，三大场景解决方案实景展示物理AI真·上岗",
+    "description": "一脑驱动多形落地",
+    "url": "https://www.qbitai.com/2026/08/477155.html",
+    "imageUrl": null,
+    "source": "量子位",
+    "categoryId": null,
+    "publishedAt": "2026-08-22T14:11:20.000Z",
+    "createdAt": "2026-08-22T22:22:36.051Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "AI Models & Agents",
+    "contentFormats": [
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160384,
+    "title": "不是Demo！优必选把客户产线1:1搬进WRC，解锁具身智能真落地路径",
+    "description": "具身智能赛道壁垒不在出货量",
+    "url": "https://www.qbitai.com/2026/08/477016.html",
+    "imageUrl": null,
+    "source": "量子位",
+    "categoryId": null,
+    "publishedAt": "2026-08-22T12:11:23.000Z",
+    "createdAt": "2026-08-22T22:22:36.051Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "Robotics & Embodied AI",
+    "contentFormats": [
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160387,
+    "title": "工业具身智能的 \"最后一公里\"，为什么是埃夫特&启智在走？",
+    "description": "一、90% 的工厂，机器人还进不去 具身智能这两年很热，但热的地方大多不在工厂。 人形机器人在展会上跳舞、倒酒、叠衣服，视频传播量惊人；可一旦走进真实的工业车间，话题就迅速冷下来。原因 很简单， 工业现场不是实验室，它要求机器人在油污、粉尘、温差和来料不一致的环境里，连续、稳定、可核算地干活。而这恰恰是当前具身智能最薄弱的环节。 传统工业机器人其实已经很强了。高速、高精、大负载，在汽车焊装线、3C 装配线上可以做到毫秒级节拍；在防爆、喷涂等特种场景也有成熟方案。但它的强，是 \"确定性\" 的强 —— 程序写死、轨迹固定、来料一致，一旦条件发生变化，它就无所适从。 这正是问题所在。全球工业机械臂年增量大约五十万台，听起来不少，但放在整个制造业体量里只是一小部分。在汽车和 3C 之外的通用制造领域，工业机器人的渗透率至今不到百分之二十。剩下那八成以上的场景，不是不需要自动化，而是 \"用不起\"。 这些场景有一个共同特征：多品种、小批量、高度差异化。工件每一批都不太一样，焊缝位置会变，喷涂件的姿态会变，物流分拣的物料种类上百种。传统机器人的应对方式是 ， 每换一种工件，工程师重新示教、重新编程、重新调试。等调试完，可能生产一周又要换型。设备成本、调试时间、人力成本叠加在一起，ROI 根本算不过来。 更底层的矛盾是数据。具身智能靠模型驱动，模型靠数据喂养，但工业场景的高质量数据极度稀缺。仿真数据可以无限生成，却始终与真实物理世界存在 gap；遥操作数据受限于本体控制的平滑度，采集质量参差不齐。行业里动辄宣称 \"百万小时数据\"，但真正能让模型迭代出可用能力的，是真实产线上、带有完整物理约束的全模态数据 ， 而这类数据，你不把机器人先放进产线，就永远拿不到。 这就形成了一个典型的 \"鸡生蛋\" 困境：客户要求机器人进场就能解决问题，可模型没有真实数据就达不到客户要求；没有客户愿意先开放场景，数据飞轮就转不起来。 人的问题同样在倒逼。愿意从事焊接、喷涂、上下料这类底层劳动的人越来越少，这些场景往往伴有烟雾、粉尘、化学污染和极端温差；即便招到人，流动性也极大，新员工的培养周期长达一到三个月，刚上手就离职的情况屡见不鲜。年初规划的产能，年中可能因为人手不足而交付不了。 一边是具身智能 \"雷声大、雨点小\"，一边是工厂里真实存在、却迟迟无法被自动化覆盖的海量需求。缺口已经摆在那里，问题是：谁来",
+    "url": "https://www.leiphone.com/category/robot/UL2Q8ihgr90Dy85f.html",
+    "imageUrl": null,
+    "source": "雷锋网",
+    "categoryId": null,
+    "publishedAt": "2026-08-22T12:07:00.000Z",
+    "createdAt": "2026-08-22T22:22:38.962Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "Robotics & Embodied AI",
+    "contentFormats": [
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160388,
+    "title": "WRC 2026 风向标：具身智能下半场，比「大脑」更比「账本」",
+    "description": "展台不再比谁花活多，开始比谁能稳定干满8小时。 作者丨邓哲敏 齐铖湧 编辑丨 齐铖湧 上海 WAIC 结束不到一个月，北京 WRC 2026 接棒开启。 短短几十天，谁也不可能把模型推倒重来。想看到什么颠覆性突破，是不现实的。 所以这篇现场观察不单看 WRC 上的展台花活，AI科技评论（雷峰网公众号）会结合几个月来各家综合表现，看“具身大脑”究竟走到哪一步。 先说首日逛展的最大感受： 和 WAIC 比，场景变化很直观。 做咖啡的变多了（现场能看到无界动力、仙工等，做咖啡/递杯成了高频演示）； 包裹分拣场景继续发力（自变量速度很突出，原力灵机势头很猛，星动纪元仍在深耕）； 办公、零售场景明显增多（后面会写到星海图、银河通用等）。 而最大的一个特点是，专业观众们的注意力，已经从研究本体欣赏 demo，转为考量大脑能不能稳定干活、能不能算过账。 01 在分拣这个兵家必争之地，泛化是硬通货 先来聊聊这届 WRC 上主打展示分拣的厂商。 物流分拣是具身智能商业化最早被验证、也最被反复打磨的场景。它的好处显而易见：任务明确、环境相对可控、ROI可以算清楚。坏处也很明显：大家都知道它好，所以挤进来的人越来越多，想靠单纯的展示出圈越来越难。 这届 WRC，分拣台前的竞争已经悄悄分层了。 ▎ 原力灵机：泛化为王，一套系统撑起多种任务 原力灵机在A馆，展台不大，也没有像在 WAIC 上搭长城那样整大活。 只是展示了一些水果切削任务，以及一套双臂物流包裹分拣演示。 分拣展示，在 WRC 是个常见场景。 原力灵机展示的，是在一堆混杂包裹里，用简单夹爪在一堆灰色包裹中分拣黄色包裹，节奏是约 2 秒/件（相当于 1200 件/小时），这个分拣场景和任务不算复杂。 之所以我们会重点关注，是因为原力灵机并不是分拣方面的专家，用来完成这套任务的核心模型是基础泛化大模型 DM0.5，7月9日才刚面世。 一个月时间，用同一套系统能同时撑起分拣、削黄瓜、搭积木等任务线，不换系统、不靠写死轨迹，在分拣场景并没靠超长时间专项特训硬堆，本质上吃的是 DM0.5 的泛化能力 。 网友自嘲：这手艺比我还好 泛化，在所有自己训模型的公司，是一道黄金指标。 在具身领域大词 bubble 满天飞的当下，清华系家庭机器人公司求之科技的世界模型负责人韩磊，跟AI科技评论提到：“世界模型定义之争都是话术，我们只关注（模型的）泛",
+    "url": "https://www.leiphone.com/category/ai/rUNBvF7Iq6C3UtyR.html",
+    "imageUrl": null,
+    "source": "雷锋网",
+    "categoryId": null,
+    "publishedAt": "2026-08-22T11:40:00.000Z",
+    "createdAt": "2026-08-22T22:22:38.962Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "Robotics & Embodied AI",
+    "contentFormats": [
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160385,
+    "title": "当机器人大脑飞上天！替人奔赴危险作业现场，对话硅羽科技",
+    "description": null,
+    "url": "https://www.qbitai.com/2026/08/476965.html",
+    "imageUrl": null,
+    "source": "量子位",
+    "categoryId": null,
+    "publishedAt": "2026-08-22T08:53:13.000Z",
+    "createdAt": "2026-08-22T22:22:36.051Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "Robotics & Embodied AI",
+    "contentFormats": [
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160386,
+    "title": "从模型到生产力：星海图与产业朋友圈共探具身智能的下一站",
+    "description": "让具身智能技术真正落地千行万业。",
+    "url": "https://www.qbitai.com/2026/08/476930.html",
+    "imageUrl": null,
+    "source": "量子位",
+    "categoryId": null,
+    "publishedAt": "2026-08-22T08:41:41.000Z",
+    "createdAt": "2026-08-22T22:22:36.051Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "Robotics & Embodied AI",
+    "contentFormats": [
+      "WeChat Deep Dive"
+    ]
+  },
+  {
     "id": 2160353,
     "title": "TB 26-04 Updates and Modernization of NASA’s Chemical Equilibrium with Applications (CEA) Code",
     "description": "For more information, contact Mark K. Leader, Glenn Research Center, mark.leader@nasa.gov Download the PDF version NASA’s Chemical Equilibrium with Applications (CEA) code is a foundational tool for propulsion system analysis. It provides equilibrium chemistry, rocket performance, shock, and detonation calculations used across NASA and the broader aerospace community. NASA Engineering and Safety Center (NESC) Activity [&#8230;]",

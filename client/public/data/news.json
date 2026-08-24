@@ -1,5 +1,521 @@
 [
   {
+    "id": 2160407,
+    "title": "NASA Sets Coverage for Roman Space Telescope Launch from Florida",
+    "description": "Coverage plans are ready for NASA’s Nancy Grace Roman Space Telescope prelaunch and launch activities. Roman is NASA’s next-generation observatory designed to explore some of the universe’s biggest mysteries, including dark energy. NASA and SpaceX are targeting Roman’s liftoff for no earlier than 7:26 a.m. EDT Sunday, Aug. 30, aboard a SpaceX Falcon Heavy rocket [&#8230;]",
+    "url": "https://www.nasa.gov/news-release/nasa-sets-coverage-for-roman-space-telescope-launch-from-florida/",
+    "imageUrl": null,
+    "source": "NASA",
+    "categoryId": null,
+    "publishedAt": "2026-08-24T20:44:58.000Z",
+    "createdAt": "2026-08-24T22:26:56.111Z",
+    "language": "en",
+    "region": "Global",
+    "topic": "Space & Aerospace",
+    "contentFormats": [
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160411,
+    "title": "UC Berkeley announces new professional graduate degree in AI and machine learning",
+    "description": "The curriculum will include core coursework in data science, machine learning, probability, statistical inference and AI ethics, with specialized electives and a Silicon Valley immersion experience between semesters. The post UC Berkeley announces new professional graduate degree in AI and machine learning appeared first on Berkeley News .",
+    "url": "https://cdss.berkeley.edu/news/uc-berkeley-announces-new-professional-graduate-degree-ai-and-machine-learning",
+    "imageUrl": null,
+    "source": "Berkeley News",
+    "categoryId": null,
+    "publishedAt": "2026-08-24T18:45:12.000Z",
+    "createdAt": "2026-08-24T22:26:57.277Z",
+    "language": "en",
+    "region": "Global",
+    "topic": "Chips & Compute",
+    "contentFormats": [
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160408,
+    "title": "Perseverance Captures Another Phobos Transit",
+    "description": "Description NASA’s Perseverance Mars rover used its Mastcam-Z camera to capture the silhouette of Phobos, one of the two Martian moons, as it crossed in front of the Sun on Aug. 12, 2026, the 1,948th Martian day, or sol, of the mission. The animation has been tinted to simulate what a human would see if […]",
+    "url": "https://science.nasa.gov/photojournal/perseverance-captures-another-phobos-transit/",
+    "imageUrl": null,
+    "source": "NASA",
+    "categoryId": null,
+    "publishedAt": "2026-08-24T17:56:49.000Z",
+    "createdAt": "2026-08-24T22:26:56.111Z",
+    "language": "en",
+    "region": "Global",
+    "topic": "Space & Aerospace",
+    "contentFormats": [
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160409,
+    "title": "CMU Builds on Its Strengths To Advance NeuroAI",
+    "description": "&lt;p&gt; &lt;img loading=\"lazy\" src=\"https://www.cmu.edu/news/sites/default/files/styles/listings_desktop_1x_/public/2026-08/neuro_ai_draft_hero_v1.jpg.webp?h=d1cb525d&amp;itok=g1qtKD9Z\" width=\"900\" height=\"508\" alt=\"a cartoon image of a white human brain on a red background with a magnifying glass over. part of it showing connections illustrated as electronic components \"&gt; &lt;/p&gt; By bringing neuroscience and artificial intelligence into conversation, Carnegie Mellon researchers are using each field to advance the other — revealing insights into how the brain works while building AI systems that can learn, perceive and adapt more like biological intelligence.",
+    "url": "https://www.cmu.edu/news/stories/archives/2026/august/cmu-builds-on-its-strengths-to-advance-neuroai",
+    "imageUrl": null,
+    "source": "Carnegie Mellon",
+    "categoryId": null,
+    "publishedAt": "2026-08-24T13:37:21.000Z",
+    "createdAt": "2026-08-24T22:26:56.745Z",
+    "language": "en",
+    "region": "Global",
+    "topic": "Bioengineering",
+    "contentFormats": [
+      "Xiaohongshu Explainer",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160413,
+    "title": "AI重塑商业，信任决定未来商业能走多远丨Visa大中华区总裁张文翊",
+    "description": "Visa看到的AI未来",
+    "url": "https://www.qbitai.com/2026/08/478670.html",
+    "imageUrl": null,
+    "source": "量子位",
+    "categoryId": null,
+    "publishedAt": "2026-08-24T13:32:13.000Z",
+    "createdAt": "2026-08-24T22:26:59.740Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "AI Models & Agents",
+    "contentFormats": [
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160414,
+    "title": "一篇论文改写AI科研评价规则！中国公司拿出实践数据，双榜第一",
+    "description": "全球大厂开始押注的AI科研，终于有了统一标准",
+    "url": "https://www.qbitai.com/2026/08/478568.html",
+    "imageUrl": null,
+    "source": "量子位",
+    "categoryId": null,
+    "publishedAt": "2026-08-24T13:21:22.000Z",
+    "createdAt": "2026-08-24T22:26:59.740Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "AI Models & Agents",
+    "contentFormats": [
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160419,
+    "title": "第一位“95后”获奖人产生、女性获奖人首次达两位数——第八届“科学探索奖”公布获奖名单",
+    "description": "8月24日，第八届“科学探索奖”获奖名单正式揭晓，50位青年科学家榜上有名。第一位“95后”获奖人产生、女性科学家人数首次达到两位数、7家机构首次拥有获奖人。 作为目前国内金额最高的青年科技人才资助项目之一，“科学探索奖”聚焦基础科学和前沿技术领域，每位获奖人将在5年内获得总计300万元人民币奖金，并且可自由支配。支持基础科研是腾讯可持续社会价值创新战略的重要议题。该奖设立于2018年，由杨振宁、饶毅、潘建伟、高文、施一公、谢晓亮等14位知名科学家与腾讯公司创始人马化腾共同发起，由腾讯出资100亿元设立的新基石科学基金会运营。8年来，已有397位青年科学家获得资助。 新！第一位95后“新星”、10位女性获奖人创新高、 7 家机构 首次产生获奖人 …… 今年名单中备受瞩目的一个名字，是数学家Joshua Zahl。他与王虹合作证明了三维挂谷猜想——这正是让王虹在2026年捧起菲尔兹奖的重要成果。作为一名加拿大籍数学家，Joshua Zahl自2025年起全职任教于南开大学陈省身数学研究所。“一流科学家愿意到中国来，源于国内有一批水平比较高的科学家能够跟他们交流，也源于全社会对科技投入的增加。”中国科学院院士、“科学探索奖”管理委员会主席潘建伟表示。 年轻科学家也在被更多地“看见”。今年获奖名单中有10位年轻科学家（男性35周岁及以下，女性38周岁及以下），并诞生了奖项史上第一位“95后”获奖人——来自前沿交叉领域、北京理工大学的周天贶，获奖年龄仅有30岁。“学科交叉的发展趋势，催生出更多新的研究方向，这为年轻人快速成长创造了新的空间。”中国工程院院士、“科学探索奖”管理委员会主席高文说。自去年起，“科学探索奖”在每个资助领域设1个“新星名额”，在宁缺毋滥的评审原则下专门用于奖励年轻科学家。今年申报人中年轻科学家占22%，去年为21%；而在“新星名额”设立前的2024年，这一比例仅有11%。 女性获奖人数量则再创新高——10位女性科学家位列其中（含3位年轻科学家），这是8届以来女性获奖人数首次达到两位数。“20%是一大进步，但还不够。比如工程技术过去基本是男生的专业，大学阶段女生非常少，现在经常差不多一半都是女生，将来女性科学家获奖的比例还会继续上升。”高文说。 此外，50位获奖人来自13个城市的30家高校、医院和科研机构。其中河南郑州、山东泰安两个城市，以及北京大学肿",
+    "url": "https://www.leiphone.com/category/industrynews/ueOhCRAt4mwIdCsz.html",
+    "imageUrl": null,
+    "source": "雷锋网",
+    "categoryId": null,
+    "publishedAt": "2026-08-24T13:15:00.000Z",
+    "createdAt": "2026-08-24T22:27:02.769Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "Education & Future Skills",
+    "contentFormats": [
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160410,
+    "title": "Building the Future: Carnegie Mellon Is the Quintessential American Story",
+    "description": "&lt;p&gt; &lt;img loading=\"lazy\" src=\"https://www.cmu.edu/news/sites/default/files/styles/listings_desktop_1x_/public/2026-08/A250Nelly-2353a.jpg.webp?h=eb273bda&amp;itok=6GvNq0dw\" width=\"900\" height=\"508\" alt=\"Howie Choset and Charlie Batch on a brightly lit stage for the America 250PA concert with several robots. \"&gt; &lt;/p&gt; Carnegie Mellon University has generated a true impact as an American institution, shaping the lives of millions of citizens throughout the history of the country.",
+    "url": "https://www.cmu.edu/news/stories/archives/2026/august/building-the-future-carnegie-mellon-is-the-quintessential-american-story",
+    "imageUrl": null,
+    "source": "Carnegie Mellon",
+    "categoryId": null,
+    "publishedAt": "2026-08-24T12:35:00.000Z",
+    "createdAt": "2026-08-24T22:26:56.745Z",
+    "language": "en",
+    "region": "Global",
+    "topic": "Robotics & Embodied AI",
+    "contentFormats": [
+      "Xiaohongshu Explainer",
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160420,
+    "title": "燧原科技启动科创板发行，全栈技术体系支撑AI芯片商业化落地",
+    "description": "8月24日晚，上海燧原科技股份有限公司（简称“燧原科技”）披露招股意向书、发行安排及初步询价公告等，正式启动发行工作。燧原科技股票代码为“688801”，拟于科创板上市。 燧原科技创立于2018年3月，专注于云端AI芯片及其相关产品的研发、设计和销售，已自研迭代四代架构、五款云端AI芯片，构建了覆盖AI芯片、AI加速卡及模组、智算系统及集群、AI计算及编程软件平台的产品体系。 随着生成式人工智能、大模型等技术快速发展，AI训练和推理对算力的需求持续提升，云端AI芯片市场迎来较大发展空间。灼识咨询数据显示，全球AI加速卡市场规模预计将从2024年超过1,000亿美元增长至2028年超过5,000亿美元；同期，中国AI加速卡市场规模预计将超过1万亿元，市场增长空间广阔。 在此背景下，燧原科技持续推进产品商业化落地。目前，公司多代产品已在广泛的互联网AI场景中实现大规模商用，持续为基于从传统AI模型到AI大模型的国民级应用提供AI算力支撑。此外，公司还在积极加强与网络运营商合作，已在智慧城市、智慧金融等多个垂类场景落地应用，推动AI算力从互联网应用向更多行业延伸。 业绩方面，2023年至2025年，燧原科技营业收入分别为3.01亿元、7.22亿元和9.90亿元，三年复合增长率达到81.32%。据招股意向书，公司2026年上半年实现营业收入11.2亿元。基于2026年1-6月已实现业绩，综合考虑已签订在手订单与产品交付节奏等因素，预计2026年1-9月营业收入为23亿元至30亿元，将同比大幅增长325.78%至455.36%，2026年或2027年实现合并报表盈利。 燧原科技始终坚持原始创新、自主研发的技术路线，以较高的研发投入强度持续加强技术壁垒。2023年至2025年，公司累计研发投入36.76亿元，占累计营业收入比例的182.55%。 目前，公司已形成芯片及硬件、软件及编程平台、算力集群方案三大类核心技术体系，为产品持续迭代和商业化落地提供技术支撑。底层硬件层面，原创自主架构的GCU-CARE加速计算单元和GCU-LARE片间高速互连技术，具有编程灵活性，且深度支持AI大模型高并行度加速计算。软件层面，自研“驭算TopsRider”全栈软件平台，大幅降低了主流AI大模型的编程开发难度和迁移成本。算力集群方面，公司千卡、万卡智算中心项目已经实现收入，并联合客户研发超节点",
+    "url": "https://www.leiphone.com/category/chips/p9z2fExXmv41ngV9.html",
+    "imageUrl": null,
+    "source": "雷锋网",
+    "categoryId": null,
+    "publishedAt": "2026-08-24T12:27:00.000Z",
+    "createdAt": "2026-08-24T22:27:02.770Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "Chips & Compute",
+    "contentFormats": [
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160412,
+    "title": "Lara Hodgson Named Executive Director of New Startup Accelerator at Georgia Tech",
+    "description": "&lt;span&gt;Lara Hodgson Named Executive Director of New Startup Accelerator at Georgia Tech&lt;/span&gt; &lt;span&gt;&lt;a title=\"View user profile.\" href=\"https://news.gatech.edu/user/1\"&gt;Superadmin&lt;/a&gt;&lt;/span&gt; &lt;span&gt;&lt;time datetime=\"2026-08-24T08:08:59-04:00\" title=\"Monday, August 24, 2026 - 08:08\"&gt;Mon, 08/24/2026 - 08:08&lt;/time&gt; &lt;/span&gt; &lt;div&gt;&lt;p&gt;Lara Hodgson has been named the inaugural executive director of the new startup accelerator at Georgia Tech. Under Hodgson’s leadership, the accelerator will begin delivering on its mission to support emerging startups with the resources and infrastructure to scale into businesses. &lt;/p&gt;&lt;p&gt;Previously known as Velocity Startups, &lt;a href=\"https://commercialization.gatech.edu/venturearcade\"&gt;The Venture Arcade&lt;/a&gt; serves as a bridge between early-stage startup founders who have participated in Georgia Tech initiatives like &lt;a href=\"https://create-x.gatech.edu/\"&gt;CREATE-X&",
+    "url": "https://news.gatech.edu/news/2026/08/24/lara-hodgson-named-executive-director-new-startup-accelerator-georgia-tech",
+    "imageUrl": null,
+    "source": "Georgia Tech",
+    "categoryId": null,
+    "publishedAt": "2026-08-24T12:08:59.000Z",
+    "createdAt": "2026-08-24T22:26:58.022Z",
+    "language": "en",
+    "region": "Global",
+    "topic": "Chips & Compute",
+    "contentFormats": [
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160421,
+    "title": "拼多多发布Q2财报，“新十年高质量发展”迈向新阶段，长期主义驱动产业价值跃迁",
+    "description": "8月24日，拼多多发布截至6月30日的2026年第二季度财报。受益于“千亿扶持”等惠商战略的效用释放，以及平台治理体系的全面升级，拼多多二季度营收达到1124亿元，利润272亿元。其中，Non-GAAP研发投入43亿元，同比增长40%。 今年上半年，拼多多深化推进“新十年高质量发展”，平台及产业生态持续向好发展。一方面，拼多多长期坚持的“千亿扶持”惠商战略逐步从投入期进入收效期，平台及产业生态效用加速释放，供需两侧均实现质效升级。另一方面，“三年再造拼多多”重大战略继续稳步推进，自营品牌业务整体态势良好，持续释放供应链的内生潜力，为供应链的价值升级创造了新动能。 “过去这个季度，我们继续通过治理、减免、扶持的系统性举措，持续加大对平台及产业生态的投入，全面升级平台治理体系，稳步推动‘新十年高质量发展’迈向深化发展的新阶段。” 拼多多集团联席董事长兼联席CEO赵佳臻表示，为了进一步推动供应链转型升级，我们还在雄安新区成立了专项公司，购置了办公大楼，锚定智能化发展新机遇，推动传统制造业走向价值高端，设立了传统产业数据处理服务中心和传统制造高质量发展综合服务中心，当前全职员工已达4000人。 “今年以来，全球各个市场的监管政策、合规要求都发生了很大的变化，困难、挑战和机遇都很大，责任也很大。”拼多多集团联席董事长兼联席CEO陈磊表示，我们感到拼多多正处在一个特殊的全球经济贸易的交汇口，会面临各个市场不同监管政策的压力，但也处在一个非常特殊的位置，关系到全球几十亿人的日常生活，发展空间很大，也给我们提出了更高的要求，我们将继续重仓供应链，稳扎稳打地推动供应链升级，争取为全球消费者提供一个长期稳定、价格优惠、质量过硬、可被依赖的购物平台。 推动平台治理迈向精细化，全域类目开展“靶向式”治理 今年以来，电商行业的竞争仍然激烈，市场环境复杂多变，给平台治理、产业发展都提出了更高的要求和全新的挑战，拼多多持续加码投入，不断提升平台的服务能力和治理体系，全力为商家和产业发展创造更好的生态环境。 在平台治理上，拼多多持续加大资源投入，不仅迭代升级技术防控体系，更大幅扩充专业治理团队，将治理触角延伸至全域品类。针对垂直类目特性，平台治理团队逐一开展“靶向式”专项治理，推动生态治理向常态化、精细化、制度化纵深迈进。 截至目前，平台已累计出台150余项综合治理举措，覆盖商品准入、食品安全、药",
+    "url": "https://www.leiphone.com/category/industrynews/Ruh4vQloxk6yvuQH.html",
+    "imageUrl": null,
+    "source": "雷锋网",
+    "categoryId": null,
+    "publishedAt": "2026-08-24T10:34:00.000Z",
+    "createdAt": "2026-08-24T22:27:02.770Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "Advanced Manufacturing",
+    "contentFormats": [
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160422,
+    "title": "第二届世界人形机器人运动会火热进行中 京东“机器人之家”全周期保障参赛机器人",
+    "description": "8月22日，第二届世界人形机器人运动会在国家速滑馆“冰丝带”开幕。本届运动会吸引来自16个国家的666支队伍、2056台机器人参赛，参赛规模较首届大幅提升。作为本届运动会官方合作伙伴及独家官方售后服务伙伴，京东携手大赛组委会共同打造机器人服务保障中心——“机器人之家”，为参赛机器人提供全赛程服务保障。 在刚刚结束的世界机器人大会上，京东重磅发布机器人战略布局，立足供应链、服务、技术三大维度，明确在机器人领域的发展规划。其中在服务层面，京东宣布未来5年将建立覆盖全球超100个国家的售后服务能力，创造超10万名机器人售后服务工程师新就业岗位。而在世界人形机器人运动会上，京东机器人售后服务工程师就已闪亮登场，全面助力保障机器人运动员顺利完赛，成为赛场上最令人安心的一道红色风景线。从WRC到人形机器人运动会，从战略到实战，京东的全链条产业服务正在助力机器人走进千行万业，走进每个家庭。 “机器人之家”总面积约7000平方米，围绕机器人赛事保障需求，设置存储、维修调试、充电等功能区域。其中，3个公共存储区和26个专属存储区可同时容纳1500余台机器人；维修调试区配备24个维修站点，为参赛机器人提供检测、调试和维护服务；充电区设置近200个充电柜，可同时满足1200余块电池充电，并配备100个独立充电位，满足不同类型机器人的补能需求。从存储到补给，从维护到监测，“机器人之家”为参赛机器人打造了覆盖赛前、赛中、赛后的全流程保障体系，让数千台机器人在赛场背后拥有“居住—补给—维护—监测”的完整服务闭环。 在运营管理方面，京东将成熟的供应链数字化能力迁移至赛事场景，为“机器人之家”搭建“一机一码”“一电池一码”数字化管理体系。每台机器人、每块电池均拥有专属身份标识，扫码30秒即可完成存取登记，赛队信息、设备参数全程可追溯，保障2056台机器人实现“持证上场、有序流转”。 赛场之上，京东机器人售后服务工程师团队全程值守，为机器人运动员顺利参赛提供技术保障。围绕智能机器人全生命周期需求，京东打造覆盖“用、养、修、换”的专业服务体系，提供取送维修、工程师上门、换电补能、测试鉴定、美容保养、设备回收等全场景服务。依托8大自营维修中心，京东已与众多机器人企业展开合作，并推出机器人维修“120”专属服务标准，实现1分钟响应、2小时上门、当日解决。 随着机器人从实验室加速走向工业、家庭与商业场景，规",
+    "url": "https://www.leiphone.com/category/industrynews/cxgGoqQ1ysJ7mCFe.html",
+    "imageUrl": null,
+    "source": "雷锋网",
+    "categoryId": null,
+    "publishedAt": "2026-08-24T10:31:00.000Z",
+    "createdAt": "2026-08-24T22:27:02.770Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "Robotics & Embodied AI",
+    "contentFormats": [
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160423,
+    "title": "WRC 2026｜生数科技发布最新研究成果，提出通用世界模型五级发展路线",
+    "description": "8 月 19 日下午，世界机器人大会分论坛“具身智能大模型的进化之路：从技术分级到产业落地”在北人亦创国际会展中心举行。生数科技创始人兼首席科学家、ACM/IEEE/AAAI Fellow 朱军发表主旨演讲，发布团队最新研究成果，并系统阐述通用世界模型的五级发展路线。 朱军表示：“从大模型发展的视角来看，我们希望构建的，不只是服务于某个任务或场景的专用模型，而是一个能够理解世界、预测未来并采取行动的通用基座模型。” 从第一性原理出发，定义通用世界模型 世界模型已经延伸到视频生成、环境模拟、机器人决策和动作控制等方向，但行业对“什么样的世界模型才称得上通用”仍缺少共识。 人在学习骑自行车或开车时，会从最初的不协调逐渐变得稳定、准确。其重要原因，是大脑在与外部世界持续互动的过程中，形成了一个关于世界如何运行的“内部模型”。 通用世界模型同样需要三项彼此关联的能力： “通用世界模型不是单一的生成器、模拟器、机器人动作模型或策略模型，也不是这些能力的割裂片段或简单线性串联，而是三种能力耦合在一起的闭环反馈系统。” 朱军强调，行动不仅是模型的输出，还会改变环境、产生新信息，并进入下一轮理解、预测和决策。 数据、架构与算力：构建通用世界模型的三大要素 要想构建通用世界模型，仍然离不开大模型的三个基本要素： 数据、架构与算力。 在数据方面， 通用世界模型需要一个由观察逐步走向行动的多层数据金字塔 ：从海量网络视频开始，逐步扩展到特定领域视频、第一视角人类视频、带动作记录的人类示范，以及真实机器人交互数据。 越靠近底层，数据规模越大、覆盖面越广；越靠近顶层，数据虽然更稀缺、成本更高，却能更直接地建立任务、动作与物理结果之间的联系。合成数据可以贯穿金字塔的每一层。同时，“不完美数据”同样具有重要价值：失败尝试、纠正动作和恢复过程都包含有效的学习信号，能够帮助机器人学习如何从失败中恢复。 在架构层面，通用世界模型需要统一处理图像、视频、语言和机器人动作等不同模态信息。MoT（Mixture-of-Transformers）通过为不同模态配置专属参数，并以共享注意力实现跨模态信息交互，使环境理解、世界状态预测与动作生成能够在同一模型中协同完成。生数科技的世界动作模型 Motubrain 正是基于这一架构，将理解、预测与行动统一建模，打破传统分模块方案的能力割裂，同时提升异构数据的利用效率",
+    "url": "https://www.leiphone.com/category/industrynews/LZWCQyVI2s6jSIr3.html",
+    "imageUrl": null,
+    "source": "雷锋网",
+    "categoryId": null,
+    "publishedAt": "2026-08-24T10:09:00.000Z",
+    "createdAt": "2026-08-24T22:27:02.770Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "Robotics & Embodied AI",
+    "contentFormats": [
+      "Xiaohongshu Explainer",
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160424,
+    "title": "比亚迪王朝双旗舰亮相成都车展：大汉EV预售24.99万起，第三代唐首秀",
+    "description": "8月21日，2026成都国际车展正式开幕。比亚迪王朝网带来两款旗舰车型，其中，全新D+级旗舰轿车大汉EV正式开启预售，预售价24.99万-29.99万元；大五座旗舰SUV第三代唐完成全球首秀，预计于今年第四季度上市。 此次两款车型分别切入D+级轿车和大五座SUV市场，也意味着比亚迪王朝网进一步向中高端市场延伸。 大汉EV预售24.99万元起 此次大汉EV共推出3款车型，包括1008KM后驱激光雷达尊享型、1008KM后驱激光雷达旗舰型和880KM四驱激光雷达旗舰型，预售价分别为24.99万元、26.99万元和29.99万元。 从产品定位来看，大汉EV属于比亚迪王朝9系旗舰大型轿车，车身长宽高分别为5256×1999×1510mm，轴距3130mm。新车采用王朝家族“龙颜”设计语言，前脸配备一体式贯穿日行灯，灯带长度达到2.41米，同时提供21英寸轮毂以及多种单色、双拼车身颜色。 进入车内，大汉EV强调乘坐空间和舒适性。官方数据显示，新车得房率达到90.8%，前排配备双零重力座椅，并提供NAPPA真皮、座椅通风、加热和按摩等配置；后排座椅靠背支持12度调节，并配备大腿托和右后脚踏。 此外，新车还配备黑色PDLC可调玻璃，可以在透明和不透明状态之间切换，用于提升后排隐私性；车内搭载帝瓦雷31扬声器音响系统，并针对整车噪声进行了200多处优化。 动力和底盘方面，大汉EV四驱版零百加速最快3.3秒，最高车速270km/h，官方公布的百零制动距离为32.83米。全系标配后轮转向，转弯半径为4.95米，并搭载云辇-A双腔空气悬架和道路预瞄系统。 智能驾驶方面，大汉EV搭载比亚迪天神之眼B和天神之眼5.0高阶辅助驾驶系统，高配车型配备激光雷达。比亚迪此前还宣布，将对智能泊车和城市领航辅助驾驶的安全进行兜底。 三电方面，大汉EV全系采用第二代刀片电池，纯电续航最高达到1008km，风阻系数为0.197，官方百公里电耗11.5kWh。 补能同样是大汉EV此次主打的卖点之一。官方数据显示，新车支持闪充，5分钟可从10%充至70%，9分钟可充至97%；在-30℃低温环境下，补能时间仅增加约3分钟。比亚迪方面表示，其闪充网络预计到今年年底建成2万座。 从此前的产品布局来看，大汉EV后续还将推出插混版本，目前此次成都车展开启预售的是纯电车型。 第三代唐全球首秀，主打“大五座” 除了大汉EV，",
+    "url": "https://www.leiphone.com/category/transportation/2kwgjAcPGL0zxlrn.html",
+    "imageUrl": null,
+    "source": "雷锋网",
+    "categoryId": null,
+    "publishedAt": "2026-08-24T09:10:00.000Z",
+    "createdAt": "2026-08-24T22:27:02.770Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "Advanced Manufacturing",
+    "contentFormats": [
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160425,
+    "title": "为什么手机内存进入英伟达机柜后，贵过HBM？",
+    "description": "过去长期由HBM主导的AI服务器内存账单，正在被“手机内存”改写。 8月11日，外媒Wccftech援引美国银行（BofA）测算称，英伟达面向Vera Rubin Ultra NVL144的Kyber机柜将配置124.4TB HBM4E，成本约为250万美元；同柜216TB LPDDR5X虽然单价更低，但总成本趋近280万美元，超出前者约12%。 LPDDR5X原本主要用于手机等移动设备，例如iPhone 17 Pro搭载12GB LPDDR5X内存。如果做一个换算，Kyber单柜所使用的相当于约1.8万部手机的运行内存总量。 这并不是LPDDR第一次走进数据中心。早在Grace CPU时代，英伟达就已经开始用LPDDR5X代替传统服务器使用的DDR。 三年后，新一代Vera CPU内存不仅形式发生改变——SOCAMM2（Small Outline Compression Attached Memory Module 2，小型压接式内存模块）将原本固定式设计升级为可拆卸、可维护的服务器内存模块，单颗CPU的LPDDR5X容量也从GB级别提升至TB级别（1TB=1000GB）。 这个原本为手机等端侧设备而设计的兼顾带宽、容量和功耗的产品，正在迎来和HBM相似的境遇—— 越来越贵的同时，也越来越稀缺 。 01 为何曾经的手机内存能跑进AI服务器？ 答案在于CPU的核心数持续增加，以及智算、超算等工作负载的数据量不断攀升。这些压力传导到内存端，转化为对更大容量和更高带宽的明确需求。 然而，传统服务器主内存所采用的DDR5 RDIMM（寄存式双列直插内存模块），很难在控制功耗的同时，满足CPU对极致内存吞吐能力的追求。 图源ServeTheHome YouTube频道 于是，英伟达开始另辟蹊径，瞄准LPDDR这类低功耗手机内存。首款数据中心CPU Grace首次应用的LPDDR5X，围绕CPU布置了多个内存通道，提供远高于手机场景的总带宽。 按照官方2023年披露的数据，相比当时典型的服务器DDR5内存方案，Grace的LPDDR5X在成本相近的情况下，带宽最高可提升53%；提供同样1GB/s带宽，所需的功耗也只有前者的约八分之一。 美光与Meta最新的联合测试更直观地展示了瓶颈如何被LPDDR5X解决： 一项AI数据整理任务的吞吐量，在内存速度提升后增加了 11% ；当容",
+    "url": "https://www.leiphone.com/category/chips/ZqmXnIyBKGDpHOJl.html",
+    "imageUrl": null,
+    "source": "雷锋网",
+    "categoryId": null,
+    "publishedAt": "2026-08-24T08:41:00.000Z",
+    "createdAt": "2026-08-24T22:27:02.770Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "AI Models & Agents",
+    "contentFormats": [
+      "Xiaohongshu Explainer",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160426,
+    "title": "从汽车到机器人、太空，五一视界复制十年仿真经验",
+    "description": "近几年，自动驾驶技术路线加速变化，产业链上的公司也在重新寻找自己的位置。 其中，也包括长期为智驾行业提供仿真测试服务的五一视界。这家成立于2015年的数字孪生公司，通过仿真技术切入自动驾驶领域，随后延伸到更多领域。2025年12月，五一视界成功登陆港股。 8月18日，五一视界公布“物理AI宏伟蓝图2030”，将公司的发展路径划为三站：自动驾驶、具身智能和空天探索。 从汽车到机器人，再到卫星和火星探测器，业务跨度看起来很大，但背后延续的是五一视界过去十年积累的一套能力，将现实环境数字化，让机器在其中完成训练、测试和验证，再通过模型和数据与真实世界形成闭环。 汽车是这套能力最早实现规模商业化的载体，机器人正在成为第二个。 五一视界接下来的调整，就是把已经在自动驾驶中验证过的能力，继续推向更广泛的物理世界。 从自动驾驶，到更大的物理世界 2016年，五一视界开始构想“地球克隆”计划，创业前三年计划将人与建筑数字化，第二个三年扩展到车与道路，第三个三年继续进入水和城市，再连接不同的物理要素。 彼时，自动驾驶行业刚刚兴起，创业公司如雨后春笋冒出，针对道路环境复杂，大量危险和极端场景无法反复在现实世界测试的难点，仿真成为自动驾驶研发和验证的重要工具。 此后近十年，五一视界围绕汽车逐渐建立起仿真、训练和验证产品体系。 这也是目前五一视界最成熟的一块物理AI业务。根据财报数据，2026年上半年，51Sim收入5123.8万元，同比增长545.2%，占公司同期总营收的41.4%。 近日的“物理AI宏伟蓝图2030”活动上，五一视界创始人李熠重新解释了“地球克隆”的另一层意义：数字化现实世界除了让人进入虚拟空间，还可以成为AI进入物理世界的桥梁。 基于这套思路，五一视界把2015年至2030年的业务划成三站。其中，第一站自动驾驶已经形成产品和收入，第二站具身智能，是当前重点推进的新业务；第三站则向低空、太空和深空延伸。 这次发布会上，五一视界正式发布针对具身智能客户，推出AperData和AperOne两款产品，分别解决机器人数据和应用闭环问题。 据悉，AperData由AperEgo采集硬件和AperOS软件组成，用于机器人训练数据的采集和处理。按照公司披露的数据，其轨迹物理一致性可以达到99%，数据采集效率相比传统真机遥操作提升超过10倍。五一视界同时明确，只提供软硬件和平台，不直",
+    "url": "https://www.leiphone.com/category/transportation/pulPK5rlrvofLaJH.html",
+    "imageUrl": null,
+    "source": "雷锋网",
+    "categoryId": null,
+    "publishedAt": "2026-08-24T08:13:00.000Z",
+    "createdAt": "2026-08-24T22:27:02.770Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "Robotics & Embodied AI",
+    "contentFormats": [
+      "Xiaohongshu Explainer",
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160427,
+    "title": "打破人类记录，狂揽5金2银6铜！合作共赢 助力天工交出硬核答卷",
+    "description": "2026年8月举办的第二届世界人形机器人运动会上，北京国家速滑馆“冰丝带”见证了一场跨越物种的运动奇迹。优必选作为大股东和总经理单位的北京人形机器人创新中心（以下简称：北京人形）研发的“天工”系列人形机器人，凭借惊人的爆发力与稳定性，全面打破了多项尘封多年的人类田径世界纪录，宣告了人形机器人运动能力的跨越式蜕变。截至8月23日，北京人形已经夺得5金2银6铜的佳绩，同时包揽了23日田径赛事所有金牌。 百米赛道“新飞人” 中长跑、跳高远超人类极限 在100米大型组预赛中，天工Ultra展现出了令人窒息的冲刺能力，在比赛后程速度爆发式提升，率先撞线，最终跑出9秒32的成绩。天工Ultra不仅大幅刷新了去年首届运动会21秒50的赛会纪录，更是将“飞人”博尔特保持了17年的9秒58人类世界纪录甩在身后。 百米田径是人形机器人爆发力的展现，中长跑与跳高则是对机器人综合控制能力的极致考验。在400米大型组决赛中，天工Ultra以38秒15的绝对优势夺得金牌。这一成绩不仅将去年的赛会夺冠成绩（88秒03）提升了近50秒，更超越了南非名将范尼凯克保持了10年的43秒03人类世界纪录。 而在1500米的耐力比拼中，天工Ultra更是以2分21秒64的惊人成绩夺冠，大幅打破了人类3分26秒00的纪录，该成绩甚至已经逼近人类1000米的世界纪录。 在跳高展示环节，天工Ultra同样创造了历史。它原地纵身一跃，起跳高度达到了2.8843米，远超古巴选手索托马约尔保持了33年的2.45米人类男子跳高世界纪录，引得现场裁判与观众阵阵惊叹。此外，在小型组400米比赛中，天工Omni机器人也以45秒66的成绩夺冠，其独特的“捂脸跑”姿态更是成为赛场的一大亮点。 北京人形河南科技学院队天轶2.5-TE在园林场景-园林管理岗赛项中，拿下满分300分斩获金牌；在同一赛项，北京人形深圳大学联队获得铜牌。在场景赛“图书馆-图书馆管理岗”赛项中，北京人形（北京人形·晓悟智能联队+北大先机学院+Vemix）天轶2.5-TE以全自主形式参赛斩获银牌。 优必选与北京人形共育天工 共推具身智能应用落地 北京人形携天工系列人形机器人参与41个项目的双线角逐，持续向“更高、更快、更能干”迈进。在硬件上，天工Ultra以高功率密度关节、轻量化破风构型及专属散热系统，筑牢高爆发与长时作业的底座；在算法上，依托“慧思开物”全栈技",
+    "url": "https://www.leiphone.com/category/industrynews/DzgGt3aWbUq9HYqC.html",
+    "imageUrl": null,
+    "source": "雷锋网",
+    "categoryId": null,
+    "publishedAt": "2026-08-24T08:09:00.000Z",
+    "createdAt": "2026-08-24T22:27:02.770Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "Robotics & Embodied AI",
+    "contentFormats": [
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160415,
+    "title": "阿里达摩院推出肝癌AI模型，精准识别1厘米微小肿瘤",
+    "description": "8月24日消息，阿里巴巴达摩院联合中国医科大学附属盛京医院等机构研发出肝癌诊断AI模型DAMO LiON",
+    "url": "https://www.qbitai.com/2026/08/478473.html",
+    "imageUrl": null,
+    "source": "量子位",
+    "categoryId": null,
+    "publishedAt": "2026-08-24T08:07:59.000Z",
+    "createdAt": "2026-08-24T22:26:59.740Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "Education & Future Skills",
+    "contentFormats": [
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160428,
+    "title": "小米机器人，闷声干大事",
+    "description": "这两天，具身智能圈很热闹。 世界机器人大会在北京开幕，展馆里挤满了走路、打拳、搬东西以及搞抽象的机器人们，而在开幕的同一天，宇树科技登陆了科创板。 从产品演示、供需对接到资本热度，行业正在以前所未有的速度升温。 在这片热闹之中，小米新一代人形机器人“铁大”也首次面向公众亮相。 在世界机器人大会「具身花园」展区，小米机器人“铁大”先从工作人员手中接过鲜花，缓慢递给观众；随后抓起花瓣状的香片，翻转手腕，将香片撒向空中。观众伸出拳头，它便抬手碰拳；有人靠近合影，它还会握手、碰拳。 这些看似简单的动作，对机器人来说并不容易实现。以抓取香片为例，轻薄的香片聚在一起时有些像沙粒，抓取过程中会不断滑动、堆叠和散开，非常考验手指之间的协调以及对力度的控制。 铁大全身共有66个自由度，其中大约一半集中在手部。其身高约1.70米、体重66公斤，体型接近普通成年人，其机身大面积覆盖暗灰色织物，关节和机械结构则被尽数收进外壳与面料之下。 与互动仍依赖遥操作的大部分机器人不同，据小米方面披露，此次小米机器人现场互动由大模型驱动，可以自主决策并执行动作，不依赖后台遥操作。 从现场交互效果来看，铁大整体的稳定度和流畅度都不错，但当被问及具身机器人“什么时候才会普及到家庭中时”，小米却给出了不一样的答案。 “短周期内比较困难，未来一两年可能都不容易看到。今天的瓶颈真的是AI，如果AI跑不通，可能是3年、5年、10年都有可能。”小米机器人总经理向迪昀对雷峰网说到。 按照小米的规划，未来将优先推动机器人进入工厂。在智能制造场景中实现规模化应用，将是小米机器人业务的优先目标。 先工厂，后家庭 过去一年的机器人市场看似热闹，但目前支撑市场增长的，很大一部分仍然是展示、体验和技术验证需求。 这种需求推动了人形机器人最早一轮商业化。商场活动、企业年会、景区和展览愿意为机器人买单，因为它足够新鲜，也天然具有传播效果。今年春节期间，机器人租赁市场一度供不应求，一些热门机型日租金曾达到数万元。 但表演和体验撑不起一个千亿市场，提升制造业的生产效率或许才是真正答案。 今年机器人大会就是一个特殊的节点，在这次大会上，主办方首次增设“采购日”，观众可以更具体地询问机器人能在哪些岗位工作、能够连续运行多长时间、部署之后能节省多少人力，以及多久能够收回成本。 这意味着，市场关注点正从“机器人能做什么动作”，转向“究竟能创造多",
+    "url": "https://www.leiphone.com/category/industrynews/Y2iGKMHBj6jXCOWz.html",
+    "imageUrl": null,
+    "source": "雷锋网",
+    "categoryId": null,
+    "publishedAt": "2026-08-24T07:07:00.000Z",
+    "createdAt": "2026-08-24T22:27:02.771Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "Robotics & Embodied AI",
+    "contentFormats": [
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160416,
+    "title": "单芯片到万卡集群体系化突破 中诚华隆HL200推理芯片及超节点集群重磅发布",
+    "description": "定义国产推理算力新范式 赋能万卡级AI推理算力规模化落地",
+    "url": "https://www.qbitai.com/2026/08/478469.html",
+    "imageUrl": null,
+    "source": "量子位",
+    "categoryId": null,
+    "publishedAt": "2026-08-24T07:04:36.000Z",
+    "createdAt": "2026-08-24T22:26:59.740Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "Chips & Compute",
+    "contentFormats": [
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160429,
+    "title": "WRC 2026：具身数采凶猛，千军万马集体入场",
+    "description": "从大厂到零部件厂商，都盯上了卖铲子的生意。 作者丨 高景辉 编辑丨 董子博 今年WRC逛完一圈，雷峰网最明显的感受是：今年的数据采集设备，比去年多了不止一倍。 去年来WRC，数采方案大多藏在本体公司的展台角落，作为\"模型训练的配套设施\"一笔带过。今年不一样了，无论规模大小，不少展商都在自己的展位上留出了一块专门的区域，摆着手套、头环、相机，邀请观众上手体验。 原因并不复杂。当本体硬件的价格一路下探、大模型的架构路线逐渐收敛，行业的瓶颈正在从\"有没有身体、有没有大脑\"转向\"有没有足够多、足够好的数据来教机器人干活\"。谁能把高质量真实交互数据的获取成本打下来，谁就握住了下一个阶段的话语权。 正是在这样的背景下，WRC 2026的展馆里出现了5支来自不同方向的数采队伍。他们出身不同、禀赋各异，入局逻辑也大相径庭。我们一家一家看。 01 上游供应链： 复用现成技术，低成本入局 第一类玩家，是原本做传感器和视觉硬件的上游供应商。对他们来说，做数采与其说是跨界，不如说是把已经成熟的硬件技术换个“外衣”，毕竟传感器还是那些传感器，相机还是那些相机，只是从\"卖给机器人做感知\"变成了\"卖给数据团队做采集\"。边际成本低，毛利率却有提升空间。 他山科技 在展台搞了个\"桌面收纳挑战赛\"。观众戴上他们的触觉感知指套TS-ECHO，再套一个ego头显，收拾桌面上的杂物，视觉和触觉信息就同步采集下来了。指套能实时捕捉接触、受力、滑移这些信号，和第一视角的画面一一对齐。他山科技的工作人员告诉我们，他们判断高质量交互数据的关键，是无本体数采能以更低成本拿到多任务、多场景的操作数据，而触觉和视觉的融合，能帮机器人更完整地理解操作对象的物理属性。这个判断本身不算新鲜，但指套戴上去确实比想象中灵活，不怎么影响手的正常活动。 帕西尼 的展示区主打一个概念——\"同源数采、多体联动\"。观众戴上数据采集手套，可以同时操控好几台不同构型的灵巧手，手部动作被实时重映射到多台终端上同步执行。现场工作人员解释，这背后的核心是手套的标准化数据输出和跨本体重映射技术——针对不同灵巧手的关节极限、运动空间，系统会做差异化的适配，让采集到的数据不绑定单一本体。说白了，就是一次采集，多台机器都能用。 途见科技 在WRC开了场发布会，发布了一只柔性电子皮肤做的触觉数据采集手套“TachinGlove”。其中有个技术细节叫\"空抓无脏数",
+    "url": "https://www.leiphone.com/category/robot/TRIWEbSG2zukT2vp.html",
+    "imageUrl": null,
+    "source": "雷锋网",
+    "categoryId": null,
+    "publishedAt": "2026-08-24T06:46:00.000Z",
+    "createdAt": "2026-08-24T22:27:02.771Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "Robotics & Embodied AI",
+    "contentFormats": [
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160430,
+    "title": "对话王文涛：Maker 圈老将再创业， 为什么 x86 是最好的桌面 CNC 底座？",
+    "description": "成立仅一个月拿下啟赋种子轮，灵钜创新选择的路，和「主流」都不一样。 作者丨姚单 编辑丨董子博 桌面CNC赛道，仍有新玩家不断涌入。他们还能讲出什么新故事？ 过去半年多，鲸犀走访了多个桌面CNC团队，发现一种趋同的叙事： 还停留在概念阶段的后发项目，只要团队背景亮眼、估值可观，讲的故事大多与“五轴”相关。 五轴几乎成了桌面CNC赛道的最热融资密码，从大疆系项目无限工坊、涌泉创新，到数马三维，无不因“五轴”概念而备受资本追捧。 放眼整个桌面CNC赛道，投资机构押注的逻辑各有侧重。 启明持续加注造物时代，重仓“消费级”生态，坚定看好C端市场的爆发潜力；红杉与蓝驰则联手重仓巢匠科技，押注专业级四轴路线，看中其精准切入的细分市场；美团战投、昆仑资本、奇绩创坛则将筹码押在“高端”与“五轴”之上，投资无限工坊。 抛开技术路线，在这些机构眼中，“投资就是投人”依然是铁律，其中大疆背景的团队最受追捧。 在这条趋于拥挤的赛道里，灵钜创新（英文品牌CUBIVS）却选择了一条相反的路。 这家公司于2026年1月成立，2月获啟赋资本种子轮投资，随后相继完成五轴样机核心功能验证与三轴工程机，首款桌面CNC入门款X1 LITE计划于9月开启全球众筹。 CEO王文涛是一位资深创客。2010年到2018年，他在美国持续创业八年；回国后深耕Maker行业，主导过星汉激光Xlaser lab品牌搭建，也参与并主导了Dreame，Creality的渠道建设。 与市面上大多数项目从五轴高端切入不同，灵钜选择从三轴（准确说，是3+1轴的入门款）切入，逻辑是“先把智能化操作系统铺开，硬件本身反而是相对简单的部分”。在创始人王文涛看来，这套打法类似当年iPhone对诺基亚：先普及操作系统与交互生态，硬件形态可以循序渐进。目前，真五轴样机的核心功能已验证完成，主力五轴产品计划于2027年推出。 比产品策略更值得关注的，是灵钜的技术路线选择。 市面主流桌面CNC普遍基于MCU/ARM开源固件（以GRBL、grblHAL为代表）搭建，成本低、生态成熟，对入门用户切木头、塑料的需求完全够用；但一旦进入铝、铜等金属加工，尤其是五轴联动，这套架构的天花板便非常明显。 灵钜选择的，是另一条更重、也更少有人走通的路线： 以x86为底座，把AI算力与实时控制放到机器端侧（Edge），而非依赖云端。 王文涛判断，桌面CNC市场存在巨",
+    "url": "https://www.leiphone.com/category/weiwu/ubQYvNeHTcJLMavN.html",
+    "imageUrl": null,
+    "source": "雷锋网",
+    "categoryId": null,
+    "publishedAt": "2026-08-24T06:34:00.000Z",
+    "createdAt": "2026-08-24T22:27:02.771Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "Chips & Compute",
+    "contentFormats": [
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160417,
+    "title": "阿里视频大模型Wan3.0正式上线，行业评价“稳定、真实、有质感”",
+    "description": "8月24日，阿里巴巴视频生成大模型Wan3.0正式上线。",
+    "url": "https://www.qbitai.com/2026/08/478427.html",
+    "imageUrl": null,
+    "source": "量子位",
+    "categoryId": null,
+    "publishedAt": "2026-08-24T05:09:27.000Z",
+    "createdAt": "2026-08-24T22:26:59.740Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "AI Models & Agents",
+    "contentFormats": [
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160431,
+    "title": "WRC 2026｜原生全模态世界模型：从模拟世界到交互世界",
+    "description": "8月19日，世界机器人大会（WRC 2026）期间，由跨维智能主办、《财经》杂志协办的“物理AI引领者论坛暨2026《财经》中国AI 100榜单启动仪式”在北京举行。论坛以“物理AI进行时”为主题，汇聚具身智能领域的顶尖学者、企业创始人和一线技术负责人，共同探讨通用物理智能的技术演进与产业路径。 作为原生全模态世界模型代表企业，智象未来（HiDream.ai）创始人兼CEO梅涛发表了题为《原生全模态世界模型：从“模拟世界”到“交互世界”》的主旨演讲。他从AI大模型的技术演进趋势出发，系统阐述了大模型从多模态走向原生全模态、从模拟世界走向交互世界的核心逻辑，为Physical AI的底层能力建设提供了新的技术视角与路径思考。 01 高IQ不等于全能：AI从“理解世界”到“改变世界” 梅涛博士在演讲中指出，过去几年AI大模型的发展可谓一日千里。从大语言模型到多模态模型再到具身智能，三条曾经独立演进的技术路线正在加速走向融合，2026年被很多人称为“世界模型的元年”。 他分享了一组数据：今年年初，顶级大模型的IQ水平约为130，相当于中科大少年班天才的水平；而到如今，最新大模型的IQ已经接近140。但梅涛特别强调了一个关键观点——“高IQ不代表全能”。就像孩子成绩好不代表综合能力强一样，一个在考试中表现优异的模型，不等于能在真实物理世界中长期、稳定、可靠地完成任务。这正是Physical AI之所以重要的根本原因。 大语言模型强在对世界的理解、对知识的压缩和推理；多模态模型强在对世界的生成与预测；具身交互模型则强在与世界的交互。 而真正的世界模型，需要同时具备对世界状态的完整表达、对物理规律和因果关系的推演，以及对世界的重构能力。从文本、多模态到具身，过去各自独立演进的三条路线，今天正在加速走向融合。 02.从 DiT 到 UiT ：原生全模态架构突破行业上限 基于自研UiT（Unified Transformer）架构，智象未来近日正式发布了原生全模态交互式世界模型HiDream-O1-World。该模型首次参评即在权威榜单WBench中登顶Navi分榜榜首。 HiDream-O1-World支持文本、图像及交互式操控等多模态输入，具备漫游、编辑、交互三项核心能力，同时支持多种主体与风格化场景构建，可高度还原真实空间，也可生成二次元卡通、3A游戏渲染等风格化世界。 从技",
+    "url": "https://www.leiphone.com/category/ai/p3ZpuRQrXujo29fr.html",
+    "imageUrl": null,
+    "source": "雷锋网",
+    "categoryId": null,
+    "publishedAt": "2026-08-24T03:28:00.000Z",
+    "createdAt": "2026-08-24T22:27:02.771Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "Robotics & Embodied AI",
+    "contentFormats": [
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160432,
+    "title": "王田苗三问具身大牛：大模型还在「拨号上网」，机器人靠什么拿下真实订单？| WRC 2026",
+    "description": "当狂热的资本逐渐冷静，具身智能行业必须面对一场从“展示Demo”到“真实产线”的生死大考。 编辑丨 岑峰 “如果大模型现在还处在‘拨号上网’的时代，那谁能告诉我，制约具身智能规模化的致命卡点到底是什么？大模型解决物理世界问题的巅峰时刻，究竟何时到来？” 在 2026 世界机器人大会（WRC）的一场重磅圆桌论坛上，北京航空航天大学教授、中国机器人学术泰斗王田苗，向台下的五位具身智能头部企业 CXO 抛出了这个极度尖锐、甚至有些不合时宜的冷水式提问。 过去两年，大模型的狂飙将具身智能推上了风口浪尖。一段段炒菜、叠衣、甚至后空翻的视频在社交网络上疯传，仿佛 AGI降临物理世界已是近在咫尺。然而，离开聚光灯和精心布置的实验室，这些动辄标价数十万的机器人，真能在现实中的工业流水线和和凌乱的家庭环境中活下来吗？ 2026 年被行业公认为“具身智能规模化应用元年”。但在王田苗给出的数据里：今年中国的人形机器人累计交付仅在 1.5万台左右，而传统的工业机器人出口额却早已突破百亿大关，并保持着近 20% 的稳健增长。 理想与现实之间的巨大鸿沟，亟需一次毫无保留的行业“底牌大揭秘”。 制约人形机器人从“几台Demo”走向“万台交付”，进而吃下海量真实订单的“卡点”究竟在哪里？大模型的算力奇迹，为何在面对物理世界的几个螺丝钉时频频失效？在软件与硬件、平台与垂类的生态博弈中，未来的具身智能又将走向“苹果式”的赢者通吃，还是“Windows式”的百花齐放？ 在这场聚集了众擎机器人 CEO 赵同阳、加速进化 CEO 程浩、具身科技联合创始人刘宇龙、优必选副总裁焦季超，以及京东智能机器人业务部负责人徐磊的顶级圆桌上，五位具身智能第一线的掌舵者，围绕“真实量产的卡点”、“软硬解耦的终局”以及“商业化落地的真实节奏”，展开了一场极具启发性的产业交锋。 01 灵魂第一问： 卡住“万台量产”脖子的， 到底是大脑还是供应链？ 当大模型赋予了机器人“听懂人话”的能力后，许多人乐观地以为，机器人走向千家万户只剩下成本问题。但王田苗的问题直击大规模落地的“最后一厘米”：“制约巨身智能机器人走向万台交付的卡点，主要在什么地方？” 在这道必答题面前，现场嘉宾迅速分化成了截然不同的两大阵营：“技术派”与“工程派”。 那么，阻碍机器人拿到“万台入场券”的真凶到底是谁？现场迅速分化为两大阵营： “算法技术派”与“制造工程",
+    "url": "https://www.leiphone.com/category/private/YOACtSjPnZwavbFo.html",
+    "imageUrl": null,
+    "source": "雷锋网",
+    "categoryId": null,
+    "publishedAt": "2026-08-24T03:23:00.000Z",
+    "createdAt": "2026-08-24T22:27:02.771Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "Robotics & Embodied AI",
+    "contentFormats": [
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160433,
+    "title": "阿里视频大模型Wan3.0正式上线，行业评价“稳定、真实、有质感”",
+    "description": "8月24日，阿里巴巴视频生成大模型Wan3.0正式上线。该模型在生成时长、万能创作、全能参考以及真实世界还原等维度全面升级，单次可生成30秒视频，并首次支持doc、xls、ppt、pdf、md等文档格式输入，力求准确还原真实世界。公测以来，见证Wan模型家族历次更新的创作者表示，Wan3.0是“最惊喜的一次”。从企业用户体验来看，Wan3.0收到的反馈高度一致，“稳定、真实、有质感”是被反复提到的三个关键词。 Wan3.0在角色、道具、声音、空间关系、风格等细粒度维度均可稳定保持，这对追求生产力的企业用户而言尤为关键。比如这段高速追车戏中，Wan3.0能够读懂参考素材，处理长时序叙事。30 秒内，人物、车辆、环境高度一致，上车、追逐、高速特技直至爆炸，全程连贯输出，无需反复抽卡、来回调试。 （视频来源：LibTV） 真实是 Wan3.0 告别“AI 感”的分水岭。有企业用户提到，Wan3.0补上了AI视频长期缺失的一环——真人质感的稳定输出。为告别AI人物的油腻感与千篇一律，Wan3.0力求“千人千面”，更敏锐地刻画五官与皮肤细节，人物情绪表达自然克制，微表情与肢体动作彼此联动。比如这一段人物视频中，女孩的眼球反射、毛发细节、白纱运动与水面光泽四种难还原的物理属性在同一镜头内出现，Wan3.0全程守住冷灰蓝调，皮肤也没有塑料化。 （视频来源：Flova AI） 有质感意味着Wan3.0具备镜头美学，既注重色彩的和谐搭配，也保持信息的流畅表达。有用户提到，Wan3.0 能很好地理解并融合风格化参考图，快速适配设定的视觉风格。比如这支风格化短片，融合了浓郁的红色调与蒸汽朋克机械美学。层叠裙摆的厚重感、金属齿轮的冷硬感、烛光的暖调漫反射……不同材质在统一色调下，各自保持物理特性，营造出舞台剧般的纵深感。 （视频来源：三代科技） 公测期间，Wan3.0已经进入企业生产流程，参与短剧与影视业、广告业的规模化出片，融入创作者平台工作流，并辅助文旅传播和MV的制作。有用户点评，Wan3.0的核心价值不在于单帧视觉冲击力，而在于稳定、连续、可落地的内容生产能力，对于短剧作者来说是“性价比之王”。 即日起，用户可在阿里云百炼、千问AI平台、万相官网以及千问APP等平台体验。阿里云百炼和千问AI平台开启API限时优惠，8月24日至9月23日，Wan3.0标准版限时7折优惠，折后480P",
+    "url": "https://www.leiphone.com/category/industrynews/XGOehdmO7fBF2xnb.html",
+    "imageUrl": null,
+    "source": "雷锋网",
+    "categoryId": null,
+    "publishedAt": "2026-08-24T03:11:00.000Z",
+    "createdAt": "2026-08-24T22:27:02.771Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "AI Models & Agents",
+    "contentFormats": [
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160434,
+    "title": "光子跃迁亮相BIRTV 2026：以\"AI+影像\"重构创作范式，三大板块解码下一代影像生态",
+    "description": "8月19日，BIRTV 2026（北京国际广播电影电视展览会）在北京拉开帷幕。在这场汇聚全球广电与影像领域顶尖技术与创意的盛会上，光子跃迁以\"AI+影像\"为核心叙事，携个人智能影像生态重磅亮相，向行业展示了一个由AI驱动、以人为中心的影像未来。 与行业展会常见的深色科技风不同，光子跃迁的展台以纯净白色为主基调，辅以品牌蓝色进行点睛点缀，在千篇一律的深色展台中脱颖而出，传递出品牌年轻、活力、面向未来的基因。白色与蓝色的碰撞，不仅是一种视觉上的耳目一新，更是对\"AI+影像\"这一命题的隐喻，用最纯粹的色彩，承载最智能的影像体验。 这不是一次简单的产品陈列，而是一场关于\"AI如何重塑影像创作\"的完整表达。光子跃迁以\"场景化体验\"、\"前沿技术探索\"、\"个人智能影像生态\"三大板块，系统呈现了AI+影像从产品落地到技术储备再到生态协同的全景图。众多专业媒体、行业嘉宾及影像创作者在展台前驻足体验，共同见证了智能影像从\"孤岛式记录\"迈入\"矩阵式协同\"的新阶段。 \"AI+影像\"：从工具到伙伴的认知重构 当AI从技术概念走向产业落地，影像行业正站在一个关键的转折点上。过去十年，影像设备的进化路径高度依赖硬件参数的线性增长，更大的传感器、更快的处理器、更多的像素。但当物理空间的提升逐渐逼近瓶颈，真正的差异化来自哪里？ 光子跃迁给出的答案是：AI。 在光子跃迁看来，\"AI+影像\"不是简单的功能叠加，而是一次从\"拍摄工具\"到\"创作伙伴\"的认知重构。AI的价值不在于让相机变得更\"聪明\"，而在于让创作变得更\"简单\"。让每个人都能用最本能的方式，记录下生活中值得珍藏的瞬间。当AI成为影像的\"新感官\"，拍摄不再是技术的博弈，而是感知的延伸。 这一理念贯穿了光子跃迁在BIRTV展台的所有展示内容。从场景化的产品体验，到前沿的技术预研，再到多设备协同的生态演示，每一个板块都在回答同一个问题：当AI深度融入影像创作的全链路，创作会是什么样子？ 场景化体验：LEAPTIC Cube的\"AI+影像\"生活实验 在\"场景化体验\"板块，光子跃迁做了一件在展会上很少见的事，它没有纯摆参数牌，而是搭建了一个个真实的生活微缩场景。 骑行、徒步、宠物记录、家庭Vlog……这些看似普通的场景，恰恰是LEAPTIC Cube作为全球首款8K AI拇指运动相机的用武之地。55.9克的超轻机身让它能随时出现在用户的口袋里、头盔上、宠",
+    "url": "https://www.leiphone.com/category/industrynews/x0aFA1VyGB6qPmHp.html",
+    "imageUrl": null,
+    "source": "雷锋网",
+    "categoryId": null,
+    "publishedAt": "2026-08-24T02:11:00.000Z",
+    "createdAt": "2026-08-24T22:27:02.771Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "Chips & Compute",
+    "contentFormats": [
+      "Xiaohongshu Explainer",
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160435,
+    "title": "阿里拟配售800亿港元新股，全部投入AI建设；网友造谣「小红书因遭举报上市失败」被行拘；李斌：中国汽车行业三五年后玩家基本确定",
+    "description": "要闻提示 1.“我们大学硕士不就白读了吗”，上市公司被曝要求应届生离职与“打螺丝”二选一 2.阿里巴巴拟配售800亿港元新股，全部投入AI建设 3.网友造谣“小红书因遭举报上市失败”被行拘 4.李斌：中国汽车行业三五年后玩家基本确定 5.雷军：十车PK，小米SU7 Pro续航CLTC排第四、实测排第一 6.马斯克母亲谈儿子推荐大家来中国：埃隆发自内心喜爱中国，中国人非常智慧 7.董宇辉等主播走后东方甄选扭亏为盈：从亏1.10亿到盈利6.63亿 8.外媒：英伟达搭载人工智能芯片的服务器价格将上涨超15% 今日头条 “我们大学硕士不就白读了吗”，上市公司被曝要求应届生离职与“打螺丝”二选一 8月23日消息，据媒体近日报道，有应届硕士毕业生在上市公司星宇股份管理类岗位入职一个多月后，被公司约谈要求其提交离职申请。同时设置明确条件，离职证明必须标注为“个人原因离职”；如若拒绝主动离职，企业将单方把其调至车间一线操作岗位，即“离职”“打螺丝”二选一。 据悉，愿意留下来的人将被安排至一线操作岗位，薪资、福利待遇均按操作工岗位重新签订。“那这样的话，我们大学硕士这些年不都白读了吗？”被裁掉的应届生梨子表示，这样的调配匹配度极低，具有“羞辱逼退”的成分。据受访对象介绍，其应届生群里有400多人，涵盖技术和管理类岗位，裁员后群内名单仅剩120人左右。同期还有不少老员工也被面谈、被逼离职。 星宇股份是一家主营汽车车灯研发制造的上市公司。财报显示，今年一季度，公司实现营收34.299亿元，净利润3.55亿元，分别同比增长10.8%和10.3%。就在此次裁员约谈前一周，7月29日，星宇股份二次向港交所递交上市申请，重启搁置半年的“A+H”上市计划。（每日经济新闻） 国内资讯 阿里巴巴拟配售800亿港元新股，全部投入AI建设 8月23日消息， 阿里巴巴宣布拟向美国境外的非美国人士配售新股，配售总金额为800亿港元。这也是阿里巴巴 2019年港股上市以来首次启动新股配售。本次配售所得款项净额将100%用于投资全栈AI能力，加强AI基础设施建设。 阿里日前发布的最新财报显示，阿里巴巴AI相关产品年化收入（ARR）已突破495亿元人民币（73亿美元），预计下季度达到100亿美元。阿里云2030年外部商业化收入预计达1000亿美元，利润率有望突破20%。（新浪科技） 网友造谣“小红书因遭举报上市失败",
+    "url": "https://www.leiphone.com/category/zaobao/Vqz97pOeMU2EkowJ.html",
+    "imageUrl": null,
+    "source": "雷锋网",
+    "categoryId": null,
+    "publishedAt": "2026-08-24T00:39:00.000Z",
+    "createdAt": "2026-08-24T22:27:02.771Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "Chips & Compute",
+    "contentFormats": [
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160418,
+    "title": "前保安杀进了AI决赛，高中生拿走25万！这AI比赛办得有点绝",
+    "description": "Tim和胡彦斌亲自颁奖",
+    "url": "https://www.qbitai.com/2026/08/478358.html",
+    "imageUrl": null,
+    "source": "量子位",
+    "categoryId": null,
+    "publishedAt": "2026-08-23T23:19:06.000Z",
+    "createdAt": "2026-08-24T22:26:59.740Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "AI Models & Agents",
+    "contentFormats": [
+      "WeChat Deep Dive"
+    ]
+  },
+  {
     "id": 2160398,
     "title": "万兴科技全新推出AI画布工作台",
     "description": "近日，AIGC软件A股上市公司万兴科技（300624.SZ） 加码 AI视频创意与品牌营销赛道 ，正式全球发布 TVC（商业电视广告）专业人群 的 AI画布工作台Filmora.TV。 该产品基 于 风靡全球的 视频 创意软件 Wondershare Filmora 全新打造 ，以AI原生工作流 融合 无限画布、脚本与分镜生成、多轨剪辑、团队协同及成片交付 等能力，打通品牌广告从创意预演到后期制作的全链路。同时，万兴科技携手知名茶饮品 牌茶颜 悦色，重磅发布由Filmora.TV赋能创作的新品“冷香凝”品牌视频，展现其在TVC品牌广告场景中的应用能力。 当前，全球广告市场持续扩容。据WARC数据，2024年全球广告市场规模首次突破1 万亿 美元，视频内容已成为品牌营销的重要载体。随着生成式AI加速渗透脚本策划、分镜设计、视觉生成及后期制作等环节，AI视频正从大众内容创作向专业商业生产延伸。TVC及品牌广告因制作投入高、专业要求高、商业价值高，正成为AI视频技术深化应用的重要场景 。 此次新品发布，是万兴科技持续推进AI视频创意业务、拓展专业商业内容生产场景的重要举措。依托 Wondershare Filmora 积累的产品能力、全球用户基础及生成式AI技术，万兴科技正加快 在IP商业化与品牌营销领域的关键布局 。 全新发布的 Filmora.TV面向TVC制作公司、品牌营销团队、广告创意机构及AI视频工作室，旨在解决品牌广告生产中“高成本、长周期、难修改”的行业痛点。 区别于 聚焦单点素材生成的 传统 AI工具，Filmora.TV将AI创作画布与多轨剪辑流程深度融合， 覆盖Brief解析、脚本创作、分镜生成、画面设计、素材编辑、团队评审及成片交付全链路。 专业 创作方面，Filmora.TV 无限节点画布 及 TVC专属提示词优化 能力 可将Brief和创意脚本稳定转译为可执行的分镜与画面；支持音频及视频轨道编辑、时间线预览、成片导出及XML工程互通，画布上生成的分镜素材可直接导出至Premiere Pro、Final Cut Pro或万兴 喵影进行 精修；团队可通过云端协同素材库共享并复用视觉资产。据测算，该工作流可使视频制作时间最高缩短90%，创作成本最高降低80%。 近期全新上线 的茶颜悦 色“冷香凝”品牌 视频是Filmora.TV在消费品牌场景中的应用案",
@@ -498,6 +1014,24 @@
     "createdAt": "2026-08-21T22:25:36.800Z",
     "language": "zh",
     "region": "China",
+    "topic": "Robotics & Embodied AI",
+    "contentFormats": [
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160406,
+    "title": "Video Friday: Do We Need Superhuman Humanoid Robots?",
+    "description": "Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few months. Please send us your events for inclusion. Humanoids Summit Seoul : 22–23 September 2026, SEOUL IROS 2026 : 27 September–1 October 2026, PITTSBURGH CoRL 2026 : 9–12 November 2026, AUSTIN Enjoy today’s videos! This is very, very cool. But I’m trying to think of what the commercial use case will be, you know? I guess, high speed, incredibly dangerous package delivery to second-floor windows or something...? [ Unitree ] Humans have a remarkable ability to perform new physical skills from only one or a few examples. Our latest robot foundation model, GEN-1.5, exhibits the beginnings of that same ability: It can learn a new task in seconds, from a single example, without gradient updates or fine-tuning. It displays broad capabilities across one-shot and few-shots learning from demonstration, ",
+    "url": "https://spectrum.ieee.org/video-friday-unitree-superhuman",
+    "imageUrl": null,
+    "source": "IEEE Spectrum Robotics",
+    "categoryId": null,
+    "publishedAt": "2026-08-21T16:00:01.000Z",
+    "createdAt": "2026-08-24T22:26:55.409Z",
+    "language": "en",
+    "region": "Global",
     "topic": "Robotics & Embodied AI",
     "contentFormats": [
       "Short Video",

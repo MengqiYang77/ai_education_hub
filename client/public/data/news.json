@@ -1,5 +1,505 @@
 [
   {
+    "id": 2160437,
+    "title": "NASA Invites Media to LunaRecycle Challenge Finale Event in Alabama",
+    "description": "NASA will announce the winners of the final phase of its LunaRecycle Challenge on Friday, Aug. 28, at The University of Alabama (UA) Lee Styslinger College of Engineering in Tuscaloosa, Alabama. Launched in 2024, the challenge incentivizes the invention of new recycling systems that could support non-metabolic waste management efforts for future lunar missions. Media [&#8230;]",
+    "url": "https://www.nasa.gov/news-release/nasa-invites-media-to-lunarecycle-challenge-finale-event-in-alabama/",
+    "imageUrl": null,
+    "source": "NASA",
+    "categoryId": null,
+    "publishedAt": "2026-08-25T20:20:58.000Z",
+    "createdAt": "2026-08-25T22:28:08.937Z",
+    "language": "en",
+    "region": "Global",
+    "topic": "Space & Aerospace",
+    "contentFormats": [
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160441,
+    "title": "CMU Researchers Use AI To Explore How Alzheimer’s Changes Brain Cells",
+    "description": "&lt;p&gt; &lt;img loading=\"lazy\" src=\"https://www.cmu.edu/news/sites/default/files/styles/listings_desktop_1x_/public/2026-08/AD_CBD_2-2a.jpg.webp?h=e63fcaeb&amp;itok=gm5vBs5j\" width=\"900\" height=\"508\" alt=\"Three people sit in chairs for a portrait.\"&gt; &lt;/p&gt; New research from a CMU-led team offers new insight into how changes in the arrangement of DNA may contribute to Alzheimer's disease, the most common cause of dementia.",
+    "url": "https://www.cmu.edu/news/stories/archives/2026/august/cmu-researchers-use-ai-to-explore-how-alzheimers-changes-brain-cells",
+    "imageUrl": null,
+    "source": "Carnegie Mellon",
+    "categoryId": null,
+    "publishedAt": "2026-08-25T20:04:03.000Z",
+    "createdAt": "2026-08-25T22:28:09.365Z",
+    "language": "en",
+    "region": "Global",
+    "topic": "AI Models & Agents",
+    "contentFormats": [
+      "Xiaohongshu Explainer",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160438,
+    "title": "NASA Ames Experts Available for Roman Space Telescope Interviews",
+    "description": "NASA’s Ames Research Center in California’s Silicon Valley invites media to learn more about NASA’s Nancy Grace Roman Space Telescope, scheduled to launch Sunday, Aug. 30, 2026, from NASA’s Kennedy Space Center in Florida. The Roman telescope will provide a wide, detailed view of the universe, helping scientists study dark energy, exoplanets, and cosmic structures. [&#8230;]",
+    "url": "https://www.nasa.gov/news-release/nasa-ames-experts-available-for-roman-space-telescope-interviews/",
+    "imageUrl": null,
+    "source": "NASA",
+    "categoryId": null,
+    "publishedAt": "2026-08-25T18:47:01.000Z",
+    "createdAt": "2026-08-25T22:28:08.937Z",
+    "language": "en",
+    "region": "Global",
+    "topic": "Chips & Compute",
+    "contentFormats": [
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160439,
+    "title": "NASA’s Pandora Mission Begins Study of Exoplanets, Host Stars",
+    "description": "Pandora, NASA’s newest exoplanet mission and the first satellite to launch through the agency’s Astrophysics Pioneers program, is now making unique observations of worlds beyond our solar system and the stars they orbit. The mission will determine the atmospheric make-up of at least 20 exoplanets, including the presence of hazes, clouds, and water. “Pandora’s data […]",
+    "url": "https://science.nasa.gov/missions/pandora-missions/nasas-pandora-mission-begins-study-of-exoplanets-host-stars/",
+    "imageUrl": null,
+    "source": "NASA",
+    "categoryId": null,
+    "publishedAt": "2026-08-25T17:55:02.000Z",
+    "createdAt": "2026-08-25T22:28:08.937Z",
+    "language": "en",
+    "region": "Global",
+    "topic": "Space & Aerospace",
+    "contentFormats": [
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160442,
+    "title": "Princeton to lead major federally funded institute to unlock quantum computing challenges",
+    "description": "Nathalie de Leon will direct the new institute, which is one of eight announced on Aug. 25 as part of the National Science Foundation’s Quantum Leap Challenge Institutes program.",
+    "url": "https://www.princeton.edu/news/2026/08/25/princeton-lead-major-federally-funded-institute-unlock-quantum-computing-challenges",
+    "imageUrl": null,
+    "source": "Princeton",
+    "categoryId": null,
+    "publishedAt": "2026-08-25T16:15:00.000Z",
+    "createdAt": "2026-08-25T22:28:09.645Z",
+    "language": "en",
+    "region": "Global",
+    "topic": "Quantum Technology",
+    "contentFormats": [
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160440,
+    "title": "Astronauts Anil Menon and Sophie Adenot on Spacewalk",
+    "description": "From left, Expedition 75 flight engineers Anil Menon of NASA (partially obscured and wearing the spacesuit with a red stripe on the legs) and Sophie Adenot of ESA (European Space Agency) work together during a six‑hour and 23‑minute spacewalk outside the International Space Station on Aug. 18, 2026. The pair will finish installing a high-speed [&#8230;]",
+    "url": "https://www.nasa.gov/image-article/astronauts-anil-menon-and-sophie-adenot-on-spacewalk/",
+    "imageUrl": null,
+    "source": "NASA",
+    "categoryId": null,
+    "publishedAt": "2026-08-25T14:57:26.000Z",
+    "createdAt": "2026-08-25T22:28:08.937Z",
+    "language": "en",
+    "region": "Global",
+    "topic": "Space & Aerospace",
+    "contentFormats": [
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160451,
+    "title": "基于阿里千问，路透社推出首个自研大模型",
+    "description": "8月25日，据外媒报道，国际知名新闻机构汤森路透（路透社母公司）近日推出了其自研大模型Thomson-1。该模型基于阿里Qwen大模型开发，旨在降低对Claude等闭源模型的依赖并减少长期使用成本。 此前，汤森路透曾推出自己的AI助手，接入的是海外大模型厂商Anthropic的Claude大模型。出于降低闭源模型的依赖和成本因素考量，近期，汤森路透选择基于阿里开源模型Qwen3.5自研出Thomson-1 大模型。Thomson-1 将首先用于表格分析、文档审核等专业工作，并逐步承接部分此前由 Claude 完成的任务。 开源模型允许企业自行部署和调整，性价比高，安全可控。随着阿里Qwen等开源模型能力的持续增强，越来越多的企业和机构由闭源转向开源。美国互联网公司爱彼迎Airbnb CEO布莱恩·切斯基称公司正“大量依赖阿里巴巴的千问模型”，并直言“比OpenAI更好更便宜”；“美国版小红书”Pinterest也于近期转投Qwen，其CEO比尔·雷迪直言使用Qwen的成本不到Anthropic、OpenAI等同类闭源模型的8%。 截至目前，Qwen已经开源460多个模型，在开源社区总下载量破30亿次，衍生模型数超30万个，实现全尺寸、全模态开源，是全球第一开源模型家族。近期，阿里Qwen3.8系列模型的开源在全球开发者社区掀起热潮，Qwen3.8-27B被开发者誉为“本地Opus4.6”。阿里透露，本周还有全新Qwen3.8模型开源。",
+    "url": "https://www.leiphone.com/category/industrynews/6mR50kUHcFgw5xST.html",
+    "imageUrl": null,
+    "source": "雷锋网",
+    "categoryId": null,
+    "publishedAt": "2026-08-25T10:19:00.000Z",
+    "createdAt": "2026-08-25T22:28:15.525Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "Policy & Society",
+    "contentFormats": [
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160436,
+    "title": "AI Companion Robots Are Closing the Human Connection in Modern Homes",
+    "description": "This article is brought to you by Ollobot . From about 2017, individuals began to truly connect with the initial wave of companion robots. These devices had personality, moved around, joked, and answered when you spoke to them. Most early companion robots, however, were still limited by simple voice-command interactions and narrow functionality. Once the novelty wore off, many ended up sitting unused on shelves. As some of those companies went out of business and turned off their servers, many owners likened it to losing a pet. What Ollobot describes as “gentle intelligence” is a useful way to think about where the serious work in this category is going. Not toward more powerful assistants, but toward more present ones. The problem companion robots were trying to solve Loneliness is not a niche issue. According to one study , nearly one out of three elderly adults resides alone, meaning they do not have daily companions. Research also shows that children whose parents have migrated for",
+    "url": "https://spectrum.ieee.org/ollobot-ai-companion-robot",
+    "imageUrl": null,
+    "source": "IEEE Spectrum Robotics",
+    "categoryId": null,
+    "publishedAt": "2026-08-25T10:00:03.000Z",
+    "createdAt": "2026-08-25T22:28:08.895Z",
+    "language": "en",
+    "region": "Global",
+    "topic": "Robotics & Embodied AI",
+    "contentFormats": [
+      "Xiaohongshu Explainer",
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160443,
+    "title": "从开源走向共建：范式联合优必选等十余家具身巨头发布PhanthyMotus新计划",
+    "description": "近日，范式正式举办 PhanthyMotus 生态社区共建计划发布会，宣布其首个通用具身Agent底座从“开源”迈入“多方共建”新阶段。",
+    "url": "https://www.qbitai.com/2026/08/479314.html",
+    "imageUrl": null,
+    "source": "量子位",
+    "categoryId": null,
+    "publishedAt": "2026-08-25T09:31:16.000Z",
+    "createdAt": "2026-08-25T22:28:12.094Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "Robotics & Embodied AI",
+    "contentFormats": [
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160452,
+    "title": "全球精品轿车零跑A05正式上市 起售价6.39万元",
+    "description": "2026年 8 月 1 1 日，杭州。 零 跑汽车 把 新车 发布会搬到了杭州西子廊桥——这座汇聚年轻潮流生活方式的城市地标，不再局限于传统发布会空间，而是把新品真正带到年轻人的生活现场，与年轻用户面对面、打成一片。 伴随 阿肆现场 演唱特别 曲目 《热爱A05的你》 ， 以一场主题为“ 天生懂你，有我都灵 ”的 上市 发布会 ， 正式推出全新A平台 第二 款全球化车型—— 零跑 A05 。新车定位“ 智能灵动精品轿车 ” ，以“好看、好开、好玩、好安心”四维产品力，在颜值、智能、驾控、空间、安全等维 度全面 越 级。 零跑用 “大材小用”的思路造小车， 以 更高品价比 让智能、愉悦的出行体验不再是小车的“奢侈品”为年轻用户 、 首购用户 带来一台 真正适配智能化趋势的 现象级 产品 。 新车推出40 5 km、5 10 km两种续航共 5 个版本，上市指导价 6.39 - 9.09 万元。此外，自即日起至 2026年 9 月 30 日24:00 ， 零跑 A05推出限时上市权益，包含选装礼、 缤纷 礼、 复购礼、 补能礼 、金融礼、流量礼、 质保礼等 多重好礼，限时权益价值高达 10680 元 ，以及 2年0息 和 四项终身免费质保 ， 上市当日更有专享好礼， 以极具诚意的定价与领先同级的产品力， 刷新 10万 内纯电轿车 价值新 答案 。 双A优等生再添轿车成员， 10万 内纯电 再迎王牌新玩家 零跑 A系列是零跑面向全球主流市场打造的精品系列。 继爆款 SUV A10之后， 零跑 A平台迎来第二款全球化车型A05，进一步完善A系列产品矩阵 ，即将完成全球亮相 。 A05以更灵活的轿车姿态，聚焦年轻女性用户对于颜值、好开、好停、智能与品质的综合诉求。双车共享A平台核心技术基因，又以 不同车格覆盖 不同生活方式，共同夯实 零跑 作为 10万内 精品车 的 第一选择 。 “天生懂你”， 是零跑 A05对年轻用户的一句承诺。它懂年轻人第一次拥有一台车时，对颜值、智能、品质和情绪价值的期待；不用多说，就知道你真正想要什么。 “有我都灵” 不仅 是A05产品力的精炼表达。 更意味着无论通勤、约会、旅行还是生活中的每一个重要时刻，A05始终陪伴左右，把每一次出发都变成好运发生，把每一次抵达都变得更从容。 好看 ：科技自然美学2.0， 颜值即 正义的年轻化表达 零跑 A05延",
+    "url": "https://www.leiphone.com/category/transportation/hmN8xhtUMyzP3w5I.html",
+    "imageUrl": null,
+    "source": "雷锋网",
+    "categoryId": null,
+    "publishedAt": "2026-08-25T06:57:00.000Z",
+    "createdAt": "2026-08-25T22:28:15.525Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "Bioengineering",
+    "contentFormats": [
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160453,
+    "title": "将25万级产品力全面打到15万级，荣威家越07首秀亮出“顶格”实力",
+    "description": "8月13日，荣威与火山引擎深度合作的AI原生第一车——家越07正式迎来全球首秀。作为一款面向中国家庭打造的新能源大五座SUV，家越07以“15万级顶格大五座”的实力，将大空间、长续航、 Momenta 高阶 智能 驾驶辅助 与豪华舒享配置全面拉满，把过去更多属于25万级甚至更高价位车型的产品体验，全面带入15万级市场，以“大、长、精”全维领先的产品实力，树立新能源大五座SUV全新的价值标杆。 即日起，荣威家越07正式开启盲订！支付999元意向金即可锁定盲订先享权益。预售开启前下订，提车可享50000先享积分，以及早八能量舱专属盲订礼遇。 与此同时，“AI先享团”同步启动招募，首批用户将有机会率先体验家越07的AI原生能力。 “532”黄金尺寸+88.8%超高得房率，打造15万级最大尺寸空间 对于家庭SUV而言，“大”从来不是简单把车身做长，而是让每一寸尺寸真正为一家人所用。 家越07以近5米车长、近3米轴距、近2米车宽构成“532”黄金尺寸， 高头大马的体量感 。更重要的是，通过对动力、底盘、座椅等整车结构的极致优化，家越07实现88.8%的同级最高得房率，打造15万级最大车内空间：车内有效纵向长度达到3237mm，即使前后排都坐进1.9米的高个成年人，也能轻松翘起二郎腿；垂向高度达到1339mm，甚至超越MPV标杆车型，小朋友在后排活动玩耍，也完全不用担心碰到头。 不仅坐得宽敞，更要装得痛快。家越07拥有834L超大常规后备 厢 ，不放倒后排即可容纳10个20英寸行李箱；地板下方还进一步拓展出81L隐藏空间，上下两层合计915L，将后备 厢 装载能力直接做到同级最顶。后排座椅放倒后，更可形成2.3米大床模式。无论全家长途自驾、露营出行，还是婴儿车、行李箱、大件装备，都无需 出行 “断舍离”。 对于家庭用户而言，真正好用的空间，还藏在每天都会接触的小细节里。家越07全车拥有41处储物空间，四门设置可沥水雨伞槽，中控下方拥有超大镂空储物区，并提供IOT接口及磁吸拓展点；副驾还配备集独立化妆镜、双补光灯与专属收纳空间于一体的美妆台，后排提供小桌板，让孩子的玩具、零食和随身用品，都能各归其位。 纯电、综合续航双双做到顶格，为家庭出行送上更优解 家庭用车的需求往往有着鲜明的“两面性” 。 工作日通勤，用电更有经济性；节假日长途出行，用油没有补能焦虑。为此，家越07搭载上汽自",
+    "url": "https://www.leiphone.com/category/transportation/fbQUsomC9qaa7lsg.html",
+    "imageUrl": null,
+    "source": "雷锋网",
+    "categoryId": null,
+    "publishedAt": "2026-08-25T06:45:00.000Z",
+    "createdAt": "2026-08-25T22:28:15.526Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "AI Models & Agents",
+    "contentFormats": [
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160454,
+    "title": "BIMSA 王雅晴：Scaling Law 触及天花板，「数据高效学习」指向 AI 的下一站｜IJCAI 2026",
+    "description": "真正的智能，在于能否基于有限的数据，实现可靠的泛化与迁移。 作者丨 张璐 编辑丨 岑峰 幸丽娟 高质量标注 数据 快用完了，算力贵得离谱，黑盒依然无解。 大模型时代信奉的 Scaling Law，正在面临多重瓶颈。 更麻烦的是另一件事：很多任务天生就没有大数据——药物研发、冷启动推荐、科学探索。这些不是技术的短板，是世界的常态。 在IJCAI 2026大会的 Early Career Spotlight（早期职业焦点）环节， 北京雁栖湖应用数学研究院（BIMSA）副教授王雅晴，给这些问题做出了系统回应。 王雅晴长期从事小样本学习与 AI for Science 研究。她博士毕业于香港科技大学，曾任百度研究院资深研究员，现任北京雁栖湖应用数学研究院（ BIMSA ）副教授。贯穿其研究经历的一条主线是：如何提高 AI 对有限数据与经验的利用效率，使其在监督稀缺的场景下仍能实现可靠的泛化、适应与决策。 她在题为《迈向高效数据智能：从少样本学习到智能体系统》（Toward Data-Efficient Intelligence: From Few-Shot Learning to Agentic Systems）的演讲中，梳理了从小样本学习、元学习、上下文学习，到最新提出的“数据高效智能体学习”（Data-Efficient Agentic Learning, DEAL）的完整演进脉络。 她的核心洞察是：人类智能从极少样本中完成泛化，靠的是基因、文化与经验三重先验的支撑，而 AI 同样可以。 更关键的是，她还从理论层面进一步证明了，在所研究的任务与模型设定下，In-Context Learning 可以被理解为一种数据依赖的元学习。Transformer通过自注意力机制，将传统元学习中显式的适配过程内化为隐式计算，从而实现了“殊途同归”。这一发现为大模型的少样本能力提供了坚实的理论解释。 而当AI从单步预测走向多步交互与长程决策，数据稀缺问题变 得更加严峻。 她 与合作者 提出了 DEAL 框架， 从经验增强、架构设计与高效学习范式三个方向，系统应对智能体面临的“数据沙漏”瓶颈。其中一条核心思路，就是利用 结构化先验，让 AI 在有限经验中实现可靠和泛化，从而在真实世界走得更远。 01 科学与工业的现实： 天然缺乏大数据的场景 当下，Scaling Law几乎成为行业共识。",
+    "url": "https://www.leiphone.com/category/private/cv4bH7VXG4LDHwnT.html",
+    "imageUrl": null,
+    "source": "雷锋网",
+    "categoryId": null,
+    "publishedAt": "2026-08-25T06:44:00.000Z",
+    "createdAt": "2026-08-25T22:28:15.526Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "Chips & Compute",
+    "contentFormats": [
+      "Xiaohongshu Explainer",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160455,
+    "title": "突破具身智能物理死角：IJCAI 2026 具身智能泛化与控制突破",
+    "description": "告别理想仿真，中国学术团队用物理工程方案回应落地挑战。 作者丨 张璐 编辑丨 岑峰 过去一年多里，具身智能似乎按下了快进键。 从 Physical Intelligence 发布 的π₀到开源 社区追捧的OpenVLA，VLA大模型一路高歌猛进。在各种标准基准测试和精心搭建的实验室 Demo 中，机械臂叠衣服、拿取物品流畅得宛如人类，动辄刷出 90% 甚至 95% 以上的成功率。 然而，当全行业都在欢呼“机器人的 GPT 时刻”到来时，前沿学术界与产业界却爆发了一场剧烈的反思： 这些动辄数十亿参数的具身大模型，真的学会“举一反三”了吗？还是在“死记硬背”？ 在主流学术视角中，VLA 大模型像是给机器人装上了具备常识与规划能力的“大脑”。但要让机械体真正干好精细活，仅有一个聪明的大脑远远不够。 最新实验数据表明，面对物品位置的随机挪动或新指令组合时，纯端到端大模型往往会受到“空间过拟合”的约束，末端执行成功率会出现剧烈衰减。 这恰恰说明： 具身智能要真正走出实验室，不仅需要大模型提供常识和高层决策，更需要扎实的工程技术去打造精准、稳健的“小脑” 。 下面雷峰网盘点入选 IJCAI 2026 的 6 项中国团队成果 。它们并非要替代大模型，而是从空间泛化、盲区感知到极端控制，为具身智能补齐了通往真实物理世界最关键的拼图。 01 解决死记硬背， 大模型如何搞定未见场景 具身智能的核心瓶颈之一在于真正的泛化能力。目前的VLA动辄拥有数十亿参数，但在面对没有见过的指令组合或场景变化时，表现往往大打折扣。 ▎ 泛化成功率跌破 21%：不重训模型，如何把成功率拉回 83% 论文 ：《VLAs Are Confined yet Capable of Generalizing to Novel Tasks》 作者 ：李全义（论文独立作者，一路从北邮本科、爱丁堡硕士深造至新加坡国立大学 CLeaR Lab 博士，现任 Oxa 高级应用科学家） 论文链接：https://arxiv.org/pdf/2505.03500v5 假设你给机器人下达了一道指令：“把奶酪放进柜子”。如果在训练数据里，这块奶酪总是摆在桌子左侧，那么当你在现实中把奶酪挪到桌子右侧时，会发生什么？ 在李全义博士最新的研究中，发生了令人啼笑皆非的一幕： 主流 VLA 大模型依然会机械地伸向桌子左侧 。 模型根本没有理解什",
+    "url": "https://www.leiphone.com/category/private/5YB9zkA19rHTGz0o.html",
+    "imageUrl": null,
+    "source": "雷锋网",
+    "categoryId": null,
+    "publishedAt": "2026-08-25T06:42:00.000Z",
+    "createdAt": "2026-08-25T22:28:15.526Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "Robotics & Embodied AI",
+    "contentFormats": [
+      "Xiaohongshu Explainer",
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160444,
+    "title": "半年3轮10亿，他们都投了这家已经把机器人卖到500个家庭的公司",
+    "description": "字节、汇川等已入股未来不远机器人最新一轮融资",
+    "url": "https://www.qbitai.com/2026/08/479132.html",
+    "imageUrl": null,
+    "source": "量子位",
+    "categoryId": null,
+    "publishedAt": "2026-08-25T06:39:51.000Z",
+    "createdAt": "2026-08-25T22:28:12.094Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "Robotics & Embodied AI",
+    "contentFormats": [
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160445,
+    "title": "AI4S开始进入「项目时代」：紫东太初把AI从做Task推向做Project",
+    "description": "AI科研能力从工具级转向系统级",
+    "url": "https://www.qbitai.com/2026/08/479096.html",
+    "imageUrl": null,
+    "source": "量子位",
+    "categoryId": null,
+    "publishedAt": "2026-08-25T05:48:05.000Z",
+    "createdAt": "2026-08-25T22:28:12.094Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "AI Models & Agents",
+    "contentFormats": [
+      "Xiaohongshu Explainer",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160446,
+    "title": "王虹合作者获奖！科学探索奖2026年度获奖名单公布",
+    "description": "今年50位获奖人来自13个城市的30家高校、医院和科研机构",
+    "url": "https://www.qbitai.com/2026/08/478912.html",
+    "imageUrl": null,
+    "source": "量子位",
+    "categoryId": null,
+    "publishedAt": "2026-08-25T05:15:23.000Z",
+    "createdAt": "2026-08-25T22:28:12.094Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "Education & Future Skills",
+    "contentFormats": [
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160456,
+    "title": "越疆2026中报：营收翻倍、具身收入激增20倍，Physical AI进入商业化兑现期",
+    "description": "当机器人行业的大量叙事还停留在融资轮次与概念发布时，越疆科技已经交出了一份由产线验收单写成的中期答卷。 8月24日，越疆科技发布2026年上半年中期业绩。报告期内，公司实现营业收入约人民币3.2亿元，同比增长106.6%，经营规模实现翻倍增长；毛利约人民币1.5亿元，同比增长约100%，毛利率稳定维持在47.4%。研发投入约人民币1.0亿元，同比增长148.4%。具身智能机器人业务收入突破人民币4,500万元，同比增长超20倍，占营收比例提升至14.3%。 在工业机器人行业产量同比增长28%的产业背景下，越疆以远超行业均速的表现，印证了“协作机器人+具身智能”双轮驱动战略的强劲动能。 一、深度锚定工业主场，协作机器人筑牢全球龙头地位 2026年上半年，工业制造领域收入约人民币2.0亿元，同比增长142.4%，占产品销售收入的62.8%，为公司第一大收入来源。协作机器人实现收入约人民币2.4亿元，同比增长79.1%。 根据灼识咨询报告，按2025年销量统计，越疆协作机器人全球市占率达13.2%，位列全球第一。全球累计出货量突破10万台，业务落地100余个国家和地区，长期服务80余家世界500强制造企业。合作客户从2023年的736家增长至2025年的1,501家，老客户复购率稳定维持在60%以上。 营收翻倍的背后，是一场历时三年的系统性战略升级。2023年，越疆从单一渠道销售迈向“渠道+集成商”双轮驱动；2026年，进一步从“卖产品”跃升为“卖方案”，深入汽车、新能源、3C三大核心产线的真实工位，把对工艺的理解转化为可批量复制的成熟方案。从0到1立标杆、1到3做验证、3到N铺规模，这条规模化复制路径已率先跑通。 在中国邮政智能化升级中，越疆双臂协作机器人实现每小时供件2,200件、效率提升50%以上、准确率达99.9%，标志着越疆解决方案已具备从“标杆验证”走向“全国复制”的能力。 二、自研具身大模型突破，具身智能商业化全面领跑 本次财报最大的看点在于，越疆的收入结构正在发生质变，具身智能业务已成为公司最具爆发力的增长极。 基于协作机器人十年积累的“从1到N规模化复制”能力，具身智能业务收入突破人民币4,500万元，同比增长超20倍，占整体营收约15%。累计拓展客户231家，客户储备已完整覆盖订单签署、送样验证、小批量交付到大规模使用的全部商业转化阶段。其中工业制造客",
+    "url": "https://www.leiphone.com/category/industrynews/dKNT8oYzmw5hsVgL.html",
+    "imageUrl": null,
+    "source": "雷锋网",
+    "categoryId": null,
+    "publishedAt": "2026-08-25T04:41:00.000Z",
+    "createdAt": "2026-08-25T22:28:15.526Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "Robotics & Embodied AI",
+    "contentFormats": [
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160447,
+    "title": "人民教育音像数字出版社与小猿达成合作 “中小学课本学习智能体”首落小猿AI学习机",
+    "description": "2026年8月21日，小猿学习机在京举办“中小学课本学习智能体”首发上线活动。",
+    "url": "https://www.qbitai.com/2026/08/478839.html",
+    "imageUrl": null,
+    "source": "量子位",
+    "categoryId": null,
+    "publishedAt": "2026-08-25T04:08:21.000Z",
+    "createdAt": "2026-08-25T22:28:12.094Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "Education & Future Skills",
+    "contentFormats": [
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160448,
+    "title": "WAIC CONNECT &#124; AI出海，不聊虚的！CONNECT带你拿下马来西亚真正的AI采购需求",
+    "description": "2026年9月7日–8日，WAIC CONNECT MALAYSIA活动，将在吉隆坡盛大开启！",
+    "url": "https://www.qbitai.com/2026/08/478479.html",
+    "imageUrl": null,
+    "source": "量子位",
+    "categoryId": null,
+    "publishedAt": "2026-08-25T04:06:18.000Z",
+    "createdAt": "2026-08-25T22:28:12.094Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "AI Models & Agents",
+    "contentFormats": [
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160457,
+    "title": "Meoo打通AI做App全链路，“一句话”就能做出安卓与iOS应用",
+    "description": "近日，阿里AI应用搭建产品Meoo（秒悟）打通了自然语言做App的全链路。不懂编程的普通用户只需用自然语言描述想法，Meoo即可自动生成页面与功能，支持真机测试、持续修改与一键打包，最终产出可直接安装使用的原生应用，覆盖安卓与iOS双端。“一个想法”到“一款应用”之间的门槛被大幅拉低。 过去，想法要变成真正可以安装的App，中间隔着产品设计、界面开发、数据处理、真机测试和打包发布等多道环节。即使外包给开发者或借助低代码工具，也普遍面临成本高、周期长、专业逻辑欠缺等问题。“想得到、做不出”成为大量非技术用户的共同痛点。 Meoo把“做App”的链路压缩为一次对话。用户进入Meoo选择“手机App”，用自然语言描述想做的产品，即可在工作台看到应用生成后的预览效果。指令中如果能包含明确的目标用户、核心功能、视觉风格等信息，生成质量会显著提升；若第一版效果不够理想，用户可以持续提出修改要求，直至获得满意的成品。 由于要产出原生移动应用，Meoo提供了真机联调能力：用户扫码安装测试包，再扫一次预览二维码即可连接远程调试，此后工作台的任何改动都会实时同步到手机端。这一步对相机、相册、定位、生物识别、通知、传感器等原生功能尤为关键——网页预览无法完全兼容原生应用，只有真机测试才能验证实际体验。确认核心功能正常后，一键发布即可生成正式版本，供自己安装或分享给他人体验。 以Meoo上搭建的一款“AI Agent小镇”应用为例，用户在需求中写明三个角色的性格设定、像素风视觉基调和每日剧情生成机制，Meoo据此生成了轻量版AI Agent小镇游戏：像素小镇作为主场景，角色可移动、可点击查看状态与记忆，每天自动生成一段连续的小镇故事，还可接入AI服务调用模型生成内容。从需求描述到可玩的产品，用户全程未写一行代码。 在基础设施层面，Meoo底层由阿里云统一提供计算、存储、数据库、网络等云服务，用户无需对接任何第三方资源，在Meoo内即可完成从想法到应用上线运行的全过程。",
+    "url": "https://www.leiphone.com/category/industrynews/lMrMgzHoUVOGceOK.html",
+    "imageUrl": null,
+    "source": "雷锋网",
+    "categoryId": null,
+    "publishedAt": "2026-08-25T02:32:00.000Z",
+    "createdAt": "2026-08-25T22:28:15.526Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "AI Models & Agents",
+    "contentFormats": [
+      "Xiaohongshu Explainer",
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160458,
+    "title": "豆包工作正式发布：让 AI 从生成内容到完成工作",
+    "description": "8月25日，豆包工作正式发布。作为豆包面向生产力场景推出的全新 Agent 产品与品牌，豆包工作能围绕用户目标自主拆解任务、调用工具、持续推进复杂工作流程。豆包工作还与飞书深度打通，让 Agent 基于企业上下文更准确地完成工作。 目前，豆包工作电脑版已可通过官网下载，用户也可在最新豆包电脑版中直接使用。即日起下载登录或升级，便可免费领取 30 天订阅权益。 针对日常办公中最常见、也最花时间的工作，豆包工作提供了强大的内容生成和编辑能力。无论是写方案、整理会议纪要、起草报告、做调研总结，还是做表格、分析数据，豆包工作都能交付高质量的任务结果。在更复杂的制作场景中，豆包工作还能生成和编辑图片、视频、网页甚至应用，能力覆盖面在同类产品中位居前列。 除了生成能力，强大的 AI 协作编辑能力让豆包工作更可“指哪改哪”。用户对生成的文档、表格、PPT 或网页里的任意部分，直接框选后便可进行改动，而非重新生成，既节省了算力消耗，也提升了任务完成速度。人和 AI 之间也不用反复“再来一遍”，而是打磨到成品交付。 在更复杂的工作场景中，豆包工作还能直接操作浏览器和电脑。获得用户授权后，豆包工作便能跨软件完成任务，用专业软件处理数据、浏览网页收集信息、填表单、比对资料。需要长时间运行的任务，它还能调用云电脑继续执行，即使电脑关机，任务也能持续推进。同时，用户还可通过手机远程操控电脑，在外出时继续推进未完成的工作。 围绕更多样化的工作需求，技能、连接器、工作伙伴等 AI 生态能力也必不可少。用户在豆包工作中可根据自己的任务需要扩展能力边界，调用不同的工具和外部能力来处理复杂流程，这些工具覆盖了数据分析、内容策划、科研、金融等多个不同专业方向。此外，用户还能选择多个专业 Agent 组成工作小队，分工协作完成复杂任务，例如制作数据调研报告时，就能联动数据、研究、设计类智能体，各展所长、协同推进。 此外，豆包工作较一般 Agent 工具还有最大的不同——对用户工作上下文的深度理解。通过与飞书的深度打通，用户在使用飞书账号登录豆包工作后，将完整继承其权限范围内的企业知识和工作上下文。在用户授权范围内，它能够调用飞书中天然沉淀的聊天记录、文档、会议纪要、日程等上下文，并结合相应工具完成工作。也就是说，豆包工作并不仅仅依赖用户输入的一句话产出结果，而是基于飞书内的真实上下文，更准确地理解目标、判",
+    "url": "https://www.leiphone.com/category/industrynews/bzevr2er8UPJfMtm.html",
+    "imageUrl": null,
+    "source": "雷锋网",
+    "categoryId": null,
+    "publishedAt": "2026-08-25T02:30:00.000Z",
+    "createdAt": "2026-08-25T22:28:15.526Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "Chips & Compute",
+    "contentFormats": [
+      "Xiaohongshu Explainer",
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160459,
+    "title": "李飞飞押注的空间智能：生成的世界，如何「经得起折腾」？",
+    "description": "AI 生成的大多数世界“中看不中用”，根本原因是 AI 少了一本“底账”：一份记住世界里有什么、每次行动改变了什么、并且能被检查和回滚的状态记录。 作者丨 刘紫东 编辑丨 幸丽娟 李飞飞押注的空间智能，被视为世界模型的主流路线之一。 这条路线的基本构想是，让 AI 从识别二维画面，走向理解、推理和生成可进入、可操作、可持续编辑的三维世界。 但真正的考验在于：一个“站得住”的世界，是怎样构建出来的？ 要回答这个问题，不妨先回到一个更基础的追问：当 AI 的交付形态从“画面”变成“三维世界”，互动方式从“观看”变成“进入和操作”，到底意味着什么？ 它意味着 AI 交付的内容开始拥有时间属性：对象需要在多轮操作中保持身份，规则要承受真实行动，局部修改也要与已经成立的关系相容；系统还得从每一次行动的后果中，修正自己对世界的理解。 李飞飞将这组能力概括为 Renderer、Simulator 与 Planner——通俗地说，一个负责把世界“画出来”，一个负责记住“世界现在是什么样、行动之后会变成什么样”，一个负责决定“下一步做什么”；三者之间的连接，尤其是模拟与规划共享的状态层——也就是那本“底账”，直接决定了一个生成世界能否继续运行。 然而，维持这一状态层持续运转并非易事。空间世界的开放性和交互组合的无限性，意味着 任何预置规则都无法穷尽所有可能情形 。 系统必须在实际运行中不断遭遇未知、记录冲突并修正假设。 说白了，就是让系统从每一次操作中自动学习。当这种“自我纠错”从零散的补丁升级为一整套固定流程时，行业称之为递归自我改进（Recursive Self-Improvement, RSI）：系统将“状态—目标—行动—新状态—验证—反馈”保存为完整轨迹；在真实交互中识别能力缺口；自动生成新任务和困难样本；再经独立评测、版本门控与回滚，驱动下一轮迭代。 反过来看，空间世界也恰好为这一闭环提供了理想的试验场。它有明确的对象、可执行的动作和可外部核验的结果，使“从可观看世界，到可计算状态，再到持续行动与学习的自主空间智能”不再停留于技术想象，而成为一条可逐步验证的工程路径。 01 生成式 AI 能造出怎样的世界？ 生成式 AI 的输出正在获得空间属性：人可以进入、操作，并在其中继续创作。三维世界把感知、推理、代码、物理和交互压进同一项任务，也因此成为前沿模型少见的综合试验场。 ▎",
+    "url": "https://www.leiphone.com/category/academic/cFG5JACmqzkxWGDb.html",
+    "imageUrl": null,
+    "source": "雷锋网",
+    "categoryId": null,
+    "publishedAt": "2026-08-25T02:23:00.000Z",
+    "createdAt": "2026-08-25T22:28:15.526Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "Education & Future Skills",
+    "contentFormats": [
+      "Xiaohongshu Explainer",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160449,
+    "title": "具身大满贯还全开源！原力灵机DM0.5登顶RoboDojo，且clone且珍惜",
+    "description": "机器人大脑新SOTA",
+    "url": "https://www.qbitai.com/2026/08/478791.html",
+    "imageUrl": null,
+    "source": "量子位",
+    "categoryId": null,
+    "publishedAt": "2026-08-25T02:22:01.000Z",
+    "createdAt": "2026-08-25T22:28:12.094Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "Robotics & Embodied AI",
+    "contentFormats": [
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160460,
+    "title": "通用模型竟然比医疗专用模型更懂医疗？一篇 ACL 论文的两个反直觉发现 | GAIR Paper 123",
+    "description": "Doubao 、DeepSeek 在三语数据集上的表现，普遍超过 GPT-4o 和 Gemini。 作者丨 幸丽娟 编辑丨岑 峰 医疗，是大模型落地最特殊的场景之一。 特殊在哪里？特殊在一个很微小的错误，就可能导致致命的后果；也特殊在你不能用直觉去判断它\"行\"还是\"不行\"—— 你觉得医疗专用模型肯定比通用模型更懂医疗？直觉上是。但实验数据不支持。 你觉得英语训练出来的模型处理英语医疗数据肯定最好？直觉上是。但实验数据也不支持。 这两重\"反直觉\"，正是纽约大学阿布扎比分校和阿布扎比克利夫兰诊所的研究团队在ACL 2026 Findings上发表的论文揭示的核心真相。 论文链接： https://aclanthology.org/2026.findings-acl.573.pdf 论文代码： https://github.com/congboma/MedErrBench 研究团队构建了首个面向医疗错误检测、错误定位和错误纠正的多语言评测基准MedErrBench，覆盖英语、中文和阿拉伯语三种语言，考验了 GPT-4o、Gemini、Llama、Qwen、DeepSeek等一系列主流模型，在多达十类典型医疗错误上的表现。 论文一作马聪博（ Congbo Ma）是纽约大学阿布扎比分校博士后研究员，所在的 Clinical AI Lab 长年与阿布扎比克利夫兰诊所等当地医疗机构保持合作。这种医工深度融合的研究模式，让团队既不缺技术能力，也拥有较为丰富的行业经验。而这正是构建一套\"临床可信\"的评测基准的前提。 但这个评测基准数据集的构建，并不简单。它涉及英文，中文和阿拉伯语三语医学数据、十类错误的设计、与医疗系统的跨界协作、以及数轮标注标准的拉锯。 这样一项环节较多、涉及多方协作的研究工作，究竟为什么必须要做？又为什么能做成？ AI 科技评论采访了马聪博，她详细介绍了这项工作的必要性、构建过程、行业意义以及下一步的深入研究方向。 01 MedErrBench为什么非做不可？ 这项研究并非凭空而起，它始于两个方向的具体原因： 第一个来自临床一线。马聪博 所在的 Clinical AI Lab 与阿布扎比多家医院的临床医生保持长期合作，他们基本上每两周都会跟医生开会讨论。在交流过程中，医生们提出：无论是给出诊断，还是撰写病例小结，如果能有一个系统自动标记出哪里可能存在错误，对辅助诊",
+    "url": "https://www.leiphone.com/category/academic/bWyxqU8pelb4TNJg.html",
+    "imageUrl": null,
+    "source": "雷锋网",
+    "categoryId": null,
+    "publishedAt": "2026-08-25T02:18:00.000Z",
+    "createdAt": "2026-08-25T22:28:15.526Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "Education & Future Skills",
+    "contentFormats": [
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160450,
+    "title": "VC开始靠AI预测未来了",
+    "description": "FutureX榜单前十占了仨",
+    "url": "https://www.qbitai.com/2026/08/478774.html",
+    "imageUrl": null,
+    "source": "量子位",
+    "categoryId": null,
+    "publishedAt": "2026-08-25T02:16:43.000Z",
+    "createdAt": "2026-08-25T22:28:12.094Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "AI Models & Agents",
+    "contentFormats": [
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160461,
+    "title": "IJCAI 2026 复盘局：中国人投了最多的稿，却到不了最多的场",
+    "description": "CCF降级没能让中国学者少投，但一纸签证却让他们没法到场。 作者丨 幸丽娟 编辑丨岑 峰 德国不莱梅当地时间8月22日下午，IJCAI-ECAI 2026 迎来闭幕式。程序委员会主席 Diego Calvanese走上讲台，用一组详实的数据为这场为期一周的学术盛会画上句号。 而站在这个节点上，IJCAI所呈现的不仅是论文与参会者的数字图谱，也是一张值得 AI学术圈细读的底稿。 01 注册与投稿数量： 中国两个“第一”的温差 Calvanese 先公布了注册数据的地区分布：中国669人，占26%，排第一；德国667人，26%，差2人，排第二。Calvanese 还特别解释了一句，德国注册量高，本地组委会的推广起了作用。 但注册数字和现场看到的不是一回事。笔者在会场，看到的中国面孔远少于669这个数字。Calvanese自己也提到“注册人数的国别分布”只是第一步统计，并未深入分析实际到场率。 笔者也在与程序委员会副主席安波教授的对话中，进一步了解到了另一面实情：中国人来得很少，很大一部分原因是广州领事馆部分签证官审核非常严格，拒掉了很多赴德参会人员的申请。 同样是AI研究者，中国与欧美学者之间，还隔着一道签证官的章。 投稿数据更极端。Calvanese展示地区投稿分布时，特意提醒大家注意图表比例尺—— 中国的投稿量突破了4000篇，如果不缩小比例 尺 ， 其他地区的柱子根本显示不出来 。 这个数字还有一个值得追问的背景。过去几个月，CCF将IJCAI从A类降至B类的消息在国内学术圈引发了持续讨论。按照常见的逻辑推演，降级会削弱中国学者的投稿动机——毕竟对国内高校而言，CCF分类直接关联着职称评审、绩效考核。 但本届数据给出了一个反直觉的结果：中国投稿量突破4000篇，占大会总投稿量的60%以上，IJCAI 降级并没有浇灭中国学者的投稿热情。 这说明什么？说明 CCF分类对中国学者投稿决策的影响力，可能被高估了 。 真正驱动投稿的，是IJCAI在知识表示、智能体、规划等方向上的不可替代性。 某种程度上，这种降级也过滤了一部分冲着“刷A类”来的投机性稿源，留下了的投稿学术动机反而更纯粹。 与投稿量相对应的， 中国收录论文数量达到541篇 ，同样一骑绝尘。不过Calvanese特别提到了接收率这个数据，中国的接收率约13.3%，而奥地利以32.8%排第一，丹麦 25.1%，荷",
+    "url": "https://www.leiphone.com/category/academic/PwTwlHYVu0ZCHAuW.html",
+    "imageUrl": null,
+    "source": "雷锋网",
+    "categoryId": null,
+    "publishedAt": "2026-08-25T02:11:00.000Z",
+    "createdAt": "2026-08-25T22:28:15.527Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "Education & Future Skills",
+    "contentFormats": [
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160462,
+    "title": "IJCAI 2026 四项论文奖、三项个人成就奖，回答 AI 的「来路」与「去路」",
+    "description": "AI 正在走的，是一条螺旋上升的路。 作者丨 幸丽娟 编辑丨岑 峰 8月20日，IJCAI-ECAI 2026 正会进入第三天。 如果说18日的开幕式是荣誉的加冕，那么今天，聚光灯从获奖者转向了获奖研究本身。 AIJ/JAIR 获奖论文报告环节，获奖论文作者依次登台发表获奖感言、回顾获奖论文，诠释这些经典研究在最新语境下的生命力和再思考。从1990年的抽象推理经典到2021年的机器学习前沿，横跨三十年的学术线索逐次展开。 而今日最受瞩目的环节，当属本届计算机与思想奖得主、斯坦福大学助理教授吴佳俊（Jiajun Wu）的特邀报告。作为神经符号融合与物理智能的开拓者，他的研究恰好与那条从符号推理延伸至今的学术线索形成了深度呼应。 台下掌声此起彼伏，不仅献给登台者，也献给那条横贯三十年、仍在不断延伸的学术追问。 01 四项论文奖：横跨三十年的学术回响 ▎ 2026 AIJ 经典论文奖：三十六年后，理论仍在回响 AIJ/JAIR 获奖论文报告环节以 AIJ 经典论文奖（AIJ Classic Paper Award ） 开场。该奖项由IJCAI 旗下《人工智能期刊》（AIJ）设立，表彰在AIJ上发表的、至少15年前经时间检验产生持久影响的论文。 今年的获奖论文《 Nonmonotonic Reasoning, Preferential Models and Cumulative Logics 》发表于 1990 年，距今已 36 年。 论文链接： https://arx iv.org/pd f/cs/0202021 这篇论文要解决的核心问题： 如何为非单调推理建立系统的理论框架 。经典逻辑具有“单调性”——新增前提不会推翻已有结论；但人类推理并非如此，知道“鸟会飞”可推断“Tweety会飞”，得知Tweety是企鹅后结论便被收回，这种“新信息可推翻旧结论”的推理即为非单调推理。 到80年代末，已出现Circumscription、Default Logic等多种非单调系统，却各自为战，缺乏统一理论。Kraus、Lehmann和Magidor的关键贡献在于：不再追问“非单调系统缺少什么”，转而定义“ 一个好的非单调推理系统应具备哪些正面性质 ”。他们定义了五族非单调推理关系，通过表示定理打通证明论与模型论，其中最核心的“偏好关系”族（System P）至今仍被视为非单调推理的",
+    "url": "https://www.leiphone.com/category/private/tuJcJrenqJuB2Isk.html",
+    "imageUrl": null,
+    "source": "雷锋网",
+    "categoryId": null,
+    "publishedAt": "2026-08-25T02:06:00.000Z",
+    "createdAt": "2026-08-25T22:28:15.527Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "Education & Future Skills",
+    "contentFormats": [
+      "Xiaohongshu Explainer",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160463,
+    "title": "承泰科技CTO周珂：AI雷达的时代已经到来",
+    "description": "近年来，\"AI雷达\"成为行业热词。围绕它是什么、为何现在出现、将如何改变毫米波雷达产业，业界正在形成越来越多的讨论。本文基于公开研究、产业实践及超级雷达社区的行业讨论，对其中的核心观点进行梳理。超级雷达社区由承泰科技发起，面向雷达产业链、科研机构与开发者开放，关注技术交流、工具共建、数据协作与标准讨论。 AI雷达 vs 传统雷达 AI雷达，简单说是AI赋能的雷达，准确说是支持AI模型部署、由模型定义功能的雷达（Model-Defined Radar, MDR）。 传统雷达的功能由工程师把人工设计的算法和硬性规则写进固件，出厂即定格；AI雷达的功能则由可训练、可迭代的AI模型实现，模型可部署、替换、持续升级，由开发者自行定义。 技术底层看，传统雷达遵循几十年不变的级联信号处理链：ADC采样、2D-FFT、CFAR检测、DOA测角、聚类、跟踪、分类。每一级处理都是对物理世界的\"简化假设\"（点模型、高斯噪声、多径可滤除），而真实世界从不按假设运行，逐级丢失信息、累积误差，形成能力天花板。 AI雷达走另一条路：让数据自己说话。模型直接从原始信号中学习最优表征，信息无损传递、特征自学习，追求全局最优。类比上，网络有SDN、汽车有SDV，雷达则从SDR（软件定义雷达）进一步发展为MDR（模型定义雷达）。AI的引入降低了雷达开发门槛，把雷达从少数算法专家的专业技术变成可广泛参与的通用技术。 相互成就：从4D到AI雷达 4D成像雷达与AI雷达不是一回事。4D成像雷达解决\"看得清\"，是硬件能力升级；AI雷达解决\"看得懂、迭代得快\"，是开发范式变革。两者相互成就——高清数据为模型提供养料，模型让高清数据产生价值。“4D成像雷达把路修宽，AI雷达让路上跑起车来。” 承泰科技近年来持续探索中央计算雷达、超级雷达等技术路线，本质上也是在尝试解决同一个问题：如何让雷达保留更多原始信息，并让这些数据真正进入后端AI计算体系。 软硬件解耦打破封闭生态 让更多人参与雷达开发，需要软硬件解耦，这是AI雷达的另一支柱。软件与模型开发者面向应用独立开发，硬件交给专业厂家，形成类似PC产业的分层分工——在通用硬件基础上开发面向不同场景的应用模型，雷达从封闭生态走向开放生态。过去研发一款雷达须同时具备硬件、软件、射频、算法能力，只有少数企业和科研机构玩得起；解耦后不必组建全领域团队、不必购置昂贵射频环境，更多",
+    "url": "https://www.leiphone.com/category/transportation/Nfqbj40LKk9Lb4KL.html",
+    "imageUrl": null,
+    "source": "雷锋网",
+    "categoryId": null,
+    "publishedAt": "2026-08-25T01:44:00.000Z",
+    "createdAt": "2026-08-25T22:28:15.527Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "Education & Future Skills",
+    "contentFormats": [
+      "Xiaohongshu Explainer",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
     "id": 2160407,
     "title": "NASA Sets Coverage for Roman Space Telescope Launch from Florida",
     "description": "Coverage plans are ready for NASA’s Nancy Grace Roman Space Telescope prelaunch and launch activities. Roman is NASA’s next-generation observatory designed to explore some of the universe’s biggest mysteries, including dark energy. NASA and SpaceX are targeting Roman’s liftoff for no earlier than 7:26 a.m. EDT Sunday, Aug. 30, aboard a SpaceX Falcon Heavy rocket [&#8230;]",

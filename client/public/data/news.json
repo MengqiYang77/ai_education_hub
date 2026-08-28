@@ -1,5 +1,519 @@
 [
   {
+    "id": 2160502,
+    "title": "商汤大装置助力智象未来实现视频生成业务向国产算力无感迁移",
+    "description": "国产算力跑通视频生成规模化应用",
+    "url": "https://www.qbitai.com/2026/08/480227.html",
+    "imageUrl": null,
+    "source": "量子位",
+    "categoryId": null,
+    "publishedAt": "2026-08-28T04:09:39.000Z",
+    "createdAt": "2026-08-28T05:59:24.794Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "Chips & Compute",
+    "contentFormats": [
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160503,
+    "title": "智谱 GLM-5.3-Flash上线，商汤大装置提供国产算力支持",
+    "description": "国产异构助力前沿智能进入普惠时代",
+    "url": "https://www.qbitai.com/2026/08/480223.html",
+    "imageUrl": null,
+    "source": "量子位",
+    "categoryId": null,
+    "publishedAt": "2026-08-28T04:06:16.000Z",
+    "createdAt": "2026-08-28T05:59:24.794Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "Chips & Compute",
+    "contentFormats": [
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160504,
+    "title": "34克、全天候AI，1996元起，雷鸟iO热卖加速智能眼镜全民普及",
+    "description": "8 月 27 日，全球领先消费级 AR 品牌雷鸟创新（RayNeo）公布雷鸟 iO 首销战报",
+    "url": "https://www.qbitai.com/2026/08/480202.html",
+    "imageUrl": null,
+    "source": "量子位",
+    "categoryId": null,
+    "publishedAt": "2026-08-28T03:03:42.000Z",
+    "createdAt": "2026-08-28T05:59:24.794Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "AI Models & Agents",
+    "contentFormats": [
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160509,
+    "title": "WRC 2026 大复盘：具身智能告别「表演时代」，全面进入「算账时代」",
+    "description": "站在 2026 年 8 月北京世界机器人大会（WRC）的展馆中心，如果你闭上眼，听到的不再是两年前那种对“机器人像人一样跳舞”的惊呼，取而代之的，是从业者们在心里拨动算盘，计算 ROI（投资回报率）的声音。 具身智能正在经历一场从“秀肌肉”到“翻账本”的集体变轨。 回看这半年的轨迹，这种趋势演进得极具层次感： 5 月的维也纳 ICRA，学术界和产业界第一次如此默契地把所有火力都集中在了 VLA（视觉-语言-动作）模型上，那是具身智能的“物理学补课期”； 7 月初的上海 WAIC，200 多家具身智能企业同台竞技，集体把演示从“后空翻”换成了“拧螺丝、叠衣服”，那是行业的“场景落地焦虑期”。 7 月底的悉尼 RSS，开源硬件、仿真工具链和遥操作数据方案成为主角，行业开始为“大脑聪明、身体廉价、数据贫瘠”搭建公共底座，那是产业的“基础设施奠基期”。 而在 8 月的北京 WRC，所有话题似乎都围绕工程约束和商业底线展开。在这里，没人关心你的模型是否有哲学意义上的“意识”，大家只盯着三个指标： 多少钱？多稳？跑一个月能省几个人的工资？ “以前我们聊的是什么时候 AGI，现在我们在聊这台机器人跑一个月能省多少人工。”一位深耕分拣赛道的创业者对雷峰网如是说。 如果说过去两年的具身智能是一场关于“暴力美学”的竞争：比谁的参数大，比谁的视频做得逼真；那么 2026 年，行业关注的，不再是一个比拼“学会动”的时代，而是一个比拼“学会干活”的纪元。 经过数日对具身大脑、灵巧手、四足机器人、数采等领域的深度复盘，我们发现：具身智能的下半场，已经悄然换轨。这场暴力进化，正通过商业 ROI、数采底座、形态收敛、触觉控制四个维度，重构整个行业的版图。 01 商业的归商业： ROI 成了具身智能的“逻辑刹车” 在 WRC 2026 现场，专业观众最关注的，一定是分拣节拍最快的展台。物流分拣作为具身智能商业化最早被跑通、也最被反复打磨的场景，今年被各家厂商普遍重视，产业竞争也已经从“能不能做”进化到了“谁能赚到钱”的下半场。 泛化性，也在这一年正式从“学术加分项”变成了“省钱工具”。 原力灵机的逻辑极具代表性。他们的展台并没有像在 WAIC 上搭长城那样整大活，而是搭建了一套双臂物流包裹分拣系统，DM0.5 泛化大模型驱动下的双臂机器人正在分拣混杂的物流包裹。外行看的是速度（约 2 秒/件），但专",
+    "url": "https://www.leiphone.com/category/private/2zBk2GOuqMkjYsSy.html",
+    "imageUrl": null,
+    "source": "雷锋网",
+    "categoryId": null,
+    "publishedAt": "2026-08-28T02:59:00.000Z",
+    "createdAt": "2026-08-28T05:59:27.747Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "Robotics & Embodied AI",
+    "contentFormats": [
+      "Xiaohongshu Explainer",
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160505,
+    "title": "全球首款专为iPhone用户打造的Agent耳机正式发布，有道AI耳机让声音变成生产力",
+    "description": "8月27日，网易有道正式发布OpenPods有道AI耳机。",
+    "url": "https://www.qbitai.com/2026/08/480083.html",
+    "imageUrl": null,
+    "source": "量子位",
+    "categoryId": null,
+    "publishedAt": "2026-08-28T02:48:37.000Z",
+    "createdAt": "2026-08-28T05:59:24.794Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "AI Models & Agents",
+    "contentFormats": [
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160510,
+    "title": "Formnext 2026现场：创想三维K3首次亮相",
+    "description": "8月26日，深圳国际3D打印、增材制造及精密成型展览会（Formnext Asia Shenzhen 2026）在深圳国际会展中心开幕。 全球消费级3D打印生态领创者创想三维携多款新品及全链路生态亮相15号馆D111展位，首次公开展示搭载KliTek™多喷嘴技术的K3 3D打印机，同时带来Ender-3 V3 Mega、SPARKX i7、HALOT-X1 Max、PioNext Mini、Pika、Falcon系列、M1/R1耗材回收系统及3D打印鞋等产品，覆盖3D打印、3D扫描、激光雕刻、耗材及终端应用等多元产品矩阵。 K3搭载多喷嘴打印技术，实现多彩多材一次成型 在FFF产品展区，K3是本次展出的绝对焦点。作为KliTek™多喷嘴技术平台今年5月发布以来的落地机型，K3针对传统多色、多材料打印过程中换料慢、耗材浪费等问题，通过多喷嘴协同作业实现了多彩、多材一次成型。 K3采用四喷嘴并行打印架构，换喷嘴不到5秒，整组换料在15秒内完成。相比传统单头方案，多色打印效率提升近50%；相比传统多头方案，速度快了80%。耗材浪费减少约85%，硬件维护成本降低约75%。对于小批量多色打印场景，这意味着交付周期和材料成本的双双压缩。 多材料适配能力也是K3的亮点之一。依托RFID耗材识别、S-Drive™双动力进料等系统，KliTek™进一步拓展了多材料打印能力，尤其针对柔性TPU材料进行了优化。以95A TPU为例，常规打印速度约为2-3mm³/s，KliTek™可提升至15mm³/s，打印效率最高提升约7倍。 AI能力贯穿打印全流程。从RFID耗材自动识别到切片参数匹配，再到打印过程中意面、堵头等异常检测，腔体摄像头持续监控并自动暂停问题打印，用户还可通过手机App远程查看和控制进度。 从打印效率到材料适配，K3所呈现的是一套围绕“多彩、多材、高效打印”展开的系统性优化方案，进一步拓展了消费级3D打印在柔性材料和个性化制作中的应用空间。 FDM产品覆盖不同使用需求 除了K3，Ender-3 V3 Mega和SPARKX i7代表了创想三维在不同使用场景下的产品布局。 Ender-3 V3 Mega面向3D打印农场、工作室等批量打印场景，拥有420×420×420mm成型空间，打印速度最高可达500mm/s，加速度最高8000mm/s²。设备通过铝合金龙门架、一体压铸热床",
+    "url": "https://www.leiphone.com/category/industrynews/2BZinCAnBVXtTuJs.html",
+    "imageUrl": null,
+    "source": "雷锋网",
+    "categoryId": null,
+    "publishedAt": "2026-08-28T02:47:00.000Z",
+    "createdAt": "2026-08-28T05:59:27.747Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "Advanced Manufacturing",
+    "contentFormats": [
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160511,
+    "title": "阿里云启用巴西数据中心，加速拉美市场布局",
+    "description": "8月27日，阿里云正式启用巴西数据中心。该节点设有两个可用区，为企业客户及开发者提供计算、存储、数据库等云服务，企业级AI服务将陆续上线。这是阿里云在拉美市场的第二个地域节点，此前已于2025年2月在墨西哥上线拉美首个地域节点。至此，阿里云全球基础设施达到31个地域、106个可用区，是全球规模最大的云计算网络之一。",
+    "url": "https://www.leiphone.com/category/industrynews/MA18484wUPSZMlAb.html",
+    "imageUrl": null,
+    "source": "雷锋网",
+    "categoryId": null,
+    "publishedAt": "2026-08-28T02:00:00.000Z",
+    "createdAt": "2026-08-28T05:59:27.747Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "AI Models & Agents",
+    "contentFormats": [
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160506,
+    "title": "HuggingFace被曝卖身英伟达：129亿美元！全球最大AI开源平台改姓黄",
+    "description": "Hugging Face这把是真全员财富自由了啊o(╥﹏╥)o",
+    "url": "https://www.qbitai.com/2026/08/480186.html",
+    "imageUrl": null,
+    "source": "量子位",
+    "categoryId": null,
+    "publishedAt": "2026-08-28T01:40:22.000Z",
+    "createdAt": "2026-08-28T05:59:24.794Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "AI Models & Agents",
+    "contentFormats": [
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160496,
+    "title": "Looking beyond natural sequences",
+    "description": "A new machine-learning framework aims to improve the success rate of computational protein design while moving away from results that reproduce sequences found in nature.",
+    "url": "https://news.mit.edu/2026/looking-beyond-natural-sequences-0827",
+    "imageUrl": null,
+    "source": "MIT AI",
+    "categoryId": null,
+    "publishedAt": "2026-08-27T19:20:00.000Z",
+    "createdAt": "2026-08-28T05:59:06.417Z",
+    "language": "en",
+    "region": "Global",
+    "topic": "Bioengineering",
+    "contentFormats": [
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160498,
+    "title": "Civil Servants Sworn in at NASA Ames",
+    "description": "New civil servants and guests pose for a group photo with NASA and center leadership in the National Full-Scale Aerodynamics Complex (NFAC) 80-by-120-foot test section, N221 on Aug. 24, 2026. The civil servants were sworn-in the same day in the largest swearing-in ceremony ever hosted at NASA&#8217;s Ames Research Center in California’s Silicon Valley since [&#8230;]",
+    "url": "https://www.nasa.gov/image-article/civil-servants-sworn-in-at-nasa-ames/",
+    "imageUrl": null,
+    "source": "NASA",
+    "categoryId": null,
+    "publishedAt": "2026-08-27T18:02:54.000Z",
+    "createdAt": "2026-08-28T05:59:19.931Z",
+    "language": "en",
+    "region": "Global",
+    "topic": "Chips & Compute",
+    "contentFormats": [
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160499,
+    "title": "NASA Astronaut Jonny Kim Departs Agency to Continue Military Service",
+    "description": "After nearly a decade of service to NASA, including an eight-month science expedition aboard the International Space Station, astronaut Jonny Kim’s last day at the agency is Thursday. He will continue serving as lieutenant commander in the U.S. Navy. Kim launched to the space station in April 2025 aboard the Soyuz MS‑27 spacecraft to conduct [&#8230;]",
+    "url": "https://www.nasa.gov/news-release/nasa-astronaut-jonny-kim-departs-agency-to-continue-military-service/",
+    "imageUrl": null,
+    "source": "NASA",
+    "categoryId": null,
+    "publishedAt": "2026-08-27T15:10:24.000Z",
+    "createdAt": "2026-08-28T05:59:19.931Z",
+    "language": "en",
+    "region": "Global",
+    "topic": "Space & Aerospace",
+    "contentFormats": [
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160500,
+    "title": "Navigating the AI Era with a CMU Focus on Critical Thinking",
+    "description": "&lt;p&gt; &lt;img loading=\"lazy\" src=\"https://www.cmu.edu/news/sites/default/files/styles/listings_desktop_1x_/public/2026-08/250909A_AI_Undergrad019.jpg.webp?h=d49abd58&amp;itok=nWT70GZm\" width=\"900\" height=\"508\" alt=\"Three students in the background behind a desk using a laptop look toward three desktop-sized robots in the foreground.\"&gt; &lt;/p&gt; Instructors across disciplines at Carnegie Mellon University have redesigned courses incorporating AI as a teaching tool to help students exercise more curiosity, creativity and critical thinking. Whether teaching the decision-making process behind coding, how technology shapes society or considering different perspectives, CMU faculty are ensuring that students not only understand how AI works today, but also how they will shape it in the future.",
+    "url": "https://www.cmu.edu/news/stories/archives/2026/august/navigating-the-ai-era-with-a-cmu-focus-on-critical-thinking",
+    "imageUrl": null,
+    "source": "Carnegie Mellon",
+    "categoryId": null,
+    "publishedAt": "2026-08-27T13:30:00.000Z",
+    "createdAt": "2026-08-28T05:59:21.107Z",
+    "language": "en",
+    "region": "Global",
+    "topic": "Robotics & Embodied AI",
+    "contentFormats": [
+      "Xiaohongshu Explainer",
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160497,
+    "title": "Piloting the world's first double-blind AI evaluations",
+    "description": "Piloting the world's first double-blind AI evaluations",
+    "url": "https://deepmind.google/blog/piloting-the-worlds-first-double-blind-ai-evaluations/",
+    "imageUrl": null,
+    "source": "Google DeepMind",
+    "categoryId": null,
+    "publishedAt": "2026-08-27T12:59:16.000Z",
+    "createdAt": "2026-08-28T05:59:18.836Z",
+    "language": "en",
+    "region": "Global",
+    "topic": "AI Models & Agents",
+    "contentFormats": [
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160512,
+    "title": "商汤大装置支撑智谱 GLM-5.3-Flash上线，国产异构助力前沿智能进入普惠时代",
+    "description": "8月26日晚，智谱正式上线并开源GLM-5.3-Flash(320B-A18B），这是GLM-5系列的首个原生多模态模型。其总参数320B，能力超过GLM-5.2，在全球权威的Artificial Analysis Intelligence Index（AA综合智能指数）中取得57分，进入全球前沿模型能力区间，与Anthropic最受欢迎的模型Claude Opus 4.8得分持平。GLM-5.3-Flash的架构专为极低成本而设计，结合智谱最新的30T Token多模态预训练语料，能够以更少的计算资源实现更强的性能。 依托先进的国产异构混推技术，商汤大装置为GLM-5.3-Flash上线提供大规模国产算力支持与Token服务，打造国产算力规模化商用又一硬核落地标杆。 这一合作的背后，正是商汤打造的 “一套模型、一座 Token（词元）工厂、一套智能体管控系统” 核心能力体系。其中 Token 工厂承担着把智能能力规模化生产出来的关键作用：它通过多模态模型和大装置基础设施的联合优化，把不同芯片、集群、能源和交付节点组织起来，持续生产更高质量、成本更低的Token。同时Token工厂与大模型之间构建起双向反哺闭环，更好适配原生多模态模型的迭代需求。商汤大装置高效支持了智谱 GLM - 5.3 - Flash的上线工作，正是这套闭环能力的有力印证。 长期以来，市场对国产算力的认知是，性价比不高、难以规模商用。而在正式发布前，GLM-5.3-Flash以匿名模型Ox-Alpha（中文社区称作牛来）在OpenCode和OpenRouter上进行了大规模测试， T oken调用量高达62T， 这些请求流量全部由国产芯片提供算力支持。 且相较同一硬件环境下的初始基线，GLM-5.3-Flash基于国产芯片集群，端到端服务性能提升3倍，硬件效率和单Token成本已达到主流英伟达GPU相当水平。 这一实践表明，国产算力已经能够在大规模真实业务场景下，高效、经济地支撑前沿大模型推理需求。 作为最懂大模型的AI基础设施，商汤大装置全面拥抱国产化，并持续推动国产算力从“单点可用”走向 “ 大规模商用 ” 。今年WAIC期间，针对当前国产算力规模化商用卡点， 商汤大装置从“性价比、适配性、能效比”三个维度系统性破题。 在性价比层面，商汤大装置跳出单卡性能比拼的传统思路，通过先进的异构混合推",
+    "url": "https://www.leiphone.com/category/ai/W9ofyn3UJRYRVMC0.html",
+    "imageUrl": null,
+    "source": "雷锋网",
+    "categoryId": null,
+    "publishedAt": "2026-08-27T12:50:00.000Z",
+    "createdAt": "2026-08-28T05:59:27.747Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "Chips & Compute",
+    "contentFormats": [
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160501,
+    "title": "Wilkinson Elected Chair of Georgia Tech’s Faculty Executive Board",
+    "description": "&lt;span&gt;Wilkinson Elected Chair of Georgia Tech’s Faculty Executive Board&lt;/span&gt; &lt;span&gt;&lt;a title=\"View user profile.\" href=\"https://news.gatech.edu/user/1\"&gt;Superadmin&lt;/a&gt;&lt;/span&gt; &lt;span&gt;&lt;time datetime=\"2026-08-27T08:23:58-04:00\" title=\"Thursday, August 27, 2026 - 08:23\"&gt;Thu, 08/27/2026 - 08:23&lt;/time&gt; &lt;/span&gt; &lt;div&gt;&lt;div&gt;&lt;p&gt;Angus Wilkinson, associate chair and professor in the School of Chemistry and Biochemistry and the School of Materials Science and Engineering, has been elected chair of Georgia Tech's Faculty Executive Board. &lt;/p&gt;&lt;/div&gt;&lt;div&gt;&lt;p&gt;Wilkinson brings extensive experience to the role. Since joining the Georgia Tech faculty in 1993, he has contributed to the Institute as a researcher, educator, and administrator. He currently serves as associate chair for undergraduate programs in the School of Chemistry and Biochemistry. &lt;/p&gt;&lt;/div&gt;&lt;div&gt;&lt;p&gt;“Angus has earned ",
+    "url": "https://news.gatech.edu/news/2026/08/27/wilkinson-elected-chair-georgia-techs-faculty-executive-board",
+    "imageUrl": null,
+    "source": "Georgia Tech",
+    "categoryId": null,
+    "publishedAt": "2026-08-27T12:23:58.000Z",
+    "createdAt": "2026-08-28T05:59:22.522Z",
+    "language": "en",
+    "region": "Global",
+    "topic": "Advanced Manufacturing",
+    "contentFormats": [
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160513,
+    "title": "百度搭子宣布一揽子升级，提出“交付即惊艳”专业办公标准",
+    "description": "8月27日，“搭子进行时——百度搭子产品发布会”在上海举行。百度搭子围绕“交付即惊艳”宣布个人版、企业版、专业套件及工作台能力一揽子升级，重点面向自媒体、金融等专业场景，覆盖选题策划、资料研究、内容制作、财报分析、行业研究和报告输出等任务，并形成可用于发布和汇报的图文、脚本与分析报告。此前发布的AI产品榜显示，百度搭子月活674.30万，环比增长1063.79%，位列AI办公智能体增速第一。 百度集团执行副总裁、百度智能云事业群总裁沈抖在现场表示，百度搭子今年3月发布以来，5个月内已完成150次迭代，过去一个月用户增长近9倍。用户规模增长快，说明产品命中了用户需求，但产品体验是否做到极致、交付结果是否做到惊艳，决定用户是否愿意留下。百度搭子要用更好的体验和更稳定的交付，让智能体真正成为个人和企业值得依赖的生产力伙伴。 资料分散、工具频繁切换、生成结果仍需大量修改，是当前AI办公的主要问题。百度搭子此次提出“交付即惊艳”，将办公智能体的价值落到最终成果：执行过程专业，结果内容扎实、表达出彩、拿来即用，同时允许用户随时修改、接管和复用。 针对不同任务挤在同一个对话框、结果难以继续加工的问题，百度搭子打通百度秒哒和百度胜算，提供应用开发和数据分析工作台。用户提出应用需求后，可以生成网页、小程序或App，并继续修改设计、功能和布局，直至发布；面对经营数据，用户无需手动建表、连表或编写SQL，即可获得包含趋势、排名和关键发现的分析报告，每项结论还可以追溯至对应的数据和计算过程。 专业套件解决的则是用户缺少行业方法、AI只能完成零散步骤的问题。自媒体套件贯通选题研究、内容创作、多平台发布和运营复盘，帮助创作者完成图文、图片和视频素材；金融套件覆盖市场洞察、个股分析、盯盘监控和持仓分析，接入同花顺等数据源，生成大盘监测和研究报告。 为减少生成后的二次加工，百度搭子升级PPT和多模态生成能力。用户可以沿用历史文件的风格或企业模板制作PPT，也可以生成数据报告、网页、海报、图文和视频等不同成果。跨端接续能力则让会话、资料、进度和产物在手机与电脑间同步，避免更换设备后重新交代任务。新发布的“搭子时刻”支持分享成果及其制作方法，让成熟的工作步骤可以被其他用户复用。 百度搭子企业版围绕“规范、沉淀、安全”升级，发布15个套件、96项技能，覆盖金融与财务、商务与法务、产品与研发、运营与人力四",
+    "url": "https://www.leiphone.com/category/industrynews/bpzIqEentybmkCVI.html",
+    "imageUrl": null,
+    "source": "雷锋网",
+    "categoryId": null,
+    "publishedAt": "2026-08-27T11:27:00.000Z",
+    "createdAt": "2026-08-28T05:59:27.747Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "Policy & Society",
+    "contentFormats": [
+      "Xiaohongshu Explainer",
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160514,
+    "title": "像素级对标？智谱、Kimi 底层参数「撞衫」背后，藏着线性注意力的黄金窗口",
+    "description": "国产大模型内卷到算子底层。 作者丨高允毅 编辑丨岑 峰 昨晚，智谱 AI 认领了最近一周在 OpenRouter 盲测榜上风头最盛的“牛来”模型，正式命名GLM-5.3-Flash。 这款上线首日就登顶 OpenRouter 调用量榜单，刷新全网长文本性价比斩杀线的国产模型，在底层架构上展现出“集百家之长”的特质。 它采用了混合架构，将 DeepSeek 的稀疏注意力机制（NSA） 与 Kimi 赖以成名的线性注意力机制结合 ，再叠加DeepSeek的流形约束超连接（mHC）技术，可以大幅降本提效。 今天早上，月之暗面核心研究员、“注意力残差”论文作者陈广宇，仔细研究了 GLM-5.3-Flash 的模型配置文件后，贴出一张 Kimi K3 和 GLM-5.3-Flash 的底层代码对比图。 他发现两者不仅都采用了 KDA 线性注意力 ，排布逻辑高度重合， 连核心参数“遗忘门下界”（gate_lower_bound） 同样是 - 5 。 从 Kimi K3 公开技术报告到智谱上新，还不到一个月。有人感叹：哪怕是参考了 Kimi 的公开参数，短短 20 天内就能推出这么强的模型，也太惊人了。 这背后其实是一种技术必然。 在大模型长文本的深水区，KDA，尤其是它的核心参数，一直是实现“长记忆”和“训练稳定性”的关键。 线性注意力发展到今天，数值稳定的最优区间本就极度狭窄。即便是顶尖团队各自独立试错，最终也往往会收敛到同一个数值。 -5数值背后，既是Kimi K3在开源领域的巨大辐射力，也揭开了中国最顶尖的大模型团队，正不约而同迈进了同一个底层算子优化的技术深水区。 01 KDA的核心参数，为什么都选择-5？ 为什么 两家 顶尖大模型团队，会不约而同地把 KDA 的核心参数设为 -5？要解答这个问题，得先搞懂大模型在长文本赛道经历了什么。 过去， 传统 Transformer 架构用的是 Softmax 注意力机制 ，它保留了大模型的完整记忆。大模型会把每一个 Token 都存进 KV 缓存，随着对话拉长，计算量会呈平方级（ ）暴涨，KV 缓存的显存占用也随上下文长度线性攀升，当上下文拉到百万级别，光 KV 缓存就能吃掉几十 GB 显存，推理成本高到无法商业化。 为了把成本打下来，行业开始转向 “线性注意力” 路线。月之暗面的 KDA 正是其中代表。 它不再保存全量 KV",
+    "url": "https://www.leiphone.com/category/yanxishe/1zYtnZ1hPi0jc5Ud.html",
+    "imageUrl": null,
+    "source": "雷锋网",
+    "categoryId": null,
+    "publishedAt": "2026-08-27T11:01:00.000Z",
+    "createdAt": "2026-08-28T05:59:27.747Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "AI Models & Agents",
+    "contentFormats": [
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160515,
+    "title": "具身新贵昆仑行斩获 WorldArena单项冠军全球亚军，世界模型全面领先",
+    "description": "2026具身智能黑马玩家昆仑行机器人，全面领先全球权威榜单 WorldArena。 据媒体报道，具身智能领域的权威评测WorldArena 2.0 Track 1发布了最新成绩，昆仑行机器人研发的昆仑世界模型GeWu，以69.58分的成绩，斩获图像质量（ Image Quality）单项冠军 ，同时以 65.91 的综合得分，获得全球榜单亚军。模型在 物理一致性（Physics Adherence）、可控性（Controllability） 等多项关键能力维度上实现大幅领先，是本次77支参赛模型里，唯一一个在6大评测维度中，获得其中4项前4名次的模型，体现出极强的综合能力。 作为世界模型赛道的权威评测基准，WorldArena 由国际顶尖高校及科研机构联合共建，WorldArena 2.0在1.0的基础上构建全面基准，从 模态、功能、平台 三大关键维度扩展具身世界模型评估。本次评测的WorldArena Track 1赛道，聚焦具身智能模型的基础核心能力，重点考核模型“看得准、猜得对、画面真实合理”的核心素养，突出模型在物理因果上的合理性。 考核标准严苛，专业度拉满，WorldArena Track 1吸引了全球几乎所有顶尖世界模型研发团队同台竞技，每一次榜单更新都代表着全球具身世界模型领域的最高技术水准，被誉为具身世界模型的“国际竞技场和权威试金石”。 在本次激烈的全球同台比拼中，昆仑行短时间内便完成模型训练、优化和多次迭代，作为昆仑世界模型（Kunlun World Model）的第一代版本，初次亮相即实现全面领先，尤其是在 物理一致性（Physics Adherence）和可控性（Controllability）核心能力上的优秀表现 ，展现出昆仑行研发团队对世界模型物理因果的深刻理解和架构创新。 昆仑世界模型：遵循物理因果的世界模拟器 业内已逐渐形成共识，一个优秀的具身机器人大脑，并不能只简单地模拟动作；更关键在于它能不能理解真实的物理世界，尤其要严格地遵循物理因果关系。 在这样的背景下，“世界模型”成为了当下最热门的概念。在具身领域，世界模型扮演了不同的角色。它可以基于用户的输入，“渲染”出相当真实的画面；也可以基于某种转移模型，“模拟”状态的变化；还可以反过来，给定当前的观测和未来的目标，“规划”智能体的动作。 昆仑行认为，在具身智能领域，一个真正理解物理",
+    "url": "https://www.leiphone.com/category/industrynews/gAKPpkpq87I5Oo3d.html",
+    "imageUrl": null,
+    "source": "雷锋网",
+    "categoryId": null,
+    "publishedAt": "2026-08-27T10:08:00.000Z",
+    "createdAt": "2026-08-28T05:59:27.747Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "Robotics & Embodied AI",
+    "contentFormats": [
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160516,
+    "title": "00后跨境卖家自救，做了一款AI放大镜",
+    "description": "没毕业的在校生，拿着5000万估值杀进AI硬件赛道。 作者丨 陈玘凡 编辑丨吴优 两岁半的小宝宝攥着圆乎乎的放大镜，凑到地面的蚂蚁跟前按下快门。镜片边框的小孔闪了一下，软乎乎的语音随即响起，“宝宝，这是蚂蚁......”小朋友盯着虫子愣了两秒，突然笑得前仰后合。 03 年出生的欧阳王子往那边看了一眼，那一瞬间他突然觉得，创业之初满脑子想着的 “赚钱” 两个字，分量轻了些 —— 就算要赚钱，也得做点好玩的、真能留下点什么的事。 这台设备，是绒音科技打磨了一年多的「百问兔兔 AI 放大镜」。产品即将上市，卖点是市面上少见的，不教识字、不灌知识，主打品格引导的AI儿童硬件。 一个做跨境电商的00后，为什么选了一条几乎没有人验证的路？ 01 从卖货到造货， 决定做自己的产品 欧阳王子的创业开局很不常规。2003 年出生的他，目前仍是上海大学工业工程专业的学生。聊起大学课程毫不客气：“一点用没有，教的东西太脱离社会实际。” 大一他就一头扎进了跨境电商。 那几年跨境的钱并不好赚，店铺被封、链接下架是家常便饭。平台说封就封，货款直接无法提现，偏偏他用的还是买来的白板号，连申诉的门路都没有。遇上客户赖账、甚至国内平台的直播账号被封，也只能自己扛着。 生意不温不火，饿不死也做不大，换个人可能就这么混下去了，但欧阳王子不认命。 2024 年，他大二升大三，拿到一款产品的代理权，只身跑去乌兹别克斯坦谈合作。一边推不动采购方，一边说不动产品经理，折腾一圈最终颗粒无收。这次碰壁反倒让他下定了决心：卖别人的货永远受制于人，要做就做自己的产品。 公司从当方案商开始先活下来，直到2025年4月，放大镜正式立项。“百问兔兔AI放大镜”长这样：边框嵌着摄像头，对着物体按快门就能识别。有屏版800万像素、最高16倍放大；无屏版用定焦摄像头，孩子看清物体后按快门即可完成识别。 （图片：百问兔兔AI放大镜） 但欧阳王子从一开始就没想做 “又一个 AI 识物玩具”。市面上AI识别科普的玩具已有很多玩家：噜咔博士AI 拍学机 Snap、灵宇宙小方机等产品早已实现拍照+百科解答；同形态的AI放大镜DEX去年9月才面世，主打语言学习方向。 在欧阳王子看来，对低龄孩子而言，“认识多少种花、多少种虫子根本没那么重要”。 怎么对待世界、保有善意、懂得分寸，这些品格比知识重要得多。这也是百问兔兔最核心的差异化： 六维分龄系",
+    "url": "https://www.leiphone.com/category/weiwu/L0uTNvgh6p0tIHZR.html",
+    "imageUrl": null,
+    "source": "雷锋网",
+    "categoryId": null,
+    "publishedAt": "2026-08-27T09:58:00.000Z",
+    "createdAt": "2026-08-28T05:59:27.747Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "Education & Future Skills",
+    "contentFormats": [
+      "Xiaohongshu Explainer",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160517,
+    "title": "ECCV 2026 倒计时 12 天：LeCun 压轴、中国 71M 模型、CMU 一键修 3D，顶会三大爆点抢先看",
+    "description": "今天，距离 ECCV 2026 在瑞典马尔默开幕只剩 12 天，会前预热迎来最重磅的一天：官方完整议程首次揭晓，图灵奖得主 Yann LeCun 携手自动驾驶与世界模型领域的两位顶尖学者压轴 Keynote；与此同时，中国团队带来仅 71M 参数的实时人像“全能模型”，CMU 则拿出能一键修复 3D 渲染瑕疵的通用视频模型。 这些进展不仅勾勒出本届大会“世界模型 + 自动驾驶 + 轻量实时生成”的主线，也为关注 AI 视觉落地的从业者、研究者与投资人提供了清晰的观察坐标与持续跟踪清单。 会议情况 欧洲计算机视觉会议（ECCV）与 CVPR、ICCV 并称计算机视觉三大顶会，偶数年举办。本届将于 9 月上旬在瑞典马尔默举行，整体会期与关键信息如下： 名称 ECCV 2026（第 19 届欧洲计算机视觉会议） 时间 2026 年 9 月 8–12 日（Workshops/Tutorials 9/8–9；主会与 Expo 9/10–12） 地点 瑞典马尔默，Malmö Arena 与 Malmömässan 会展中心 官网 https://eccv.ecva.net/ 时区 马尔默 CEST（UTC+2）；北京 = 马尔默 + 6 小时 议程亮点 三场 Keynote： Yann LeCun（Meta / 图灵奖得主，基础模型方向）、Jamie Shotton（Wayve 首席科学家，自动驾驶世界模型）、Kristen Grauman（UT Austin / Meta FAIR，视频与具身感知） 两场 Panel： 聚焦「AI in Research」，探讨 AI 在科研中的实际应用 Workshops（9/8–9）： TwinWorld Challenge（9/8 现场公布结果）、MELEX（9/9）、FOUND、Safe World Models、MedVidU、SLoMO、QCVML 等 Expo（9/10–12）： PAL Robotics 携 TIAGo Pro 机械臂现场演示“视觉 + 仿真 + 物理 AI”（展位 #23） 从官方压轴的豪华讲师阵容，到实验室里跑出来的“小而美”模型，今天曝光的几条消息各有看点。 下面我们挑出今天热度最高的三件事，逐一拆解它们为什么值得你花时间——无论你是想追技术趋势，还是寻找下一个落地机会，都别错过。 热门议题一：官方完整议",
+    "url": "https://www.leiphone.com/category/private/jGUPgQOqPQyCJMMw.html",
+    "imageUrl": null,
+    "source": "雷锋网",
+    "categoryId": null,
+    "publishedAt": "2026-08-27T08:13:00.000Z",
+    "createdAt": "2026-08-28T05:59:27.747Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "Robotics & Embodied AI",
+    "contentFormats": [
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160518,
+    "title": "独家 | 乐聚发布垂域具身模型：一倍工业提效，两项榜单第一",
+    "description": "如果说，基础模型是具身大脑的“大学”通识课；那么，垂域模型则是机器人在工业领域的“专业课”。 作者丨董子博 编辑丨林觉民 今天要做世界模型，所有人都知道要做预训练，来让具身大脑变得更聪明；也知道要做后训练，让机器人可以在专门的任务下得到锻炼、做得更好。 和不少公司聊过， AI 科技评论发现，谈到中训练（ Mid-train ）的公司却很少。 而实际上，在具身的实际落地中，却存在一些原有方案不易解决的问题：当预训练的 VLA 模型，没法在具体的场景中发挥全部智能；而后训练却有时间、成本的门槛；在训练技能的环节，也容易出现数采、训练和调试的重复工作 ——VLA 落地要真正提效，中训练或许才是破局的良方。 AI 科技评论独家获悉， 乐聚机器人将推出面向工业场景构建的 “ 垂域具身智能模型 ”——KUAVO VLA 。 据了解，该模型以通用 VLA 基础模型为能力起点，使用 600+ 小时 KUAVO 同构型真机数据进行了中训练，将本体适配、基础操作和工业场景的共性能力沉淀到模型中。 乐聚机器人 KUAVO VLA 赋能下， 在不少场景中可以实现大约一倍的提效，在某些任务中甚至可以做到 100% 的成功率。 模型中训练，会成为具身工业落地的杀手锏吗？在这个仍然充满未知的方向上，乐聚机器人先趟出了一条路。 01 什么是“垂域具身模型”？ 面对具体任务，基础模型的智能能够 完成 指令理解、任务规划、物理世界预测的要求，但要机器人实际可以执行任务，后训练往往需要投入千条以上的数据。 而为了填补这个鸿沟， “ 垂域模型 ” ，是乐聚机器人为 KUAVO VLA 做出的全新定义。垂域模型，就是通用基模和具身技能之间的 “ 中间层 ” ，相当于在基模与技能之间插入了一层针对工业场景的一轮中训练。 乐聚的思路是：先把 KUAVO 本体能力和工业场景中的共性能力训练进垂域模型，再把具体技能的学习范围收敛到工业场景。模型可以因此获得更高的能力起点 —— 达到相同技能效果时，可以减少重复的数据采集、训练和调试工作，把资源集中用于决定任务成败的关键差异上。新任务的开发逻辑，也因此从 \" 重新学习 \" 转变为 \" 在已有能力上快速适配 \" 。 在基模难以实际在本体中发挥智能时，垂域模型可以依靠详细训练过的 100 个 “ 工业共性能力 ” ，包括分拣、搬运、上下料、装配等典型操作，让模型省去繁复的",
+    "url": "https://www.leiphone.com/category/industrynews/s4P2kDrMcM1yfSYw.html",
+    "imageUrl": null,
+    "source": "雷锋网",
+    "categoryId": null,
+    "publishedAt": "2026-08-27T07:52:00.000Z",
+    "createdAt": "2026-08-28T05:59:27.748Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "Robotics & Embodied AI",
+    "contentFormats": [
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160519,
+    "title": "无人配送下半场：三大派系对决，“真无图”改写行业规则",
+    "description": "走过数年的市场培育与规模化探索，无人配送行业正在迈入效率优先、商业价值兑现的竞争下半场。 行业发展初期，赛道处于跑马圈地的扩张期，竞争逻辑简单粗放。市场普遍以无人车投放数量、试点城市覆盖范围，作为衡量企业实力的核心标尺。但随着行业迈入商业化深水区，市场考验变得更加务实：无人车能否稳定高频履约、长期常态化运营？新车从进场部署到产生真实收益的周期能否大幅缩短？降本增效的成果是否可量化、可持续？跨场景、跨城市拓展的门槛能否真正降低？ 与此同时，伴随市场需求爆发、政策支持等外部条件催化，当下无人配送赛道已然形成原生无人车厂商、智驾供应商、传统整车厂三派鼎立的格局。 下半场的胜负逻辑悄然切换：规模依旧是行业竞争的基础底色，但落地效率、标准化产品、真实商业价值，正在成为拉开行业梯队差距。此背景下，“无图能力”作为改写行业竞争规则的关键变量，已成为各家突破规模化瓶颈的必争之地。 三派分庭抗礼：各有发展优势，也各有客观挑战 基于各自的原生基因三大主流派系此前已搭建起自身的行业基本盘，但同时也都面临需要攻克的课题。 作为行业最早的拓荒力量，以新石器、九识智能为代表的原生无人车厂商，凭借先发优势抢占了核心城市的场景资源。经过多年深耕，这类玩家积累了成熟的线下运营经验与相对庞大的车队规模，形成了稳固的本地化运营壁垒。不过在走向全国大范围复制的时候，依旧要面对标准化量产、跨城市快速落地的现实挑战。 以奇瑞、长安、东风、吉利远程为代表的传统整车厂入局，补齐了行业硬件制造的关键短板。依托成熟的整车研发体系、完善的供应链管控能力与量产经验，快速完成车体迭代与成本控制，为无人配送行业提供高可靠、高性价比的硬件载体。但挑战同样存在，在高阶自动驾驶算法迭代、真实物流场景深度运营方面，仍需要持续强化自身能力。 佑驾创新、Momenta、德赛西威、卓驭、轻舟等智驾供应商，在近一年内密集下场布局无人物流业务，将乘用车领域沉淀的智驾能力向载货场景迁移，成为赛道一股不可忽视的新生力量。此类玩家虽入局无人物流赛道时间较晚，却手握下半场最稀缺的技术能力——拥有乘用车市场千锤百炼而来的量产智驾算法体系和海量真实道路数据闭环，进而赋能无人物流产品持续迭代，催生全新的商业可能性。 回望过去数年，正是这一批智驾供应商，依靠技术能力重构了乘用车智驾市场竞争格局，推动高阶智驾快速走向大规模前装量产。如今这套经过乘用车市场验证的",
+    "url": "https://www.leiphone.com/category/industrynews/BK4ChhYFZWiKVLry.html",
+    "imageUrl": null,
+    "source": "雷锋网",
+    "categoryId": null,
+    "publishedAt": "2026-08-27T07:44:00.000Z",
+    "createdAt": "2026-08-28T05:59:27.748Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "Robotics & Embodied AI",
+    "contentFormats": [
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160520,
+    "title": "阿里发布全新Qoder ，面向所有人的智能体工作台来了",
+    "description": "8月27日，阿里发布全新Qoder，这是一款以Coding为核心能力，面向所有人的智能体工作台。全新Qoder采用更加简洁、以任务为中心的用户界面。用户不必从代码开始，只需用自然语言描述目标，Qoder即可调用Coding和工具能力，完成开发、原型制作、数据处理等任务。 全新Qoder延续了Qoder过去一年在Agent Harness上的积累，内置包括Qwen3.8-Max在内的多款前沿模型，并提供Auto智能调度能力，可根据任务特点，在效果、速度和成本之间匹配合适的模型。Qoder支持40多个连接器、70多个插件和2万多个技能，可将代码仓库、项目管理、云服务及内部工具等工作系统接入AI工作流，让智能体基于真实的项目背景和工作环境完成任务。 面向不同的任务场景和用户，Qoder还提供编程和通用两种模式，编程模式更适合开发者和代码相关任务，通用模式则面向更广泛的用户和场景，用户无需直接处理代码，也能借助Coding和工具能力完成任务。在此基础上，Qoder还为长程任务和复杂任务设计了 Plan（计划）、Goal（目标）和侧边任务等功能：Plan在执行前梳理需求、方案和步骤；Goal围绕明确目标持续执行，并在过程中验证结果；侧边任务用于处理主任务中的细节或衍生问题，不打断当前主线。 在交互方式上，全新Qoder引入桌面宠物和实时语音能力。用户可以通过语音发起和跟进任务，并随时查看、调整或接管执行过程。此外，Qoder还提供速记板、录音纪要和实时语音讨论等功能，进一步丰富信息记录与沟通方式。例如，用户可以通过实时语音提出“先分析这个模块的重构方案”，Qoder会结合项目上下文生成计划；用户确认方向并补充“加入缓存”等要求后，再继续执行和验证。整个过程中，用户可以边说边调整，不必每次重新整理完整指令。 目前，Qoder产品家族包括全新Qoder、Qoder IDE、Qoder CLI、Qoder JetBrains 插件、Qoder 移动端、数字员工产品QoderWake和Qoder Cloud Agents。自2025年8月面向全球发布以来，Qoder已服务全球超过600万用户和超过10万家企业客户。",
+    "url": "https://www.leiphone.com/category/industrynews/KvKr1b6gPOwqZW3f.html",
+    "imageUrl": null,
+    "source": "雷锋网",
+    "categoryId": null,
+    "publishedAt": "2026-08-27T07:40:00.000Z",
+    "createdAt": "2026-08-28T05:59:27.748Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "AI Models & Agents",
+    "contentFormats": [
+      "Xiaohongshu Explainer",
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160521,
+    "title": "欣旺达上半年营收381.79亿元，HEV电池二季度装机量升至全球第一",
+    "description": "8月26日，欣旺达披露2026年中报：上半年营收381.79亿元，同比增长41.48%；电动汽车电池营收141.34亿元，同比增长85.87%，出货28.36GWh，同比增长76.37%，HEV锂电池二季度装机量升至全球第一。",
+    "url": "https://www.leiphone.com/category/industrynews/0Z6n8ySHqLD98RLe.html",
+    "imageUrl": null,
+    "source": "雷锋网",
+    "categoryId": null,
+    "publishedAt": "2026-08-27T07:26:00.000Z",
+    "createdAt": "2026-08-28T05:59:27.748Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "Advanced Manufacturing",
+    "contentFormats": [
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160522,
+    "title": "OceanBase以20.2%市场份额居首，中国分布式数据库迈入规模化竞争",
+    "description": "中国分布式数据库市场正在从“技术可行”走向“规模化竞争”。 近日，全球增长咨询公司沙利文发布《2026年中国分布式事务型数据库市场研究报告》，首次从技术标准层面对分布式数据库进行明确界定。报告显示，2025年下半年至2026年上半年，中国分布式事务型数据库市场规模约59.5亿元，OceanBase以20.2%的市场份额位居第一。 与此同时，中国分布式数据库市场已从互联网及支付场景的内部技术验证，逐步进入金融核心系统突破、通信及关键行业规模应用阶段。伴随数据库技术持续成熟、生态体系不断完善，以及企业对核心业务系统可靠性要求不断提高，分布式数据库正逐步从新型数据库产品，发展为企业数据库体系的重要组成部分。 分布式数据库进入规模化竞争期 此次研究首先厘清了分布式数据库的市场边界。报告进一步从技术架构层面对分布式数据库作出明确界定：采用存储与计算均可横向扩展的分布式架构、具备跨节点事务一致性、数据强一致性及高可用能力，能够实现 RPO=0 的数据可靠性保障。 按照上述定义，2025H2—2026H1期间，OceanBase以20.2%的市场份额位居第一，阿里云、腾讯云和华为云分别以17.9%、16.5%和14.3%位列其后。 这一排名背后，是分布式数据库应用阶段的变化。报告显示，金融、通信已经进入规模化应用阶段，政务、能源、交通等关键基础设施行业正从外围系统向核心业务纵深升级，制造、零售、医疗及互联网等行业也开始在高价值场景中加快采用。 伴随应用规模扩大，客户选型标准也在变化：从过去关注“能不能用”，转向更加看重核心业务稳定性、架构适配能力和长期运行成本。数据库厂商的竞争，也由单一性能指标转向内核技术、工具链、行业经验和生态协同等综合能力。 市场增长打开新的价值空间 分布式数据库仍处于增长通道。沙利文数据显示，中国分布式事务型数据库市场规模已由2021年的约16.9亿元增长至2025年的约55.2亿元，年复合增长率达34.5%；预计2030年将进一步达到约129.3亿元，2025—2030年复合增长率约18.5%。 未来，核心系统升级向更多行业和中小型机构下沉，云原生与分布式架构持续渗透，存量客户扩容及HTAP能力升级，都将成为市场增长的重要来源。 因此，OceanBase此次的“第一”并非一个静态的市场排名，而是发生在一个仍处于扩张期的市场中。值得注意的是，OceanBa",
+    "url": "https://www.leiphone.com/category/industrynews/lMHYJCy1Ib8X9TT5.html",
+    "imageUrl": null,
+    "source": "雷锋网",
+    "categoryId": null,
+    "publishedAt": "2026-08-27T06:59:00.000Z",
+    "createdAt": "2026-08-28T05:59:27.748Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "Advanced Manufacturing",
+    "contentFormats": [
+      "Xiaohongshu Explainer",
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160523,
+    "title": "中国飞鹤×火山引擎：436个智能体走进乳业生产一线",
+    "description": "当不少企业还在讨论AI能做什么时，中国飞鹤已经把问题往前推进了一步——“飞鹤生产端已经不是要不要投入AI的阶段，而是进入哪些场景值得规模化的阶段。”中国飞鹤副总裁、生产事业部负责人孙建国介绍，飞鹤拥有10余家现代化智能工厂，数字化生产设备占比超过90%，这为AI应用打下了数据和设备基础。 依托火山引擎 HiAgent 平台，飞鹤搭建了统一的AI应用建设平台，把AI从技术部门推向一线业务，在设备运维、关键工艺和人员管理等核心环节，落地一批可量化、可复制的应用。目前，该平台已开发436个智能体，近三个月活跃用户超24万，Tokens 消耗接近230亿。 “在飞鹤，AI已经从‘看数据’走向‘理解问题、给出建议、协同执行’，真正走进了工厂现场。”孙建国总结道。对飞鹤来说，AI不是一个展示概念，而是实实在在帮助工厂把生产做得更稳、把经验沉淀得更深、把管理做得更前置。 飞鹤的AI建设，不是追逐热点，而是持续筛选真正能嵌入业务流程、能产生量化价值的场景。中国飞鹤助理副总裁、数智增长中心负责人只强直言：“评价 Agent，不能只看建了多少个，而要看它是否有效、稳定、安全、可控、经济。” AI在设备维保、工艺优化、人员管理等一线业务中创造真实价值 中国飞鹤AI负责人南丁用“真场景、真价值、真落地”来概括飞鹤的AI建设，在AI研发、AI创新平台等实际业务中跑通闭环，“我们觉得效果最明显的场景，一般不是那些比较炫酷的，而是高频的、重复的、数据基础比较好，能够嵌入到我们业务流程中的场景。” 飞鹤10余家工厂数千台设备的运维管理，是安全高效生产的根本保障。AI TPM（智能化设备管理操作系统）基于飞鹤 EV 设备管理系统，结合火山引擎的 HiAgent 平台和 Hermes 智能体框架，构建了智能化设备管理操作系统，实现故障预测、矩阵备件管理、预算管理、多视角设备管理决策等全链路的智能管控。管理者一句自然语言提问，几分钟就能拿到一个跨工厂报告。 现在 AI TPM 已覆盖9家工厂，服务千余名技术工程师，将设备平均故障恢复时长由104小时降至 47小时，重复故障率由34%降至8%。AI TPM 的开发者祖秀秀说：“我们守的不是机器，是每一罐奶粉的稳定性。”对乳品行业来说，这比单纯的提效更有分量，设备状态稳，质量波动才会更小。 AI TPM 架构图 「精工膜创」项目，在飞鹤克东工厂膜分离技术是一",
+    "url": "https://www.leiphone.com/category/industrynews/8JAbV4WxtPfFTCaz.html",
+    "imageUrl": null,
+    "source": "雷锋网",
+    "categoryId": null,
+    "publishedAt": "2026-08-27T06:32:00.000Z",
+    "createdAt": "2026-08-28T05:59:27.748Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "Policy & Society",
+    "contentFormats": [
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160507,
+    "title": "基元律动累计融资数千万美元，推出“中国版OpenRouter”",
+    "description": "近日，AI基础设施公司基元律动（TokenRhythm）宣布完成新一轮融资，融资额达数千万美元。",
+    "url": "https://www.qbitai.com/2026/08/480079.html",
+    "imageUrl": null,
+    "source": "量子位",
+    "categoryId": null,
+    "publishedAt": "2026-08-27T05:43:00.000Z",
+    "createdAt": "2026-08-28T05:59:24.794Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "AI Models & Agents",
+    "contentFormats": [
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160524,
+    "title": "中科通量推出OmniMate BOX，以\"边缘智算主机+存量屏幕\"模式降低AI数字员工落地门槛",
+    "description": "线下实体网点正经历一场静默的效率困局。一方面，人力成本刚性攀升，单厅月均运维成本达8至15万元；另一方面，客流波谷时段的人力空转与高频重复咨询造成的隐性浪费，每年可达20至40万元。越来越多网点管理者开始关注AI数字员工这一方案，但受限于云端方案的网络依赖与数据合规风险，以及整机设备较高的场地改造成本，规模化落地始终存在阻力。 近日，中科通量（SMARCO）在移动整机版OmniMate的基础上，推出OmniMate BOX轻量版AI数字员工，通过即插即用的方式将存量屏幕智能化。该产品采用“边缘智算主机+音视频外设+存量显示终端”的分体式架构，旨在以轻量化方式降低线下网点引入AI数字劳动力的门槛，在不依赖外网、不改动场地的条件下实现快速部署。 分体式架构：复用现有终端，降低准入门槛 与市面上主流的一体式数字人终端不同，OmniMate BOX将算力单元与外设、显示设备解耦。整套系统由一台小型智算主机、摄像头及麦克风扬声器组成，通过HDMI接口直连网点已有的电视、广告机、会议屏或触控屏，无需采购专用显示设备或进行场地改造。 该产品的定位非常清晰：面向已具备显示终端但缺乏AI交互能力的存量网点。无论是通信营业厅的吊装广告屏、银行网点的信息发布电视，还是展厅的触控查询屏，均可通过外接BOX主机升级为具备数字人交互能力的智能服务终端。横屏、竖屏、触控屏均可适配，固定网点与临时展点均能快速完成部署。 国产RISC-V算力底座：本地闭环，安全可控 OmniMate BOX搭载基于国产RISC-V架构的算力平台，集成12核CPU，提供INT8 200 TOPS AI算力，最高配备128GB LPDDR5 ECC统一内存。大模型推理、数字人实时生成、语音识别与视觉感知等全部计算任务在本地主机内闭环运行，不依赖互联网或云端算力。 这一架构选择的实际意义体现在三个层面：其一，服务响应不受网络波动影响，保障交互实时性；其二，业务知识库与客户交互记录在本地闭环，避免数据外传带来的合规隐患；其三，内容更新可在企业内网完成，适配金融、政务、通信等对信息安全有严格要求的行业场景。 定位于标准化服务补充，非替代人工 从功能维度观察，OmniMate BOX承接的是线下网点中高频、标准化、重复性较高的服务职能。系统支持加载企业专属业务知识库，可通过自然语言交互完成产品讲解、套餐对比、流程指引、活动播报",
+    "url": "https://www.leiphone.com/category/industrynews/HtkFHzPaTw8MU090.html",
+    "imageUrl": null,
+    "source": "雷锋网",
+    "categoryId": null,
+    "publishedAt": "2026-08-27T05:43:00.000Z",
+    "createdAt": "2026-08-28T05:59:27.748Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "Chips & Compute",
+    "contentFormats": [
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160508,
+    "title": "工业Agent不是“套壳”大模型！西门子百年经验灌进工业AI",
+    "description": "西门子Xcelerator与普通软件货架最本质的区别。货架解决的是「把产品卖出去」，西门子Xcelerator要解决的是「让产品在真实工业场景中持续生长」。",
+    "url": "https://www.qbitai.com/2026/08/480005.html",
+    "imageUrl": null,
+    "source": "量子位",
+    "categoryId": null,
+    "publishedAt": "2026-08-27T02:46:35.000Z",
+    "createdAt": "2026-08-28T05:59:24.794Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "AI Models & Agents",
+    "contentFormats": [
+      "WeChat Deep Dive"
+    ]
+  },
+  {
     "id": 2160479,
     "title": "吃瓜！苹果为库克举办告别派对：罕见公开同性伴侣；DeepSeek前7个月营收达去年10倍，竟还亏损超7亿；腾讯高管回应「腾讯做AI慢了」质疑",
     "description": "要闻提示 1.9月1日卸任！苹果为库克举办告别派对，罕见公开同性伴侣 2.没想到！DeepSeek前7个月营收达去年10倍，竟还亏损超7亿 3.突传裁员30%、降薪过万、校招劝退？中国电信、天翼云员工称「断崖式」收缩 4.腾讯高管回应“腾讯做AI慢了”质疑：熬得久，比起得早更重要 5.经济学家付鹏：宇树研发经费，比牧原养猪的研发经费还低 6.变相降薪？顺丰回应将15%月薪划为季度绩效：非降薪，旨在完善员工激励机制 7.长鑫存储、长江存储无意向苹果大量供应芯片，主要供应国内客户 8.Anthropic发布论文预警，智能体悄悄聊天就能传播病毒 今日头条 9月1日卸任！苹果为库克举办告别派对，罕见公开同性伴侣 8月26日消息，近日，苹果在Apple Park总部为库克举办告别派对，约200名内部员工出席。仪式上，库克在致辞中首次公开提及并感谢了自己的同性伴侣，并直呼其名迈克（Mike），让在场员工感到十分意外。一直以来，库克对私生活极为低调。仅2014年公开宣布出柜并表示自豪外，他几乎从未在公开场合谈及个人感情。 不过，此次派对Mike并未现身，现场流出的照片中仅有一张库克手持吉他与乐队成员的合影，展现了他卸任前更为轻松开放的一面。按照计划，库克将于9月1日正式卸任苹果CEO，转任执行董事长，接任者为原硬件工程主管约翰·特努斯。 另据报道，苹果官方宣布将于当地时间 9 月 9 日（北京时间9月10日凌晨1点）举行秋季新品发布会，主题为“亮新篇，来耀眼”（Surprise and shine）。这将是约翰·特努斯继任苹果 CEO 后的首场发布会，预计将推出全新一代 iPhone 18 Pro/Max以及苹果首款折叠屏新机等产品。（Netskao、财闻） 国内资讯 没想到！DeepSeek前7个月营收达去年10倍，竟还亏损超7亿 8 月 26 日消息，综合国内外媒体报道，DeepSeek 正在推进第二轮外部融资，与现有及新投资者就融资轮进行持续洽谈。本轮计划融资约 500 亿元，预计将在 8 月底前完成，目标投前估值达到 5000 亿元。同时，DeepSeek 聘请投行开展上海科创板 IPO 相关筹备工作，目标 2027 年完成挂牌，计划最快 2026 年底递交上市申请。 最新披露的非公开数据显示，2026 年 1‑7 月，DeepSeek 实现营收 4.75 亿元，约为其 ",

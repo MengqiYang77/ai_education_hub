@@ -120,6 +120,21 @@
     "createdAt": "2026-07-09 02:15:01"
   },
   {
+    "id": 840090,
+    "title": "Learning Effects of Generative AI Teaching Robots in Java Programming",
+    "abstract": null,
+    "authors": "[\"Chih-Chien Hu\",\"Ming-Hsien Chen\",\"Imam Yuadi\"]",
+    "url": "https://doi.org/10.1109/ICCE-Taiwan71481.2026.11652693",
+    "pdfUrl": "",
+    "source": "IEEE International Conference on Consumer Electronics",
+    "sourceId": "e079266bf3689de1e8421cf4409ab63713b18b2e",
+    "categoryId": null,
+    "topic": "Robotics",
+    "publishedAt": "2026-07-01",
+    "fetchedAt": "2026-08-28T05:59:29.197Z",
+    "createdAt": "2026-08-28T05:59:29.197Z"
+  },
+  {
     "id": 840086,
     "title": "Pathways to learning: exploring high school students’ learning of AI-powered educational robotics",
     "abstract": "\n As Artificial Intelligence (AI) becomes more embedded in daily life, it is also reshaping educational tools, including robotics in K-12 settings. AI-powered robots offer new opportunities in educational robotics by enabling capabilities such as perceiving their surroundings, understanding movement patterns, recognizing images, and responding to user input. While prior research highlights the positive impact of educational robots on learners’ computer science attitudes and skills, less is known about how students develop their understanding of robotics itself. Drawing on constructionist theories—particularly the idea of epistemological pluralism—we examined the diverse ways students engage with and make sense of AI-powered robotics. We conducted a qualitative study with 15 high school students participating in a semester-long project-based robotics and AI curriculum. We explored two key questions: (1) How do high school students develop their understanding of robotics in a project-based robotics + AI curriculum? (2) How do high school students develop their understanding of AI in a project-based robotics + AI curriculum? We analyzed qualitative data from interviews, field notes, student artifacts, and final presentations. Our thematic analysis revealed three themes regarding how students learned AI-powered robotics: (1) learning through engagement in real-world robotics practices, (2) learning through designing, and (3) learning through playful and creative expressions. These findings add to the research on alternative ways learners can engage with and learn AI-powered robotics through project-based learning.",

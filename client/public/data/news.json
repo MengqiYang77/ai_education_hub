@@ -1,5 +1,91 @@
 [
   {
+    "id": 2160544,
+    "title": "AI本地部署不如官方版的元凶找到了：734个依赖包，每一个都可能坑",
+    "description": "推理软件栈的微小差异，就能改变输出token",
+    "url": "https://www.qbitai.com/2026/08/481372.html",
+    "imageUrl": null,
+    "source": "量子位",
+    "categoryId": null,
+    "publishedAt": "2026-08-29T13:11:08.000Z",
+    "createdAt": "2026-08-29T23:56:13.524Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "AI Models & Agents",
+    "contentFormats": [
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160545,
+    "title": "去年归国的徐梦迪，成了清华姚班班主任",
+    "description": "本科读车辆工程，如今教AI第一班",
+    "url": "https://www.qbitai.com/2026/08/481318.html",
+    "imageUrl": null,
+    "source": "量子位",
+    "categoryId": null,
+    "publishedAt": "2026-08-29T13:01:34.000Z",
+    "createdAt": "2026-08-29T23:56:13.524Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "AI Models & Agents",
+    "contentFormats": [
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160546,
+    "title": "Claude开始训练Claude！4美元一小时，跑赢150美元人类研究员",
+    "description": "AI「自进化」，越来越近了",
+    "url": "https://www.qbitai.com/2026/08/481223.html",
+    "imageUrl": null,
+    "source": "量子位",
+    "categoryId": null,
+    "publishedAt": "2026-08-29T12:50:31.000Z",
+    "createdAt": "2026-08-29T23:56:13.524Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "AI Models & Agents",
+    "contentFormats": [
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160547,
+    "title": "32GB大显存加持，英特尔锐炫Pro B70搞定AI漫剧创作",
+    "description": "从剧本到成片",
+    "url": "https://www.qbitai.com/2026/08/480787.html",
+    "imageUrl": null,
+    "source": "量子位",
+    "categoryId": null,
+    "publishedAt": "2026-08-29T11:35:57.000Z",
+    "createdAt": "2026-08-29T23:56:13.524Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "AI Models & Agents",
+    "contentFormats": [
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160548,
+    "title": "从Data到Agent：华为云AI-Ready数据基础设施全链路能力亮相数博会",
+    "description": "8月28日，在2026中国国际大数据产业博览会期间，以“从数据到Agent，数据价值链的重构与创新”为主题的数据要素大会在贵阳举办。政府机构、头部大数据集团、行业企业及专家学者齐聚一堂，围绕数据要素市场化配置、高质量数据集建设、可信数据空间以及AI时代的数据基础设施创新展开探讨。 当大模型和Agent加速进入千行万业，一个根本性变化正在发生：大模型和Agent成为新的数据消费者。数据消费主体的变化，正在推动大数据平台从传统湖仓向多模态湖仓、数据智能体演进，也对AI时代的数据基础设施提出了全新要求。 从 Data 到 Agent ，重构 AI 时代数据价值链 “数据是AI的核心燃料，AI驱动数据价值释放。”会上，华为混合云总裁顾雪军指出，随着AI产业迈入Agentic智能体时代，数据已成为驱动AI模型进化、驱动智能体生长的核心燃料。华为云Stack面向国计民生行业客户，打造了一套覆盖数据全生命周期的数据能力体系，帮助企业把过去分散、沉淀的全量数据真正用起来、用得好、用出价值，推动数据从资源转变为生产力。 华为混合云总裁 顾雪军 以往，企业数据广泛分布于云、数据中心、生产线和办公系统，数据不打通，智能体就难以深入核心业务。如何让企业全量数据真正为AI所用，成为数智化转型的新命题。 面向这一变化，华为云基于“混合云+Data+AI”战略和华为云Stack混合云底座，构建从可靠管数、高效供数、智能用数到可信流通的数据全链路能力，支撑AI-Ready数据平台建设。 可靠管数，让AI拥有可靠的数据根基。大数据引擎支持跨AZ、跨Region、跨云的全场景容灾，元数据支持亿级规模统一纳管；通过存算管三层架构解耦等技术，实现数据可靠、可管、经济高效。 高效供数，让数据成为AI随时可取的“燃料”。华为云AI DataLake多模智能数据湖依托三大核心引擎协同，打通AI数据供给全链路瓶颈，面向模型训练、智能体推理两大核心场景，全面升级供数效率，解决传统方案供数慢、体量小、精度低、适配弱的行业痛点。 智能用数，让数据从Data走向Logic，再走向Action。华为云智能数据决策平台DataArts面向企业复杂数据场景，能够统一接入IT系统数据、OT生产数据、ET工程数据和KT企业知识，内置40多种数据处理算子，支持自演进本体构建和高性能计算，让数据无需搬移即可高效接入和使用。 可信流通，",
+    "url": "https://www.leiphone.com/category/industrynews/5HSY98yO7OtW5EGw.html",
+    "imageUrl": null,
+    "source": "雷锋网",
+    "categoryId": null,
+    "publishedAt": "2026-08-29T07:20:00.000Z",
+    "createdAt": "2026-08-29T23:56:16.965Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "AI Models & Agents",
+    "contentFormats": [
+      "Xiaohongshu Explainer",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
     "id": 2160526,
     "title": "NASA Awards First Prize in Phase 2 of Agency&#8217;s LunaRecycle Challenge",
     "description": "NASA&#160;named&#160;a team from the&#160;Massachusetts Institute of Technology&#160;(MIT)&#160;as the&#160;first prize&#160;winner&#160;for&#160;Phase 2&#160;of the&#160;agency’s&#160;LunaRecycle&#160;Challenge, which&#160;focused on&#160;developing&#160;solutions for&#160;reducing waste&#160;during missions to the Moon or deep space by&#160;recycling common materials,&#160;like fabrics, plastics, foam, and metals.&#160; The&#160;Composites for Extraterrestrial Recycling&#160;By&#160;Engineering the Reuse and Upcycling of&#160;Zotek&#160;(CERBERUZ) team,&#160;comprised&#160;of&#160;undergraduate,&#160;graduate,&#160;and&#160;doctoral&#160;students at&#160;MIT,&#160;received a total of $775,000 in&#160;awards.&#160;&#160; The technology grinds mixed trash into a fine powder, [&#8230;]",

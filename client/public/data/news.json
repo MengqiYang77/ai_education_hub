@@ -1,5 +1,493 @@
 [
   {
+    "id": 2160555,
+    "title": "September 2026 Satellite Puzzler",
+    "description": "Here’s the August 2026 puzzler. Quick, where is this? And what makes this place interesting or unique?",
+    "url": "https://science.nasa.gov/earth/earth-observatory/september-2026-satellite-puzzler/",
+    "imageUrl": null,
+    "source": "NASA",
+    "categoryId": null,
+    "publishedAt": "2026-08-31T19:37:57.000Z",
+    "createdAt": "2026-09-01T01:01:15.190Z",
+    "language": "en",
+    "region": "Global",
+    "topic": "Space & Aerospace",
+    "contentFormats": [
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160553,
+    "title": "MIT Quantum Initiative launches postdoctoral fellowship program",
+    "description": "The Institute welcomes its first cohort of QMIT Fellows this fall to advance interdisciplinary quantum research.",
+    "url": "https://news.mit.edu/2026/mit-quantum-initiative-launches-postdoctoral-fellowship-0831",
+    "imageUrl": null,
+    "source": "MIT AI",
+    "categoryId": null,
+    "publishedAt": "2026-08-31T19:30:00.000Z",
+    "createdAt": "2026-09-01T01:01:01.889Z",
+    "language": "en",
+    "region": "Global",
+    "topic": "Quantum Technology",
+    "contentFormats": [
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160554,
+    "title": "GigaPath-Flash and GigaTIME-Flash: Toward population-scale discovery with efficient pathology foundation models",
+    "description": "What if pathology foundation models could do more with less? GigaPath-Flash and GigaTIME-Flash cut computational demands while maintaining strong performance, opening the door to larger studies and broader exploration. The post GigaPath-Flash and GigaTIME-Flash: Toward population-scale discovery with efficient pathology foundation models appeared first on Microsoft Research .",
+    "url": "https://www.microsoft.com/en-us/research/blog/gigapath-flash-and-gigatime-flash-toward-population-scale-discovery-with-efficient-pathology-foundation-models/",
+    "imageUrl": null,
+    "source": "Microsoft Research",
+    "categoryId": null,
+    "publishedAt": "2026-08-31T16:00:00.000Z",
+    "createdAt": "2026-09-01T01:01:14.806Z",
+    "language": "en",
+    "region": "Global",
+    "topic": "AI Models & Agents",
+    "contentFormats": [
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160556,
+    "title": "NASA&#8217;s Nancy Grace Roman Space Telescope Launches",
+    "description": "NASA’s Nancy Grace Roman Space Telescope, aboard a SpaceX Falcon Heavy rocket, transits the Sun during launch from the agency&#8217;s Kennedy Space Center in Florida on Aug. 30, 2026. Roman is named after the agency’s first chief astronomer. Roman will survey billions of stars and galaxies with a field of view far larger than Hubble’s, [&#8230;]",
+    "url": "https://www.nasa.gov/image-article/nasas-nancy-grace-roman-space-telescope-launches/",
+    "imageUrl": null,
+    "source": "NASA",
+    "categoryId": null,
+    "publishedAt": "2026-08-31T14:10:31.000Z",
+    "createdAt": "2026-09-01T01:01:15.190Z",
+    "language": "en",
+    "region": "Global",
+    "topic": "Space & Aerospace",
+    "contentFormats": [
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160557,
+    "title": "CMU Researchers Envision Humans and AI as Teammates",
+    "description": "&lt;p&gt; &lt;img loading=\"lazy\" src=\"https://www.cmu.edu/news/sites/default/files/styles/listings_desktop_1x_/public/2026-08/260528C_WTM_Coty_Gonzalez021.jpg.webp?h=c6980913&amp;itok=uU_m80ml\" width=\"900\" height=\"508\" alt=\"Coty Gonzalez and members of the Dynamic Decision Making Laboratory\"&gt; &lt;/p&gt; As artificial intelligence moves deeper into workplaces, healthcare and everyday decision-making, Carnegie Mellon University researchers are exploring how AI can help people make better decisions while preserving the judgment, expertise and accountability that humans bring.",
+    "url": "https://www.cmu.edu/news/stories/archives/2026/august/cmu-researchers-envision-humans-and-ai-as-teammates",
+    "imageUrl": null,
+    "source": "Carnegie Mellon",
+    "categoryId": null,
+    "publishedAt": "2026-08-31T13:52:11.000Z",
+    "createdAt": "2026-09-01T01:01:16.184Z",
+    "language": "en",
+    "region": "Global",
+    "topic": "Education & Future Skills",
+    "contentFormats": [
+      "Xiaohongshu Explainer",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160558,
+    "title": "VC疯了！200万现金冠军奖，又花4000万造了一座AI「创业乌托邦」",
+    "description": "划重点：这次不是你挨家敲门，是VC排队来看你。",
+    "url": "https://www.qbitai.com/2026/08/481928.html",
+    "imageUrl": null,
+    "source": "量子位",
+    "categoryId": null,
+    "publishedAt": "2026-08-31T13:20:29.000Z",
+    "createdAt": "2026-09-01T01:01:19.413Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "AI Models & Agents",
+    "contentFormats": [
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160563,
+    "title": "对话纬钛机器人CEO李瑞：具身智能仅靠视觉容易到天花板，触觉是未来必选项",
+    "description": "上触觉已经不是一个「yes or no」的问题，而是「when」的问题。 作者丨 向 欣 编辑丨 高景辉 雷峰网：瑞典科学家做过一个经典的实验：给受试者的手指尖注射麻醉剂，让他去完成一个再简单不过的动作：从火柴盒里取出一根火柴，然后划亮它。 正常情况下，这个动作几秒钟就能完成。但在手指失去触觉后，受试者的整个动作变得像提线木偶一样笨拙，取火柴时反复调整却拿不稳，划火柴时用力不均、方向歪斜，花了很长时间才勉强完成。 「这就是现在整个具身智能的现状。」纬钛机器人 CEO 李瑞说。 所谓现状是，当下的具身智能拥有越来越聪明的「大脑」和越来越灵活的「肢体」，但唯独缺了触觉反馈，就像手指打了麻醉剂的人，能看见、能动作，却很难做好需要精细感知的操作。 要改变这种状况，关键在于让机器人拥有「接触智能」：让机器人以接近人类的方式理解「接触」的本质，不仅能感知物体的存在，更能根据接触反馈实时调整动作、控制力度并稳定执行。 在李瑞看来， 具身智能仅靠视觉很容易到达天花板 ， 下一步必须加上触觉 。在 人能做的 90% 以上的任务中，都需要触觉参与。上触觉已经不是一个「yes or no」的问题，而是「when」的问题。 这一点与黄仁勋的判断一致。黄仁勋今年开始多次强调，触觉是机器人进入物理世界的最后一块拼图。 而李瑞本人，正是这块拼图关键的参与者，也是视触觉这个技术路线最早的缔造者之一。2011 年，他在 MIT 读博期间与导师共同开创了机器人视触觉传感器这一领域，2014 年做出了全球第一款分辨率超越人类手指的视触觉传感器。在这个领域深耕十几年后，他于 2024 年创立纬钛机器人，聚焦视触觉传感器和灵巧操作，也成为小米的合作方。 不少从业者的共识是，触觉传感器正处在爆发前夜。李瑞判断，上半年是触觉传感器在灵巧手领域规模化落地的起步期，下半年，随着搭载触觉的灵巧手批量出货，数采设备铺开，触觉传感器就会进入实质性爆发阶段。 纬钛的定位是「触觉领域的英伟达」，不只是一颗传感器，而是涵盖传感器、数采设备、VTLA 大模型和世界模 型的 物理AI基础设施 。「这个领 域是我们开创的，也是我们在引领的。」 「最后一块拼图」正在从论文里的概念变成灵巧手上的零件。这块拼图怎么拼、拼到了哪一步？在众多触觉传感器的技术路线中，视触觉的技术壁垒究竟有多深？带着这些问题，我们和李瑞聊了聊。 01 仅靠视觉，",
+    "url": "https://www.leiphone.com/category/robot/fzha6bzWq2qyX28O.html",
+    "imageUrl": null,
+    "source": "雷锋网",
+    "categoryId": null,
+    "publishedAt": "2026-08-31T12:49:00.000Z",
+    "createdAt": "2026-09-01T01:01:35.788Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "Robotics & Embodied AI",
+    "contentFormats": [
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160564,
+    "title": "具身智能规模化落地的解法，鹿明摸索出来了",
+    "description": "鹿明发布NexCore，要把具身落地的全套系统打通。 作者丨 向 欣 编辑丨董子博 今年具身智能行业的热度，用「烈火烹油」来形容毫不为过。融资一笔接一笔，模型榜单隔三差五刷新。但如果剥开这些热闹去看一个最朴素的指标：有多少机器人在产线上持续运行？答案屈指可数。 不少产业方透露，大量所谓的「落地」，还停留在友情合作的 POC 阶段，视频拍得漂亮，产线上是另一回事。机器人进得了厂，却站不住脚。 这是一个值得深思的悖论：技术进步的速度肉眼可见，但距离真实生产力输出的鸿沟似乎并没有缩短。今年各家本体的硬件参数越来越接近，同质化趋势已经显现。接下来真正的竞争，在于能否找到愿意买单的场景客户，而 怎样的能力让客户买单，正是整个行业必须回答的核心命 题 。 要回答这个命题，需要拆解 三个层次的问 题 ： 什么样的机器人才能进入产业？机器人如何持续获得适应产业变化的技能？这些技能如何被规模化复制？ 这三个问题，恰好对应着具身智能落地的三重困境：进入场景难、技能进化难、规模化铺开难。鹿明摸索出的这套解法，落在一个叫 NexCore 的平台上。 01 机器人进场景，需要职业技能 行业热衷于发机器人跳舞、起身、搬运的视频，但产线上的任务和视频里的表演完全是两回事。 最典型的例子是 Figure AI。外界看到的是「参与生产 3 万辆 BMW X3」的战绩，一片叫好。但业内人士透露，实际情况是 Figure 机器人在产线上的抓取-放置成功率非常低，还不到 50 % 。 视频中展现的工作场景也是为机器人量身定制的。工件被整齐挂在特制料架上，省去了在真实料框中随机抓取的复杂度。这谈不上真正的落地，是为机器人定制的舞台。 Figure 折射出具身行业的一个普遍现状：为了融资宣传，许多公司投入大量精力做 demo，技术实力不容否认，但真正用于产线落 地的精力被稀释了。 大量“落地”项目，做的还是相对单一且标准化的任务 ，高价值的柔性任务非常难完成。 demo 与落地之间的鸿沟，根源之一在于场景不够真实。而 真实场景最大的难点，在于高度碎片化。 不同产业需要的能力截然不同： 工业制造关注精准操作、稳定性和复杂任务适应； 科研教育关注快速训练和实验验证； 商业、文娱服务关注交互和场景适应。 即便在同一个产业内，也有多个场景、多道工序，需求各不相同。没有一家公司能靠一套通用本体和能力覆盖所有场景。 行业",
+    "url": "https://www.leiphone.com/category/robot/aDmmeg0GHDOQc0yR.html",
+    "imageUrl": null,
+    "source": "雷锋网",
+    "categoryId": null,
+    "publishedAt": "2026-08-31T12:46:00.000Z",
+    "createdAt": "2026-09-01T01:01:35.788Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "Robotics & Embodied AI",
+    "contentFormats": [
+      "Xiaohongshu Explainer",
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160565,
+    "title": "WRC 上，我们看到的关于灵巧手的真相",
+    "description": "混驱成为新热门，触觉是标配，落地靠低自由度。 作者丨 向 欣 编辑丨 高景辉 今年 WRC，灵巧手依然是机器人展区最密集的产品之一。 灵心巧手、曦诺未来、强脑科技、因时机器人、灵巧智能、傲意科技、兆威机电旗下灵巧手品牌 ZWHAND、大寰机器人、帕西尼、中科硅纪、灵掌机器人等灵巧手厂商，都带来了自己的产品；章鱼动力、超维动力、星动纪元等机器人本体厂商，也把自研灵巧手带到了展台上。 逛完 WRC 几乎所有灵巧手展位，并和多家灵巧手公司内部人士聊了一圈后，一个比较明显的感受是：灵巧手的技术路线正在变得越来越清晰。 今年的灵巧手展区，至少出现了三个值得关注的变化： 第一，20 个左右自由度的高自由度灵巧手越来越多， 直驱、腱绳、混合驱动 三条路线逐渐成形； 第二， 触觉正在从「可选配置」变成灵巧手的常规能力 ，但厂商并没有收敛到某一种传感器路线； 第三，目前真正走量、落地的产品还不是二十多自由度的旗舰款，而是 六自由度的五指灵巧手，其次是后起之秀——三指灵巧手。 和本体厂商相比，真正把灵巧手放进完整应用场景里的展示仍然不算多。 （本文作者长期关注具身智能、灵巧手赛道，欢迎添加微信Starxin011 交流） 01 高自由度灵巧手：三条路线的取舍 高自由度灵巧手一直是厂商证明技术能力的一种方式。今年 WRC 展台上，20 个左右自由度的灵巧手已经相当常见，驱动路线也比较清晰： 直驱、绳驱，以及直驱+绳驱的混合驱动 。 直驱路线的代表产品包括： 灵心巧手 Linker Hand O30（20 个自由度，可量产）； 曦诺未来 Prima 1（22 个自由度，关节内置力传感器）； 强脑科技 Revo 3（21 个自由度，采用全直驱、可反驱的关节）； 星动纪元 XHAND 1-PRO（21 个主动自由度，增加了小指侧摆独立关节）。 兆威机电旗下灵巧手品牌ZWHAND此次也展出了高自由度灵巧手产品 B21（21 个自由度）。 星动纪元XHAND 1-PRO 曦诺未来Prima 1 （外观似乎有点眼熟？） 直驱的核心优势在于 力传递透明 ，电机直接驱动关节，没有中间传动环节带来的误差， 特别适合模型训练 。 目前高自由度直驱灵巧手的客户，也主要是高校和科研机构。 直驱的竞争焦点，在于如何同时 兼顾尺寸、发热和负载 。 所有电机都挤在手上，手就做不小；电机挤在小空间里持续出力，发热就压不",
+    "url": "https://www.leiphone.com/category/robot/524JbeGS3fgGgQeA.html",
+    "imageUrl": null,
+    "source": "雷锋网",
+    "categoryId": null,
+    "publishedAt": "2026-08-31T12:44:00.000Z",
+    "createdAt": "2026-09-01T01:01:35.788Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "Robotics & Embodied AI",
+    "contentFormats": [
+      "Xiaohongshu Explainer",
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160566,
+    "title": "瑞金医院联合华为云发布瑞智病理大模型RuiPath 2.0",
+    "description": "8月30日，“数智共生·云惠病理”2026医疗人工智能创新论坛在上海召开。瑞金医院联合华为云正式发布瑞智病理大模型RuiPath 2.0，在性能、诊断能力、病理诊断可解释性、罕见病种数据训练、轻量化部署方面带来五大重磅升级。 瑞金医院联合华为云发布瑞智病理大模型RuiPath 2.0 中国工程院院士、上海交通大学医学院附属瑞金医院院长宁光指出，优质医疗资源的匮乏和分布不均，是我们面临的真实痛点。构建病理大模型不是为了在三甲医院建起一座技术的“高墙”，而是为了修筑一条通往基层的“高速公路”，通过云边协同等模式，把瑞金医院沉淀的优质诊断能力，变成基层医院“用得上、看得懂、接得住”的标准化工具，真正实现AI普惠。 中国工程院院士、上海交通大学医学院附属瑞金医院院长宁光致辞 华为公司董事、华为云CEO周跃峰表示，面对我国城乡医疗资源不均衡带来的癌症早诊困境，华为云长期坚持用AI解医疗行业难题，通过病理AI技术补齐基层医疗短板，让癌症患者在家门口就能获得早期精准诊断，帮助更多患者抓住癌症早期治疗的黄金窗口，践行智慧医疗普惠的社会责任，守护大众健康。 华为公司董事、华为云CEO周跃峰致辞 2025年2月，瑞金医院联合华为，发布中国首个进入医院生产流程的临床级病理大模型RuiPath。此次发布的7B参数规模RuiPath 2.0围绕临床需求，带来五大重磅升级： 雷峰网了解到，依托华为云智慧医疗专区的医疗AI使能平台，医院可基于RuiPath病理大模型结合本院数据开展强化学习，仅用不到传统训练10%的数据即可训练适合本院的专属模型。目前，重庆大学附属三峡医院、普洱市人民医院、瑞安市人民医院、石家庄市人民医院等全国90多家医院已应用RuiPath病理大模型，并入驻华为云行业AI梦工厂·智慧医疗专区，标志着医疗AI正加速走向规模化应用新阶段。 未来，华为云将与瑞金医院深化联合创新，将顶尖三甲医院积累的病理AI能力持续通过云端延伸至县域，让AI能力真正惠及每一家医院、每一位医生和患者。",
+    "url": "https://www.leiphone.com/category/aihealth/MSsFF8sisQuWPkHG.html",
+    "imageUrl": null,
+    "source": "雷锋网",
+    "categoryId": null,
+    "publishedAt": "2026-08-31T10:35:00.000Z",
+    "createdAt": "2026-09-01T01:01:35.788Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "Education & Future Skills",
+    "contentFormats": [
+      "Xiaohongshu Explainer",
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160567,
+    "title": "自变量杨倩出席APEC活动，分享具身智能开源赋能中小企业数智转型",
+    "description": "今日 ，在2026年亚太经合组织（APEC）中小企业数智赋能论坛上，作 自变量机器人联合创始人兼COO杨倩 为参会的唯一具身智能企业代表，发表《开源无界，亚太共融——构建可信包容的具身智能生态》主题演讲，分享具身智能与开源生态结合的实践与思考。 杨倩表示，中小企业是亚太经济发展的重要力量。随着具身智能加速从数字世界走向物理世界，机器人正为中小企业数智化转型提供新的技术路径，开源则进一步降低技术获取和应用门槛，让更多企业、开发者和年轻人参与技术创新。 具身智能为中小企业提供转型路径 数据显示，中小企业约占APEC成员经济体企业总数的97%，贡献超过一半的就业和40%以上的GDP。当前，不少中小企业面临用工成本上升、招工难以及数字化人才不足等问题。 杨倩表示，具身智能能够通过感知环境、理解指令并自主完成任务，降低企业使用机器人的技术门槛；其环境适应能力也有助于减少对现有生产线的大规模改造，并适应多品种、小批量等生产需求。 从“6个月”到“3天”，开源降低具身智能创新门槛 今年3月，自变量机器人举办全球具身智能开发者大会“具亮计划”，吸引上百支来自高校、企业以及亚太地区的年轻团队参与。一支团队在活动第一天十次尝试只能成功一次，到了第三天已经能够连续完成十次。 杨倩介绍，过去专业团队搭建类似开发平台至少需要6个月，而借助开源基础模型、数据和工具链，年轻开发者只用了3天。 目前，自变量机器人已开源端到端具身智能基础模型WALL-OSS，并开放预训练权重、训练代码、数据集接口、部署文档等内容，同时推进机器人数据采集、训练和基础设施等方面的开源实践。 从“使用者”到“参与者”，开放合作推动亚太产业共融 具身智能的发展离不开真实世界中的数据和应用场景。亚太地区拥有丰富的制造、物流、农业、酒店、养老和家庭服务场景，这些多样化需求为机器人技术迭代提供了广阔空间。 杨倩表示，希望进一步推动亚太地区基础模型、数据方法、工具链和硬件接口的开放与兼容，探索透明、可复现的真实场景评测机制，同时加强青年人才培养、开发者交流和企业实践，让更多中小企业和年轻人参与具身智能发展。 她表示，希望与更多亚太企业共同建设真实场景网络，让中小企业从技术使用者逐步成为参与者和贡献者。通过开源降低技术门槛、通过真实场景推动技术迭代、通过区域合作共享创新成果，为亚太中小企业数智化转型提供新的技术支撑。",
+    "url": "https://www.leiphone.com/category/industrynews/pLpgF05WRqQ6VJdA.html",
+    "imageUrl": null,
+    "source": "雷锋网",
+    "categoryId": null,
+    "publishedAt": "2026-08-31T10:31:00.000Z",
+    "createdAt": "2026-09-01T01:01:35.788Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "Robotics & Embodied AI",
+    "contentFormats": [
+      "Xiaohongshu Explainer",
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160568,
+    "title": "8 位 AI 创业者谈世界模型：生成一切之后，还差一点常识｜WRC 2026",
+    "description": "会生成未来，不等于理解世界。 作者丨 吴思梦 编辑丨 岑 峰 2026世界机器人大会的最后一天，一场题为“世界模型到服务人类的现实距离”的论坛对话，将八位分别来自模型、数据、本体、仿真各赛道的创业者拉到了同一张桌子上。 这场对话由刚刚获聘中国电子学会世界模型专委会主任委员的之江实验室主任、阿里云创始人王坚主持。八位对话嘉宾——大晓机器人董事长、商汤科技联合创始人王晓刚，奥比中光创始人、董事长黄源浩，无界动力创始人、CEO张玉峰，跨维智能创始人、CEO贾奎，智澄AI创始人、CEO胡鲁辉，飞渡科技联合创始人、总经理宋彬，蚂蚁灵波科技首席科学家沈宇军，极佳视界联合创始人、首席科学家朱政，均为该专委会委员。 尽管大家都在一个大领域里，但每个人对时代和技术的经历各不相同。王坚请八位嘉宾依次从自身经历出发，畅谈： 你们认识的世界模型，到底是什么？ 一个小时的讨论围绕三个议题层层递进，从“世界模型到底是什么”开始，到“高质量数据会不会成为不可逾越的成本障碍”结束。有人把它称作生成式AI“皇冠上的明珠”，有人自嘲是“卖铲子的人”，有人把底座能力比作“九年义务教育”，还有人追问属于具身智能的“DeepSeek时刻”何时到来。 但真正让这场对话显出重量的，是那些在比喻之外逐渐浮出的判断： 世界模型不能只停留在“生成得像”，而要跨过模仿学习，去理解物理世界的底层逻辑；数据虽然稀缺，但模型一旦具备真正的理解力，数据依赖或许会急剧下降；落地的路径也并非一步跨进家庭，而是先到工业里练技能，再到商业场景里练泛化，最后才敢叩响家门。 更棘手的约束来自工程本身，边缘算力有限，功耗不能无限膨胀，安全机制和熔断设计必须跟上。 八个人从不同赛道出发，最终都指向同一个问题：从生成到理解，中间还差什么？而从垂类到通用，或许才是这场漫长赌局的终局。 以下为本次论坛对话的精编稿，雷峰网基于现场录音转写稿进行了不改原意的编辑整理： 01 议题一： 世界模型，到底不一样在哪？ 王坚（主持人，之江实验室主任、阿里云创始人）： 最近几年世界模型这个词很热。诸位是不是能够从自身的经历，谈一谈你们所认识的世界模型，跟现在其他讲的模型有什么不一样的地方？当前有哪些非常有意思的技术路线？ 王晓刚（大晓机器人董事长、商汤科技联合创始人）： 我们从2024年10月发布了“开悟”世界模型1.0。过去几年，我们认为世界模型的应用经历了几",
+    "url": "https://www.leiphone.com/category/private/wweqIbvHRVWXnlvh.html",
+    "imageUrl": null,
+    "source": "雷锋网",
+    "categoryId": null,
+    "publishedAt": "2026-08-31T09:13:00.000Z",
+    "createdAt": "2026-09-01T01:01:35.788Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "Robotics & Embodied AI",
+    "contentFormats": [
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160569,
+    "title": "没有全科优秀，具身模型别想进入百万小时",
+    "description": "原力灵机登顶 RoboDojo：一个专门给机器人\"卸妆\"的考场。 最近的朋友圈，几乎被机器人运动会和 WRC 2026 上的各种视频刷屏了。 看多了机器人百米冲刺、跳远，再看各个展台叠衣服、冲咖啡，很容易得出一个 结论：机器人时代来了。 然而，如果你不幸参与过这些演示背后动辄几千次的调试与过拟合，你就会清楚这里面的水有多深。 行业内管这种情况叫\"Demo 滤镜\"。滤镜有多厚？说实话，即使你积累了一些行业知识，在现场盯着看，你也未必分得清：这个演示到底是提前编好的动作，还是模型在实时驱动。 这些信息差，让具身行业多少有些鱼龙混杂。 好在，学术界还留着几面\"照妖镜\"，比如 RoboDojo。 01 一个不许摆拍的考场 这是一个来头不小的权威评测：由香港大学多媒体实验室牵头，联合 UC 伯克利、清华等全球近 20 所顶尖机构，背后是知名仿真基准 RoboTwin 的原班人马。它干的事用一句话概括：给全世界的机器人模型办一场统一高考。 其中，42 道题，考泛化、记忆、精细操作、长程执行、开放语义理解五个科目；另外还有18 道题，考场里摆着三种双臂机器人（ARX X5、Piper 等），灯光、复位流程、部署接口全部统一，评审双盲打分，既看结果也看过程。 翻译一下：不许自带考具，不许挑题，不许摆拍，仿真、真机分开考。 成绩单相当惨烈。截至今年 7 月，仿真榜上 30 多个参评模型里，不乏大家熟悉的 π0.5（Physical Intelligence）、英伟达 GR00T-N1.7、OpenVLA-OFT，全是这个赛道叫得上名号的选手，头部模型的平均成功率只有 8.80%，作为对比，人类专家是 76.03%。 真机榜更惨：头部模型总体成功率 12.8%，人类 100%。最难看的是开放语义任务，成功率只有 1.67%。 1.67% 是什么概念？考 60 次，蒙对 1 次。而同一个考场里的人类，满分。 所以这个榜单暴露的，不是哪家公司不行，而是一个行业级现实：现在的具身模型，绝大多数离落地还很远。 然而最近， RoboDojo 的 一家中国具身头部公司：原力灵机。它的通用具身基础模型 DM0.5，以 24.90 的综合得分、19.34% 的平均成功率，双项第一，综合排名登顶。 02 分数之外，先看它干活的样子 从去年底开始，AI 科技评论判断一个具身模型的含金量时，就越来越关注榜单",
+    "url": "https://www.leiphone.com/category/ai/JEamZ6VwYQhx9Dkk.html",
+    "imageUrl": null,
+    "source": "雷锋网",
+    "categoryId": null,
+    "publishedAt": "2026-08-31T09:11:00.000Z",
+    "createdAt": "2026-09-01T01:01:35.789Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "Robotics & Embodied AI",
+    "contentFormats": [
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160570,
+    "title": "横扫最难赛场，复核满分，银河通用无遥操出战100%夺冠",
+    "description": "藏在世界人形机器人运动会上的三个底层具身难题。 作者丨 齐铖湧 编辑丨 董子博 8 月 的最后一周，国家速滑馆“冰丝带”，第二届世界人形机器人运动会。 朋友圈里刷屏最多的，是田径赛场上机器人百米冲刺、跳远，无论是跑出新纪录，还是电机着火，这些画面都会吸引大量的普通观众。 但AI科技评论问了几位深度参与到这次运动会的具身从业者， 专业观众们最关注的比赛是什么，都得到了统一的答案：场景赛。 场景赛现场没有跑道，只有临时搭建的客厅、厨房和货架，进行的是家庭、餐饮、商超三项场景比赛。 业内有一个心照不宣的共识：场景赛≠竞技表演，是机器人真实工作能力大考。 田径项目考的是运动控制算法，只要算力足够，一套动作在仿真环境里跑上几万遍，总能算出最优解； 但场景赛考的是 具身大模型，包含 “大脑 ”和“小脑”，环境是动态的，物品是柔软的，随时会有人来打断你的工作，对模型泛化能力的要求，完全不在一个量级。 这届比赛，还有一个 不太被外行注意，但在圈内引发热议的规则：允许遥操。 尽管遥操遭到行业内外各种鄙视，但在这种顶级大会上依旧允许遥操，那是因为想要做到全自主，门槛实在太高了。但AI科技评论仔细阅读了一下这次的积分规则，有一个发现：按照规则，明摆着组委会是鼓励全自主。 （积分规则：自主模式成绩权重是 1.0，遥操模式直接打五折，仅为 0.5；同分时自主队伍排名靠前。） 但据AI科技评论观察，这次比赛中，多数队伍依然选择遥操规避风险。 为什么大家会选择分数比重更低的遥操？因为在真实的物理世界里，让 AI 100% 掌管一具沉重的钢铁躯体，风险太大了。一位比赛中的具身大厂选手告诉AI科技评论：“0.5 的折扣虽然疼，但总比机器人当场死机、或者把厨房砸了要强。”。 在这样的背景下，场景赛中家庭、餐饮、商超三个场景的夺冠者，却是一个完全自主不遥操的团队：银河通用。 某种意义上，在家庭、餐饮、商超这三个流程最长、最容易翻车的项目，银河通用不仅坚持三项全部全自主，不依赖任何人工后台干预，并且完全交由其自研银河星脑（AstraBrain）世界动作模型独立完成决策与执行。 在家庭场景中，做到了30 分钟量级全场最长赛程且提前完赛。商超项目上，直接把金、银、铜牌全拿了。 最终的成绩单是夺冠率 100%，包揽三大赛项金牌。 我们深度了解了一下，这三块全自主金牌背后的“技术难点”。（雷峰网） 01 藏在家庭",
+    "url": "https://www.leiphone.com/category/ai/U0SX0yIhfMcEsYKm.html",
+    "imageUrl": null,
+    "source": "雷锋网",
+    "categoryId": null,
+    "publishedAt": "2026-08-31T09:05:00.000Z",
+    "createdAt": "2026-09-01T01:01:35.789Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "Robotics & Embodied AI",
+    "contentFormats": [
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160571,
+    "title": "滴滴自动驾驶新一代车型开启载客测试服务",
+    "description": "近期，滴滴自动驾驶新一代 Robotaxi R2正式开启无人载客测试服务，新车在自动驾驶性能和座舱体验上全面升级，用户在北京、广州部分示范区域内可呼单体验全新智能出行服务。 R2作为滴滴自动驾驶与广汽埃安联合打造的Robotaxi专属车型，具备全球化适配能力。该车采用滴滴自动驾驶L4全栈软硬件方案，搭载33个传感器、三域融合计算平台等领先技术，显著提升感知精度与复杂场景应对能力。车身平台满足中欧双五星标准，并配备多重安全冗余体系。 图为：滴滴自动驾驶新一代车型在北京、广州开启载客服务 新车型的后排乘坐空间做了最大化设计，座椅支持大角度调节。车内搭载17.3英寸吸顶屏，接入多样化娱乐功能，同时配备AI语音交互系统，支持语音验证尾号、开启行程、调节空调、打开车窗、氛围灯等，为乘客带来更舒适智能的出行体验。 图为：滴滴自动驾驶新一代车型行驶在城市道路中 此外，车辆接驾前会自动开窗通风换气，上车即享舒适环境。车外屏交互、提前设置车内空调温度与氛围灯颜色，以及鸣笛寻车、语音寻车等便捷找车功能，将陆续上线。 安全与可靠性是所有体验升级的前提，R2经过严格的车规级测试验证，今年1月交付后在广州、北京、深圳等地开展道路测试，保持安全稳定的运行表现。随着新车投入无人载客测试服务，滴滴自动驾驶将以R2为新起点，始终坚持负责任的科技创新，推进Robotaxi技术迭代与服务优化，为更多用户带来安全、智能、便捷的自动驾驶出行体验。 雷峰网 雷峰网",
+    "url": "https://www.leiphone.com/category/industrynews/UYp39xioCMHJMnkx.html",
+    "imageUrl": null,
+    "source": "雷锋网",
+    "categoryId": null,
+    "publishedAt": "2026-08-31T08:43:00.000Z",
+    "createdAt": "2026-09-01T01:01:35.789Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "Robotics & Embodied AI",
+    "contentFormats": [
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160572,
+    "title": "「说 Harness 会被淘汰的，肯定没做过工程」，Kimi 前 CLI 负责人戳破了 AI 圈最大的误解",
+    "description": "只有那些真正在一线写过CLI、调过 Agent Swarm 的人才会知道：模型不能解决一切。 作者丨 高允毅 编辑丨 岑 峰 最近 AI 编程圈挺有意思的，正在两极分化。 比如最近爆火的 Pi 走的是“极简Agent派”路线，Prompt 不到 1000 Token，就给 4 个基础工具，主张不折腾、省钱，让模型自己发挥；但另一边，大家又在做 Agent Swarm 和多智能体协作，系统越做越复杂。 这就带来一个圈内都在吵的问题： 底层的 Harness 到底会不会消失？ 很多人觉得 Pi 的爆火证明了“模型派”是对的，觉得大模型越来越强，外部的 Harness 迟早得消失。 但 前 Kimi CLI 负责人、Raft 创始人 stdrc（Richard Qian） 提了一个挺反常识的观点： 模型越强，Harness 反而越厚。 只是这个“厚度”变了。以前 Harness 厚，是为了帮模型擦屁股、补能力，比如塞一堆 Prompt 和工具；以后 Harness 厚，是因为模型变强后要干复杂的脏活、累活，得靠它去解决多智能体之间的协作和上层管控。 简单来说 ，复杂度从“能力层”转移到“协作层”了。 01 被误解的 Harness 要看清 Harness 的演化逻辑，必须先破除行业内普遍存在的两层误解。 ▎ 误解一：Harness 终将被训进模型，彻底消失 很多人有个误区，觉得大模型以后无敌了，Harness迟早会被训进模型里，彻底消失。 但只要你真正干过工程，就会发现这完全是倒果为因。stdrc 对此直接表示： “说 harness 会被训到模型里的人，肯定是没做过 harness 的。” 他从一线开发的角度拆了三点来解释这一问题： 首先，不是模型变强了淘汰 Harness，而是 Harness 先把路铺好了，模型才知道怎么学。 就像人类社会，得先有了分工制度，大家才学会怎么协作。Harness 是模型的训练场，没有这个外部框架，模型根本没地方去练协作能力。 其次，智能越高，需要的工具反而越复杂。 人类大脑进化了，没退化成原始人，反而搞出了法律和互联网。模型能力在变强，但它解锁的真实世界场景也越来越变态，底层能力被内化了，上层又会冒出更复杂的、需要 Harness 来管的新场景。 还有一点是单任务可以靠模型，复杂业务根本不现实。 在面对长流程、多智能体、随时要看状态的真",
+    "url": "https://www.leiphone.com/category/yanxishe/vbrr9dz3SxrE7CWe.html",
+    "imageUrl": null,
+    "source": "雷锋网",
+    "categoryId": null,
+    "publishedAt": "2026-08-31T08:12:00.000Z",
+    "createdAt": "2026-09-01T01:01:35.789Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "AI Models & Agents",
+    "contentFormats": [
+      "Xiaohongshu Explainer",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160573,
+    "title": "海信JUOS发布！行业首个家庭智能伴侣级AIOS，家庭AI从“被动响应”走向“主动懂家”",
+    "description": "8月31日，海信正式发布行业首个家庭智能伴侣级AIOS——海信JUOS。该系统面向家庭全场景，原生适配电视、闺蜜机、投影、智能家电等多终端，搭载自研星海大模型与四大原生引擎，以“超级小聚”为系统级AI载体，完成家庭AI交互底层重构，实现从被动响应个体指令到主动服务全家需求的代际跃迁。 以“一家人”为设计原点，海信JUOS完成家庭AI系统底层重构 当前手机、车载OS已发展成熟，但真正以“一家人”为设计原点、面向家庭场景的AIOS系统，仍是行业空白。在开创并全球率先量产RGB-MiniLED电视，推动显示迈入原生真彩时代之后，海信将创新边界从显示硬件延伸到底层AI系统。 海信视像科技总裁李炜在发布会上表示，个人AI重在读懂个体需求，而家庭AI需要识别不同家庭成员、理解家庭里的多元场景。基于这一洞察，海信JUOS依托超级小聚系统及AI能力载体，推动家庭AI从等待指令的智能终端，进化成有感官、有大脑、可交流、可执行的家庭智能伴侣。 三大核心体验全面升级，海信JUOS“巨简单，更懂家” 海信JUOS的核心体验升级，首先来自系统级家庭AI智能体——超级小聚。“屏上大小事，只管找小聚”，全新升级的超级小聚打造巨简单的电视问答体验，找片不用记全名，行业领先的小聚智搜凭台词、人物等碎片线索即可实现快速搜片；追剧看到陌生角色、看球时不懂规则，不用暂停掏手机搜索，行业首发的小聚问屏支持边看边问，即刻回应各类疑问；小聚陪伴不止于亮屏状态，息屏模式下，讲故事、放音乐、查天气依然随叫随到；同时小聚会聊能感知用户语言情绪，给出恰到好处的回应，让科技更有温度。 其次，海信JUOS的变化，体现在开机的交互体验上。AI个性桌面是以“人”为核心的动态意图感知系统，凭借行业首发的“小聚识人”能力，融合身份、时间、环境三重维度识别，打破传统电视千人一面的模式，实现“千人千面、因时因境”的专属桌面重构。JUOS 能够精准识别并预判不同家庭成员的使用需求：长辈开机自动启用简化大字号界面、常看的戏曲、新闻等节目一目了然；小朋友使用时，自动推荐适龄内容并开启观看距离与时长提醒；同时还会结合个人需求推送新闻天气、续播剧集、赛前提醒等，做到开机第一眼，就是每个人此刻想看的内容。此外，家庭记忆与系统权限均支持用户自主管理，在主动响应需求的同时严格恪守隐私与服务边界。 海信JUOS的第三重体验重构，在于实现巨简单的跨设备体",
+    "url": "https://www.leiphone.com/category/smarthome/ZVheiCG6BlrsIMUP.html",
+    "imageUrl": null,
+    "source": "雷锋网",
+    "categoryId": null,
+    "publishedAt": "2026-08-31T08:09:00.000Z",
+    "createdAt": "2026-09-01T01:01:35.789Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "Policy & Society",
+    "contentFormats": [
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160559,
+    "title": "滴滴自动驾驶新一代车型开启载客测试服务",
+    "description": "近期，滴滴自动驾驶新一代 Robotaxi R2正式开启无人载客测试服务",
+    "url": "https://www.qbitai.com/2026/08/481923.html",
+    "imageUrl": null,
+    "source": "量子位",
+    "categoryId": null,
+    "publishedAt": "2026-08-31T07:53:12.000Z",
+    "createdAt": "2026-09-01T01:01:19.413Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "Robotics & Embodied AI",
+    "contentFormats": [
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160574,
+    "title": "「全栈AI」第一股来了！百度双重主要上市后值多少钱？",
+    "description": "2026年8月27日，百度集团在港交所发布公告，将二次上市地位自愿转换为在港交所主板的主要上市地位，并于9月1日正式生效。百度就此成为在港交所和纳斯达克双重主要上市的公司——也是两地资本市场上， 首家实现“全栈AI”布局的双重主要上市公司 。 受此消息影响，8月27日，港股市场百度集团-SW(9888.HK)高开高走，盘中拉升大涨超6%报96.6港元，截至目前成交额放大至超7亿港元。美股市场百度夜盘涨近4%，报96.9美元。 值得注意的是，百度此次转换 既不发行新股，也不涉及融资 。 截至2026年6月底，百度现金及投资总额达2831亿元，经营性现金流已连续四个季度为正。换句话说，百度并不缺钱。 既然如此，百度为何还要大费周章选择在此时推进双重主要上市呢？ 上市地位的转换，往往会带来三个变化： 流动性改善、投资者结构扩容、估值重塑。 这一次，百度要的正是这三件事。 01 让资本市场换一把尺子 长期以来，美国资本市场习惯用“中概互联网+搜索广告”的框架来理解百度——搜索是现金牛，AI则是一张尚未兑现的期权。于是，百度的估值长期被搜索广告的变现能力所锚定，AI云、AI芯片、智能体应用和无人驾驶等资产，要么被折叠进一张综合利润表里，要么干脆被忽略。 但今天的百度，早就不是一家单纯的搜索公司。 财报数据显示，百度AI业务收入占一般性业务收入的比例，已连续两个季度超过一半。2026年第二季度，百度总营收313亿元，一般性业务收入252亿元，其中AI业务收入占比达50%。 这意味着AI业务已稳定在足以改变公司收入结构的体量—— 百度从一家以互联网为核心的公司，转型为一家以AI为先的公司，这个判断已经有了财务数据的硬支撑 。 “随着AI业务成为百度核心的发展方向，我们正在为下一阶段的AI驱动增长夯实基础。”百度创始人李彦宏表示，AI业务的持续增长，进一步印证了百度从一家以互联网为核心的公司转型为一家以AI为先的公司，也进一步增强了百度对长期增长潜力的信心。 此次转换上市地位，正是百度转换价值尺子的契机。 按照现行规则及考察周期推算，百度最快有望于9月7日被纳入港股通。届时，内地投资者可通过港股通直接交易百度港股。 中金公司统计数据显示，完成双重主要上市并纳入港股通的中概标的，平均可获得15%—25%的估值修复空间，股份日均流动性提升超40%。 百度CFO何海建表示：“双重主要上市",
+    "url": "https://www.leiphone.com/category/ai/HCYpADwlsglraaSO.html",
+    "imageUrl": null,
+    "source": "雷锋网",
+    "categoryId": null,
+    "publishedAt": "2026-08-31T07:51:00.000Z",
+    "createdAt": "2026-09-01T01:01:35.789Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "Chips & Compute",
+    "contentFormats": [
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160560,
+    "title": "范式与华为达成重磅算力战略合作，成为首批拥抱国产最高端算力底座的AI企业",
+    "description": null,
+    "url": "https://www.qbitai.com/2026/08/481919.html",
+    "imageUrl": null,
+    "source": "量子位",
+    "categoryId": null,
+    "publishedAt": "2026-08-31T07:34:02.000Z",
+    "createdAt": "2026-09-01T01:01:19.413Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "Chips & Compute",
+    "contentFormats": [
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160575,
+    "title": "AI 应用进入“算账”时代，筷子科技为什么要做一个 KP 钱包？",
+    "description": "过去两年，大模型的能力边界不断向外扩展。文本、图片、视频、语音模型快速迭代，Agent也开始进入企业生产流程。对于企业来说，可选的AI能力越来越丰富，但实际使用时需要处理的问题也随之增加：一项任务应该调用哪个模型，如何平衡生成效果和成本，不同部门如何管理AI预算，生成后的内容资产又该如何沉淀。 尤其在视频商业场景中，一条内容从创意到最终产生效果，通常会经历脚本、图片、视频生成、数字人、配音、剪辑、分发等多个环节，背后可能连接不同模型、算力和工具。过去分散使用几款AI产品还算容易，当应用规模扩大到多个团队、品牌、门店和市场之后，模型调用、账户体系和预算管理开始成为企业AI落地中的实际问题。 近日，筷子科技Kuaizi.ai正式发布视频商业AI能力统一价值单位“KP”及企业“KP钱包”。按照其公布的方案，一个Kuaizi企业账户对应一个KP钱包，可以使用丽帧引擎、Kuaizi主平台、Kuaizi国际版、“推你”及企业级FDE服务，覆盖模型调用、内容生产、分发传播、资产管理以及企业级部署等环节。 多模型时代，企业需要更简单的调用方式 模型生态的丰富已经带来明显变化。OpenAI、Anthropic、Google Gemini、DeepSeek、GLM、Kimi等模型持续更新，在推理、视觉、视频、响应速度、成本和工具调用等方面各有特点。企业如果希望在不同业务场景中获得更好的效果，往往需要同时接入多种模型。 模型路由因此成为AI应用中的重要方向。系统可以根据任务复杂度、生成质量、速度、成本和稳定性，选择合适的模型组合，减少企业反复判断和切换模型的工作。筷子科技在此次发布材料中提到OpenRouter和Runway Media Router等案例，认为随着模型供给日益丰富，调度和组织模型能力的重要性正在上升。 Token则是这一体系中的基础计量单位。不过到了企业业务层面，Token很难直接对应经营结果。同样100万Token，放在不同模型和任务中，成本、质量和处理效率都有可能不同；图片生成、视频生成、Agent执行以及KOC分发，也涉及多种资源，很难简单放在同一套Token口径下衡量。 筷子科技由此设计了KP。按照官方定义，KP是建立在Token之上的视频商业AI价值消耗单位，覆盖模型Token、推理算力、Agent、Skills、工具执行、流量和IP资源。企业通过KP钱包管理",
+    "url": "https://www.leiphone.com/category/industrynews/Q60UBtf6lmPQPreT.html",
+    "imageUrl": null,
+    "source": "雷锋网",
+    "categoryId": null,
+    "publishedAt": "2026-08-31T07:26:00.000Z",
+    "createdAt": "2026-09-01T01:01:35.790Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "Chips & Compute",
+    "contentFormats": [
+      "Xiaohongshu Explainer",
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160576,
+    "title": "Cadence滕晋庆：AI有望让芯片设计时间减半，但资深工程师仍是核心竞争力",
+    "description": "OpenAI公布了首款自研推理芯片Jalapeño的首批实测结果引发了巨大的关注，比性能更值得关注的是，AI直接参与了这颗芯片的开发。 根据OpenAI的披露，AI被用于探索不同实现方案，缩短设计、测量和验证循环，并优化芯片中的部分算术电路。Jalapeño从初始设计到tapeout只用了9个月。 这并非“AI独立设计了一颗完整芯片”，Jalapeño由OpenAI与Broadcom共同开发。这个“不完整”，恰好把一个被讨论多年的问题推到了台前： 从AI参与芯片设计，到AI独立完成一颗芯片，中间还隔着什么？ 在近日举行的CadenceLIVE 2026期间，Cadence资深副总裁兼数字与签核事业部总经理滕晋庆给出了两个看似矛盾的判断： AI EDA短期内有可能让芯片设计效率接近翻倍，但至少未来五年，他仍看不到只凭AI就能生成一颗可用芯片。 Cadence资深副总裁兼数字与签核事业部总经理滕晋庆 这意味着，AI EDA的拐点可能不会以“无人设计芯片”的方式出现。更早发生的变化，是芯片设计开始从“工程师操作一组EDA工具”，转向“工程师定义目标，让Agent调用整套工具链”。 这也将同时改变工程师的价值和EDA公司的生意。 AI有机会让芯片设计的效率翻倍 AI用于EDA并不是新鲜事。几年前，Cadence已经使用AI优化设计流程，随后从对话式AI发展到具备推理能力的Tool Agent。过去一年大模型能力快速提升，Cadence又将工程经验写成Skill，进一步推出Super Agent。 今年4月，Cadence发布Agentic AI Stack，由AgentStack统筹ChipStack、ViraStack、InnoStack、AuraStack和SystemStack，分别覆盖前端设计、模拟设计、数字实现与签核、PCB与先进封装以及系统设计。 这个变化背后更重要的是，AI EDA正在从单点优化走向端到端协同。 过去谈AI EDA，通常是RTL生成快了多少、验证缩短多少，或者PPA提高几个百分点。Agent开始统筹不同设计环节后，对于模型和应用快速迭代的AI公司而言，一个更迫切的问题是： 芯片设计周期能否直接缩短一半？ 滕晋庆将AI带来的加速拆成两个部分。一是缩短工具Runtime，减少每次设计迭代所需的时间；二是提升工程师生产力，让一名工程师负责更多Part",
+    "url": "https://www.leiphone.com/category/chips/ARHh6hZXIzvBZq5z.html",
+    "imageUrl": null,
+    "source": "雷锋网",
+    "categoryId": null,
+    "publishedAt": "2026-08-31T05:54:00.000Z",
+    "createdAt": "2026-09-01T01:01:35.790Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "Chips & Compute",
+    "contentFormats": [
+      "Xiaohongshu Explainer",
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160577,
+    "title": "豆包推出开学季学生优惠，送大学生3个月免费订阅权益",
+    "description": "近日，豆包推出开学季学生优惠活动，面向在校大学生提供3个月免费订阅权益，并同步上线开学季技能专区，辅助学生高效学习，更好地完成新学期的各类学习任务。 据了解，豆包此次开学季活动涵盖多项学生优惠。在校大学生完成学生认证后，即可免费领取3个月豆包订阅；参与官方活动，还能领取额度重置机会等更多权益。具体权益领取上，在最新版的豆包电脑版找到“开学免费送 3 个月”入口，打开活动页按提示完成学生身份认证，通过即可领取相关权益。 与此同时，豆包还面向学生群体推出了开学季技能专区，丰富的技能涵盖新生报到、课程汇报PPT、社团推荐、秋招求职等多个实用场景。用户打开豆包电脑版侧边栏“技能·连接器·工作伙伴”，即可在“开学季”技能专区体验专属技能。 此前在八月上旬，豆包就推出过学生特惠活动，为在校大学生提供更多免费额度和订阅特惠价。据介绍，豆包此次开学季送三个月免费订阅的优惠，与此前的学生特惠活动可兼容使用，经认证的学生用户在三个月免费订阅后，依然可在有效期内享受学生优惠的其他权益。豆包方面表示，接下来将持续更新迭代，更好地辅助学生的学习与成长。 雷峰网 雷峰网",
+    "url": "https://www.leiphone.com/category/industrynews/xzEc97io0iMHCJet.html",
+    "imageUrl": null,
+    "source": "雷锋网",
+    "categoryId": null,
+    "publishedAt": "2026-08-31T05:40:00.000Z",
+    "createdAt": "2026-09-01T01:01:35.791Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "Education & Future Skills",
+    "contentFormats": [
+      "Xiaohongshu Explainer",
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160578,
+    "title": "智己新任副总经理敲定，徐崟的使命",
+    "description": "8月18日晚，智己汽车迎来了一位新面孔。 雷峰网获悉，今年6月从海外市场回到国内的徐崟，以智己汽车副总经理身份首次公开亮相，并站到了全新一代智己L6预售发布会的台前。 徐崟是一名拥有20余年汽车营销经验的行业老将。上汽集团刚开始布局新能源业务时，他便开始负责全国新能源产品的销售工作。2020年前后，随着上汽加速拓展海外市场，徐崟被调往泰国，负责上汽在当地的产品销售，一待就是6年。 雷峰网了解到，此次回国后，徐崟将履新智己汽车副总经理，负责国内市场的营销与销售工作；此前担任联席CEO的刘涛，则将负责海外营销。 8月18日，全新一代智己L6正式开启预售。其中，Prof. JimmyChoo高定限量版首批开放1000席，提供76kWh和93kWh两种电池版本，预售权益价分别为23.49万元和24.99万元，下定即赠高定鞋履等专属权益；同时推出Max、Pro Max、Ultra三款标准版车型，预售权益价21.99万元起。 相比上一代，智己对全新一代L6的产品定位也发生了变化。它不再单纯依靠堆配置、卷参数来寻找存在感，而是试图通过原创设计、高定联名以及更多个性化表达，增加产品的情绪价值，从而找到属于自己的市场位置。 对于拥有20余年汽车营销经验的徐崟而言，真正的挑战也由此开始：如何把这些看起来显虚的情绪价值，转化成消费者愿意买单的理由，最终变成实实在在的销量。 01 满足年轻女性的情绪价值， 智己L6想换一种打法 全新一代L6最明显的变化，并不是换了一个全新的外形。恰恰相反，智己选择保留原有设计的基本轮廓。 在智己看来，一些已经被消费者接受的经典设计，并不需要为了换代而彻底推翻。真正的变化，是在原有设计基础上，通过高定联名、内饰细节和技术底座的全面升级，让L6变成一台看起来熟悉，但实际上已经完全不同的车。 产品层面，这一次L6几乎把智己目前能够拿出来的核心技术都进行了集中下放。 首先是全系标配全线控底盘。 全新一代L6搭载全线控转向，包括大角度线控后轮转向以及线控制动技术，智己试图把此前更多出现在高端车型上的技术，直接带到20万元级轿车上。 其次是三电。 全新一代L6采用上汽NEO三电架构，93kWh电池版本CLTC续航达到850km，800V平台支持396kW超快充，官方称15分钟可以补能580km，同时通过系统优化降低能耗。 再往上，是智能驾驶。 智己继续与Momenta",
+    "url": "https://www.leiphone.com/category/transportation/TSEsQbqAIqee6qdp.html",
+    "imageUrl": null,
+    "source": "雷锋网",
+    "categoryId": null,
+    "publishedAt": "2026-08-31T03:47:00.000Z",
+    "createdAt": "2026-09-01T01:01:35.791Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "Advanced Manufacturing",
+    "contentFormats": [
+      "Xiaohongshu Explainer",
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160579,
+    "title": "独家丨下半年还有数亿元保时捷收入，小鹏不只靠卖车赚钱",
+    "description": "8月24日，小鹏汽车交出了一份颇为值得研究的二季度财报。 二季度，小鹏汽车卖车收入170.5亿元，而服务及其他收入达到27亿元，同比增长93.9%。按照财报数据计算，服务及其他业务已经贡献了接近一半的毛利润。 换句话说，小鹏二季度毛利率站上20%，并不完全是靠卖车卖出来的。 此外，这部分非卖车收入在下半年仍有增量。 雷峰网获悉，小鹏与大众的现有技术合作项目在三、四季度预计仍将贡献每季度5亿—10亿元的收入；随着合作车型进入量产，其中部分技术授权费将逐步转向与车型销量挂钩，并在合作车型整个生命周期内持续产生收入。 另一笔此前已经公开的保时捷碳积分合作，也将在下半年开始兑现。 据雷峰网了解，小鹏与保时捷的碳积分合作收入预计将从今年三季度开始确认，相关收入规模或达数亿元。 这意味着，在传统汽车业务之外，小鹏正在逐渐形成一套新的收入结构：卖车赚钱、技术授权赚钱、碳积分赚钱，再加上未来自动驾驶和物理AI的商业化。 而这可能比单纯的销量增长更值得关注。因为小鹏真正想做的，已经不是一家单纯靠卖汽车获得收入的车企。 01 20.7%的毛利率 真正的秘密不只在汽车 先看小鹏二季度的基本盘。 二季度，小鹏交付103295辆，同比增长0.1%、环比增长64.8%；实现营收197.4亿元，同比增长8%，环比增长51.5%。 其中，汽车销售收入170.5亿元，同比增长1%；服务及其他收入27亿元，同比增长93.9%。 综合毛利率达到20.7%，同比提升3.4个百分点；但汽车毛利率只有12.1%，与一季度基本持平。 这两个数字放在一起看，就能发现一个很重要的变化：小鹏的20.7%综合毛利率，并不是汽车业务单独撑起来的。 按照财报数据粗略计算，二季度汽车销售贡献的毛利润约20.6亿元，而服务及其他业务贡献的毛利润约20.3亿元。 也就是说，占总收入约14%的服务及其他业务，贡献的毛利润已经接近汽车销售业务。 这也是小鹏这份财报最值得拆解的地方。 服务及其他业务的高毛利，一部分来自技术研发服务。 小鹏并没有在财报中点名合作方，只表示相关收入主要来自向某整车制造商提供技术研发服务，并于本期成功达成若干关键里程碑。 但市场并不陌生。 此前，小鹏与大众的技术合作已经成为其重要的第二收入来源之一。公开资料显示，大众与小鹏的合作已经从技术开发逐步进入量产阶段。小鹏向大众输出的平台、电子电气架构和智能驾驶相关",
+    "url": "https://www.leiphone.com/category/transportation/EKhqd5EEZHzAzaVW.html",
+    "imageUrl": null,
+    "source": "雷锋网",
+    "categoryId": null,
+    "publishedAt": "2026-08-31T03:45:00.000Z",
+    "createdAt": "2026-09-01T01:01:35.791Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "Robotics & Embodied AI",
+    "contentFormats": [
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160561,
+    "title": "OpenAI买几万台Mac搞强化训练！英伟达的活被苹果抢了",
+    "description": "什么样的AI业务，英伟达GPU和谷歌TPU搞不定，非得用Mac",
+    "url": "https://www.qbitai.com/2026/08/481759.html",
+    "imageUrl": null,
+    "source": "量子位",
+    "categoryId": null,
+    "publishedAt": "2026-08-31T03:24:34.000Z",
+    "createdAt": "2026-09-01T01:01:19.413Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "Chips & Compute",
+    "contentFormats": [
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160562,
+    "title": "全国第三，公司第二，“初创黑马”灵犀智涌用ROSS Harness把机器人送进工业具身智能第一梯队",
+    "description": "灵犀智涌用一台由Demo级本体组装而成的机器人，成为工业场景赛除行业头部企业外唯一获奖的机器人公司。",
+    "url": "https://www.qbitai.com/2026/08/481750.html",
+    "imageUrl": null,
+    "source": "量子位",
+    "categoryId": null,
+    "publishedAt": "2026-08-31T03:11:46.000Z",
+    "createdAt": "2026-09-01T01:01:19.413Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "Robotics & Embodied AI",
+    "contentFormats": [
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
     "id": 2160549,
     "title": "Ribbon-Cutting Event for NASA Deep Space Network’s Deep Space Station 23",
     "description": "Description Leadership from NASA Headquarters, the Jet Propulsion Laboratory, and the Deep Space Network (DSN) stand in front of the recently completed Deep Space Station 23 antenna at the Deep Space Network’s Goldstone complex near Barstow, California, on Aug. 25, 2026. From left: Germaine Aziz (project manager, DSN Aperture Enhancement Project, JPL); Bradford Arnold (manager, […]",

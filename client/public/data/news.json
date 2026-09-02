@@ -1,5 +1,452 @@
 [
   {
+    "id": 2160609,
+    "title": "From MIT to IBM, expediting AI and quantum deployment",
+    "description": "MIT affiliates engage with the MIT-IBM Computing Research Lab to bring rigorous theory to production systems.",
+    "url": "https://news.mit.edu/2026/from-mit-to-ibm-expediting-ai-and-quantum-deployment-0902",
+    "imageUrl": null,
+    "source": "MIT AI",
+    "categoryId": null,
+    "publishedAt": "2026-09-02T20:25:00.000Z",
+    "createdAt": "2026-09-02T23:53:11.324Z",
+    "language": "en",
+    "region": "Global",
+    "topic": "Quantum Technology",
+    "contentFormats": [
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160614,
+    "title": "‘Our University is, at its heart, an affirmation of humanity’",
+    "description": "Garber reminds faculty, students at Morning Prayers that AI is powerful technology but human intelligence, values remain in charge",
+    "url": "https://news.harvard.edu/gazette/story/2026/09/our-university-is-at-its-heart-an-affirmation-of-humanity/",
+    "imageUrl": null,
+    "source": "Harvard Gazette",
+    "categoryId": null,
+    "publishedAt": "2026-09-02T19:42:34.000Z",
+    "createdAt": "2026-09-02T23:53:26.227Z",
+    "language": "en",
+    "region": "Global",
+    "topic": "Education & Future Skills",
+    "contentFormats": [
+      "Xiaohongshu Explainer",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160611,
+    "title": "NASA Revamps Challenge Linking Community College Studies to Aerospace Careers",
+    "description": "Community college students across the U.S. now have another opportunity to discover how their education can lead to fulfilling roles at the forefront of aerospace, science, engineering, and technology. The updated NASA Community College Aerospace Scholars (NCAS) student challenge invites students to learn about the agency and its missions, engage with NASA experts, and explore [&#8230;]",
+    "url": "https://www.nasa.gov/learning-resources/linking-community-college-studies-to-aerospace-careers/",
+    "imageUrl": null,
+    "source": "NASA",
+    "categoryId": null,
+    "publishedAt": "2026-09-02T19:01:05.000Z",
+    "createdAt": "2026-09-02T23:53:24.444Z",
+    "language": "en",
+    "region": "Global",
+    "topic": "Space & Aerospace",
+    "contentFormats": [
+      "Xiaohongshu Explainer",
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160615,
+    "title": "As Oil Profits Skyrocket, Calls for Windfall Taxes Rise",
+    "description": "&lt;span&gt;As Oil Profits Skyrocket, Calls for Windfall Taxes Rise&lt;/span&gt; &lt;span&gt;&lt;a title=\"View user profile.\" href=\"https://news.gatech.edu/user/1\"&gt;Superadmin&lt;/a&gt;&lt;/span&gt; &lt;span&gt;&lt;time datetime=\"2026-09-02T14:29:35-04:00\" title=\"Wednesday, September 2, 2026 - 14:29\"&gt;Wed, 09/02/2026 - 14:29&lt;/time&gt; &lt;/span&gt; &lt;div&gt;&lt;div class=\"theconversation-article-body\"&gt;&lt;p&gt;When Chevron reported its &lt;a href=\"https://www.reuters.com/business/energy/chevron-records-highest-quarterly-profit-six-years-beating-analyst-estimates-2026-07-31/\"&gt;highest quarterly profit in six years&lt;/a&gt; on July 31, 2026, it was just one detail in a larger picture: Analyst firm Wood Mackenzie estimates the global oil and gas industry is on course for a &lt;a href=\"https://www.woodmac.com/press-releases/wood-mackenzie-mid-year-outlook-oil-and-gas-industry-cash-rich-but-capital-cautious-as-nearly-half-a-trillion-dollar-windfall-fails-to-trigger-a-spending",
+    "url": "https://news.gatech.edu/news/2026/08/12/oil-profits-skyrocket-calls-windfall-taxes-rise",
+    "imageUrl": null,
+    "source": "Georgia Tech",
+    "categoryId": null,
+    "publishedAt": "2026-09-02T18:29:35.000Z",
+    "createdAt": "2026-09-02T23:53:26.976Z",
+    "language": "en",
+    "region": "Global",
+    "topic": "Space & Aerospace",
+    "contentFormats": [
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160612,
+    "title": "Rising Over Louisiana",
+    "description": "On Aug. 28, 2026 (the evening of Aug. 27 in some time zones), the Moon passed into Earth’s shadow, creating a deep partial lunar eclipse. At the moment of greatest eclipse, 12:13 a.m. EDT, 96.3% of the Moon’s disk was immersed in Earth’s umbra—the central, darkest part of the shadow where sunlight is completely blocked. [&#8230;]",
+    "url": "https://www.nasa.gov/image-article/rising-over-louisiana/",
+    "imageUrl": null,
+    "source": "NASA",
+    "categoryId": null,
+    "publishedAt": "2026-09-02T15:38:50.000Z",
+    "createdAt": "2026-09-02T23:53:24.444Z",
+    "language": "en",
+    "region": "Global",
+    "topic": "Space & Aerospace",
+    "contentFormats": [
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160610,
+    "title": "System helps humans predict when self-driving cars will make mistakes",
+    "description": "A new method, called CW-Net, translates the reasoning process of an autonomous vehicle’s AI system into understandable concepts that explain its behavior.",
+    "url": "https://news.mit.edu/2026/system-helps-humans-predict-when-self-driving-cars-will-make-mistakes-0902",
+    "imageUrl": null,
+    "source": "MIT AI",
+    "categoryId": null,
+    "publishedAt": "2026-09-02T15:00:00.000Z",
+    "createdAt": "2026-09-02T23:53:11.324Z",
+    "language": "en",
+    "region": "Global",
+    "topic": "Robotics & Embodied AI",
+    "contentFormats": [
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160613,
+    "title": "NASA Rocket Takes First Multi-Point Look Inside Radio-Disrupting Clouds",
+    "description": "High above Earth, thin veils of metallic haze drift through the edge of space. Known as sporadic E layers, these high-altitude “clouds” form from the vaporized dust of burnt-up meteors, earning their name from the unpredictable way they emerge and then dissipate. Now, new results from a NASA sounding rocket — a suborbital research rocket […]",
+    "url": "https://science.nasa.gov/science-research/heliophysics/nasa-rocket-takes-first-multi-point-look-inside-radio-disrupting-clouds/",
+    "imageUrl": null,
+    "source": "NASA",
+    "categoryId": null,
+    "publishedAt": "2026-09-02T14:53:54.000Z",
+    "createdAt": "2026-09-02T23:53:24.444Z",
+    "language": "en",
+    "region": "Global",
+    "topic": "Space & Aerospace",
+    "contentFormats": [
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160621,
+    "title": "北京协和医学院与SKG签署合作协议，开展睡眠呼吸暂停检测算法临床研究",
+    "description": "9月1日，SKG与北京协和医学院于签署合作协议，双方将围绕睡眠呼吸暂停检测算法开展联合研究。该项目纳入三家三甲医院进行多中心临床验证，计划以医学专家标注的多导睡眠监测（PSG）数据作为金标准，为SKG小警卫手表的算法校准提供临床依据。 从公开信息看，SKG小警卫手表在硬件配置上选择了4通道PPG方案，相比市面上常见的单通道或双通道设计，理论上能够获取更丰富的血流信号，可能对睡眠呼吸暂停等事件的检出率有所提升。血压测量则同时采用示波法和PPG技术，其中示波法在临床中有较成熟的应用基础，标称精度为±3mmHg。 不过，这款手表引起关注的更多是其异常事件发生后的处理机制。多数可穿戴设备目前停留在“检测+通知”的流程，即发现异常后推送一条信息，后续由用户自行决定如何处理。SKG小警卫手表则在检测到异常时，通过内置算法触发AI心脑梗提示，同时将信号传至人工客服团队，由客服主动联系佩戴者及其预设的亲友或紧急联系人，形成从监测到干预的闭环。 在信息同步方面，手表内置4G独立通信模块，可脱离手机直接上传数据。亲友通过“SKG Health”应用可远程查看佩戴者的健康指标，当血压、心率、血氧等出现趋势异常时，APP和短信会同步推送提醒。 此外，设备还覆盖七项异常提示功能，包括血压、心率、心电图等维度，并辅以震动、短信和人工电话三层提醒。该产品已取得国家二类医疗器械注册证。 整体来看，可穿戴健康设备的竞争维度正在从测量精度向后续响应能力延伸。对于有慢性病风险或独居场景的用户而言，设备能否在异常发生时有效联动外部资源，可能比单纯的数据记录更具实际意义。此次研究合作和产品设计，也指向了这一方向上的探索。",
+    "url": "https://www.leiphone.com/category/weiwu/66bHoBvGJOjv7lV0.html",
+    "imageUrl": null,
+    "source": "雷锋网",
+    "categoryId": null,
+    "publishedAt": "2026-09-02T14:42:00.000Z",
+    "createdAt": "2026-09-02T23:53:30.751Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "AI Models & Agents",
+    "contentFormats": [
+      "Xiaohongshu Explainer",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160622,
+    "title": "燧原科技9月2日申购：腾讯、小米、兆易创新等参与战略配售",
+    "description": "9月2日，上海燧原科技股份有限公司（以下简称“燧原科技”）正式开启科创板新股申购，公司本次公开发行股票数量为4303.52万股，其中网上发行688.55万股，网上申购代码787801，申购价格为142.18元/股。 据发行公告，燧原科技初始战略配售数量为860.7034万股，占本次发行数量的20%。从战配名单来看，本次战略配售参与方覆盖面较广，吸引了腾讯、小米、兆易创新、华虹集团、中兴通讯、上海仪电等多家知名企业或旗下相关主体参与，参与者覆盖人工智能全产业链，同时还有全国社保基金、基本养老保险基金等国家级长期资金参与。其中，腾讯旗下上海启善投资有限公司获配174.71万股，占发行比例4.06%，小米旗下武汉壹捌壹零企业管理有限公司获配49.23万股，占发行比例1.14%。 值得注意的是，本次战略配售并非单纯的财务投资，参与主体的选择也与燧原科技自身的业务发展需求存在较强关联。公司一是选择具备核心关键物料及产能供应能力的半导体产业链上游企业，二是选择具备全栈系统能力的算力设备企业，三是选择具备大规模、持续AI算力采购需求的互联网大厂背景主体、具有三大电信运营商长期合作经验和渠道资源的主体，以及国内AIDC领域领先企业，通过战略合作实现公司产品进一步规模化销售与应用落地。 随着AI算力需求持续增长，算力基础设施的建设需求也随之增加，AI加速卡成为算力基础设施的重要组成部分。根据灼识咨询数据，全球AI加速卡市场规模预计将由2024年超过1000亿美元增长至2028年超过5000亿美元；同期，中国AI加速卡市场规模预计将超过1万亿元。 公开资料显示，成立于2018年的燧原科技长期聚焦云端AI芯片领域，已完成四代架构、五款云端AI芯片的迭代，并形成覆盖芯片及硬件、软件及编程平台、算力集群方案三大领域的技术体系。目前，公司多代产品已在广泛的互联网AI场景中实现大规模商用，为从传统AI模型到AI大模型的国民级互联网应用提供算力支撑。 招股书显示，2023年至2025年，燧原科技营业收入分别为3.01亿元、7.22亿元和9.90亿元，三年复合增长率达到81.32%。2026年上半年，公司实现营业收入11.20亿元，同比增长279.08%。公司预计2026年1-9月实现营业收入23亿元至30亿元，同比增长325.78%至455.36%。 燧原科技此次IPO预计募集资金61.19亿元，",
+    "url": "https://www.leiphone.com/category/chips/QbzBn7gSqxwocGbo.html",
+    "imageUrl": null,
+    "source": "雷锋网",
+    "categoryId": null,
+    "publishedAt": "2026-09-02T12:23:00.000Z",
+    "createdAt": "2026-09-02T23:53:30.751Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "Chips & Compute",
+    "contentFormats": [
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160623,
+    "title": "独家解读丨字节 Seed 大调整，分支背后谁在操盘？",
+    "description": "大模型竞争开始拼组织，这一次轮到字节。 8 月 19 日，据晚点 Late Post 报道，Seed 基础模型团队新设 Pretrain Data（预训练数据）、Horizon RL（强化学习）、Product Posttrain-Work（面向办公场景的产品后训练）和 Product Posttrain-Chat（面向对话场景的产品后训练）四个一级部门，分别由李成刚、唐晟宇、秦禹嘉、朱文佳等人负责，均向吴永辉汇报。 雷峰网了解到，四个新部门之下的分支架构与带队人选也已落定，而这些更细的调整，或许更能透露出此次组织变动背后的真实意图。 01 数据和RL开始集中 先看模型能力侧的两个部门。 有接近字节的人士称，Pretrain Data 由原先分散在文本、编程、视觉理解和语音方向的预训练数据团队合并而来，下设文本预训练（沈科）、代码预训练（Xia Xiao）、视觉预训练（林毅）和语音预训练四个分支，统一为 Omni 全模态模型和超大模型供给数据； 负责人李成刚是清华机械系本硕，曾从 0 到 1 搭建字节搜索系统，先后负责今日头条网页搜索和 TikTok 视频搜索的技术工作，其麾下沈科 2018 年从清华毕业后加入字节，是超大模型预训练数据的核心人物，Xia Xiao 则是开源代码模型 Seed-Coder 和定理证明搜索方法 BFS-prover 的核心作者之一。 相比数据条线，Horizon RL 的动作更大。Horizon RL 整合了分散在推理、视觉理解等方向的后训练团队， 下设 RL Scaling（岳宇）、Reasoning（王明轩）和视觉强化学习（吴侑彬）三个分支，负责强化学习、提升模型的基础智能上限。 其中王明轩此前在火山翻译，北航本科、中科院计算所博士，曾在腾讯任高级研究员、多次拿下 WMT 机器翻译评测冠军，2019 年加入字节后一路做到大模型研究团队负责人，岳宇（Yu Yue）则是字节与清华 AIR 联合开源的强化学习系统 DAPO 的算法作者之一。 这条路线其实已经有技术积累。Seed 此前公开过 DAPO、VAPO 等强化学习工作，其中 VAPO 聚焦于推理模型的强化学习效率与稳定性；Seed 也持续把RL用于更长链路的推理和Agent能力。 把这几个人和三个方向放在一起，Horizon RL 的意图就比较清楚了。 它并不是简单把原来的“后训练",
+    "url": "https://www.leiphone.com/category/industrynews/75DZ3yfWSLnIppDb.html",
+    "imageUrl": null,
+    "source": "雷锋网",
+    "categoryId": null,
+    "publishedAt": "2026-09-02T10:49:00.000Z",
+    "createdAt": "2026-09-02T23:53:30.751Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "Education & Future Skills",
+    "contentFormats": [
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160624,
+    "title": "我所知道的李博杰",
+    "description": "李博杰很不喜欢“天才少年”这个标签。 “还少年呢，我都中年了，而且它指的是一个人才项目”。他调侃道。 距离轰动全网的DeepSeek面试风波已过去30天左右。趁着这段时间，李博杰在 GitHub 上开源了自己写的《深入理解 AI Agent》一书，两周便拿到了 2.8 万颗星。 被他吐槽的DeepSeek，最近也因为V4-Flash模型发布和融资等信息，抢占大众的注意力。 被问到是否后悔当初发言时，他有点歉意地笑了笑：“也谈不上后悔，就是忍不住吐槽一下，没想到影响力这么大。” 我们在中关村附近和李博杰见了一面，在长达三小时的时间里，李博杰聊了自己创业时的懵懂，以及AI技术的认知，还有面试风波事件过后的这段时间都在做什么。 一位与李博杰相识多年的人士评价他，\"公众对李博杰的误解，第一是他真实水平，第二是他被认可的成果，但外行很难看清楚。 他给我们打比方：“这就像是一个顶级川菜厨师，突然开始做西餐。对于大多数人来说，很难判断他做得到底好不好，除非他最后拿到一家五星级西餐厅的offer。” 至于他的技术水平如何，或许只能交由时间和专业去检验；但在噪音之外，我们试图用更客观、理性地去呈现一个热搜背后的人。 01 被误读的“天才少年”项目 外界争议最大的标签，其实一开始连本人也被蒙在鼓里。 李博杰回忆，那天自己还在食堂吃午饭，同事突然告诉他“你都成天才少年了”，他当时一头雾水，对方赶紧催他查看公司内网。 打开一看，“心声社区”的头条正是老板的发文，上面列着“天才少年”的入选名单。 事后才知道，这个天才少年人才计划是公司层面直接敲定，并非各部门层层推举，就连部门HR都是在老板发文之后才得知。 “说实话，我们同批入职的几千名应届生，都是通过正常校招拿到 offer 进公司的，来之前都不知道这个人才项目。”李博杰对左林右狸频道解释。 由于那一届校招时间已过，到6月份大家都已入职，公司便直接从当届新入职的博士中进行遴选，前后共分三批，最终敲定了 24 人。 当时还发生了一个小插曲，名单公布后不久，曾有一位比他们早入职的员工，直接在公司内网里实名发帖，公开“炮轰”这一届的天才少年人员名单。 并把入选者的履历一一翻出来，在帖子里质疑这些人的含金量。由于发帖人的学术水平确实很高，且当时在内部备受关注，这场实名发帖引发不小的轰动。 评定完成后不久，这批入选者在北京研究所参加了一场与任正非的座",
+    "url": "https://www.leiphone.com/category/industrynews/ayqK30EcYC4YCPr0.html",
+    "imageUrl": null,
+    "source": "雷锋网",
+    "categoryId": null,
+    "publishedAt": "2026-09-02T10:42:00.000Z",
+    "createdAt": "2026-09-02T23:53:30.751Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "AI Models & Agents",
+    "contentFormats": [
+      "Xiaohongshu Explainer",
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160625,
+    "title": "勇夺 18 块金牌：机器人运动会「金牌王」走出赛场，还能派上用场吗？",
+    "description": "雷峰网 刚刚过去的 2026 年世界人形机器人运动会上， 智元成为了当之无愧的奖牌、金牌双料王者 ——不仅以 46 块奖牌冠绝全场，其中还有 18 块是金牌，数量同样傲视群雄。 在不少人心里，机器人运动会只是一个帮助厂商们“秀肌肉”的“T 台”，哄好看台上的老人小孩，就算完成任务； 也有人会说，在这样的赛事上拿到的成绩，都是定制样机的成果，量产机到了实际场景，还是什么都做不了。 但这样的质疑，却不能用在智元身上——智元所有参赛的机器人全部是量产机，并且在多项赛事上均有斩获，赛果在实际落地的角度有真实而全面的参考价值。 赛场上的多项冠军，走下赛场进入场景，还能真正派上用场吗？智元有不少话要说。 01 运动会上， 不止比“运动”，还比“真干活” 46 枚奖牌，18 枚金牌，到底是什么含金量？ 首先，这 46 块奖牌，当然不止来源于一个机型、一个比赛，而是智元自研的灵巧手和精灵 G2、远征 A3、灵犀 X2 等数款本体一起，在多个比赛中的共同赛果——智元能力的全面性，由此可见一斑。 首先，在运动会的传统田径项目上，智元的灵犀 X2 在 100 米障碍赛和 400 米障碍赛上，分别斩获金牌和银铜牌，展示了更强的运控能力； 其次，在乒乓、舞蹈、武术等比赛中，智元的远征 A3 拿下了 5 块金牌，基于超强本体性能和自研的运动预训练模型和全身协同控制算法，展示了更高精度的动作，以及更具表现力的形态控制，腾空、大角度转体、单腿长时间支撑等高难度动作都不在话下。 除了传统运动会常见的项目，本届人形机器人运动会还增加了不少项目，专门考验机器人实际落地、真正干活的能力。 今天机器人最热的话题当中，灵巧手绝对算是其中之一——它决定了机器人操作灵巧程度的上限，也通常被认为是人形具身领域最难攻关的技术单元之一。 在这一届的人形机器人运动会上，共为灵巧手专项设计了 8 个比赛项目，而智元的量产版灵巧手 OmniHand，一举拿下了其中 7 块金牌，几乎 100% 包揽了灵巧手比赛的头名。 硬件上， OmniHand 在保证了更强可靠性的同时，综合能力和性价比都相当突出，在“粉末称重”“开瓶撬盖”“拆箱拆包”“积木搭建”等等比赛项目上，以不小的优势领先得胜。 软件上， OmniHand 也以更强性能、更开放的算法与平台著称。临界点自研的 DUET 双层具身接触智能架构，让模型的整体鲁棒性更强，也让",
+    "url": "https://www.leiphone.com/category/industrynews/eqoi4e4nz7h4lJZi.html",
+    "imageUrl": null,
+    "source": "雷锋网",
+    "categoryId": null,
+    "publishedAt": "2026-09-02T10:20:00.000Z",
+    "createdAt": "2026-09-02T23:53:30.751Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "Robotics & Embodied AI",
+    "contentFormats": [
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160626,
+    "title": "Zeroth 元点机器人预告发布 OpenBridge 生态：具身智能的「安卓时刻」来了",
+    "description": "今天，乐享科技旗下的元点机器人，官宣即将推出自己的首款产品以及 全球首个具身 Physical AI 开源生态——OpenBridge。 在海报上能看到，“桥”的元素无处不在——这次发布，元点机器人想要突出的，或许不只是独立的产品，而是基于产品来建造一座“桥梁”，去连接更广阔的物理 AI 生态 。 那句“世界不缺高墙，我们选择筑桥”，也彰显了元点机器人想要构建从虚拟智能到物理智能，一座最好的桥梁的决心。 或许， 元点机器人对标的，正是具身时代“安卓”的地位。 时至今日，不少人都还记得 2007 年的美国硅谷，史蒂夫·乔布斯永远地改变手机、乃至整个互联网的那一天——这个重要的一刻，被行业铭记为手机的“iPhone 时刻”。 然而，同是 2007 年，谷歌正式发布了手机操作系统 Android 的 Beta 版，并联合 34 家软硬件公司，成立了“开放手持设备联盟”，用更开放的姿态拥抱新型终端和交互的未来——这一天，也被人称为手机的“安卓时刻”。 19 年后的今天，具身智能正在发端。市场的不少人都在等待着具身的“iPhone 时刻”，却很少有人提到机器人的“安卓时刻”。 对比下来，如果说一个技术的“iPhone 时刻”，是一家公司用一个产品、设计、系统改变用户，让整个市场看到新技术实现 PMF 的可能；那么“安卓时刻”，是在行业的早期，让开源、共创、同享的技术，在更广阔的开发者市场实现普及，一起创造中，最终找到用户的需求。 今天大家讲到的“iPhone 时刻”，更多会讨论自家的产品；而少有人提到的“安卓时刻”，讲的却是 “怎么通过 好 的生态，让更多开发者在具身时代一起共赢” 。 他是一个在行业早期，不去贸然吹嘘产品、 臆测 用户需 求，而是跟广大的开发者站在一起，一起去发掘、创造、最后找到用户需求的过程。 用过去的历史对照今天的现实，一个新技术的普及，不仅需要一个好的基础本体，更要一个优秀开放的技术生态来支持。 而所有人关心的另一个问题是： 冲向具身的“安卓时刻”，什么样的公司才能占得先机？ 01 人形机器人的“安卓系统”，要满足哪些条件？ 在过去的近 20 年里，安卓的帝国，正是建立在易用性和开放性之上。 那今天什么具身智能是足够易用跟开放的？ 易用意味着尺寸缩小性能不减、安全、单人可操作，开放意味着基础能力强、全开源、建立持续成长的社区。 今天的具身赛道格局，与当",
+    "url": "https://www.leiphone.com/category/industrynews/7XuKxVmxPG0rwM3f.html",
+    "imageUrl": null,
+    "source": "雷锋网",
+    "categoryId": null,
+    "publishedAt": "2026-09-02T10:15:00.000Z",
+    "createdAt": "2026-09-02T23:53:30.752Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "Robotics & Embodied AI",
+    "contentFormats": [
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160627,
+    "title": "上线物业缴费专属入口，支付宝以数字化助力物业行业服务力长效落地",
+    "description": "今日，克而瑞服务力发布大会举办，支付宝智能物业相关代表登台并发表主题演讲。支付宝物业服务凭借成熟的数字化解决方案成功入选《克而瑞2026中国物业服务力红皮书》，意味着其在智慧社区领域的实践成果获得行业认可。 值得关注的是，支付宝生活缴费同步上线物业缴费专属入口，正式将物业服务接入这一亿级民生窗口。依托18年民生服务运营积累，支付宝打造\"服务+缴费\"一体化入口，业主办理日常民生业务时即可完成物业费查缴，而对物业合作伙伴来说，配合平台消息推送，形成\"触达—转化—沉淀\"的完整运营链路。截至目前，已有近5000个小区入驻支付宝生活缴费平台。 为支撑服务长效落地，支付宝以产品、AI、运营三大能力重构物业服务流程。AI对话缴费将多步操作简化为语音指令，支持账单查询、经用户授权后的自动代扣签约，降低业主操作门槛。另外，平台配套缴费优惠、签到活动等运营工具，持续激发缴费意愿。支付宝表示，数智化能力正成为物业提升服务效率的重要支撑。通过便捷缴费、账单提醒、自动代扣及配套运营工具，部分合作小区的业主主动缴费意愿有所提升，物业催缴和收费运营效率也得到改善。 未来，支付宝将持续深耕社区服务赛道，以数字化底座赋能物业合作伙伴，推动行业由规模扩张转向品质运营，实现业主满意度与企业经营效益的双向提升。 雷峰网 雷峰网",
+    "url": "https://www.leiphone.com/category/industrynews/GwoJgC9qbA8VvfZC.html",
+    "imageUrl": null,
+    "source": "雷锋网",
+    "categoryId": null,
+    "publishedAt": "2026-09-02T10:04:00.000Z",
+    "createdAt": "2026-09-02T23:53:30.752Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "AI Models & Agents",
+    "contentFormats": [
+      "Xiaohongshu Explainer",
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160628,
+    "title": "腾讯WorkBuddy开放平台上线：首批超百家伙伴入局 国内首个同时打通软硬件、开发者三层生态的Agent基座",
+    "description": "9月2日，腾讯WorkBuddy宣布开放平台（open.WorkBuddy.cn）正式上线，首批引入超百家生态伙伴，面向智能硬件、行业应用与开发者等开放底层Agent能力。这是国内AI Agent赛道首个同时打通硬件、应用与开发者三层生态的开放平台，也是WorkBuddy今年3月上线以来首次披露完整开放生态战略。 发布会现场，9款联名智能硬件首发亮相，合作方包括Plaud、乐奇Rokid、影石、科大讯飞、安克、猛玛、京东京造等品牌；30余个行业应用同步接入，覆盖金融、法律、医疗、教育、公益等20多个领域。 \"真正的生产力，从来不取决于一个工具有多强，而取决于它能连接多少能力、走进多少场景。\"腾讯云副总裁、腾讯CodeBuddy & WorkBuddy负责人刘毅表示，\"我们希望把WorkBuddy打造成面向Agent时代的操作系统——不是做一个更强的工具，而是做一个能承载所有工具的平台。\" 腾讯云副总裁、腾讯CodeBuddy & WorkBuddy负责人刘毅 WorkBuddy 开放平台上线，首批引入超百家生态企业 过去各自为战的智能设备，如今第一次共享同一套Agent底座。围绕\"听、看、记、聊、协\"五类触点，WorkBuddy已接入智能眼镜、录音卡片、麦克风、耳机、桌面陪伴设备、键鼠、PC与平板、智能穿戴设备、手机等十余个品类，超过30个品牌。厂商无需自建AI，也不必改变产品形态——一次接入即可打通硬件、App、PC、Web多端，让账号、任务、记忆与产物在设备之间无缝流转。 本次发布的9款联名硬件中，包括Plaud、乐奇Rokid、影石、优篮子、科大讯飞、安克、猛玛、京东京造等品牌的多款旗舰产品，且多为各自品类中首次接入Agent能力。 以智能眼镜为例，眼镜端的麦克风与摄像头负责采集，WorkBuddy 负责理解、规划与执行，账号、任务、记忆与产物在眼镜、手机、PC 与 Web 之间同步。用户戴着眼镜进会议室，发言转写、会议纪要、待办与跟进邮件由同一条链路完成；外出访谈时，看到与听到的内容自动归档为可检索的记忆，事后可以直接追问上周客户提出的具体需求，并调用WorkBuddy 完成任务。 与此同时，WorkBuddy首次推出「Buddy应用」入口——由合作伙伴基于WorkBuddy Agent底座构建、面向具体行业与场景的品牌化AI工作台。伙伴无需自研AI，只需把",
+    "url": "https://www.leiphone.com/category/industrynews/3BBOm1CluS1kcwFf.html",
+    "imageUrl": null,
+    "source": "雷锋网",
+    "categoryId": null,
+    "publishedAt": "2026-09-02T07:15:00.000Z",
+    "createdAt": "2026-09-02T23:53:30.752Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "Education & Future Skills",
+    "contentFormats": [
+      "Xiaohongshu Explainer",
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160616,
+    "title": "还在为大模型洗数据熬夜？蚂蚁拿下VLDB工业最佳论文，一套宽表搞定35PB语料，效率狂飙5.6倍",
+    "description": "蚂蚁集团推出统一宽表系统OmniTable，论文获评VLDB 2026工业赛道最佳论文",
+    "url": "https://www.qbitai.com/2026/09/483104.html",
+    "imageUrl": null,
+    "source": "量子位",
+    "categoryId": null,
+    "publishedAt": "2026-09-02T06:20:17.000Z",
+    "createdAt": "2026-09-02T23:53:28.272Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "AI Models & Agents",
+    "contentFormats": [
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160629,
+    "title": "AIROBO联手中科院力学所，机器人运营技术注入国家科研力量",
+    "description": "当行业将大量注意力投向人形机器人、本体制造和基础模型时，机器人进入现实世界后的“运行问题”，正在成为另一个关键技术战场。9月1日，港股上市公司弘毅文化集团（00419.HK）发布自愿公告，AIROBO中国大陆主体—艾诺博（成都）科技有限公司与中国科学院力学研究所签署为期五年的合作协议，双方拟围绕复杂场景运行机理、空间智能、仿真推演、多机协同、场景数据闭环及成果转化展开合作。此次合作并未限定于某一款机器人，而是直接瞄准异构机器人规模化进入真实空间后出现的共性技术问题。 值得注意的是，双方此次并未把重点限定在某一款机器人产品，而是将研究对象直接指向机器人规模化进入真实空间之后产生的一系列共性技术问题。这与AIROBO本身的技术定位密切相关。AIROBO并不以单一机器人本体作为核心，而是试图构建面向多品牌、多类型机器人的统一运营平台。 异构管理规模化成为刚需 当一个物业项目只有一台配送机器人时，设备厂商自身的软件系统基本可以完成管理；当数量从1台增长到10台、100台，并来自不同厂商，复杂度会迅速上升。不同机器人可能采用不同地图体系、坐标系统、任务接口和数据格式；与此同时，机器人还必须与电梯、门禁、通道以及建筑物空间系统交互。于是，一个位于本体与真实场景之间的新技术层由此出现——机器人运营系统。 根据合作协议，AIROBO与中科院力学所将联合建设机器人物业商业场景全域智能运营平台，重点研究多品牌异构机器人统一接入、地图与空间模型、任务编排与协同调度、梯控门禁及通道协同、状态监测、异常预警、数据闭环和运营评价。这些能力实际上构成了机器人进入复杂建筑空间的“操作系统层”。它解决的不是某台机器人怎么完成某个动作，而是大量机器人如何共同理解空间、接受任务、使用基础设施并被统一管理。 力学能力补齐机器人运营重要底座 乍看之下，“机器人运营平台”似乎更接近软件工程，而中科院力学所的研究优势集中于力学和工程科学。但真实世界机器人恰恰是软件系统与物理世界高度耦合的典型领域。机器人在不同材质地面、坡度、门槛和狭窄空间中的运动涉及接触力学，轮足复合形态涉及复杂动力学和控制，多机同时运行涉及协同控制，人机共存环境则需要动态障碍预测、安全边界和可靠性评价。 双方此次明确提出，将联合研究复杂环境运动与接触力学、多物理场耦合建模、机器人动力学与控制、动态障碍预测、多机器人协同、人机协同安全、具身智能",
+    "url": "https://www.leiphone.com/category/industrynews/em9VVsPQwYhn37XN.html",
+    "imageUrl": null,
+    "source": "雷锋网",
+    "categoryId": null,
+    "publishedAt": "2026-09-02T06:11:00.000Z",
+    "createdAt": "2026-09-02T23:53:30.752Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "Robotics & Embodied AI",
+    "contentFormats": [
+      "Xiaohongshu Explainer",
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160617,
+    "title": "前字节强化学习专家孙鹏博士加盟星尘智能，完善Physical AI全栈技术布局",
+    "description": "9月2日，前字节跳动强化学习专家、前腾讯Robotics X智能体中⼼负责⼈孙鹏博⼠正式加入星尘智能",
+    "url": "https://www.qbitai.com/2026/09/483097.html",
+    "imageUrl": null,
+    "source": "量子位",
+    "categoryId": null,
+    "publishedAt": "2026-09-02T06:06:50.000Z",
+    "createdAt": "2026-09-02T23:53:28.272Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "Robotics & Embodied AI",
+    "contentFormats": [
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160630,
+    "title": "阿里云企业级Agent协作平台万有无界开启公测",
+    "description": "9月2日，阿里云旗下企业级人与Agent协作平台“万有无界”开启公测。企业用户和个人用户均可通过官网(https://www.qianwenai.com/agents/wanyou）注册体验，可调用阿里最新旗舰模型Qwen3.8-Max。 万有无界是一个多角色Agent协作工作台。与让单一AI Agent大包大揽不同，它把一件复杂的事拆解给多位有不同职责的Agent——在“项目空间”里组织成员和资产，通过群聊让多位Agent围绕同一个任务接力推进，过程中的产出沉淀到资产库，成为企业可复用的数字资产。 整个平台围绕几个核心功能展开。项目空间是组织协作的容器，把群聊、成员、资产归拢到同一个项目下；Agent会话分为单聊和群聊两种形态，用户既可以单独与Agent对话，也可以在群聊里与多个Agent协作；项目由PMO Agent“小有”依据SOP模板动态规划任务，分配给人与Agent成员，共同协作推进；资产库自动留存工作过程中生成的文件，随时可以找回；AI商城则供管理员筛选和配置AI资源。 万有无界设有两个主Agent：“小万”归属于用户，是个人总助理；“小有”归属于项目，扮演项目经理角色，可依据流程规划任务、生成分派方案、推动进展并组织复盘。 与传统AI Agent相比，万有无界上的Agent拥有长期身份、组织记忆、权限边界与协作机制——可被指派、被考核，产出归属明确；项目中的决策与判断依据按照项目留存，在授权范围内可被其他项目引用；记忆、资产、工具的可用范围由管理员定义，Agent只在受控边界内行动；多人与多Agent按节点分工、按前后置条件接力推进项目，人可以在关键节点验收和纠偏。 在两个内置主Agent之外，万有无界上Agent的来源也是开放的。用户可从技能市场选配，个性化组装Agent，或将已在本地部署且符合A2A协议的Agent接入平台，覆盖制造、影视、科研、设计、零售等各行各业的协作场景。 与企业级定位相匹配，万有无界强调“沉淀归属企业”。个人调教的AI Agent，经验只能沉淀在个人账号里，人离职，经验也跟着走；万有无界的设计前提与之相反——组织记忆与流程资产全部归属企业账户，权限体系保证它们在授权范围内可被重复使用，人员流动不影响组织能力的连续性。 同时，万有无界提供企业管理后台，管理员可完成组织管理、AI资源管控、知识资产管控、订阅账单与数据大盘等运营工",
+    "url": "https://www.leiphone.com/category/industrynews/zMhNkoPgV5CMzeVi.html",
+    "imageUrl": null,
+    "source": "雷锋网",
+    "categoryId": null,
+    "publishedAt": "2026-09-02T06:02:00.000Z",
+    "createdAt": "2026-09-02T23:53:30.752Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "Advanced Manufacturing",
+    "contentFormats": [
+      "Xiaohongshu Explainer",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160631,
+    "title": "建立AI时代“度量衡”：OPPO联合OpenKG推出首个端侧AI记忆评测基准MobileMem",
+    "description": "随着终端AI从“回答问题”走向长期理解用户和主动任务执行，记忆能力正成为决定AI个性化与主动服务水平的关键基础能力。 近日，OPPO联合中文开放知识图谱（OpenKG）社区，推出行业首个面向端侧AI记忆能力的评测基准MobileMem。同时携手浙江大学、同济大学、东南大学等高校专家团队共同建设。通过构建统一、开放的评测“标尺”， MobileMem让不同技术路线在同一标准下实现可比较、可迭代，加速端侧AI记忆技术发展。 这也意味着OPPO端侧AI记忆的持续投入，正从自身产品能力建设，进一步延伸至行业公共能力建设，积极推动技术开放合作与生态发展。 构建端侧AI “记忆”的“度量衡” 近年来，长期记忆和长程智能体能力评测已取得大量研究进展，但针对移动端长期个性化、多模态生活场景的系统性评测仍相对不足。 与云端智能体相比，端侧AI需要在有限算力、有限存储和隐私保护等约束下，持续积累、更新和利用用户长期记忆，其能力边界和优化目标具有明显差异。 缺乏统一、开放的评测参考，使端侧Agent开发者难以开展有效的A/B测试和性能回归，研究者也难以在一致的任务和评价协议下客观比较不同方案，进而制约了相关技术的持续迭代与生态发展。 OPPO携手中文开放知识图谱（OpenKG）社区，联合浙江大学、同济大学、东南大学等主流高校专家教授团队，基于前沿研究与实际端侧场景实践，共同推出端侧AI记忆评测基准——端侧AI记忆Benchmark 「MobileMem」，为行业提供开放的评测参考。 该基准评测数据集累计历史上下文规模达百万词元，用于模拟真实用户长期使用过程。在充分借鉴长期记忆、长上下文、多模态智能体等已有研究工作的基础上，MobileMem聚焦端侧AI的真实使用场景与长期个性化需求，主要包括三大核心技术维度： 1. 长期事件建模与检索：覆盖跨时间、跨应用、跨模态事件的记忆存储、更新与检索能力。 2. 跨模态关联与推理：覆盖文本、图像等多模态信息之间的关联理解与推理能力，包括时序推理、关系推理和问答。 3. 持续演化与个性化适应：覆盖用户偏好、社交关系和事件状态随时间变化后的持续更新能力。 举个例子，「个人生活伴侣」场景中。一个家庭正在计划今年的假期旅行，用户问：“你能帮我规划一次和去年我们喜欢的那次类似的旅行吗？”助手不是生成通用的旅行推荐，而是基于长期记忆，推荐一份反映用户历史偏好、旅",
+    "url": "https://www.leiphone.com/category/industrynews/PXii3It1SuG1KANO.html",
+    "imageUrl": null,
+    "source": "雷锋网",
+    "categoryId": null,
+    "publishedAt": "2026-09-02T03:05:00.000Z",
+    "createdAt": "2026-09-02T23:53:30.752Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "Chips & Compute",
+    "contentFormats": [
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160632,
+    "title": "阿里更新旗舰模型Qwen3.8-Max，前端编程能力跃居全球第一",
+    "description": "9月2日，阿里更新旗舰模型Qwen3.8-Max，性能较旧版本显著提升。在针对编程（Coding）和专业办公（Cowork）进行专项后训练后，Qwen3.8-Max新版本整体性能增强。在聚焦前端编程能力（WebDev）的全球权威三方榜单CodeArena中，提升22分至1691分，领先Claude Opus5、Kimi K3等一众模型，位居总榜第一。同时，CodeArena更新的模型性价比榜单（帕累托前沿）显示，Qwen3.8-Max新版本每百万Tokens综合平均仅5美元，直接“斩杀”所有价格大于5美元的其他模型。据了解，Qwen3.8-Max是阿里千问迄今最强大的大语言模型，总参数达2.4万亿，支持100万上下文Tokens；更新后的Qwen3.8-Max涌现出更强的智能体编程能力，更适合企业真实复杂任务、科研、长周期任务等。目前，Qwen3.8-Max新模型已上线千问AI平台对外提供API服务，千问办公、Qoder、千问APP均第一时间接入。",
+    "url": "https://www.leiphone.com/category/industrynews/Yubz8Ft9lJUQ46S1.html",
+    "imageUrl": null,
+    "source": "雷锋网",
+    "categoryId": null,
+    "publishedAt": "2026-09-02T02:51:00.000Z",
+    "createdAt": "2026-09-02T23:53:30.752Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "AI Models & Agents",
+    "contentFormats": [
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160618,
+    "title": "企业级Agent落地样板间！百融硅基员工批量上岗，按结果领工资",
+    "description": "AI客服日扛1.5万通电话",
+    "url": "https://www.qbitai.com/2026/09/482967.html",
+    "imageUrl": null,
+    "source": "量子位",
+    "categoryId": null,
+    "publishedAt": "2026-09-02T02:48:06.000Z",
+    "createdAt": "2026-09-02T23:53:28.272Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "AI Models & Agents",
+    "contentFormats": [
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160619,
+    "title": "香港首个真实开放场景服务机器人落地兰桂坊",
+    "description": "在香港兰桂坊，一位特殊的“酒保”正式上岗",
+    "url": "https://www.qbitai.com/2026/09/482855.html",
+    "imageUrl": null,
+    "source": "量子位",
+    "categoryId": null,
+    "publishedAt": "2026-09-02T02:06:08.000Z",
+    "createdAt": "2026-09-02T23:53:28.272Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "Robotics & Embodied AI",
+    "contentFormats": [
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160620,
+    "title": "李飞飞发布：全球首个多模态世界模型",
+    "description": "一张图补全3D世界，还能给机器人造训练场",
+    "url": "https://www.qbitai.com/2026/09/482586.html",
+    "imageUrl": null,
+    "source": "量子位",
+    "categoryId": null,
+    "publishedAt": "2026-09-02T01:07:13.000Z",
+    "createdAt": "2026-09-02T23:53:28.272Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "Robotics & Embodied AI",
+    "contentFormats": [
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160633,
+    "title": "苹果新CEO上任首日！曝新iPhone恢复赠送充电头，官方回应；宇树回应「超100元报销需王兴兴审批」等传闻；华为、小米、荣耀手机集体涨价",
+    "description": "要闻提示 1.苹果新CEO上任首日！新iPhone被曝恢复赠送充电头、有线耳机，官方回应 2.“奖惩机制只有罚几乎没有奖、超100元报销需王兴兴审批”？宇树科技回应 3.“首款AI智能体手机”获入网许可，9月上市销售 4.华为、小米、荣耀手机集体涨价，魅族科技：已坚持到最后一刻，国庆后涨价 5.“星宇股份批量劝退应届生”，大众中国：已启动专项调查 6.王小川引入新合伙人，前搜狗市场负责人董璐加盟 7.曝钉钉创始人无招或将加入蚂蚁集团 8.SpaceX 数据中心出现工程、稳定性问题，马斯克为此换掉多名建设团队高管 今日头条 苹果新CEO上任首日！新iPhone被曝恢复赠送充电头、有线耳机，官方回应 当地时间9月1日，蒂姆·库克卸任苹果CEO一职，转任董事会执行主席，CEO由约翰·特努斯接任。持续15年的苹果“库克时代”结束，迎来了“特努斯时代”。9月1日苹果开盘，股价微跌，随后盘中涨超2.5%，市值站上4.74万亿美元，较上一交易日收盘4.62万亿美元大增1200亿美元（折合超8000亿元人民币）。 而就在约翰·特努斯上任首日，一则“苹果将重新为新iPhone附赠充电头和有线耳机”的消息在社交平台引发热议。有账号发文称，在特努斯上任后，消费者购买新iPhone将重新获得充电器和有线耳机。不过，苹果方面随后对此进行了回应。据媒体报道，苹果官方客服表示，第三方信息无法确认其准确性，Apple没有发布相关政策信息，Apple没有这个通知。 据了解，苹果自2020年发布iPhone 12系列开始，就不再为新款iPhone附赠充电头和EarPods有线耳机。苹果表示，此举目的在于减少碳排放，有利于环保。这一决定推出后曾引发众多网友吐槽，纷纷表示苹果“不厚道”，甚至还有一些海外用户因此起诉苹果。苹果则一直强调这一调整带来的环保收益。 此外，相关文件显示，新任CEO约翰·特努斯2027财年的薪酬方案目标值约为5800万美元，而库克约为4700万美元。根据新的薪酬安排，特努斯的年度基本工资为300万美元，并将在2027财年获得目标价值5500万美元的年度股权奖励。（快科技、第一财经） 国内资讯 “奖惩机制只有罚几乎没有奖、超100元报销需王兴兴审批”？宇树科技回应 9月1日，“宇树员工称奖惩机制只有罚几乎没有奖”“宇树员工称超100元报销需王兴兴审批”登上热搜。对此，宇树科技方面回应",
+    "url": "https://www.leiphone.com/category/zaobao/8VM0tsh1bX3X7luW.html",
+    "imageUrl": null,
+    "source": "雷锋网",
+    "categoryId": null,
+    "publishedAt": "2026-09-02T00:35:00.000Z",
+    "createdAt": "2026-09-02T23:53:30.752Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "Policy & Society",
+    "contentFormats": [
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
     "id": 2160582,
     "title": "NASA Selects Blue Origin as Mars Telecommunications Network Provider",
     "description": "NASA awarded Blue Origin a contract Tuesday to develop the agency’s Mars Telecommunications Network, a next-generation communications system that will enable reliable, high-bandwidth communications and navigation services for current and future Mars missions. The firm-fixed-price contract has a maximum potential value of approximately $700 million to deliver a high-performance Mars telecommunications orbiter to NASA no [&#8230;]",

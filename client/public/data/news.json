@@ -1,5 +1,94 @@
 [
   {
+    "id": 2160688,
+    "title": "押中SpaceX的硅谷老将，把票投给了一家中国世界模型公司",
+    "description": "当AI开始“预演”一场暴雨",
+    "url": "https://www.qbitai.com/2026/09/484683.html",
+    "imageUrl": null,
+    "source": "量子位",
+    "categoryId": null,
+    "publishedAt": "2026-09-05T14:46:15.000Z",
+    "createdAt": "2026-09-05T23:36:20.842Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "AI Models & Agents",
+    "contentFormats": [
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160686,
+    "title": "Cyborg Roaches Can Stab You With Needles",
+    "description": "Imagine you are trapped under rubble after an earthquake and you see an electronics-covered cockroach with a spring-loaded needle on its back scuttling toward you. Although the sight might be unnerving, to say the least, this prototype paramedic cyborg, or “Paraborg,” might one day help deliver lifesaving aid to disaster victims who might be otherwise impossible to reach. The Hardest Problems in Robotics For decades, scientists have sought to develop cyborg insects as “a shortcut around some of the hardest problems in robotics,” says T. Thang Vo-Doan , director of the University of Queensland’s Biorobotics Lab in Brisbane, Australia, which just published a paper on the Paraborgs. The University of Queensland Building an insect-size robot “that can move reliably through rubble, climb over irregular surfaces, recover from falls, carry its own power, and still have room for useful sensors is extraordinarily difficult,” Vo-Doan says. An insect already comes with much of that mobility built",
+    "url": "https://spectrum.ieee.org/cyborg-rescue-roach",
+    "imageUrl": null,
+    "source": "IEEE Spectrum Robotics",
+    "categoryId": null,
+    "publishedAt": "2026-09-05T13:00:04.000Z",
+    "createdAt": "2026-09-05T23:36:17.473Z",
+    "language": "en",
+    "region": "Global",
+    "topic": "Robotics & Embodied AI",
+    "contentFormats": [
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160689,
+    "title": "陶哲轩吐槽GPT-6孪生素数新突破：令人无语的一幕",
+    "description": "AI直接吐出正确答案，但最关键的可能不是答案",
+    "url": "https://www.qbitai.com/2026/09/484649.html",
+    "imageUrl": null,
+    "source": "量子位",
+    "categoryId": null,
+    "publishedAt": "2026-09-05T04:24:25.000Z",
+    "createdAt": "2026-09-05T23:36:20.842Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "AI Models & Agents",
+    "contentFormats": [
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160690,
+    "title": "这个世界模型训练完就“退场”，机器人反而更能干了",
+    "description": "如此“反骨”的方法，具体又是怎么实现的？",
+    "url": "https://www.qbitai.com/2026/09/484611.html",
+    "imageUrl": null,
+    "source": "量子位",
+    "categoryId": null,
+    "publishedAt": "2026-09-05T04:18:54.000Z",
+    "createdAt": "2026-09-05T23:36:20.842Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "Robotics & Embodied AI",
+    "contentFormats": [
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160691,
+    "title": "追觅百余款产品亮相IFA：覆盖16个品类，6款产品获国际奖项",
+    "description": "9月4日，追觅以“EMPOWER YOUR DREAM LIFE”为主题亮相IFA 2026，集中展示覆盖超过16个品类的百余款产品及数十项全球首创技术。其中，来自扫地机器人、吹风机、生活环境电器、擦窗机器人和割草机器人等品类的6款产品获得国际奖项。 本届展品聚焦真实使用难题：Cyber X将自动清洁从单层延伸至多层住宅，T16 Pro Heat针对厨房重油污，Pano10系列擦窗机器人通过机械臂覆盖边角，LumiDryer把光能技术用于头发护理。不同产品共享感知、算法和控制能力，形成从环境识别到动作执行的技术闭环。 目前，追觅产品已覆盖全球190余个国家和地区，累计服务超过4200万家庭。不同地区的住房结构和生活习惯持续进入产品定义与算法迭代，全球市场由此成为追觅验证技术、优化产品和推动跨品类复用的重要场景。",
+    "url": "https://www.leiphone.com/category/industrynews/XNJJff9rFB30oDEH.html",
+    "imageUrl": null,
+    "source": "雷锋网",
+    "categoryId": null,
+    "publishedAt": "2026-09-05T02:35:00.000Z",
+    "createdAt": "2026-09-05T23:36:23.232Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "Robotics & Embodied AI",
+    "contentFormats": [
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
     "id": 2160667,
     "title": "NASA Ames Fire Department Aircraft Firefighting Training",
     "description": "The fire department at NASA’s Ames Research Center in California’s Silicon Valley will perform training on the Moffett Federal Airfield beginning Tuesday, Sept. 8 through Friday, Sept. 11. The training will involve the use of a propane-fueled aircraft fire simulator and be conducted from 8 a.m. to 8 p.m. PDT. Because the aircraft simulator is [&#8230;]",
@@ -13,6 +102,24 @@
     "region": "Global",
     "topic": "Chips & Compute",
     "contentFormats": [
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160687,
+    "title": "Video Friday: Digit Redecorates",
+    "description": "Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few months. Please send us your events for inclusion. Humanoids Summit Seoul : 22–23 September 2026, SEOUL IROS 2026 : 27 September–1 October 2026, PITTSBURGH CoRL 2026 : 9–12 November 2026, AUSTIN Enjoy today’s videos! I know these videos from Agility can be a little bit silly, but the couch drag in this one is impressive. [ Agility Robotics ] Stabilizing unsecured payloads against the inherent oscillations of dynamic bipedal locomotion remains a critical engineering bottleneck for humanoids in unstructured environments. To solve this, we introduce ReST-RL, a hierarchical reinforcement learning architecture that explicitly decouples locomotion from payload stabilization. Successfully deployed on the Unitree G1 humanoid hardware, this modular approach demonstrates highly reliable zero-shot sim-to-r",
+    "url": "https://spectrum.ieee.org/video-friday-agility-robotics-digit",
+    "imageUrl": null,
+    "source": "IEEE Spectrum Robotics",
+    "categoryId": null,
+    "publishedAt": "2026-09-04T16:00:05.000Z",
+    "createdAt": "2026-09-05T23:36:17.473Z",
+    "language": "en",
+    "region": "Global",
+    "topic": "Robotics & Embodied AI",
+    "contentFormats": [
+      "Short Video",
       "WeChat Deep Dive"
     ]
   },

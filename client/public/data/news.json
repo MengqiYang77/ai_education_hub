@@ -1,5 +1,58 @@
 [
   {
+    "id": 2160694,
+    "title": "3000万用户、过半是企业，千问办公靠什么拿下B端？",
+    "description": "AI办公的To B化趋势，越来越明显。 9月4日，千问办公上线满一个月，阿里亮出了一个数字：用户数突破3000万，其中企业用户占比超过一半。 单看用户规模，这是一个增长数据；但如果放到整个AI办公市场来看，更值得关注的是：包括阿里在内的大厂，正在推动 办公Agent从个人提效工具，转向嵌入企业组织的内部工作流。 在部分业内人士看来，千问办公上线仅一个月就突破3000万用户， 这一速度确实超出预期 。如今回看，从上线之初就锁定企业级Agent市场，这步棋走得并不冒进。 随着AI办公产品在C端和企业场景的逐步渗透，不少业内人士也关注到， 个人效率的提升，并不等同于企业业务的整体提效。 在3000万这个数字背后，千问办公也成了一个AI办公To B化值得观察的样本： 在企业场景下，个人办公经验如何更大程度上转化为企业组织的资产？从B端直接切入AI办公市场，商业化的潜力又在哪里？ 3000万用户，千问办公如何拿下？ 短短一个月，千问办公的3000万用户从哪里来？ 对大多数AI产品来说，纯靠自然增长很难在这么短的时间内达到如此用户规模。但千问办公背后，有一张很重要的牌：阿里多年积累的B端能力。 千问办公并非从零起步，而是整合或转化了阿里此前在Agent和办公场景上的多款产品能力和客户基础。 上线后，千问办公开放了独立PC客户端（桌面端）、网页端、钉钉三个入口。其中，钉钉是最直接的一环： 将AI办公产品直接嵌入工作流，用起来才顺手。 一位长期观察办公赛道的业内人士曾表示：“Agent时代和互联网时代不同，如果企业真想做到提效，就得把AI工具嵌入到原有的工作流。” 千问办公上线第一天，就与钉钉打通，并覆盖文档、表格、日程、消息、邮件等高频办公场景。 此外，阿里云多年积累的企服能力和客群基础，也成为千问办公迅速切入B端市场的一块“家底”，这是企业级产品天然不同的增长方式： 一方面，阿里云和钉钉销售团队此前合作过的部分大客户，本身对AI办公产品有需求，也愿意尝试。这种渠道的渗透效率远高于个人拉新，而且 企业自身有AI转型焦虑，使用后还具有明显的组织扩散效应 ：企业级AI一旦在某场景验证有效，往往会向同一组织的其他岗位和上下游供应商等扩散。 另一方面，千问办公由QoderWork、悟空、MuleRun等产品能力整合而来，技术扎实， 各产品此前在用户端已有一定认知 ，并且在公测的一个月以来",
+    "url": "https://www.leiphone.com/category/industrynews/kaQUKRRyiIqho1m2.html",
+    "imageUrl": null,
+    "source": "雷锋网",
+    "categoryId": null,
+    "publishedAt": "2026-09-06T13:10:00.000Z",
+    "createdAt": "2026-09-06T23:33:26.770Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "AI Models & Agents",
+    "contentFormats": [
+      "Xiaohongshu Explainer",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160692,
+    "title": "具身ICL来了创业玩家！上下文成Scaling新赛道",
+    "description": "让机器人学会利用更长的多模态Context",
+    "url": "https://www.qbitai.com/2026/09/484897.html",
+    "imageUrl": null,
+    "source": "量子位",
+    "categoryId": null,
+    "publishedAt": "2026-09-06T11:44:21.000Z",
+    "createdAt": "2026-09-06T23:33:23.867Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "Robotics & Embodied AI",
+    "contentFormats": [
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160693,
+    "title": "B站首届AI创造公开赛收官，超八成参赛者为一人团队",
+    "description": null,
+    "url": "https://www.qbitai.com/2026/09/484890.html",
+    "imageUrl": null,
+    "source": "量子位",
+    "categoryId": null,
+    "publishedAt": "2026-09-06T04:40:15.000Z",
+    "createdAt": "2026-09-06T23:33:23.867Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "AI Models & Agents",
+    "contentFormats": [
+      "WeChat Deep Dive"
+    ]
+  },
+  {
     "id": 2160688,
     "title": "押中SpaceX的硅谷老将，把票投给了一家中国世界模型公司",
     "description": "当AI开始“预演”一场暴雨",

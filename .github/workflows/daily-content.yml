@@ -1,6 +1,10 @@
 name: Daily content update
 
 on:
+  push:
+    paths:
+      - "scripts/update-content.mjs"
+      - ".github/workflows/daily-content.yml"
   schedule:
     # 06:00 Asia/Shanghai (22:00 UTC on the previous day)
     - cron: "0 22 * * *"

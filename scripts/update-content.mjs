@@ -3,6 +3,8 @@ import { readFile, writeFile } from "node:fs/promises";
 const dataDir = new URL("../client/public/data/", import.meta.url);
 const recentCutoff = Date.now() - 1000 * 60 * 60 * 24 * 120;
 const normalizeOnly = process.argv.includes("--normalize-only");
+const researchOnly = process.argv.includes("--research-only");
+const newsOnly = process.argv.includes("--news-only");
 
 // Prefer first-party labs and engineering institutions. `focused` feeds only need
 // a frontier-tech match; broad feeds must also match education or frontier tech.
@@ -105,7 +107,28 @@ async function updateNews() {
   return added;
 }
 
-const researchQueries = ["artificial intelligence education", "generative AI teaching", "large language model learning", "intelligent tutoring system", "AI literacy education", "robotics education", "embodied AI learning", "AI data science education"];
+const researchQueries = ["artificial intelligence education", "generative AI teaching", "intelligent tutoring system", "AI literacy education", "robotics education", "data science education"];
+const isoDate = date => date.toISOString().slice(0, 10);
+// Semantic Scholar's regular search endpoint ranks by relevance. Repeating that
+// query eventually returns the same older papers forever. Bulk search supports
+// an explicit publication window and newest-first ordering, which makes it
+// suitable for an incremental daily feed.
+const researchWindowEnd = new Date();
+const researchWindowStart = new Date(Date.now() - 1000 * 60 * 60 * 24 * 30);
+const researchTechnologyPattern = /artificial intelligence|\bai\b|machine learning|deep learning|generative|foundation model|large language model|\bllm\b|intelligent tutor|robot|embodied|data science|data literacy|computational thinking|人工智能|机器学习|大模型|机器人|具身|数据素养|计算思维/iu;
+// Avoid treating the word "learning" in "machine/reinforcement learning" as
+// evidence that a paper is about education.
+const researchEducationPattern = /education|educational|teaching|classroom|student|learner|teacher|curriculum|school|university|college|pedagog|tutor|literacy|教育|学习者|教学|课堂|学生|教师|课程|学校|大学|高校|素养/iu;
+const researchExcludedTitlePattern = /medical|medicine|nurs|clinical|patient|pharmac|radiolog|surg|dental|health profession|医学|医疗|护理|临床|患者|药学|放射|外科/iu;
+
+async function fetchResearch(url) {
+  for (let attempt = 1; attempt <= 3; attempt++) {
+    const response = await fetchWithTimeout(url);
+    if (response.status !== 429 && response.status < 500) return response;
+    if (attempt < 3) await new Promise(resolve => setTimeout(resolve, attempt * 10_000));
+  }
+  return fetchWithTimeout(url);
+}
 function researchTopic(title, abstract) {
   const classified = classifyTopic(`${title} ${abstract}`);
   if (classified === "Robotics & Embodied AI") return "Robotics";
@@ -118,30 +141,48 @@ function researchTopic(title, abstract) {
 async function updateResearch() {
   const rows = await read("research");
   const urls = new Set(rows.map(row => row.url));
+  const sourceIds = new Set(rows.map(row => row.sourceId).filter(Boolean));
   let nextId = Math.max(0, ...rows.map(row => Number(row.id))) + 1;
   let added = 0;
+  let successfulQueries = 0;
   for (const query of researchQueries) {
     try {
-      const params = new URLSearchParams({ query, fields: "title,abstract,authors,publicationDate,year,venue,externalIds,openAccessPdf", limit: "50" });
-      const response = await fetchWithTimeout(`https://api.semanticscholar.org/graph/v1/paper/search?${params}`);
-      if (!response.ok) continue;
+      const params = new URLSearchParams({
+        query,
+        fields: "title,abstract,authors,publicationDate,year,venue,externalIds,openAccessPdf",
+        sort: "publicationDate:desc",
+        publicationDateOrYear: `${isoDate(researchWindowStart)}:${isoDate(researchWindowEnd)}`,
+      });
+      const response = await fetchResearch(`https://api.semanticscholar.org/graph/v1/paper/search/bulk?${params}`);
+      if (!response.ok) {
+        console.warn(`research: ${query}: HTTP ${response.status}`);
+        continue;
+      }
+      successfulQueries++;
       const body = await response.json();
+      let queryAdded = 0;
       for (const paper of body.data ?? []) {
+        if (queryAdded >= 15) break;
         const doi = paper.externalIds?.DOI;
         const url = doi ? `https://doi.org/${doi}` : `https://www.semanticscholar.org/paper/${paper.paperId}`;
         const publishedAt = paper.publicationDate || (paper.year ? `${paper.year}-01-01` : null);
-        if (!paper.title || !publishedAt || urls.has(url) || new Date(publishedAt).getTime() < recentCutoff) continue;
+        const publishedTime = new Date(publishedAt).getTime();
+        const searchable = `${paper.title ?? ""} ${paper.abstract ?? ""}`;
+        const title = paper.title ?? "";
+        if (!title || !publishedAt || !researchTechnologyPattern.test(title) || !researchEducationPattern.test(title) || researchExcludedTitlePattern.test(title) || !researchTechnologyPattern.test(searchable) || !researchEducationPattern.test(searchable) || urls.has(url) || sourceIds.has(paper.paperId) || Number.isNaN(publishedTime) || publishedTime < recentCutoff || publishedTime > Date.now()) continue;
         rows.push({ id: nextId++, title: paper.title, abstract: paper.abstract ?? null, authors: JSON.stringify((paper.authors ?? []).map(a => a.name)), url, pdfUrl: paper.openAccessPdf?.url ?? null, source: paper.venue || "Semantic Scholar", sourceId: paper.paperId, categoryId: null, topic: researchTopic(paper.title, paper.abstract ?? ""), publishedAt, fetchedAt: new Date().toISOString(), createdAt: new Date().toISOString() });
-        urls.add(url); added++;
+        urls.add(url); sourceIds.add(paper.paperId); added++; queryAdded++;
       }
-      await new Promise(resolve => setTimeout(resolve, 1200));
+      await new Promise(resolve => setTimeout(resolve, 8000));
     } catch (error) { console.warn(`research: ${query}: ${error.message}`); }
   }
+  if (successfulQueries === 0) throw new Error("research: every Semantic Scholar query failed");
   rows.sort((a, b) => String(b.publishedAt).localeCompare(String(a.publishedAt)));
   await save("research", rows);
   return added;
 }
 
-const newsAdded = await updateNews();
-const researchAdded = normalizeOnly ? 0 : await updateResearch();
+if (researchOnly && newsOnly) throw new Error("Choose only one of --research-only or --news-only");
+const newsAdded = researchOnly ? 0 : await updateNews();
+const researchAdded = normalizeOnly || newsOnly ? 0 : await updateResearch();
 console.log(JSON.stringify({ newsAdded, researchAdded }));

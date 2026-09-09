@@ -1,5 +1,511 @@
 [
   {
+    "id": 2160731,
+    "title": "MIT Schwarzman College of Computing launches pilot to help educators teach AI across disciplines",
+    "description": "A weeklong summer workshop brought higher education faculty to campus to explore how AI and machine learning materials can be adapted for their classrooms.",
+    "url": "https://news.mit.edu/2026/mit-schwarzman-college-computing-launches-pilot-help-educators-teach-ai-across-disciplines-0909",
+    "imageUrl": null,
+    "source": "MIT AI",
+    "categoryId": null,
+    "publishedAt": "2026-09-09T20:40:00.000Z",
+    "createdAt": "2026-09-09T23:51:46.124Z",
+    "language": "en",
+    "region": "Global",
+    "topic": "Education & Future Skills",
+    "contentFormats": [
+      "Xiaohongshu Explainer",
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160737,
+    "title": "刚刚，苹果首款折叠屏发布！15999元起，AI参与设计",
+    "description": "一比根号二的小胖折叠",
+    "url": "https://www.qbitai.com/2026/09/486450.html",
+    "imageUrl": null,
+    "source": "量子位",
+    "categoryId": null,
+    "publishedAt": "2026-09-09T19:24:22.000Z",
+    "createdAt": "2026-09-09T23:52:11.050Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "AI Models & Agents",
+    "contentFormats": [
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160735,
+    "title": "AI creates risk, opportunities for key human rights fields, report finds",
+    "description": "UC Berkeley Human Rights Center finds threats to freedom of thought, access to information, and right to equality in evaluation of large language models. The post AI creates risk, opportunities for key human rights fields, report finds appeared first on Berkeley News .",
+    "url": "https://humanrights.berkeley.edu/press-release/berkeley-human-rights-center-finds-threats-to-freedom-of-thought-access-to-information-and-right-to-equality-in-human-rights-evaluation-of-llms/",
+    "imageUrl": null,
+    "source": "Berkeley News",
+    "categoryId": null,
+    "publishedAt": "2026-09-09T16:27:35.000Z",
+    "createdAt": "2026-09-09T23:52:09.156Z",
+    "language": "en",
+    "region": "Global",
+    "topic": "AI Models & Agents",
+    "contentFormats": [
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160732,
+    "title": "How 2 US, European Satellites Are Studying Hurricanes During El Niño",
+    "description": "Last November, NASA and its European partners launched the Sentinel-6B satellite to improve hurricane forecasts, help protect infrastructure, and benefit commercial industries, including shipping. The satellite now is flying 30 seconds behind its predecessor, Sentinel-6 Michael Freilich. Both satellites are providing precise sea level height measurements during what oceanographers expect to be a historic El [&#8230;]",
+    "url": "https://www.nasa.gov/missions/jason-cs-sentinel-6/how-2-us-european-satellites-are-studying-hurricanes-during-el-nino/",
+    "imageUrl": null,
+    "source": "NASA",
+    "categoryId": null,
+    "publishedAt": "2026-09-09T16:00:00.000Z",
+    "createdAt": "2026-09-09T23:51:58.477Z",
+    "language": "en",
+    "region": "Global",
+    "topic": "Space & Aerospace",
+    "contentFormats": [
+      "Xiaohongshu Explainer",
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160733,
+    "title": "Artemis II Crew at NASA Marshall",
+    "description": "The crew of NASA’s Artemis II mission – NASA astronauts Christina Koch, Victor Glover, and Reid Wiseman and CSA (Canadian Space Agency) astronaut Jeremy Hansen – visited Huntsville, Alabama, Sept. 1, 2026, where they met with the NASA workforce at NASA’s Marshall Space Flight Center. The event gave the crew an opportunity to share firsthand [&#8230;]",
+    "url": "https://www.nasa.gov/image-article/artemis-ii-crew-at-nasa-marshall/",
+    "imageUrl": null,
+    "source": "NASA",
+    "categoryId": null,
+    "publishedAt": "2026-09-09T15:31:44.000Z",
+    "createdAt": "2026-09-09T23:51:58.477Z",
+    "language": "en",
+    "region": "Global",
+    "topic": "Space & Aerospace",
+    "contentFormats": [
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160736,
+    "title": "New AI model for DNA learns from evolution to unlock secrets of the human genome",
+    "description": "UC Berkeley researchers have created a new genomic language model, called GPN-Star, that excels at spotting genetic variants that impact human health. The post New AI model for DNA learns from evolution to unlock secrets of the human genome appeared first on Berkeley News .",
+    "url": "https://news.berkeley.edu/2026/09/09/new-ai-model-for-dna-learns-from-evolution-to-unlock-secrets-of-the-human-genome/",
+    "imageUrl": null,
+    "source": "Berkeley News",
+    "categoryId": null,
+    "publishedAt": "2026-09-09T15:05:00.000Z",
+    "createdAt": "2026-09-09T23:52:09.156Z",
+    "language": "en",
+    "region": "Global",
+    "topic": "Bioengineering",
+    "contentFormats": [
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160742,
+    "title": "11家Coding平台首同场、近七成参赛者未满18岁，AI Coding第一次有了“全民样本”",
+    "description": "9月9日，外滩大会现场诞生一项新的吉尼斯世界纪录。 外滩黑客松·AI Coding大赛完成吉尼斯世界纪录认证，以AI应用作品数创造“线上生成式人工智能编程马拉松大赛中开发最多的应用”这一新纪录，成为国内首个以AI Coding为主题挑战世界纪录的赛事。赛事吸引上万名参赛者，共完成万件AI应用作品，其中近七成参赛者未满18岁，最小参赛者仅6岁，最终由一名9岁选手夺得冠军。 本届大赛由外滩大会组委会发起，联合小红书、观猹共同主办，国内十余个头部AI Coding平台共同承办。在颁奖现场，11家头部AI Coding平台也共同发布《AI Coding公开挑战赛技术规范》，将大规模赛事实践沉淀为行业规范。全民Coding时代，这也是国内首份由多家AI Coding平台共同制定的公开挑战赛技术规范。 当上万人开始用AI把想法变成应用，“全民Coding”第一次有了一个具体的规模化样本。吉尼斯世界纪录官方认证官胡晓雯表示：“中国参赛者正在以新的方式创造纪录，也将AI时代的创造力带入这一全球性的‘成就档案’。” 【图说：外滩黑客松·AI Coding大赛打破吉尼斯世界纪录】 一项世界纪录，见证AI Coding走向大众 此次外滩黑客松·AI Coding大赛挑战的吉尼斯世界纪录为“线上生成式人工智能编程马拉松大赛中开发最多的应用”。 按照纪录规则，参赛者需要在线完成原创应用开发，作品达到相应MVP标准，并经过吉尼斯世界纪录官方审核认证。最终，大赛以15577件应用作品完成纪录挑战。 对于AI Coding而言，这项纪录体现的不只是应用数量，更是一次大规模真实使用：当大量应用由不同年龄、不同背景的参赛者借助AI完成，AI Coding也从专业开发者使用的工具，进入了更广泛的大众创作场景。 吉尼斯世界纪录官方认证官胡晓雯表示：“通过纪录的力量，吉尼斯不断见证人类的极限与创造力。”她表示，中国参赛者正在以新的方式创造纪录，也将AI时代的创造力带入这一全球性的“成就档案”。 赛事主办方、外滩大会组委会相关负责人表示，发起外滩黑客松·AI Coding大赛，希望通过一场真实的大规模AI创造实践，让更多人看到AI正在如何改变创造的门槛。当越来越多人能够借助AI把想法变成应用，AI Coding也将从少数开发者掌握的专业技能，走向更广泛的大众创造。 从6岁孩子到职场人，越来越多人开始用AI创作",
+    "url": "https://www.leiphone.com/category/industrynews/qYzjYFvO8ZwUF0yC.html",
+    "imageUrl": null,
+    "source": "雷锋网",
+    "categoryId": null,
+    "publishedAt": "2026-09-09T11:20:00.000Z",
+    "createdAt": "2026-09-09T23:52:13.581Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "AI Models & Agents",
+    "contentFormats": [
+      "Xiaohongshu Explainer",
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160743,
+    "title": "全球首个诊脉灵巧手亮相，打造它的公司却说自己只做触觉",
+    "description": "2026年以来，具身智能依旧是一级市场最受关注的赛道之一。本体、模型、场景和应用的竞争持续升温，连带着上游的传感器环节也一起热了起来。 触觉传感器，就是这条产业链上最先拥挤起来的环节之一。过去两年，涌进这个赛道的公司多达25家，数采设备、数据手套几乎成了标配动作。行业的主流叙事也很一致：具身智能缺触觉数据，谁先把数据攒起来，谁就握住了未来的燃料。 但在这股热潮中，有一家公司显得有些不同。 它成立不到一年、团队只有20人左右、尚处天使轮， 从 底层的传感器与解决方案 切入 ， 在WRC 2026上全球首发了一台会诊脉的机器人灵巧手，用人类触觉最顶级的场景， 展示出了自身技术的想象空间 。 这家公司名为游仞智能。 9月3日，游仞智能创始人兼CEO张振 在与雷峰网的交流中 ，把这台灵巧手背后的技术账本和路线判断全部摊开。在他看来，行业缺的从来不只是数据量，而是数据可信度。这个判断，构成了游仞智能与其余同行最大的分野。 01 机器人把手搭上了人的脉搏 在WRC 2026的展台上，游仞智能的诊脉专用灵巧手完成全球首发： 三根 手指搭上人的手腕，寸关尺三部依次落定，举按寻三种力度轮换下压；脉象解析在端侧完成，进一步诊断放到云端。目前系统能解析二十八种脉象，并据此调用中医知识给出建议。 为什么挑诊脉这个场景？张振的解释带着产品哲学的味道：公司创办第一天起就在找人类触觉的极限，目标只有一个，做出媲美人类触觉的传感器。当团队发现诊脉正是人类触觉最顶级的体现时，立刻把它立为内部课题攻克。 诊脉难在哪？中医的手法叫三部九候：寸关尺三个位置，举按寻三种力度，感知讲究“位、数、形、势”，最后凭经验解析脉象。落到触觉层面，这是四类感受器的并行作业：迈斯纳小体识别低频振动和滑动，默克尔盘负责静态压力和纹理，帕西尼小体捕捉高频振动，鲁菲尼小体感知持续拉伸和剪切。脉象本质上是压力、时间、空间交织的三维信号。 张振打过一个比方：“每个人手指头上面就有十个很高精度的探头，可以视作十个超声波。中医就是中国人的B超，只不过它是用指尖的触觉实现的。” 这个比方背后是一个行业事实：25家触觉公司里，没有一家宣称自己的传感器能做诊脉。症结在于同行基本都走单一路线，电容、压阻、压电、磁感应、视触觉各占一条，单一机理复现不了四类感受器的协同，脉象解析必然缺维度。 数据侧，游仞智能正在 某家 中医院落地采集工作，同时与",
+    "url": "https://www.leiphone.com/category/robot/nDORMeqWgd7ZV76p.html",
+    "imageUrl": null,
+    "source": "雷锋网",
+    "categoryId": null,
+    "publishedAt": "2026-09-09T10:22:00.000Z",
+    "createdAt": "2026-09-09T23:52:13.581Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "Robotics & Embodied AI",
+    "contentFormats": [
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160738,
+    "title": "国产AI4S计算平台登场亮相2026外滩大会 算力技术与人才布局双向发力",
+    "description": null,
+    "url": "https://www.qbitai.com/2026/09/486370.html",
+    "imageUrl": null,
+    "source": "量子位",
+    "categoryId": null,
+    "publishedAt": "2026-09-09T09:57:54.000Z",
+    "createdAt": "2026-09-09T23:52:11.050Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "Chips & Compute",
+    "contentFormats": [
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160744,
+    "title": "阿里国际站9月采购节首周开门红：买驱GMV同比增长近20%",
+    "description": "全球采购旺季来袭，阿里国际站9月采购节首周开局强劲，买驱GMV同比增长近20%，高质量商机同比增长25.4%，近90%的行业实现正增长，覆盖消费电子、美妆个护、机械、新能源、包装印刷等多个类目。 相比单一市场或品类的短期爆发，本届采购节需求多级释放，美国、加拿大、西班牙、英国等市场均保持高增长，美国更是领跑，订单量同比增长31.6%。 以美国为例，安防与门禁类目整体订单同比增长超过两倍，反映出当地中小企业和家庭对智能安防升级的采购需求；运动及娱乐类订单增长125%，家庭健身消费的势头不降反增；礼品与工艺品订单增长近六成，年末节庆礼品的前置备货也已经启动。 一家主营氮化镓快充及AI安防摄像头的深圳消费电子商家，首周便在美国市场拿到百万大单，其两大主营品类恰好踩中了本次采购节美国市场的热门赛道。 采购方式也在发生变化。数据显示，由AI搜索带动的商家交易额同比提升36%。AI搜索正在成为买家发现商品、商家获得商机的新入口。",
+    "url": "https://www.leiphone.com/category/industrynews/mMUTuLmEVPxWmBVW.html",
+    "imageUrl": null,
+    "source": "雷锋网",
+    "categoryId": null,
+    "publishedAt": "2026-09-09T09:48:00.000Z",
+    "createdAt": "2026-09-09T23:52:13.582Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "AI Models & Agents",
+    "contentFormats": [
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160745,
+    "title": "300余城Apple授权店将在美团闪购首发iPhone新品：现货最快30分钟送达",
+    "description": "2026年Apple秋季新品发布会将于北京时间9月10日凌晨召开。业界普遍预计，iPhone 18 Pro系列以及Apple首款折叠屏产品都有望亮相。记者获悉，今年的Apple的各类新品继续在美团闪购同步首发，9月10日起，消费者可在美团搜索“闪电新品”抢购新品，发售当日，全国各地的Apple授权专营店将提供正品现货最快30分钟送达服务。 随着更多消费者习惯“闪购万物”，即时零售成为手机新品首发的重要阵地。公开信息显示，美团闪购与Apple授权专营店的合作始于2020年，入驻美团闪购的Apple授权专营店已覆盖三百多座城市，更多消费者享受到了“30分钟尝鲜新机”的新体验。 ▲美团骑手在Apple授权门店取货。（摄影：亦可） 据悉，本次Apple新品发售，美团闪购上线了包含数码配件优惠、以旧换新、教育优惠、最高12期免息在内的一站式购新优惠：用户先下单新机，骑手配送上门后，在App内即可查看旧机预估价并预约上门回收；符合资格的高校学生，可通过美团闪购购买与苹果官网价格一致的MacBook、iPad、Apple Watch等产品，享受即时配送服务。同时，美团闪购为用户提供了专属iPhone新机购机权益1818元券包，用户购买后在送达次日激活手机，即可领取配件等相关优惠券包，以更优惠的价格一站式配齐新机装备。 过去，买到一部首发新机意味着到店排队乃至跨城购买，或者等待数日快递。随着消费者日渐习惯闪购这一主打即买即达的购物方式，更多消费者开始“闪购新机”。记者在“美团闪电新品”页面看到，华为、小米、苹果集体上线了新品发售新机，各大品牌正在齐聚“闪购首发”。艾瑞咨询发布的《即时零售消费电子行业白皮书》显示，近年来消费电子品类在即时零售市场获得高速增长，预计2021年至2026年，年复合增长率达68.5%。2026年，即时零售消费电子行业规模将超千亿，成为品牌发售新品的必争之地。 ▲多个手机品牌将“闪购首发”。（图为美团闪购平台截图）",
+    "url": "https://www.leiphone.com/category/industrynews/3cjNjz7w9CoMvz8I.html",
+    "imageUrl": null,
+    "source": "雷锋网",
+    "categoryId": null,
+    "publishedAt": "2026-09-09T09:33:00.000Z",
+    "createdAt": "2026-09-09T23:52:13.582Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "Education & Future Skills",
+    "contentFormats": [
+      "Xiaohongshu Explainer",
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160746,
+    "title": "萨金特谈AI新经济：AI仍处于“开普勒阶段”，面对未知最需要保持谦逊",
+    "description": "“美国正涌入AI的巨额投资，建立在可疑的模型之上。没人真正知道这些模型最终会产出什么。” 9月9日，2011年诺贝尔经济学奖得主、纽约大学教授托马斯·萨金特（Thomas Sargent）在2026 Inclusion·外滩大会见解论坛上表示，AI正在成为推动经济增长的重要力量，但围绕AI的投资、决策与政策制定，也正面临巨大的不确定性。资本投入的规模不断扩大，并不意味着未来回报就更加确定。 这是2026 Inclusion·外滩大会正式开幕前的一场重磅思想讨论。来自国内外的经济学家、产业界和投资界人士围绕AI与经济增长、生产率、投资决策以及未来经济形态展开讨论。 在萨金特看来，理解AI正在带来的经济变化，首先需要承认一个事实：我们正在进入一个“知道AI很重要，却还不知道它究竟会把经济带向哪里”的阶段。 他用17世纪的开普勒和牛顿作比。 开普勒通过大量天文观测数据，总结出了行星运行的规律，但当时并不知道这些规律背后的物理原因；牛顿则进一步解释了这些规律背后的基本原理。“今天的AI有点像开普勒。”萨金特表示。 当前的AI已经非常擅长从海量数据中识别模式、拟合规律和进行预测，但这并不意味着它已经真正理解了世界为什么如此运行。AI之所以能够取得今天的进展，很大程度上来自前所未有的数据规模、计算能力以及更加复杂的模型。 但在萨金特看来，AI真正的前沿，是能否从“开普勒阶段”走向“牛顿阶段”——不仅能够发现相关性，还能够进一步理解和推断事物背后的结构，在训练数据之外实现更好的泛化，并能够识别自身知识的边界。 “我们还不知道AI什么时候会进入‘牛顿阶段’。”萨金特说。 这也意味着，AI新经济的到来，并不意味着未来已经确定。 恰恰相反，随着AI越来越深地进入金融投资、企业经营、科研创新和公共政策等领域，如何面对“不确定性”，可能成为AI时代越来越重要的经济问题。 萨金特提醒，很多人会把神经网络理解成一种“无模型”的学习方式，但实际上，每一种AI算法都包含特定的参数化模型，也包含大量关于世界的隐含假设。在熟悉的数据和环境中，一个模型可能表现得非常出色，但当环境发生变化、出现训练数据之外的新情况时，模型也可能失灵。 这也是经济学意义上的“风险”和“不确定性”之间的区别。 风险意味着结果虽然未知，但概率大致可以估计；而不确定性意味着，人们甚至无法准确知道未来可能出现什么，以及各种结果发生",
+    "url": "https://www.leiphone.com/category/industrynews/M2UgtoHJVKUZw57n.html",
+    "imageUrl": null,
+    "source": "雷锋网",
+    "categoryId": null,
+    "publishedAt": "2026-09-09T08:04:00.000Z",
+    "createdAt": "2026-09-09T23:52:13.582Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "Policy & Society",
+    "contentFormats": [
+      "Xiaohongshu Explainer",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160747,
+    "title": "蚂蚁阿福与河北肿瘤医院在癌症领域取得研究突破：用AI提前预测胃癌术后风险",
+    "description": "近日，肿瘤学顶级期刊 Annals of Oncology 接收了一项来自中国的研究：人工智能模型 DeepComp 可以在胃癌手术开始之前，利用常规增强 CT 与常规临床资料，同时预测患者术后发生中重度并发症的概率与长期生存风险。 这是同一支团队近期登上顶级期刊的第三项研究。另外两项研究 ——预测胃癌术后早期复发的 RSA 模型、预测术后肝转移的 RCSA 模型研究论文，也已发表在国际专业期刊 Nature Communications 上。三项研究分别落在胃癌患者治疗旅程的三个时点上——手术开始之前，手术结束之后，以及术后漫长的随访期。 完成这些研究的，是 河北医科大学第四医院（河北省肿瘤医院） 胃癌研究团队与蚂蚁阿福医疗 AI 团队。众所周知，健康 A I 蚂蚁阿福迅速成长为用户数超一亿的 App ，但很多人不知道的是，在癌症这样高难度的严肃医学科研领域，阿福团队也已经开始了探索。 这一次合作，双方用AI从病理切片的数十亿像素的细胞形态里寻找答案，提高了术前预测胃癌患者术后复发和转移风险的准确率，为临床手术方案和术后治疗方案提供更准确的参考。 故事的起点，在过去的许多间病房里。 同一间病房，两种命运 在河北医科大学第四医院的病房里，曾经同时住着两个胃癌病人。两人的TNM分期完全一样，都是局部进展期，都具备手术条件。 其中一位是村长，抽烟喝酒，应酬不断，因为酒后胃出血被送进医院，做的又是急诊手术。医生们私下判断，这个病人的预后恐怕不好。 另一位通过查体发现病情。得知诊断后，这位病人的精神压力陡然增大，不吃不喝、不愿说话，看起来状态萎靡。他接受了准备充分的手术，术后每一项治疗也都规范完成——但术后不到半年复发，很快离世。 多年以后，那位烟酒不离手的村长依然健在，还能和老朋友聚会。 这样的情况并非孤例。医生们注意到，随访中会反复出现，按传统分期评价风险并不高的患者，术后很快复发甚至肝转移；而一些分期非常晚的患者，后来却发现能有很好的生存。河北医科大学第四医院副院长赵群，正是带着这些困惑，开始了后来的研究。 团队里的年轻医生丁平安说，还有一类病例至今没有答案。有患者术前TNM分期很好，能做根治手术，也检查明确没有肝转移，可是术后第一个月复查CT、为后续辅助治疗做的常规基线评估时，肝脏上却出现了转移灶。 “到底是术前就有微小转移我们没发现，还是手术本身造成了转移？到现在",
+    "url": "https://www.leiphone.com/category/aihealth/8VqH5FyMaoSEnGPN.html",
+    "imageUrl": null,
+    "source": "雷锋网",
+    "categoryId": null,
+    "publishedAt": "2026-09-09T07:49:00.000Z",
+    "createdAt": "2026-09-09T23:52:13.582Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "Education & Future Skills",
+    "contentFormats": [
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160748,
+    "title": "从Demo到1000万次真实作业，万勋发布NOVA2.0柔性具身大脑",
+    "description": "作为柔性具身智能的全球领航者，万勋科技于日前正式发布其第二代柔性具身大脑NOVA2.0（Neuromorphic Omniversal Versatile Architecture，神经元智能开放世界通用架构），同时也是行业首个开放世界全天候商业交付级具身智能架构——该架构脱胎并服务于40+真实行业场景超1000万次多维度极限工况作业，跨行业场景迁移、落地能力与应用价值已赢得全球客户广泛认可，并从中构建起极为稀缺的真实场景数据飞轮，为行业率先跑通了“真场景、真需求、真数据、真落地”的具身智能技术路线，宣告了具身智能已跃过开放世界应用分水岭。 肌体智能 × 极限工况，破解具身智能开放世界落地应用困局 当前，具身智能的演进正从理想环境Demo或早期商用场景POC，迈向极具挑战的开放世界真实场景应用落地。然而，面对充斥着海量超高频随机扰动、各类鱼龙混杂“脏数据”和严苛环境挑战的真实世界，机器人系统还普遍面临着长链路推理延迟与高频响应冲突、真实场景多模态作业数据严重匮乏，及大脑与本体商用交付环境下可靠性不足这三大挑战。 为破解困局，行业各方纷纷将视线转向分层控制、真实数据获取及本体适应性与耐候性强化，而在这一方向上，万勋科技依托其通用软体机器人底层技术颠覆式创新，早已抢占技术演进先机。公司从自然界40 亿年的生物进化中汲取第一性原理答案，即“柔性肌体与智能的自然耦合，是应对物理世界高随机性的天然算法”，以“肌体智能（Somatic AI）”技术理念首创柔性具身智能架构——依托软体机器人柔性肌体天然的物理感知能力与高自适应性，从仿生角度复刻生命体不过度依赖模型与数据的“潜意识大脑”。 与此同时，万勋科技相信，具身智能最终的真正通用，本质上是对开放世界海量多维度极端与长尾工况的全量覆盖。因此，公司从创立之日起就聚焦真实商用交付，直面真场景、真需求和真数据供给下的复杂、极端、长尾、特殊和意外状态等各类“极限工况”挑战与考验，确保大脑和本体都能在开放世界的海量交付中实现持续稳定作业，从而锻造出真正具备通用泛化落地能力的柔性具身智能架构以及极度稀缺的真实世界“数据飞轮”。 独创触觉原生多模态分层架构，构筑NOVA2.0柔性具身大脑低数据、超极速与强泛化优势 基于“肌体智能”理念，万勋科技独创的触觉原生多模态柔性具身大脑分层架构，以潜意识多模态动作基进行实时轨迹生成与场景适应，从而实现",
+    "url": "https://www.leiphone.com/category/robot/tEzDlRIgiHsXV8B0.html",
+    "imageUrl": null,
+    "source": "雷锋网",
+    "categoryId": null,
+    "publishedAt": "2026-09-09T07:32:00.000Z",
+    "createdAt": "2026-09-09T23:52:13.582Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "Robotics & Embodied AI",
+    "contentFormats": [
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160749,
+    "title": "去掉「AI」滤镜，IFA 2026还有哪些真亮点？",
+    "description": "今年的IFA依然不缺“AI”。电视、冰箱、洗衣机、扫地机器人，每个展台都有一套关于智能的说辞。 但把“AI”暂时拿掉，更直观的变化其实是：机器人更忙了，分工也更细了。 擦窗、割草、泳池清洁、爬楼和机械臂，都不是今年才出现。今年更值得看的，是厂商开始处理一些更具体、也更麻烦的任务：门后的死角、墙根的一圈草、低矮家具下的积尘、泳池浅水区，以及一台机器做不完时，如何把任务拆给另一台机器。 机械臂是最明显的例子。前几年，它更像吸引围观的动作展示，伸手夹起袜子或抓个纸团。今年，一些厂商开始让它推开房门、处理墙边死角、把割草刀盘送到草坪边缘，或者释放和回收另一台机器人。 事情都不大，却都是过去机器人够不着、进不去，最后总要人收尾的地方。 厂商讲AI的方式也在变。 至少在展台叙事里，AI也不再只负责识别、推荐和语音交互，越来越多地被接到执行端，厂商更多在描述一段连续的动作，诸如机器怎么感知空间，怎样判断任务并调用自己的身体，怎么和另一台机器配合着把一件事做完。 空间、执行和系统，是观察今年IFA的一组线索。 01 iRobot：一台机器做不完，就拆给两台 扫地机器人长期存在一个难以调和的矛盾。 越强调深度清洁，结构往往越复杂、机身越厚；想要钻进床底、柜底等低矮空间，机身又必须尽可能薄。过去，厂商习惯让一台机器同时满足这两件事，结果常常是互相妥协。 iRobot此次展示的Roomba Duo概念机，给出了一个不太一样的答案，干脆把两项任务拆给一大一小两台机器。 母机负责大面积地面的深度清洁，子机只有8.35厘米高，主要进入低矮家具底部、窄缝和边角。两台机器共享地图和任务信息，母机还可以通过机械臂释放、回收子机。 它的架构有新意，已经不只是一台扫地机器人，更接近一个小型多机器人系统。 不过，一台变两台并不代表就更省事。也可能带来更高的价格、更多占地，以及两套电池、耗材和售后维护。子机如何被准确释放和回收，两台机器如何避免重复清洁或相互等待，也会成为新的系统问题。 Roomba Duo目前仍是一台概念机，这个架构最终能否比一台机器更高效，还要等它真正进入家庭后再看。 02 海信：显示技术继续向底层，电视系统加入AI智能体 如果说iRobot是在把一项任务拆给两台机器，海信做的则是另一种整合：希望把分散在家庭里的电视、空调、冰箱和洗衣机重新接进同一套系统。 不过，海信此次更扎实的亮点，仍",
+    "url": "https://www.leiphone.com/category/industrynews/AMAyaUGizzaa1UTo.html",
+    "imageUrl": null,
+    "source": "雷锋网",
+    "categoryId": null,
+    "publishedAt": "2026-09-09T07:11:00.000Z",
+    "createdAt": "2026-09-09T23:52:13.582Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "Robotics & Embodied AI",
+    "contentFormats": [
+      "Xiaohongshu Explainer",
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160734,
+    "title": "Curiosity Blog, Sols 4995-5001: 5,000 (Martian) Days on Mars",
+    "description": "Written by William Farrand, Senior Research Scientist, Space Science Institute Earth planning date: Friday, Aug. 28, 2026 The span of sols spanned by this blog post is noteworthy in several ways. First, Curiosity became a world-class (for Mars at least) mountaineer by passing the 1 kilometer mark of elevation from its landing site on the floor […]",
+    "url": "https://science.nasa.gov/blog/curiosity-blog-sols-4995-5001-5000-martian-days-on-mars/",
+    "imageUrl": null,
+    "source": "NASA",
+    "categoryId": null,
+    "publishedAt": "2026-09-09T06:20:49.000Z",
+    "createdAt": "2026-09-09T23:51:58.477Z",
+    "language": "en",
+    "region": "Global",
+    "topic": "Space & Aerospace",
+    "contentFormats": [
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160750,
+    "title": "2026外滩大会：具身智能开始拼大脑，蚂蚁灵波把机器人送进真实场景",
+    "description": "机器人没有跳舞，也没有翻跟头，却吸引了诸多媒体的驻足。这就是2026外滩大会科技展览，蚂蚁灵波科技展示的几件看起来并不“炫技”的事：机器人从货架上精准取下一盒药，送到用户手里，在物流场景中持续完成分拣，在工业产线上完成上下料。 （在外滩大会看到具身智能正在走向物理世界） 这恰恰是这个展区值得看的地方。过去几年，机器人行业最吸引眼球的是跑、跳、翻跟头。但当机器人真正走进药房、仓库和工厂，问题变了：它不仅要会完成一个动作，还要看懂环境、理解任务、预测变化，并在没有人为布置好的环境中持续工作。灵波试图解决的正是这个问题。 （蚂蚁灵波机器人进入真实场景“工作”） 展区里最具代表性的案例，是一间被搬到现场的“智慧药房”。一台机器人“接单”后快速移动到货架，手臂轻巧探出，从货架上精准夹取了一盒药品，随后送至取药窗口。这是由蚂蚁灵波和上海国大药房打造的“机器人智慧药房”，现已在国大药房各零售店真实落地。现场蚂蚁灵波工作人员告诉记者，真实药房情况更复杂，药盒尺寸相近、包装密集，货架之间最窄通道只有约80厘米，还有透明包装、反光、随机摆放等大量视觉干扰。在这样的环境中，装有灵波大脑的机器人可以自主接收订单，识别目标药品，完成抓取、拣选和交付，并在夜间值班时辅助药剂师进行药品分拣。更重要的是，门店无需做任何改造。 长期以来，机器人产业面临着“专用专机”的挑战中：做一款车间搬运任务，就得重新写一套控制代码；换个机械臂构型，之前的算法基本推倒重来。蚂蚁灵波给出的解法是“具身原生通用大脑”。展会现场的物流和工业场景分别使用乐聚、钛虎等不同机器人本体，但背后的“大脑”都是灵波自研的 LingBot-VLA 2.0模型。目前，LingBot-VLA 2.0 在预训练阶段已适配17个主流机器人品牌、20种机器人构型，覆盖单臂、双臂、双足和轮式机器人。 记者在灵波展区能看到具身智能行业的两个显著的变化。第一，技术上，机器人大脑开始实现泛化。据了解，灵波大脑在预训练阶段可以支持17种机器人构型。第二，产业价值上，机器人服务真实场景开始实现规模化。以灵波药房场景为例，展厅里展示的并不是一个演示，而是正在上海国大药房铺开的真实服务。 从这个角度看，灵波在外滩大会展示的，并不只是几台能够工作的机器人。它真正在验证，当机器人拥有一个可以跨身体、跨任务、持续学习的大脑之后，具身智能开始从实验室走向真实物理世界。",
+    "url": "https://www.leiphone.com/category/industrynews/SjYRQou3shWq9xXG.html",
+    "imageUrl": null,
+    "source": "雷锋网",
+    "categoryId": null,
+    "publishedAt": "2026-09-09T06:07:00.000Z",
+    "createdAt": "2026-09-09T23:52:13.582Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "Robotics & Embodied AI",
+    "contentFormats": [
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160739,
+    "title": "蚂蚁百灵发布首个金融增强模型，AI开始进入真实投研工作流",
+    "description": "蚂蚁集团百灵首个金融增强开放模型 Ling-3.0-flash-Fin发布。",
+    "url": "https://www.qbitai.com/2026/09/486288.html",
+    "imageUrl": null,
+    "source": "量子位",
+    "categoryId": null,
+    "publishedAt": "2026-09-09T05:02:30.000Z",
+    "createdAt": "2026-09-09T23:52:11.050Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "AI Models & Agents",
+    "contentFormats": [
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160740,
+    "title": "具身机器人能搞定超市盘点吗？全球七万门店正在给出答案",
+    "description": "从Demo到货架，这两家公司要让具身智能算得过账",
+    "url": "https://www.qbitai.com/2026/09/486280.html",
+    "imageUrl": null,
+    "source": "量子位",
+    "categoryId": null,
+    "publishedAt": "2026-09-09T04:52:12.000Z",
+    "createdAt": "2026-09-09T23:52:11.050Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "Robotics & Embodied AI",
+    "contentFormats": [
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160751,
+    "title": "物理 AI 奔赴广域，追觅户外庭院 IFA 2026交出从核心硬件到商用落地完整答卷",
+    "description": "9月8日，2026年德国柏林国际电子消费品展览会（IFA 2026）落下帷幕。追觅户外庭院以DREAME、MOVA、NexLawn三大品牌矩阵、十余款首发新品集中亮相，以技术突破、商用赛道抢跑、权威奖项加冕、硬核智造引领的全维度实力，交出了一份从技术突破到战略跃迁的完整答卷，更向全球用户清晰展示了中国智造在户外庭院赛道的核心竞争力与结构性优势。 一套物理AI技术底座，串联室内外全场景 从室内清洁到户外庭院，从智能出行到工业作业——追觅户外庭院的技术支撑，源自一套以物理AI为运行逻辑的广义机器人技术底座。 本届IFA，追觅让这套技术底座在户外庭院场景中完成了一次集中验证和升维。在感知层，追觅户外庭院首次公开自研第三代数字化激光雷达MLR-96，将技术自研从算法、运动控制向核心传感器硬件延伸。 在决策层，从多项全球首创技术OmniSense™4.0 AI 感知系统、UltraView™4.0环境感知技术，到自研AI智控决策中枢，已然搭建起覆盖非结构化户外场景的全链路决策能力。 在执行层，EdgeMaster™4.0沿边切割系统、UltraTrim™3.0 灵巧修边系统等技术实现行业0cm贴边精修，从根本上解决了传统割草机器人“贴边留白、需人工补刀”的行业长期痛点；AstraX机械臂割草机器人搭载可更换多任务工具头，将执行能力从单一割草拓展至清障、采摘、浇水等多场景。 同步展出的泳池机器人A20在此次IFA迎来重要技术升级。新增双目AI视觉侦测系统与AI智能寻污模式，实现对落叶、杂物等可见垃圾的实时识别与动态响应，清洁逻辑从“按路径走”向“按污清扫”进化。配合岸上协同系统支持自动循环清扫与自主回充，并通过AquaSonar™声通讯互联系统实现App远程调度，全程无需人工干预。 从感知到决策再到执行，追觅户外庭院的技术底座更深层的意义在于路径验证：让同一套能力在不同产品、不同场景中被反复验证、持续进化。 家用焕新与商用拓界，可持续商业逻辑成型 展会期间，追觅户外庭院完成家用迭代升级与商用全新突破的同台呈现，清晰勾勒出“能力从家用到商用外溢”的战略路径。 整体能力层面，追觅户外庭院立足于消费市场已验证成熟的物理AI技术底座、自研激光雷达及多传感器融合感知体系，将家用场景积累的环境感知、导航避障、复杂地形适配等核心技术能力系统迁移至商用领域。 产品层面，重磅推出商用旗舰割草机器",
+    "url": "https://www.leiphone.com/category/industrynews/kf4KPltXt4hPhjpt.html",
+    "imageUrl": null,
+    "source": "雷锋网",
+    "categoryId": null,
+    "publishedAt": "2026-09-09T03:44:00.000Z",
+    "createdAt": "2026-09-09T23:52:13.582Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "Robotics & Embodied AI",
+    "contentFormats": [
+      "Xiaohongshu Explainer",
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160752,
+    "title": "云鲸2026秋季双新品齐发：扫地机器人JX Ultra与洗地机S3 Steam正式亮相",
+    "description": "2026年9月，云鲸发布了两款十周年进阶之作——云鲸「AI全域双机械臂」热活水洗地机器人JX Ultra、云鲸首款蒸汽热水双效洗地机S3 Steam。两款新品在清洁力、智能感知与自清洁体验上进一步突破，持续推动AI智能清洁迈向新阶段。 据了解，云鲸扫地机器人JX Ultra首次将边刷机械臂的外扩、抬升能力与履带拖地系统深度融合，解决扫地机器人行业长期存在的边角清洁盲区难题；云鲸洗地机S3 Steam则将蒸汽与热水双效合一，重新定义洗地机高温清洁新标准。两款新品同时发布，标志着云鲸在全屋清洁产品矩阵的系统性持续迭代与创新能力。 云鲸JX Ultra：AI全域双机械臂，终结清洁盲区 今年2月，云鲸首次将逍遥系列和J系列研发平台融合，推出云鲸JX，搭载热活水履带清洁系统和双目视觉避障技术，获得用户广泛认可。此次发布的云鲸JX Ultra，在此基础上进一步升级，以更强的清洁力、更懂家庭的AI智能和更省心的免维护体验，打造「AI全域双机械臂」扫地机。 针对边角清洁这一行业难题，云鲸JX Ultra创新推出「鲸翼」全域覆盖双机械臂，实现更全面的清洁盲区覆盖。边刷机械臂可根据环境自主抬升或外扩，识别墙边、阴角等区域时主动伸出，刷毛挤压式紧贴地面，配合履带拖布机械臂双重外扩，实现门后夹区、悬空橱柜底部、低矮床缝等内凹死角全覆盖，双臂齐下，100%覆盖地面边角盲区。 除了覆盖能力提升，JX Ultra还能根据不同场景自动调整清洁策略。面对大面积液体脏污时，边刷自动抬升，履带拖布采用井字型复拖，直至彻底干净；遇到狗粮猫砂等大量干垃圾时，则同步提升吸力并抬升边刷，做到不打飞、不污染、不遗漏；经过地毯区域时，拖布自动抬升，在深度除尘的同时避免打湿地毯。 云鲸JX Ultra扫拖能力也进一步升级。产品搭载热活水履带系统，宽幅履带拖布触地面积达14630mm²，相当于传统滚筒拖布的7倍，单次清洁覆盖更广，配合12N恒定下压力，拖布始终与地面紧密贴合，显著提升拖地清洁效率。同时，70℃热活水实时喷淋拖布熨洗地板，高温快速融化油污，油污去除率可达98%。通过拖布实时清洗和污水盒自清洁，确保接触地面都是干净的拖布，从源头避免以脏拖脏。扫地能力方面，云鲸JX Ultra升级至32000Pa超强吸力，地面颗粒物去除率高达99%。整机延续云鲸毛发零缠绕设计，通过气旋导流式零缠绕滚刷，自动甩离长发、宠物毛发",
+    "url": "https://www.leiphone.com/category/weiwu/qEYbZrneawQJh0xk.html",
+    "imageUrl": null,
+    "source": "雷锋网",
+    "categoryId": null,
+    "publishedAt": "2026-09-09T02:53:00.000Z",
+    "createdAt": "2026-09-09T23:52:13.582Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "Robotics & Embodied AI",
+    "contentFormats": [
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160753,
+    "title": "ECCV 2026 专访：让大模型「忘掉XYZ」，RoboTracer 用 3D 空间感知与度量推理重塑机器人轨迹追踪",
+    "description": "用像素坐标加绝对深度表示轨迹，换本体不必重训模型。 作者丨 张 璐 编辑丨 幸丽娟 试想，对一个家庭服务机器人下达指令： 拿水壶从左到右依次给花浇水，喷头需悬停在每朵花上方 1 到 5 厘米处。 这个指令看似日常，对现在的具身系统却很苛刻：既要分清花的左右顺序，又要把喷头停在每朵花上方约 1–5 厘米。 2D 轨迹一旦深度估错，喷头要么砸到花盆，要么对着空气做无用功。带绝对尺度和避障约束的指令，是当前系统的常见短板。 一方面，端到端的视觉-语言-动作模型 （VLA） 可以直接输出动作，但真机示教成本高，换物体、换距离后容易失效。另一方面，通用视觉语言模型（VLM）的 2D 理解能力强，却缺少绝对尺度和深度感知，2D 轨迹抬到 3D 后容易悬空或碰撞。 前者的问题在于视觉到动作的映射缺乏显式空间表征，场景稍有变化便需重新采集示教数据；后者则根本不知道“1厘米”在三维空间里意味着什么。在团队先前的探索中，模型已能预测目标物体的 2D 坐标点，但面对“按顺序浇花”、“悬空避障”这类涉及连续时序与三维几何的场景，单个 2D 点根本无法支撑起复杂的物理交互。 北航、北大、智源、中科院自动化所等团队的选择是：不让大模型直接猜关节力矩，而让 VLM 把指令拆成一条带物理尺度的多步 3D 轨迹，再交给运动规划器执行。 论文链接：https://arxiv.org/pdf/2512.13660 他们提出 RoboTracer，以及约 450 万样本、3000 万问答对的 TraceSpatial。轨迹用图像坐标加度量深度(u, v, d)表示，不绑定特定本体，同一套模型可接到 UR5 与 Unitree G1。 AI 科技评论 采访到了 论文核心作者周恩申 。他是北京航空航天大学软件学院博士生，并拥有上海人工智能实验室、银河通用及智源研究院等多家具身智能顶尖机构的研究经历。 作为 RoboBrain 系列项目（从 1.0 到 2.5）的深度参与者，他不仅还原了团队用纯文本 Loss 监督 3D 尺度时的反直觉发现，也客观剖析了纯视觉轨迹在物理力控上的局限，并分享了他对具身智能从“被动感知”迈向“主动感知”的前瞻思考。 接下来，本文将从表征表达、绝对尺度注入以及过程奖励机制三个维度，拆解 RoboTracer 如何破局 3D 空间推理。 01 大模型为什么 总在3D空间里“犯路痴”？ ",
+    "url": "https://www.leiphone.com/category/private/sgaqS952UXuoJUVJ.html",
+    "imageUrl": null,
+    "source": "雷锋网",
+    "categoryId": null,
+    "publishedAt": "2026-09-09T02:32:00.000Z",
+    "createdAt": "2026-09-09T23:52:13.582Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "Robotics & Embodied AI",
+    "contentFormats": [
+      "Xiaohongshu Explainer",
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160754,
+    "title": "7 篇 ECCV 论文！极佳视界联合顶尖高校，打通空间智能从「看得稳」到「摸得准」再到「决策灵」的落地瓶颈",
+    "description": "以推理决策与物理重建，让空间智能从生成走向因果交互。 作者丨 张 璐 编辑丨 幸丽娟 在生成式 AI 的演进历程中，从二维像素走向三维物理世界，是人工智能迈向现实落地的必经之路。 以 3D Gaussian Splatting、Sora 级视频生成以及多模态大模型为代表的技术，曾让行业看到了空间智能的巨大潜力。然而，当这些原本运行在数字世界中的算法尝试走向真实硬件与物理场景时，整个行业正在遭遇一场前所未有的“落地阵痛”。 当前的视觉与空间模型看似绚丽，却普遍陷入了三重难以逾越的瓶颈：决策依赖暗盒式的直接预测，缺乏对物理因果的常识推理；三维资产仅停留于视觉逼真，剥离了质量与形变等物理属性；世界模型缺乏对动作控制的精确响应，沦为无法评估安全的离线画面。 缺乏逻辑推理、缺乏真实物理属性、缺乏控制闭环，这三大软肋直接阻断了物理 AI从实验室 Demo 迈向工业落地的可能。突破这些瓶颈的关键，不再是单一模型参数的堆叠，而是要建立一套贯穿“空间感知、物理推演到具身决策”的技术演进图谱。 在本届计算机视觉顶级学术会议 ECCV 上，极佳视界（GigaAI）展现出了极其瞩目的学术爆发力，共有 13 篇论文成功入选。其中，有 7篇落在了空间智能这个研究方向。 极佳视界联合清华大学、中国科学院自动化研究所、浙江大学、上海交通大学等顶尖学术机构，将这 7 项重磅研究汇聚成了一套完整的技术破局方案。不同于零散的学术试验，这一系列成果展示出了一条极其清晰的技术演进路径：物理 AI 的终局，不仅是生成逼真的画面，而是打造能够理解物理规律、预测未来演化、并与真实世界无缝交互的具身大脑。 01 打破暗盒与离线， 重构具身大脑与试车场 在传统的具身智能与自动驾驶开发中，模型大多扮演着一个“暗盒”角色：输入传感器图像与自然语言指令，通过端到端神经网络直接预测并输出末端执行器的动作坐标或车辆轨迹。 这种“图像进，动作出”的暗盒模仿范式，在环境简单、分布内的数据集上或许能跑出不错的成功率。然而，一旦面对真实世界中复杂的物体遮挡、未见过的物品样式、随机的动态扰动以及长程多步骤任务时，暗盒模型就会暴露出致命的缺陷：它无法解释自己“为什么这么做”，也无法在遇到偏差时进行自我修正。 极佳视界的破局思路很明确：把“思维链推理”与“强化学习”深度融入决策闭环。无论是微观的桌面操控，还是宏观的道路驾驶，都打造出了可落地",
+    "url": "https://www.leiphone.com/category/private/SB4xhQkldmaQfEt5.html",
+    "imageUrl": null,
+    "source": "雷锋网",
+    "categoryId": null,
+    "publishedAt": "2026-09-09T02:30:00.000Z",
+    "createdAt": "2026-09-09T23:52:13.583Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "Robotics & Embodied AI",
+    "contentFormats": [
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160755,
+    "title": "群核科技联手英伟达、英特尔、浙大，三篇 ECCV 论文给物理 AI 造基础设施",
+    "description": "去哪训练、拿什么学、怎么考？这是物理AI从实验室走向现实世界的三个核心问题，现在有了系统性答案。 作者丨 张 璐 编辑丨 幸丽娟 物理人工智能（Physical AI）与具身智能正在经历一场深刻的范式转移。 从早期局限于单一任务的特定控制算法，到如今依托多模态大模型实现对三维物理世界的感知、推理与决策，AI Agent 正在逐步突破数字世界的边界。 然而， 当智能试图走出虚拟空间、迈入现实世界时，底层基础设施的匮乏成为了最大掣肘。 要支撑物理 AI 的持续进化，行业必须回答三个核心问题： 去哪里高效训练？高质量数据从何而来？如何科学评估空间智能？ 群核科技集结了英伟达、英特尔、Adobe等产业巨头，携手浙江大学、帝国理工学院、苏黎世联邦理工学院等全球顶尖学术机构，共同交出了一份系统性答卷。 三个问题，分别对应三篇入选 ECCV 2026的论文。下面，我们分别看这三篇论文，给出了怎样的参考答案。 01 SPEAR：打破仿真 “画质-速度-可编程”不可能三角 智能体要进行大规模感知与动作训练，离不开高保真仿真器的支撑。然而，传统仿真器往往面临“画质”与“速度”无法兼得的尴尬局面。 针对这一行业瓶颈，群核科技携手 NVIDIA、Adobe Research 等顶级团队，推出了高保真具身仿真器SPEAR，尝试从底层同时兼顾“高保真”、“可编程”与“极速运行”。 论文链接：https://arxiv .org/pd f/2607.06701 作为一个轻量且模块化的 Python 库，SPEAR 重新设计了 Python 与游戏引擎之间的通信机制。 SPEAR 直接对接了 Unreal Engine (UE) 的 C++ 运行时反射系统 。它不需要人为编写海量的封装代码，而是在运行时以字符串为键，动态查找类、调用函数并修改变量。 这种设计让 SPEAR 一举向 Python 开放了 14485 个 UE 原生函数 与 53537 个属性 ，可编程能力比传统仿真器提升了一个数量级，而自身代码量却精简至约 2.7 万行。开发者甚至只需在 C++ 中加一行标记，就能立刻在 Python 端调用全新的自定义逻辑。 各种UE仿真 器可编 程功能的比较 针对数据传输这一最大痛点，SPEAR 引入了进程间共享内存机制。渲染出的图像无需经过任何多余的复制流程，即可直接从 GPU 传输至 Pyt",
+    "url": "https://www.leiphone.com/category/private/Y5eqFriHBTvAOukX.html",
+    "imageUrl": null,
+    "source": "雷锋网",
+    "categoryId": null,
+    "publishedAt": "2026-09-09T02:28:00.000Z",
+    "createdAt": "2026-09-09T23:52:13.583Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "Robotics & Embodied AI",
+    "contentFormats": [
+      "Xiaohongshu Explainer",
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160756,
+    "title": "腾讯混元、清华、南洋理工联手，「以小博大」破解空间智能算力与记忆断裂难题 | ECCV 2026",
+    "description": "Spatial-TTT 给 2B 模型装上“流式空间记忆” ，在空间基准上超越 GPT-5。 作者丨 张 璐 编辑丨 幸丽娟 单纯拉长上下文，可以解决“能塞进多少信息”的问题。但面对状态变化、时序关联这类长程任务时，注意力还是容易被稀释，关键证据也容易找不回来。 当场景扩展到具身机器人、自动驾驶和智能硬件这些需要与三维物理世界实时交互的领域时，这一矛盾被进一步放大。 与纯文本或静态图文不同，真实物理世界的输入天然是持续涌入、没有明确边界的视频流。智能体在空间中移动时，视角不断切换、物体频繁被遮挡，这些都要求系统必须具备 流式空间智能 ——一边接收视频流，一边实时构建并更新环境的三维空间记忆。 主流方案在处理这种连续视频流时，普遍在工程与架构上面临两重限制： 算力与显存边界的硬性制约 ：基于标准 Transformer 自注意力机制的计算与 KV Cache 显存开销随序列长度呈二次方级攀升。在长达数十分钟甚至数小时的连续视频输入下，即便采用先进的长序列优化策略，端侧受限硬件也很容易因为显存急剧膨胀而无法继续运行。 时序下采样对几何连续性的破坏 ：工程中常用的均匀抽帧或关键帧截取方案，本质上是以牺牲细粒度时序信号为代价来换取计算效率。但 3D 空间关系高度依赖连续的视差与几何线索，大幅跳帧会让模型直接漏掉关键的空间信息，而且事后很难补回来。 产生这些现象的根本原因，是“推理时参数完全固定”和“物理世界持续动态变化”之间的不匹配。传统多模态模型在推理阶段所有权重都冻住了，面对源源不断涌入的视频流，只能把每一帧当成离散 Token 被动堆进上下文，缺少一套能在推理过程中实时整合、更新三维几何信息的内部记忆机制。 为了解决这个问题，清华、腾讯混元、南洋理工的研究团队在最新论文《Spatial-TTT: Streaming Visual-based Spatial Intelligence with Test-Time Training》中，把重心从“继续拉长注意力窗口”转向了“在推理过程中让参数在线自适应更新”。 论文链接：https://arxiv.org/pdf/2603.12255 他们基于测试时训练范式，把模型的一部分参数变成可以在推理过程中动态更新的“快权重”，用它充当紧凑的非线性空间记忆。这样既能保持线性计算开销，又能让模型在源源不断的长视频中持续记住空间细节，",
+    "url": "https://www.leiphone.com/category/private/E4MuSWaCQaYTfWfy.html",
+    "imageUrl": null,
+    "source": "雷锋网",
+    "categoryId": null,
+    "publishedAt": "2026-09-09T02:26:00.000Z",
+    "createdAt": "2026-09-09T23:52:13.583Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "Robotics & Embodied AI",
+    "contentFormats": [
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160757,
+    "title": "大华股份亮相IFA 2026，以智慧物联焕新生活体验",
+    "description": "9月4-8日，2026年德国柏林国际消费电子展（IFA 2026）在柏林举行。大华股份携无线视频感知、智能周界防护、可视对讲、智慧消防及显示产品等创新成果亮相，集中展示大华股份在视频、人工智能与智慧物联领域的技术积累与全场景应用能力，推动智能能力向生活与商业多元场景延伸，为生活品质与商业运营效率提升提供有力支撑。 无线智联 新体验， 让部署 更便捷、守护更智能 从室内、庭院到工地、果园等户外区域，不同场景对设备安装、网络连接与管理提出了更加灵活的需求。 现场展示的大华WITHS系列，以“简单、智能、安全”为理念，将专业成像与智能防护能力融入无线产品，为室内、商铺、庭院及户外区域等场景提供更灵活的部署与管理方式。系列产品支持Wi-Fi、4G连接及移动应用管理，并提供太阳能供电、大容量电池等选择，有效减少网络、供电与布线条件对设备安装的限制，让智能防护部署更便捷、覆盖更广泛。 在室内场景中，用户可远程了解室内人员、宠物及门前车辆动态，并通过双向语音及时沟通；在商业场景中，经营者可便捷掌握店内外情况，关注人员进入及异常活动；在庭院及户外场景，低功耗、动态防护与WizColor成像等能力进一步提升夜间及复杂环境下的现场感知效果，让日常看护、店铺管理与户外防护更加及时、高效。 一体化无线入侵防护，让周界管理更高效 针对周界防护场景，大华AirShield无线入侵报警解决方案，融合报警设备、视频感知、可视对讲及其他系统，为住宅、商铺及其他商业场所的入口、周界和重点区域提供一体化防护。当异常事件发生时，报警信息可与相关图像、音频同步传递，帮助用户及时了解现场情况、核验异常并快速响应。 方案同时支持既有有线设备接入，帮助用户在充分利用原有投入的基础上完成系统升级，降低改造成本。通过云端平台连接用户、安装服务商和报警接收中心，并支持灵活配网、远程管理与云端升级，进一步提升设备部署、日常管理、异常处置及后续维护的协同效率，让安全防护贯穿安装、使用与运维全过程。 智能对讲交互，升级室内生活体验 大华WizTalk旗舰级IP可视对讲系列，融合高清成像、AI感知、安全防护与智能控制，为访客通行、包裹收取与室内看护等日常场景带来更清晰、更便捷的交互体验，吸引广大参观者关注。 产品通过高清单双摄、全彩夜视及多视角成像设计，用户在白天、夜间及复杂光照环境下，都能更清晰、全面地了解入口情况。 当访客",
+    "url": "https://www.leiphone.com/category/industrynews/rf62k6YoIuajBBMT.html",
+    "imageUrl": null,
+    "source": "雷锋网",
+    "categoryId": null,
+    "publishedAt": "2026-09-09T02:17:00.000Z",
+    "createdAt": "2026-09-09T23:52:13.583Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "Advanced Manufacturing",
+    "contentFormats": [
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160741,
+    "title": "宜宾，一场机器人“招聘会”的产业雄心",
+    "description": "9月3日，宜宾国际会展中心，55支机器人团队正在完成一场特殊的“面试”。",
+    "url": "https://www.qbitai.com/2026/09/486038.html",
+    "imageUrl": null,
+    "source": "量子位",
+    "categoryId": null,
+    "publishedAt": "2026-09-09T02:15:54.000Z",
+    "createdAt": "2026-09-09T23:52:11.050Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "Robotics & Embodied AI",
+    "contentFormats": [
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160758,
+    "title": "规模要追平智谱！DeepSeek今年将扩招到1000人；继姚顺雨后，田永龙也进入腾讯CEO/总裁办公室；网传闪充车型订单积压25万辆，比亚迪回应",
+    "description": "要闻提示 1.DeepSeek扩招150人，0个AI研究岗！目标是今年扩招到1000人 2.继姚顺雨后，田永龙也进入腾讯CEO/总裁办公室 3.被投诉三文鱼出现寄生虫！山姆回应：脂肪线，系正常鱼肉组织 4.阿里电商业务战略调整：将打通1688与国际站 5.网传闪充车型订单积压25万辆，比亚迪回应：消息不实 6.董宇辉回应助农争议：私信这两天全都是骂我的 7.昔日爆款手游《旅行青蛙·中国之旅》宣布12月8日停运，网友不舍：养了好多年 8.20个主权国家，被“划入”美国版图 今日头条 DeepSeek扩招150人，0个AI研究岗！目标是今年扩招到1000人 9月8日，国产大模型厂商DeepSeek发布最新一轮招聘计划，开放约150个招聘名额，重点面向拥有2至10年工作经验的资深工程师。与6月份全部门扩招的综合招聘不同，此次招聘画风突变，岗位全部集中在工程落地方向，没有一个AI研究类岗位。 根据DeepSeek发布的招聘信息，本次招聘分为两大序列：服务端开发工程师覆盖大模型研究平台、Agent框架组件、研发效率基建、DeepSeek API、线上服务、数据工程六大方向；Agent弹性计算研发工程师则分为平台开发和底层系统两个方向。DeepSeekHarness团队负责人崔添翼解释称，此次扩招正是为了应对业务规模快速扩张带来的系统工程挑战。 另据报道，一位一线机构的投资人透露，今年DeepSeek的目标是将团队规模扩张至1000人。这个规模将和智谱团队等同。2025年智谱招股书显示，智谱拥有员工883人，据第三方预估，今年智谱团队人数大概在千人左右。公开资料显示，2026年V4模型发布时，DeepSeek研究与工程团队加上商业合规等职能部门总规模已经超过300人。（新浪科技、白鲸实验室） 国内资讯 继姚顺雨后，田永龙也进入腾讯CEO/总裁办公室 9月8日消息，据报道，田永龙近期也被纳入腾讯CEO/总裁办公室（CEO｜President’s Office)，同时其头衔已明确为「混元多模态负责人」，向姚顺雨汇报。 7月24日，腾讯将原本相互独立、分别由姚顺雨和薄列峰领导的大语言模型和多模态模型部门合并，成立基础模型部，由姚顺雨统一负责。田永龙在此次腾讯大模型架构调整期间加入其多模态团队，担任VLM（视觉语言模型）负责人。接近腾讯的人士称，7月的架构调整后，曾任多模态模型负责人的",
+    "url": "https://www.leiphone.com/category/zaobao/bx7l7B6CyNAubHQg.html",
+    "imageUrl": null,
+    "source": "雷锋网",
+    "categoryId": null,
+    "publishedAt": "2026-09-09T00:30:00.000Z",
+    "createdAt": "2026-09-09T23:52:13.583Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "AI Models & Agents",
+    "contentFormats": [
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
     "id": 2160714,
     "title": "NASA Calls for Proposals to Accelerate Lunar Surface Technologies",
     "description": "NASA is seeking proposals to advance the technology and infrastructure needed to explore the Moon and establish a Moon Base in the lunar South Pole region. Announced on Tuesday, Sept. 8, the solicitation targets capability gaps, including power generation, oxygen extraction, and producing materials on the Moon required for construction and operations. These technologies are [&#8230;]",

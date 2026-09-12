@@ -1,5 +1,75 @@
 [
   {
+    "id": 2160815,
+    "title": "“算力中国·年度卓越成就”发布 太初元碁超智融合计算系统入选",
+    "description": "太初（杭州）集成电路有限公司新一代超智融合计算系统元碁Hypertintellix入选“算力中国·年度卓越成就”。",
+    "url": "https://www.qbitai.com/2026/09/487860.html",
+    "imageUrl": null,
+    "source": "量子位",
+    "categoryId": null,
+    "publishedAt": "2026-09-12T11:38:16.000Z",
+    "createdAt": "2026-09-12T23:49:02.126Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "Chips & Compute",
+    "contentFormats": [
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160816,
+    "title": "探索RSI，生数新世界模型让机器人开始自我进化",
+    "description": "触觉、记忆、Ego数据、自进化……这个世界模型全都有",
+    "url": "https://www.qbitai.com/2026/09/487752.html",
+    "imageUrl": null,
+    "source": "量子位",
+    "categoryId": null,
+    "publishedAt": "2026-09-12T08:15:31.000Z",
+    "createdAt": "2026-09-12T23:49:02.126Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "Robotics & Embodied AI",
+    "contentFormats": [
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160817,
+    "title": "AI数学的最后一道高墙，塌了！GPT-6 Astra刷穿FrontierMath Tier 4",
+    "description": "FrontierMath Tier 4，饱和了",
+    "url": "https://www.qbitai.com/2026/09/487701.html",
+    "imageUrl": null,
+    "source": "量子位",
+    "categoryId": null,
+    "publishedAt": "2026-09-12T07:33:54.000Z",
+    "createdAt": "2026-09-12T23:49:02.126Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "AI Models & Agents",
+    "contentFormats": [
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160818,
+    "title": "陶哲轩邓煜究竟在反对什么：AI暴力解题摧毁人类数学精神",
+    "description": "25位菲尔兹奖得主联名吹哨",
+    "url": "https://www.qbitai.com/2026/09/487653.html",
+    "imageUrl": null,
+    "source": "量子位",
+    "categoryId": null,
+    "publishedAt": "2026-09-12T04:53:58.000Z",
+    "createdAt": "2026-09-12T23:49:02.126Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "AI Models & Agents",
+    "contentFormats": [
+      "WeChat Deep Dive"
+    ]
+  },
+  {
     "id": 2160791,
     "title": "Video Friday: Humanoid Robot Takes On Monkey Bars",
     "description": "Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few months. Please send us your events for inclusion. Humanoids Summit Seoul : 22–23 September 2026, SEOUL IROS 2026 : 27 September–1 October 2026, PITTSBURGH CoRL 2026 : 9–12 November 2026, AUSTIN Enjoy today’s videos! Traversing sparse 3D structures requires humanoid robots to perceive thin, overhanging geometry while executing agile, accurate whole-body motions. We study this problem through monkey-bar traversal, where the robot must jump to the structure, traverse it through sparse bar interactions, and land safely. The list of obstacles that you can traverse to escape a robot is getting shorter. [ ETH Zurich Robotic Systems Lab ] YES GIVE ROBOTS TWO HEADS I LOVE IT! [ General Robotics Lab ] 9/11 was the first documented use of robots for urban search and rescue and helped create the field of d",

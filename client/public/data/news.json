@@ -1,5 +1,360 @@
 [
   {
+    "id": 2160838,
+    "title": "NASA Welcomes Djibouti as Newest Artemis Accords Signatory",
+    "description": "The Republic of Djibouti became the 72nd nation and eighth African country to sign the Artemis Accords during a ceremony Monday at NASA Headquarters in Washington. The Artemis Accords are the first set of practical principles aimed at enhancing transparency, safety, and coordination among nations as they explore the Moon, Mars, and beyond. “Djibouti joins [&#8230;]",
+    "url": "https://www.nasa.gov/organizations/oiir/artemis-accords/nasa-welcomes-djibouti-as-newest-artemis-accords-signatory/",
+    "imageUrl": null,
+    "source": "NASA",
+    "categoryId": null,
+    "publishedAt": "2026-09-14T16:46:07.000Z",
+    "createdAt": "2026-09-15T00:21:39.978Z",
+    "language": "en",
+    "region": "Global",
+    "topic": "Space & Aerospace",
+    "contentFormats": [
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160839,
+    "title": "Princeton engineers create an erasable semiconductor programmed with light",
+    "description": "The research takes an important step toward creating semiconductors that are adaptable and more energy efficient.",
+    "url": "https://www.princeton.edu/news/2026/09/14/princeton-engineers-create-erasable-semiconductor-programmed-light",
+    "imageUrl": null,
+    "source": "Princeton",
+    "categoryId": null,
+    "publishedAt": "2026-09-14T16:15:00.000Z",
+    "createdAt": "2026-09-15T00:21:41.272Z",
+    "language": "en",
+    "region": "Global",
+    "topic": "Chips & Compute",
+    "contentFormats": [
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160840,
+    "title": "From Coding to Cabernet: An Alumnus’ Journey From Corporate Tech to Startup Life",
+    "description": "&lt;span&gt;From Coding to Cabernet: An Alumnus’ Journey From Corporate Tech to Startup Life&lt;/span&gt; &lt;span&gt;&lt;a title=\"View user profile.\" href=\"https://news.gatech.edu/user/1\"&gt;Superadmin&lt;/a&gt;&lt;/span&gt; &lt;span&gt;&lt;time datetime=\"2026-09-14T10:28:31-04:00\" title=\"Monday, September 14, 2026 - 10:28\"&gt;Mon, 09/14/2026 - 10:28&lt;/time&gt; &lt;/span&gt; &lt;div&gt;&lt;p&gt;Aged oak bourbon barrels weren’t something &lt;strong&gt;Christian&lt;/strong&gt; &lt;strong&gt;Doetsch&lt;/strong&gt; imagined he’d work with every day when he graduated from Georgia Tech in 2013 with a bachelor’s degree in computer science (CS).&lt;/p&gt;&lt;p&gt;But after more than a decade in the corporate world, Doetsch’s entrepreneurial spirit led him to VinoBarrel, where he serves as vice president of technology. The startup, launched in 2022, combines software, hardware, and data to help restaurants, bars, hotels, and other venues build customer relationships through wine.&lt;/p&gt;&l",
+    "url": "https://news.gatech.edu/news/2026/09/08/coding-cabernet-alumnus-journey-corporate-tech-startup-life",
+    "imageUrl": null,
+    "source": "Georgia Tech",
+    "categoryId": null,
+    "publishedAt": "2026-09-14T14:28:31.000Z",
+    "createdAt": "2026-09-15T00:21:41.423Z",
+    "language": "en",
+    "region": "Global",
+    "topic": "Chips & Compute",
+    "contentFormats": [
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160849,
+    "title": "蚂蚁发布大模型内生式安全护栏SingProbe，让AI边生成边识别风险",
+    "description": "大模型正在进入日常问答、办公辅助、客户服务等真实业务场景。用户期待AI快速给出有用的回答，也需要这些回答安全、可靠。如何及时发现不安全内容和编造信息，同时减少安全审核对响应速度和用户体验的影响，成为大模型应用落地需要解决的问题。 国家网络安全宣传周期间，蚂蚁AI安全实验室正式发布大模型内生式安全护栏SingProbe，将安全检测融入模型生成过程。它如同一个内置的“安全探头”，让AI一边生成回答，一边输出风险提示，以较低的额外计算开销，为大模型应用提供更及时的安全防护。 例如，用户向AI咨询健康问题时，会关心它是否给出不恰当的用药建议；使用AI查找资料时，也需要警惕它编造不存在的文献或事实依据。面对这些风险，SingProbe能够在回答生成过程中持续提供风险信号，帮助应用系统及时采取中止回答、重新生成等措施。 目前，大模型应用通常通过独立的外置护栏模型审核输入或输出。这种方式通用、直接，但需要额外处理待审核内容，增加计算和部署成本。如果等完整回答生成后再检查，风险内容可能已经呈现给用户；如果提高检查频率，又会进一步增加运行负担。 SingProbe尝试让安全判断与模型生成同步进行。它复用大模型推理过程中已经产生的内部信息，通过轻量化的安全检测模块，持续输出风险分数。这意味着，模型在生成回答的同时，就能给出当前内容是否存在安全或事实可靠性风险的信号，供系统及时采取告警、终止生成、重试等措施。 据研发团队在Ling-3.0-flash模型生产环境中的实测，SingProbe在解码阶段引入的额外开销低于0.5%。团队评测显示，flash版本在回答安全分类和流式安全检测任务上超过所选公开基线，在幻觉检测任务上与参考基线基本持平，为兼顾检测能力与运行效率提供了新的技术路径。 针对流式生成场景，此次还同步发布了评测基准SingStreamBench。该基准关注模型从正常回答转向风险内容的具体时刻，不仅检验护栏能否发现风险，还考察是否过早触发、发现是否及时，以更贴近实际应用的方式衡量安全防护效果。 在医疗生成场景中，研发团队进一步探索了从风险识别到按需纠偏的技术应用，提出SingProbe-Med：持续监测生成过程中的医疗风险，仅在达到触发条件后，对局部高风险内容进行解码干预。据团队在AntAngelMed-100B上的医疗评测，完整干预能够纠正基线模型中25.03%原本出错的回答",
+    "url": "https://www.leiphone.com/category/industrynews/pvwJSKM5MEEd1H5N.html",
+    "imageUrl": null,
+    "source": "雷锋网",
+    "categoryId": null,
+    "publishedAt": "2026-09-14T13:22:00.000Z",
+    "createdAt": "2026-09-15T00:21:45.989Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "Policy & Society",
+    "contentFormats": [
+      "Xiaohongshu Explainer",
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160850,
+    "title": "全球AI大厂集体呼吁“限速” 360：AI安全不能靠企业自审，需第三方攻防把关",
+    "description": "近日，Anthropic、OpenAI、xAI、谷歌DeepMind等全球顶尖AI企业达成罕见行业共识，集体呼吁对前沿AI技术发展实施“全球限速”，通过放缓迭代节奏规避AI失控风险。针对这一趋势，360认为：AI限速仅能为安全治理争取缓冲时间，无法根治风险。AI安全不能仅依赖厂商自我审查，需要引入独立第三方攻防力量把关，填补自审盲区。 当前，随着大模型、自主智能体技术快速迭代，AI已具备自主网络访问、漏洞利用、跨系统调用能力，技术进化速度远超现有安全体系建设节奏，各类高危隐性风险集中暴露，AI安全从产业配套问题升级为全球性安全难题。 从近期公开的安全事件看，前沿AI产品漏洞风险频发，厂商自查自检模式的弊端彻底凸显。OpenAI约1200个原本应相互隔离的智能体出现非预期协作，其中约700个参与针对Hugging Face的攻击；攻击过程中，有智能体获取生产环境容器的远程代码执行权限；Anthropic 模型被曝在测试中越权进入真实第三方系统，厂商自查7个月未能察觉；GPT-6 Astra因网络安全能力触及“关键级”门槛，一度暂停部分内部活动、延缓开发发布。 360 AI安全专家表示，AI技术权限持续扩大，一旦出现失控、越权、数据泄露等问题，极易引发系统性网络安全风险。传统“厂商自建、自查、自证”模式，存在明显检测盲区，无法满足当下AI安全管控需求，独立第三方攻防校验已成为行业刚需。 作为国内唯一兼具AI与安全能力的企业，360长期以来布局AI安全领域，依托二十年攻防对抗知识与实战经验，提出“以模治模”的AI安全整体解决方案，对大模型、AI智能体实现全链条约束与检测，实现AI去检查AI、约束AI。 在大模型安全领域，360覆盖训练、推理、应用、运营全生命周期，构建起包含风险评测、内容安全防护、数据保护、运行动态监测的一体化安全能力体系，全方位管控模型内容违规、数据外泄、异常输出等核心风险。在智能体安全领域，360通过智能体全流程管控体系，实现事前风险评估、事中动态拦截、事后溯源审计的闭环管理。同时，360图龙锋可主动挖掘未知漏洞，自上线以来已累计挖掘AI相关漏洞超万个，多次发现海外主流AI产品的隐蔽安全隐患。 360集团创始人周鸿祎多次强调，AI 能力越强，失控后的破坏力越大。在 360 看来，AI 时代的安全治理不应是事后补救，而要前置为产业核心基础设施；全球 AI",
+    "url": "https://www.leiphone.com/category/industrynews/gVsESfQelkqfh9wY.html",
+    "imageUrl": null,
+    "source": "雷锋网",
+    "categoryId": null,
+    "publishedAt": "2026-09-14T11:43:00.000Z",
+    "createdAt": "2026-09-15T00:21:45.989Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "Policy & Society",
+    "contentFormats": [
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160841,
+    "title": "首届蚂蚁灵波具身大模型挑战赛正式启动",
+    "description": "通过这场大赛，蚂蚁灵波希望将 LingBot-VLA 进一步推向更广泛的开发者社区和高校科研社区",
+    "url": "https://www.qbitai.com/2026/09/489105.html",
+    "imageUrl": null,
+    "source": "量子位",
+    "categoryId": null,
+    "publishedAt": "2026-09-14T09:47:07.000Z",
+    "createdAt": "2026-09-15T00:21:43.060Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "Robotics & Embodied AI",
+    "contentFormats": [
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160842,
+    "title": "探索RSI，生数新世界模型让机器人开始自我进化",
+    "description": null,
+    "url": "https://www.qbitai.com/2026/09/489037.html",
+    "imageUrl": null,
+    "source": "量子位",
+    "categoryId": null,
+    "publishedAt": "2026-09-14T09:36:28.000Z",
+    "createdAt": "2026-09-15T00:21:43.060Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "Robotics & Embodied AI",
+    "contentFormats": [
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160851,
+    "title": "具脑磐石发布业界首个类脑认知世界模型 Cog-WM 1.0",
+    "description": "9月14日，上海具脑磐石科技有限公司（以下简称\"具脑磐石\"）在其承办的 2026 浦江创新论坛·类脑具身智能分论坛——全球首个\"类脑具身智能\"专题论坛——正式发布全球首代类脑认知世界模型 Cog-WM 1.0。 Cog-WM 1.0 是全球首个基于成体系类脑神经机制研发的类脑隐空间预测世界模型，完成了从主动探索具身导航（Navigation）到价值引导具身操作（Manipulation）的能力验证。该模型系统借鉴人脑认知神经机制，构建类脑机制下隐空间预测驱动的统一架构，使机器人不再依赖预建地图和海量数据，也能在陌生环境中完成自主规划、语义导航与操作任务。为提升具身智能逼近人脑的高泛化能力水平提供了新的技术路径。 支撑这一定位的，是在公开基准上的测试数据：据算法团队披露，导航任务跟认知地图导航业界SOTA——Nature Communications上的BSC-Nav（Ruan et al., 2026）Baseline相比，Cog-WM 1.0 实现了无预建图自主导航且导航成功率提升超 10%以上，展现出更高的准确率与泛化性。操作任务在具身操作任务基准上均优于基于海量数据预训练的SOTA （π0.5）最多16%以上。 Cog-WM 1.0 已在轮式人形、四足机器人等多构型机器人本体完成在无预建图条件下即可自主导航与路径规划、时空记忆检索和空间关系问答与寻物等核心能力，并在轮式人形机器人上验证了操作能力，为机器人未来在开放世界实现开箱即用提供了技术基础。 从感知到认知：先要回答三个绕不过去的问题 在陌生房间里寻找一盆植物，机器人可能要穿过多个区域，记住已经看过的地方，并在目标尚未出现时判断下一步该往哪里走。完成物品整理这类连续操作，则需要知道每一步动作会带来什么变化、这些变化又如何影响后续任务。 这两个任务看着不同，指向的却是同一组技术挑战：如何降低对海量任务数据和特定环境适配的依赖？如何让历史信息真正被用起来？如何提高长程任务的完成度？ 具脑磐石的判断是：这三问不是再优化两年工程就能跨过去的局部问题，而是范式层面的结构性问题——把数据扩大十倍、把参数扩大十倍，并不能自动换来物理世界的认知理解与真实交互能力。针对这三问，Cog-WM 1.0 给出的答案是：不再沿\"用更多数据补更多场景\"的路径外推，而是回到智能的本源——人脑。 核心机制：类脑感知编码与目标调控、时空记忆",
+    "url": "https://www.leiphone.com/category/robot/Dq92tSkeaGMAL0rP.html",
+    "imageUrl": null,
+    "source": "雷锋网",
+    "categoryId": null,
+    "publishedAt": "2026-09-14T09:36:00.000Z",
+    "createdAt": "2026-09-15T00:21:45.989Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "Robotics & Embodied AI",
+    "contentFormats": [
+      "Xiaohongshu Explainer",
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160843,
+    "title": "分子之心QuantaMind登Science Advances，让AI给分子世界&#8221;拍电影&#8221;",
+    "description": "AI 蛋白质设计迈入“动态时代”",
+    "url": "https://www.qbitai.com/2026/09/489023.html",
+    "imageUrl": null,
+    "source": "量子位",
+    "categoryId": null,
+    "publishedAt": "2026-09-14T08:17:22.000Z",
+    "createdAt": "2026-09-15T00:21:43.060Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "Bioengineering",
+    "contentFormats": [
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160844,
+    "title": "端侧AI从「能跑」到「会进化」，元空智能跑进惠普预装",
+    "description": "让模型和设备共同进化",
+    "url": "https://www.qbitai.com/2026/09/488933.html",
+    "imageUrl": null,
+    "source": "量子位",
+    "categoryId": null,
+    "publishedAt": "2026-09-14T08:08:29.000Z",
+    "createdAt": "2026-09-15T00:21:43.060Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "AI Models & Agents",
+    "contentFormats": [
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160845,
+    "title": "一年连融三轮，这家金融AI公司又拿下超3亿B轮",
+    "description": "险资、券商与头部创投持续加码",
+    "url": "https://www.qbitai.com/2026/09/488912.html",
+    "imageUrl": null,
+    "source": "量子位",
+    "categoryId": null,
+    "publishedAt": "2026-09-14T07:55:12.000Z",
+    "createdAt": "2026-09-15T00:21:43.060Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "AI Models & Agents",
+    "contentFormats": [
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160852,
+    "title": "蚂蚁百宝箱推出全新商圈智能体模版，万达率先发布逛街Agent",
+    "description": "AI浪潮奔涌而至，线下商圈如何借势破局、实现效率跃升？ 作为企业级智能体开发平台，蚂蚁百宝箱近日正式推出全新的商圈智能体模板，一站式集成美食推荐、店铺导览、营销活动推送及客服咨询等多项智能服务能力。同时，该模板全面接入支付宝“碰一下”线下AI经营网络，助力商场及商业综合体以轻量化方式完成智能化升级，提升消费者逛街购物体验。 依托百宝箱的商圈智能体模板，开发者与运营服务商可直接复用成熟功能组件，通过AI Coding一句自然语言描述，即可快速生成适配具体商圈需求的智能体，还能灵活搭建各类主流营销玩法，将业务构想高效转化为生产级应用，大幅降低开发门槛与迭代成本。 图说：百宝箱全新商圈智能体模板 不仅如此，随着百宝箱在商圈等行业的持续推进，平台能力也从围绕“搭建智能体”进一步升级为“提供从构建落地到助力营销转化的一站式智能体平台”。面向零售、餐饮和商圈经营场景，百宝箱还可连接商家资料与业务数据，自主分析销售、客流、订单、商品、会员和营销表现，生成经营复盘 PPT、营销图文、会员报告、网页等，帮助商家把原本分散在不同系统和表格里的经营信息，变成可以持续优化复用的运营内容。百宝箱不仅能告诉商家“发生了什么”，还会进一步分析“为什么发生、接下来怎么做”，让智能体从前台服务延伸到后台经营，成为助力商家运营和营销提效的新工具。 图说：百宝箱平台已正式上线助力B端营销转化能力 目前，万达等头部商圈综合体已率先落地应用。万达基于蚂蚁百宝箱搭建起商圈搭子智能体，用户在商场内任意分散触点“碰一下”，即可一键直达会员积分、停车缴费、店铺导览、营销活动、商场咨询问答等高频服务，显著提升了找优惠、逛店、停车及会员注册的连贯性与效率。 图说：万达基于蚂蚁百宝箱搭建起商圈搭子智能体 据悉，蚂蚁百宝箱全新升级的商圈智能体模板将在9月下旬全面开放，支持商场、商业综合体等在不改动商场原有系统架构的前提下，通过接口对接调用逛街前、逛街时、逛街后全周期服务能力。大型购物中心、城市步行街、主题商业街区等不同业态也可以结合自身品牌IP、营销节奏和经营目标，进行深度定制化配置。 此前，蚂蚁百宝箱已在文旅出行、政务服务、商圈场馆、校园服务、零售餐饮等多个领域沉淀出成熟的AI解决方案。未来，百宝箱将持续依托支付宝生态资源与稳固的底层技术架构，携手产业合作伙伴，共同探索AI智能体在服务业的更多落地场景，助力服务业数字化加",
+    "url": "https://www.leiphone.com/category/industrynews/e3UI6bLfQecs1oFu.html",
+    "imageUrl": null,
+    "source": "雷锋网",
+    "categoryId": null,
+    "publishedAt": "2026-09-14T07:27:00.000Z",
+    "createdAt": "2026-09-15T00:21:45.989Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "AI Models & Agents",
+    "contentFormats": [
+      "Xiaohongshu Explainer",
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160846,
+    "title": "2026崇礼论坛：一场未来智能生活与下一代AI创造者的盛会",
+    "description": "共话AI时代的生活、影像与创造。",
+    "url": "https://www.qbitai.com/2026/09/488875.html",
+    "imageUrl": null,
+    "source": "量子位",
+    "categoryId": null,
+    "publishedAt": "2026-09-14T06:20:36.000Z",
+    "createdAt": "2026-09-15T00:21:43.060Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "AI Models & Agents",
+    "contentFormats": [
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160837,
+    "title": "New method enables AI for safety-critical situations",
+    "description": "The “HardFlow” algorithm could help generative AI models produce high-quality outputs that obey strict requirements when “pretty close” doesn’t cut it.",
+    "url": "https://news.mit.edu/2026/new-method-enables-ai-safety-critical-situations-0914",
+    "imageUrl": null,
+    "source": "MIT AI",
+    "categoryId": null,
+    "publishedAt": "2026-09-14T04:00:00.000Z",
+    "createdAt": "2026-09-15T00:21:26.879Z",
+    "language": "en",
+    "region": "Global",
+    "topic": "Policy & Society",
+    "contentFormats": [
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160847,
+    "title": "AI开始改进“改进自己的方法”，RSI进入平方时代丨MetaRSI",
+    "description": "小模型突破瓶颈，旗舰模型打开新空间",
+    "url": "https://www.qbitai.com/2026/09/488832.html",
+    "imageUrl": null,
+    "source": "量子位",
+    "categoryId": null,
+    "publishedAt": "2026-09-14T03:45:46.000Z",
+    "createdAt": "2026-09-15T00:21:43.060Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "AI Models & Agents",
+    "contentFormats": [
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160848,
+    "title": "中国物理AI大突破：PhysBrain 1.5登顶全球开源榜一，空间智能与GPT-6 Astra并驾齐驱",
+    "description": "这家中国公司，刚跑完了物理闭环里最难的一段路",
+    "url": "https://www.qbitai.com/2026/09/488725.html",
+    "imageUrl": null,
+    "source": "量子位",
+    "categoryId": null,
+    "publishedAt": "2026-09-14T03:18:42.000Z",
+    "createdAt": "2026-09-15T00:21:43.060Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "AI Models & Agents",
+    "contentFormats": [
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160853,
+    "title": "豆包手机助手发布消费者版本 首款新机将于9月16日正式开售",
+    "description": "9月14日，豆包手机助手消费者版本正式发布。 豆包手机助手以豆包 App 为基础，与手机厂商在系统层面展开合作，围绕交互、任务执行、本地记忆及检索等核心体验，进一步探索 AI 在手机中的应用。据官方视频介绍，相比去年底推出的技术预览版，这次的消费者版本更强调稳定性和日常可用性。 交互体验是此次豆包手机助手消费者版本重点介绍的基础能力之一。据介绍，豆包手机助手支持语音、AI 键等多种唤醒方式，以适配不同使用场景。其中，专属 AI 键带有指纹鉴权能力，完成本人验证后无需二次解锁，即可调用助手执行相关任务。语音唤醒方面，豆包手机助手也针对远场、内噪和嘈杂环境等场景进行了优化。 此外，值得一提的是手机助手的屏幕问答能力。用户无需额外截图或切换应用，即可让助手结合当前屏幕内容继续处理任务。例如，在官方视频演示中，用户打开相机对准室内环境，说出“根据这个装修风格，帮我选一个一米二以内、价格不超过一千元的柜子”，豆包便可结合画面信息和用户要求，在电商平台找到符合条件的商品推荐。 类似的屏幕上下文理解能力，此前也曾出现在苹果关于 Siri 和 Apple Intelligence 的演示中。这意味着，手机 AI 助手正从单纯回答问题，逐步转向理解用户所处的具体场景和实际需求，并进一步完成相应任务。 除交互能力外，个人 Context 与记忆能力也是手机助手能否满足好用户个性化需求的关键。据介绍，豆包手机助手为本地数据提供了搜索工具，可以在用户需要时检索相册、短信、便签等信息。例如，当用户询问港澳通行证的到期时间时，助手可以从手机中的相关信息里找到答案。 围绕办公场景，消费者版本还升级了录音体验，并接入飞书妙记能力。结合本地搜索工具，用户可以直接追问具体内容，比如“昨天用户访谈里提到的产品建议”。此外，用户还可以通过语音输入、三指上滑，或同时按住 AI 键和音量键等方式，手动保存当前屏幕内容，形成可在本地检索的记忆。 任务执行是豆包手机助手此次展示的另一项核心能力。以出行场景为例，用户说“帮我叫一辆去公司的车”，豆包即可确认常用地址、选择车型并发起下单。 值得一提的是，技术预览版发布后受到广泛关注的“操作手机”功能，此次以 Beta 版形式开放。豆包方面表示，图形界面智能体仍是一项快速发展的前沿能力，豆包手机助手期望与合作伙伴共同构建开放、规范的手机AI应用生态。为此，豆包手机助手推",
+    "url": "https://www.leiphone.com/category/industrynews/p1zBbVMbsyYNHOJ4.html",
+    "imageUrl": null,
+    "source": "雷锋网",
+    "categoryId": null,
+    "publishedAt": "2026-09-14T02:55:00.000Z",
+    "createdAt": "2026-09-15T00:21:45.989Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "AI Models & Agents",
+    "contentFormats": [
+      "Xiaohongshu Explainer",
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160854,
+    "title": "NUS Show Lab 寿政教授：打通自回归与离散扩散，打造下一代具身大模型底座｜ECCV 2026",
+    "description": "告别模型拼贴套路，自回归与离散扩散的融合，正在开启 AI 的体验时代。 作者丨 张璐 编辑丨岑峰 “理解”和“生成”真的无法在同一个模型底座中完美融合吗？ 不同于拼接独立模型的传统做法，NUS Show Lab 选择了一条更原生的架构路线：在单个 Transformer 中同时打通自回归预测与离散扩散生成。 作为多模态领域的重磅成果，Show-o 系列不仅打破了模态壁垒，更将触角延伸至具身机器人决策。 在 ECCV 2026 现场，Show Lab 负责人寿政教授详细还原了他们如何用闭环算法破解数据稀缺、消除连续视频帧卡顿，并实现云端大模型与端侧低延迟控制的完美配合。 寿政教授此次披露的研究成果，不仅是一次性能的跨越，更是多模态架构从“实验玩具”向“具身大脑”进化的分水岭。其核心突破点在于以下三个维度的重构： 首先，在架构底层， Showo 架构打破了文本离散性与视觉连续性的“死结” 。通过将处理文本的自回归（AR）机制与处理视觉的离散掩码扩散（Discrete Diffusion）深度缝合，Showo 避开了传统自回归生成图像的效率泥潭，同时也解决了连续扩散模型无法直连 VLM 离散 Token 的痛点，实现了逻辑推理与高质生成的完美共生。 其次，针对困扰具身智能的“标注荒”，寿教授提出的 循环一致性监督（Cycle Consistency）提供了极佳的解决方案 。在缺乏人类标注的特定文化或低资源领域，模型通过“观察-描述-再合成”的逻辑循环实现自监督进化。这让 AI 从 YouTube 海量无标签“生肉”视频中吸取物理常识成为了可能，极大地拓宽了 Scaling Law 的数据边界。 最后，具身智能的落地成败取决于毫秒级的反应。团队自研的 Q1 实时骨干网 ，通过精密的特征对齐与蒸馏，实现了远超前沿闭源大模型的推理速度。这证明了： 一个真正的“数字生命”大脑，不仅要能深思熟虑，更要在与物理世界碰撞的一瞬间，给出近乎本能的实时反馈。 以下为演讲全文，雷峰网AI科技评论在不改变原意的基础上，对内容进行了整理与编辑： 01 告别“只读不练”：多模态 AI 如何从“看懂视频”跨入“具身体验”？ 过去几年，视觉与语言交叉领域的核心任务主要围绕视频理解与视频生成两条独立路线展开。前者致力于将视频转化为文本描述或解答视频问题，后者则根据文本提示词生成对应的动态视频。 以往业界",
+    "url": "https://www.leiphone.com/category/private/m2CuWb5rm0qnkznY.html",
+    "imageUrl": null,
+    "source": "雷锋网",
+    "categoryId": null,
+    "publishedAt": "2026-09-14T02:50:00.000Z",
+    "createdAt": "2026-09-15T00:21:45.989Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "Robotics & Embodied AI",
+    "contentFormats": [
+      "Xiaohongshu Explainer",
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160855,
+    "title": "TUM 教授 Angela Dai：放下完美数据执念，「逆向自监督」重构 3D 空间智能 | ECCV 2026",
+    "description": "2D去噪范式在真实3D遮挡前失效，破局关键在于将物理机制转化为结构先验。 作者丨 张璐 编辑丨 岑峰 大模型在文本与 2D 图像上的狂飙，归功于互联网上近乎无穷的干净数据。但当 AI 试图跨越屏幕、理解真实的 3D 物理世界时，这套经验法则瞬间失效。 真实扫描数据充斥着噪点与死角，物理遮挡造成的几何缺失既非随机发生，更无法用简单的去噪算法抹平。面对这一死结，多数团队选择用人工合成数据去“硬碰硬”，却始终难以跨越虚实结合的鸿沟。 在 ECCV 现场，慕尼黑工业大学（TUM）Angela Dai 教授展示了一套逆转行业思路的解法： 不必强行克服数据的“不完整”，把真实的物理遮挡机制，直接变成算法的结构先验。 这项研究不仅打破了 3D 场景重建中困扰已久的“均值模糊”魔咒，更清晰地标定了空间智能（Spatial AI）从“静态 3D 拼图”走向“原生具身大脑”的技术演进路线。整套破局逻辑由三个层层递进的技术支柱构成： 第一，将物理遮挡转化为逆向自监督（SG-NN）。团队先是将传感器的视野拆解为已知空域、已观测表面与未知盲区的三状态编码。团队摒弃对盲区的盲目强行预测，通过故意扣除观测帧构建训练对，用掩码损失（Mask Loss）让物理遮挡本身成为最天然的自监督标靶。 第二，用“几何骨架 + 2D 渲染”破解均值模糊（Seen2Scene）。面对大面积盲区带来的严重歧义，引入可见性引导的流匹配（Seen2Scene）与 3D 高斯溅射（WorldMesh）。由稳定几何提供不漂移、不坍塌的“骨架”，再借由 2D 图像先验反哺高保真“皮肉”，首次将连贯生成的尺度拉伸到了七八个房间的环境级空间。 第三，从生成反哺重构，走向机器人的“主动感知”（GenRecon）：将合成场景学到的结构先验反向注入真实重构（GenRecon），更顺理成章地将物理可见性推演至具身智能领域。让 AI 不再是被动接收残缺图像的画师，而是能够预判未观测空间、自主规划最佳探路路径的空间智能体。 以下为演讲全文，雷峰网AI科技评论在不改变原意的基础上，对内容进行了整理与编辑： 01 数据天然“残缺”：为什么 2D 扩散范式 在 3D 空间彻底失效？ 文本和图像生成的爆发，本质上建立在互联网海量公开数据的红利之上。无论是能侃侃而谈的大语言模型，还是瞬间绘图的生成算法，背后都有庞大的文本文献、艺术作品和照片库作为支撑",
+    "url": "https://www.leiphone.com/category/private/IHKmBYxnV5IvYoN0.html",
+    "imageUrl": null,
+    "source": "雷锋网",
+    "categoryId": null,
+    "publishedAt": "2026-09-14T02:47:00.000Z",
+    "createdAt": "2026-09-15T00:21:45.989Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "Robotics & Embodied AI",
+    "contentFormats": [
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160856,
+    "title": "整玄学？太乙圣莲拟花30亿元复活哪吒汽车！网友：救哪吒还得靠太乙真人；某机器人老板轰行业虚假收入，银河通用回怼；OpenAI今年不会上市",
+    "description": "要闻提示 1.整上玄学了？太乙圣莲拟出资30亿元复活哪吒汽车！网友“神评”：救哪吒还得靠太乙真人 2.机器人行业爆发口水战：梅卡曼德创始人炮轰行业虚假收入，银河通用回怼 3.三家具身智能头部企业被同行举报？涉及企业回应 4.曝苹果首款折叠屏iPhone Duo是跟着华为三星做的 5.小米人事调整：唐力担任国际业务部副总裁兼南亚地区部总经理，向曾学忠汇报 6.阿里健康人事调整：余涌出任董事会主席兼CEO，沈涤凡卸任 7.智谱约50亿美元融资落定，加码下一代GLM基础模型、完全自训练及算力基建 8.奥尔特曼确认：OpenAI 今年不会上市，不能冒哪怕10%杀死所有人的风险 今日头条 整上玄学了？太乙圣莲拟出资30亿元复活哪吒汽车！网友“神评”：救哪吒还得靠太乙真人 9月13日消息，日前，合众新能源（哪吒汽车母公司）破产重整案第四次债权人会议以线上形式召开，《重整计划（草案）》显示，浙江太乙圣莲企业管理合伙企业（有限合伙）拟出资30亿元入主，换取合众新能源约70.62%的股权。取名与哪吒相呼应的太乙圣莲能否让哪吒汽车“复活”成为相关各方关注的焦点。有网友评论“救哪吒还得靠太乙真人”“这公司名‘神’了”。 据一位债权人提供的《重整计划（草案）》内容，“太乙圣莲”作为重整投资人，计划提供 30 亿元人民币，用于合众新能源的重整投资，并取得后者约 70.62% 的股权。其中，30 亿元的现金中的 11.67 亿元将被用于清偿拟保留资产对应的相关债权和破产费用；剩余 18.33 亿元用于补充合众新能源的流动资金，支持其重整后的经营与发展。 据悉，合众新能源未来发展规划将分成三个阶段完成：第一阶段，计划复产哪吒 X 车型，主要面向海外市场，目标年销量为 1 万台。同时，重建上游供应链合作信心，保证官方备件供应，全面恢复“哪吒汽车”的售后维修保养，并激活现有的服务网络，给车主提供官网维保服务。第二阶段将重点推出适合亚洲、非洲、拉美等地区的车型，目标年产 30 万台。第三阶段，则计划打造全球化智能车型，争取年产值达 400 亿元，并启动 IPO 准备工作。（IT之家） 国内资讯 机器人行业爆发口水战：梅卡曼德创始人炮轰行业虚假收入，银河通用回怼 9月13日消息，日前，银河通用发布声明表示，近期，银河通用关注到网络上流传关于银河通用及管理团队的恶意谣言，相关内容均属不实信息。对此，银河通",
+    "url": "https://www.leiphone.com/category/zaobao/bhtS7S4Yd8Bl51DX.html",
+    "imageUrl": null,
+    "source": "雷锋网",
+    "categoryId": null,
+    "publishedAt": "2026-09-14T00:28:00.000Z",
+    "createdAt": "2026-09-15T00:21:45.989Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "Robotics & Embodied AI",
+    "contentFormats": [
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
     "id": 2160821,
     "title": "斜跃智能完成数亿元天使+轮融资，加速推进Duplex Reasoning全新范式具身基础模型",
     "description": "近日，斜跃智能完成数亿元天使+轮融资，线性资本、钧山资本、弘颐资本、隐山资本等机构参与投资。随着这一轮融资完成，斜跃将持续推进具身基础模型训练、算力与数据基础设施建设和核心团队扩充，以及家庭机器人本体研发和场景验证。 斜跃智能成立于2026年2月，是一家以家庭为第一落地场景的具身基础模型公司，斜跃正在构建面向真实物理世界的通用具身模型，以自研模型驱动通用家庭机器人落地。 斜跃由理想前AI首席科学家、基座模型部门负责人陈伟，以及理想前产品线总裁张骁联合创立，核心团队来自全球知名科技、AI、机器人及智能汽车企业，能力横跨大模型算法、AI Infra 基础设施、机器人运控、产品与供应链管理五大领域，是国内少数具备万卡大模型训练、数字与物理大模型及智能体开发、C 端产品从定义到量产交付全链路经验的顶尖团队。 斜跃认为，家庭是最复杂、最高频、也最具长期价值的真实物理环境之一，家庭任务天然融合感知、理解、规划、操作和交互，既包含脑力任务，也包含体力任务，是验证通用具身智能能力的理想场景。斜跃相信， 家庭是具身基础模型的核心训练场、验证场和规模化落地场景，为了更长期、更终局的机器人“进家”，斜跃提出了Duplex Reasoning 范式驱动的具身基础模型。 过去，传统机器人系统往往采取“接收指令—执行动作—返回结果”的单工或半双工流程，强调动作正确执行和任务完成，而家庭场景要时刻响应模糊、变化且持续发生的需求。 Duplex Reasoning 旨在让机器人在感知理解、推理规划和任务执行的过程中保持与人连接的「双向通道」，对话信息可以随时被打断和修正，行动目标也可以在执行过程中动态调整，最终打造出可打断、可修正、可接管、可持续进化的通用家庭行动智能。 家庭不仅是真实物理世界，更是以人为中心的。 Duplex Reasoning 在执行数字技能和物理动作的同时，持续接收人类干预、环境反馈和安全信号，它不是单向执行任务，而是在交互、行动和反馈中持续推理与调整，Duplex Reasoning实现了交互和行动的一体化。 斜跃提出的Duplex Reasoning 为具身基础模型确立新范式：交互与行动应在数据、模型结构与训练流程中被一体化建模。以 VLA 为主干，打通与世界模型预测的协同 —— 语言将视觉、语音与环境变化压缩为可迁移的高层语义，驱动模型跨场景泛化；世界模型预测动作的未来",

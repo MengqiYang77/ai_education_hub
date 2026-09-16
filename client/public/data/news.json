@@ -1,5 +1,216 @@
 [
   {
+    "id": 2160861,
+    "title": "Georgia Tech’s Avant South Brings ‘AI in Action’ to Atlanta",
+    "description": "&lt;span&gt;Georgia Tech’s Avant South Brings ‘AI in Action’ to Atlanta&lt;/span&gt; &lt;span&gt;&lt;a title=\"View user profile.\" href=\"https://news.gatech.edu/user/1\"&gt;Superadmin&lt;/a&gt;&lt;/span&gt; &lt;span&gt;&lt;time datetime=\"2026-09-15T19:38:58-04:00\" title=\"Tuesday, September 15, 2026 - 19:38\"&gt;Tue, 09/15/2026 - 19:38&lt;/time&gt; &lt;/span&gt; &lt;div&gt;&lt;p&gt;Artificial intelligence is already changing how people work, learn, build companies, manufacture products, move goods, deliver healthcare, and create art. This October, the Georgia Tech community will have a front-row seat to conversations about where that transformation is heading and how to be part of it.&lt;/p&gt;&lt;p&gt;&lt;a href=\"https://avantsouth.com/\"&gt;Avant South&lt;/a&gt; returns to &lt;strong&gt;Tech Square on Oct. 12 – 13&lt;/strong&gt; to convene founders, executives, policymakers, investors, researchers, creators, and students to focus on the intersection of technology, culture, and innovation.",
+    "url": "https://news.gatech.edu/news/2026/09/15/georgia-techs-avant-south-brings-ai-action-atlanta",
+    "imageUrl": null,
+    "source": "Georgia Tech",
+    "categoryId": null,
+    "publishedAt": "2026-09-15T23:38:58.000Z",
+    "createdAt": "2026-09-16T00:00:16.732Z",
+    "language": "en",
+    "region": "Global",
+    "topic": "Advanced Manufacturing",
+    "contentFormats": [
+      "Xiaohongshu Explainer",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160860,
+    "title": "Is there a philosopher in the house?",
+    "description": "Tech insiders call for humanist-scientist discourse amid ‘Copernican moment’ of AI age",
+    "url": "https://news.harvard.edu/gazette/story/2026/09/is-there-a-philosopher-in-the-house/",
+    "imageUrl": null,
+    "source": "Harvard Gazette",
+    "categoryId": null,
+    "publishedAt": "2026-09-15T20:53:53.000Z",
+    "createdAt": "2026-09-16T00:00:16.057Z",
+    "language": "en",
+    "region": "Global",
+    "topic": "AI Models & Agents",
+    "contentFormats": [
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160858,
+    "title": "NASA Invites Media to International Observe the Moon Night",
+    "description": "NASA will host an International Observe the Moon Night celebration from 5:30 to 8 p.m. CST on Saturday, Sept. 19, at the U.S. Space &#38; Rocket Center, the official visitor center for NASA’s Marshall Space Flight Center in Huntsville, Alabama. International Observe the Moon Night celebrates the Moon, the science behind it, and its connection [&#8230;]",
+    "url": "https://www.nasa.gov/news-release/nasa-invites-media-to-international-observe-the-moon-night/",
+    "imageUrl": null,
+    "source": "NASA",
+    "categoryId": null,
+    "publishedAt": "2026-09-15T18:55:33.000Z",
+    "createdAt": "2026-09-16T00:00:14.485Z",
+    "language": "en",
+    "region": "Global",
+    "topic": "Space & Aerospace",
+    "contentFormats": [
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160859,
+    "title": "Artemis III Crew Visits NASA Kennedy&#8217;s Vehicle Assembly Building",
+    "description": "NASA astronaut Randy Bresnik (left) and ESA (European Space Agency) astronaut Luca Parmitano view progress on the solid rocket booster integration in High Bay 3 inside the Vehicle Assembly Building at NASA&#8217;s Kennedy Space Center in Florida on Wednesday, Sept. 2, 2026. Bresnik, Parmitano, and NASA astronauts Andre Douglas, Frank Rubio, and Bob Hines made [&#8230;]",
+    "url": "https://www.nasa.gov/image-article/artemis-iii-crew-visits-nasa-kennedys-vehicle-assembly-building/",
+    "imageUrl": null,
+    "source": "NASA",
+    "categoryId": null,
+    "publishedAt": "2026-09-15T16:14:24.000Z",
+    "createdAt": "2026-09-16T00:00:14.485Z",
+    "language": "en",
+    "region": "Global",
+    "topic": "Space & Aerospace",
+    "contentFormats": [
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160857,
+    "title": "Digit 5 May Be the First Humanoid Robot Worker That’s Truly Safe",
+    "description": "Despite the recent deluge of videos of humanoid robots doing backflips and kung-fu, the actual pace of progress towards humanoids that can do economically viable jobs at scale has at times seemed a bit plodding. There are some good reasons for this : a humanoid robot needs to be powerful enough to do useful work, safe enough for humans to walk past, and have enough battery life to limit how much of the day it’s hooked to a charger. But all three of those necessary features actively work against each other. With its new Digit 5 robot, announced today, Agility Robotics may have found the sweet spot. Digit 5 is a humanoid worker that can lift 23 kilograms up 2.1 meters, can work in close proximity to people without relying on physical barriers, and can operate for more than 20 hours a day. This combination of power, safety, and battery life has resulted in a 1.8 m tall, 129 kg robot that prioritizes functionality over style and pretty much everything else, but this is exactly what it’s go",
+    "url": "https://spectrum.ieee.org/humanoid-robot-safety",
+    "imageUrl": null,
+    "source": "IEEE Spectrum Robotics",
+    "categoryId": null,
+    "publishedAt": "2026-09-15T15:22:30.000Z",
+    "createdAt": "2026-09-16T00:00:14.300Z",
+    "language": "en",
+    "region": "Global",
+    "topic": "Robotics & Embodied AI",
+    "contentFormats": [
+      "Xiaohongshu Explainer",
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160862,
+    "title": "地平线第1500万颗征程芯片搭载大众 ID. AURA T6，HSD V2.1 即将推出",
+    "description": "首发全场景倒车能力，体验再进一步",
+    "url": "https://www.qbitai.com/2026/09/489698.html",
+    "imageUrl": null,
+    "source": "量子位",
+    "categoryId": null,
+    "publishedAt": "2026-09-15T13:32:54.000Z",
+    "createdAt": "2026-09-16T00:00:17.656Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "Chips & Compute",
+    "contentFormats": [
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160863,
+    "title": "手机替我跑了一整套流程！我就说了一句话，AI执行了100步",
+    "description": "一句话，YOYO全面接管我的生活",
+    "url": "https://www.qbitai.com/2026/09/489466.html",
+    "imageUrl": null,
+    "source": "量子位",
+    "categoryId": null,
+    "publishedAt": "2026-09-15T12:47:16.000Z",
+    "createdAt": "2026-09-16T00:00:17.656Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "AI Models & Agents",
+    "contentFormats": [
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160864,
+    "title": "无问芯穹联合清华、上交正式开源具身端侧推理引擎APXInf，Pi 0.5性能SOTA",
+    "description": "卡位具身智能规模化落地“最后一公里”！",
+    "url": "https://www.qbitai.com/2026/09/489460.html",
+    "imageUrl": null,
+    "source": "量子位",
+    "categoryId": null,
+    "publishedAt": "2026-09-15T10:43:28.000Z",
+    "createdAt": "2026-09-16T00:00:17.656Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "Robotics & Embodied AI",
+    "contentFormats": [
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160865,
+    "title": "全球AI视频榜单第一梯队再添中国力量：智象发布首款物理规律导向视频模型",
+    "description": "智象未来（HiDream.ai）正式发布首个原生全模态视频生成模型 HiDream-O1-Video-1.0",
+    "url": "https://www.qbitai.com/2026/09/489389.html",
+    "imageUrl": null,
+    "source": "量子位",
+    "categoryId": null,
+    "publishedAt": "2026-09-15T10:41:06.000Z",
+    "createdAt": "2026-09-16T00:00:17.656Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "AI Models & Agents",
+    "contentFormats": [
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160866,
+    "title": "一张GPU跑10万原子！分子之心用AI把化学反应“拍”成了电影",
+    "description": "打破分子模拟“不可能三角”",
+    "url": "https://www.qbitai.com/2026/09/489381.html",
+    "imageUrl": null,
+    "source": "量子位",
+    "categoryId": null,
+    "publishedAt": "2026-09-15T09:58:00.000Z",
+    "createdAt": "2026-09-16T00:00:17.656Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "Chips & Compute",
+    "contentFormats": [
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160867,
+    "title": "前OpenAI后训练VP回应陶哲轩：说AI毁了数学，可能还是太小瞧AI了",
+    "description": "未来的AI不仅能解决问题，还能提出有价值的洞见、建立新的概念框架，让数学家在此基础上继续探索。",
+    "url": "https://www.qbitai.com/2026/09/489288.html",
+    "imageUrl": null,
+    "source": "量子位",
+    "categoryId": null,
+    "publishedAt": "2026-09-15T05:39:10.000Z",
+    "createdAt": "2026-09-16T00:00:17.656Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "AI Models & Agents",
+    "contentFormats": [
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160868,
+    "title": "9月21日，深圳前海！聊聊工业AI与生态共创的下一步",
+    "description": "西门子Xcelerator繁星生态大会，在生态合作中共赢机遇",
+    "url": "https://www.qbitai.com/2026/09/489277.html",
+    "imageUrl": null,
+    "source": "量子位",
+    "categoryId": null,
+    "publishedAt": "2026-09-15T05:20:30.000Z",
+    "createdAt": "2026-09-16T00:00:17.656Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "AI Models & Agents",
+    "contentFormats": [
+      "WeChat Deep Dive"
+    ]
+  },
+  {
     "id": 2160838,
     "title": "NASA Welcomes Djibouti as Newest Artemis Accords Signatory",
     "description": "The Republic of Djibouti became the 72nd nation and eighth African country to sign the Artemis Accords during a ceremony Monday at NASA Headquarters in Washington. The Artemis Accords are the first set of practical principles aimed at enhancing transparency, safety, and coordination among nations as they explore the Moon, Mars, and beyond. “Djibouti joins [&#8230;]",

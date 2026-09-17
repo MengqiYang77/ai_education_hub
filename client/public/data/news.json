@@ -1,5 +1,607 @@
 [
   {
+    "id": 2160878,
+    "title": "You like Ike. But AI may help campaigns figure how to ensure you actually vote",
+    "description": "Strategists predict powerful new technology will bring seismic shifts in U.S. political life",
+    "url": "https://news.harvard.edu/gazette/story/2026/09/you-like-ike-but-ai-will-help-campaigns-figure-how-to-ensure-you-actually-vote/",
+    "imageUrl": null,
+    "source": "Harvard Gazette",
+    "categoryId": null,
+    "publishedAt": "2026-09-16T21:09:49.000Z",
+    "createdAt": "2026-09-17T00:10:24.034Z",
+    "language": "en",
+    "region": "Global",
+    "topic": "AI Models & Agents",
+    "contentFormats": [
+      "Xiaohongshu Explainer",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160872,
+    "title": "Passion Meets Precision at NASA’s Flight Research Lab",
+    "description": "Long before they helped shape NASA’s future aerospace breakthroughs, Derek Abramson, Justin Hall, and Justin Link were in their garages and homes building radio‑controlled aircraft, testing new ideas, and flying their creations at hobby events. That early passion now fuels the work of NASA’s Dale Reed Subscale Flight Research Laboratory at the agency’s Armstrong Flight [&#8230;]",
+    "url": "https://www.nasa.gov/people-of-nasa/armstrong-people/passion-meets-precision-at-nasas-flight-research-lab/",
+    "imageUrl": null,
+    "source": "NASA",
+    "categoryId": null,
+    "publishedAt": "2026-09-16T21:06:08.000Z",
+    "createdAt": "2026-09-17T00:10:23.428Z",
+    "language": "en",
+    "region": "Global",
+    "topic": "Space & Aerospace",
+    "contentFormats": [
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160870,
+    "title": "“Technology is the equalizer”",
+    "description": "Using knowledge gained from MIT’s free learning materials, an educator in rural India builds apps to reach students who can’t make it to school.",
+    "url": "https://news.mit.edu/2026/technology-is-the-equalizer-0916",
+    "imageUrl": null,
+    "source": "MIT Education",
+    "categoryId": null,
+    "publishedAt": "2026-09-16T20:40:00.000Z",
+    "createdAt": "2026-09-17T00:10:10.940Z",
+    "language": "en",
+    "region": "Global",
+    "topic": "Education & Future Skills",
+    "contentFormats": [
+      "Xiaohongshu Explainer",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160873,
+    "title": "NASA’s Moon Orbiter Spots New, ‘Once-in-Century’ Moon Crater",
+    "description": "It started as a routine data-quality check. But as Robert Wagner, a scientist with NASA’s Lunar Reconnaissance Orbiter (LRO), scanned a giant Moon map on his computer screen, an unusually large bright spot circled by a dark halo caught his eye, as it implied that surface material in that area had been shaken up. “I […]",
+    "url": "https://science.nasa.gov/solar-system/moon/nasas-moon-orbiter-spots-new-once-in-century-moon-crater/",
+    "imageUrl": null,
+    "source": "NASA",
+    "categoryId": null,
+    "publishedAt": "2026-09-16T18:06:35.000Z",
+    "createdAt": "2026-09-17T00:10:23.428Z",
+    "language": "en",
+    "region": "Global",
+    "topic": "Chips & Compute",
+    "contentFormats": [
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160871,
+    "title": "Rethinking Robot Safety in the Age of AI",
+    "description": "This article is brought to you by VicOne . Robot safety has traditionally asked: Can a machine remain safe when something goes wrong? Physical AI raises a harder question: Can a machine remain safe when an attacker changes what it sees, decides, or does even when nothing appears to have failed? As AI and robotics continue to advance at an unprecedented pace, modern robots perceive through multimodal sensors, interpret context using AI models, and translate those interpretations into physical action. As they move into dynamic environments, their safety increasingly depends on the integrity of the data guiding their decisions. That dependence creates risks that conventional safety assessments may not fully capture. Recent research has demonstrated that manipulating what a robot sees, hears, or interprets can influence its behavior without requiring direct control. Such manipulation can occur anywhere across its complex sensing and decision-making system — a layered attack surface encompa",
+    "url": "https://spectrum.ieee.org/physical-ai-robot-cybersecurity-vicone",
+    "imageUrl": null,
+    "source": "IEEE Spectrum Robotics",
+    "categoryId": null,
+    "publishedAt": "2026-09-16T16:51:02.000Z",
+    "createdAt": "2026-09-17T00:10:23.392Z",
+    "language": "en",
+    "region": "Global",
+    "topic": "Robotics & Embodied AI",
+    "contentFormats": [
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160874,
+    "title": "NASA Watches Earth’s Weight, Finds Center of Mass",
+    "description": "Seasonal changes redistribute enough water around Earth to shift the planet’s center of mass back and forth by fractions of an inch relative to its geometric center. NASA scientists are on the case, tracking the oscillations because Earth’s center of mass is a crucial reference point for satellite navigation and elevation measurements. A team, led [&#8230;]",
+    "url": "https://www.nasa.gov/science-research/earth-science/nasa-watches-earths-weight-finds-center-of-mass/",
+    "imageUrl": null,
+    "source": "NASA",
+    "categoryId": null,
+    "publishedAt": "2026-09-16T16:08:00.000Z",
+    "createdAt": "2026-09-17T00:10:23.428Z",
+    "language": "en",
+    "region": "Global",
+    "topic": "Space & Aerospace",
+    "contentFormats": [
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160875,
+    "title": "Curiosity Postcard Celebrates Rover’s 5,000th Day on Mars",
+    "description": "Description While parked at a sand ridge nicknamed “Chocolatal,” NASA’s Curiosity Mars rover used its black-and-white navigation cameras to capture panoramas at two times of day. The first was taken on Aug. 30, 2026, at 9:56 a.m. local Mars time; the second was taken on Sep. 2, 2026, at 5:39 p.m. local Mars time. Those […]",
+    "url": "https://science.nasa.gov/photojournal/curiosity-postcard-celebrates-rovers-5000th-day-on-mars/",
+    "imageUrl": null,
+    "source": "NASA",
+    "categoryId": null,
+    "publishedAt": "2026-09-16T15:21:27.000Z",
+    "createdAt": "2026-09-17T00:10:23.428Z",
+    "language": "en",
+    "region": "Global",
+    "topic": "Space & Aerospace",
+    "contentFormats": [
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160876,
+    "title": "NASA Visits Schools Strengthening Florida’s Skilled Workforce",
+    "description": "NASA recently awarded $10.5 million to seven organizations nationwide through its new State Hubs initiative. Space Florida was selected for Project ORBIT, which aims to expand opportunities for middle and high school students, boost enrollment in key career and technical programs, and create a statewide portal connecting skilled workers with aerospace employers. Elaine Ho, associate [&#8230;]",
+    "url": "https://www.nasa.gov/image-article/nasa-visits-schools-strengthening-floridas-skilled-workforce/",
+    "imageUrl": null,
+    "source": "NASA",
+    "categoryId": null,
+    "publishedAt": "2026-09-16T15:14:57.000Z",
+    "createdAt": "2026-09-17T00:10:23.428Z",
+    "language": "en",
+    "region": "Global",
+    "topic": "Space & Aerospace",
+    "contentFormats": [
+      "Xiaohongshu Explainer",
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160869,
+    "title": "New AI technique could make minimally invasive surgeries safer and more precise",
+    "description": "This patient-specific method, called xvr, helps doctors use X-rays for surgical navigation in fields such as orthopedics and neurosurgery.",
+    "url": "https://news.mit.edu/2026/new-ai-technique-could-make-minimally-invasive-surgeries-safer-more-precise-0916",
+    "imageUrl": null,
+    "source": "MIT AI",
+    "categoryId": null,
+    "publishedAt": "2026-09-16T15:00:00.000Z",
+    "createdAt": "2026-09-17T00:10:10.904Z",
+    "language": "en",
+    "region": "Global",
+    "topic": "AI Models & Agents",
+    "contentFormats": [
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160877,
+    "title": "NASA&#8217;s Integrated Medical Model (IMM)",
+    "description": "Planning crewed missions to the Moon and Mars involves preparing for the medical realities of long-duration space travel. Factors like cosmic radiation, microgravity, and distance from Earth create unique health considerations for astronauts. To anticipate these needs ahead of time, NASA developed the Integrated Medical Model (IMM). The IMM is a decision-support tool that uses [&#8230;]",
+    "url": "https://www.nasa.gov/general/nasas-integrated-medical-model-imm/",
+    "imageUrl": null,
+    "source": "NASA",
+    "categoryId": null,
+    "publishedAt": "2026-09-16T14:50:23.000Z",
+    "createdAt": "2026-09-17T00:10:23.428Z",
+    "language": "en",
+    "region": "Global",
+    "topic": "Space & Aerospace",
+    "contentFormats": [
+      "Xiaohongshu Explainer",
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160879,
+    "title": "通用能力不打折，空间具身智能断层领先！ZDTaichu5.0-9B国产开源，跻身全球多模态第一梯队",
+    "description": "九大空间测试10B规模通用模型中8项第一",
+    "url": "https://www.qbitai.com/2026/09/490839.html",
+    "imageUrl": null,
+    "source": "量子位",
+    "categoryId": null,
+    "publishedAt": "2026-09-16T13:08:20.000Z",
+    "createdAt": "2026-09-17T00:10:28.265Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "Robotics & Embodied AI",
+    "contentFormats": [
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160889,
+    "title": "芯片从业者拆解OpenAI造芯，还能再快3个月？",
+    "description": "量产一代、研发一代、预研一代，这一芯片公司习以为常的战略节奏，如今正被大模型公司压得更紧。 按照OpenAI今年8月公布的进展，尽管第一代自研芯片Jalapeño（下以“小辣椒”代称）计划于年底前开始部署，但第二代已进行深入开发，第三代也开始成形。 更吸引眼球的是OpenAI的官方说法——第一代“小辣椒”从初始设计到流片只花了9个月。据前端设计验证工程师穆洋估算，这比没有AI辅助的设计快了约半年。 然而，9个月只覆盖了芯片设计全流程的部分环节。若将前期的需求定义、架构规划，以及后续的制造、调试与部署全链路计算在内，一颗定制ASIC的真正落地依然需要以年为单位。 而在这一漫长的硬件周期内，大模型往往已经历了数轮架构与算法的迭代。当芯片与模型以完全不同的节奏演进时，行业的核心痛点也愈发尖锐：下一代芯片的设计极限究竟在哪里？在硬件迭代滞后的客观规律下，又有多少模型架构的剧变，最终只能交由软件栈去艰难消化？ 01 再省3月！ OpenAI的 「6个月神话」 与造芯底牌 OpenAI自研芯片的野心至少可以追溯至2023年。彼时首席执行官奥尔特曼甚至一度想推动30多座晶圆厂的建设。 但显然，高昂的成本和漫长的周期开始“劝退”这家连Fabless都不是的模型企业。 相比从设计到制造的大包大揽，2024年OpenAI已经开始把重心放在自己更有优势的部分——围绕自家模型和推理服务定义芯片需要什么。 如今AI进一步加速这一过程。据OpenAI披露，AI已经参与“小辣椒”的实现方案探索、“设计—测量—验证”循环和部分算术电路优化，并继续参与芯片回片后的调试和编程。 当我们进一步拆解OpenAI 9个月便可进行芯片流片的“神话”时，会发现除了AI对流程的提效，博通成熟的工程能力同样是不可缺少的一块拼图。 多位产业链从业者向雷峰网指出，博通的硅实现能力、网络互连能力、接口IP以及多年积累的工程体系，为OpenAI省去了大量从头搭建底层能力的时间。而这些私有的知识体系并不会随着通用大模型的能力变强，就自动转化为OpenAI自身的能力。 当然，这并不意味着博通的加持削弱了AI在此次造芯中的价值。 某芯片企业产品总监陆吉年强调，AI在其中的作用仍不容小觑。对于第一代芯片而言，其更重要的意义在于从头跑通了一套AI参与芯片设计的工作流。一旦这套流程能够复用，下一代就不用再重新摸索同样的路径，人工介入还",
+    "url": "https://www.leiphone.com/category/chips/FNvnd45qiCTsT6IR.html",
+    "imageUrl": null,
+    "source": "雷锋网",
+    "categoryId": null,
+    "publishedAt": "2026-09-16T10:38:00.000Z",
+    "createdAt": "2026-09-17T00:10:31.352Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "Chips & Compute",
+    "contentFormats": [
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160890,
+    "title": "被AI放大的光学「戏份」，让「配角」舜宇的生意越做越大",
+    "description": "作者 | 陈悦琳 编辑 | 郭思 几乎同时迎来“量产元年”的人形机器人和智能眼镜，正在放大光学的“戏份”。 据Counterpoint统计，今年上半年全球人形机器人出货量突破2.2万台，同比激增近300%。与此同时，智能眼镜市场也迎来爆发，IDC数据显示，今年一季度全球智能眼镜出货量达356.6万台，同比增长130.1%。 尽管产品形态各异，两者对光学系统提出了共同诉求——“更清晰”和“更轻便”。人形机器人需精准感知障碍物与距离以规划动作；AI拍摄眼镜要在轻薄镜架中还原第一视角；AI+AR眼镜则需将数字信息无缝叠加至现实视野。 在此趋势下，镜头、摄像模组、光波导等光学器件，直接决定了新一代智能硬件的感知精度、显示效果乃至最终形态。这也正是舜宇光学坚定推进\"光学+AI\"战略，并在今年深圳光博会（CIOE）现场集中展示相关技术的核心逻辑。 机器人越智能，越依赖视觉 在舜宇光学科技集团战略与市场部高级总监熊冠皓看来， 视觉系统在智能硬件中的价值占比正在提升。 他首先想到的场景是割草机器人。过去一些自动割草机主要依靠GPS差分定位沿着规划路线工作。定位能够告诉机器自己“在哪里”，却很难直接识别周围的障碍物和草地区域，路径规划也容易出现遗漏。 对于这一难点，舜宇的做法是提供X-BOX割草机视觉解决方案，包括360°全景摄像头、主动双筒摄像头和RGB摄像头三种方案。 在摄像头采集周围环境的同时，感知算法识别障碍物和草地区域，路径规划再据此决定下一步怎么走，改变了割草机此前“盲人摸象”的状态。 然而，视觉感知系统的导入，无法一次性解决所有场景难题。例如，机器人3D视觉会遇到测距失效、干扰、深度失真和标定复杂等问题；到了户外强光、高反、低反、细小物体和半透明材质等场景，稳定获取深度和空间信息的难度还在攀升。 具体到人形机器人这一层，这类问题更加突出。在今年上半年出货的数万台人形机器人中，智能制造的占比已经上升至13%，仓储物流则达5%。真实作业场景一多，机器人过去在固定环境里练就的能力还能否复用，成为下一道门槛。 这其实就是业内著名的泛化性难题，宇树创始人王兴兴就曾直言，产业临界点有2个80%的门槛，机器人如果能在约80%的陌生场景中，仅通过语言指令完成约80%的任务，就接近具身智能的“ChatGPT时刻”。 风浪越大，鱼越贵，如何通过视觉让机器人在陌生环境里完成任务，首先得持续、",
+    "url": "https://www.leiphone.com/category/iot/n1PzfiDNtDc0NYgy.html",
+    "imageUrl": null,
+    "source": "雷锋网",
+    "categoryId": null,
+    "publishedAt": "2026-09-16T10:33:00.000Z",
+    "createdAt": "2026-09-17T00:10:31.352Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "Robotics & Embodied AI",
+    "contentFormats": [
+      "Xiaohongshu Explainer",
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160891,
+    "title": "2nm天玑9600 Pro，把旗舰SoC竞争推向「融合计算」",
+    "description": "智能体让旗舰SoC从拼核心，转向拼系统。 过去数年，旗舰手机芯片的升级路径非常清晰，制程更先进、CPU主频更高、GPU、ISP更强，再加上算力不断增长的NPU。 这套方法在生成式AI进入手机后依旧奏效，却很难完整回答智能体带来的新问题。因为AI不再只在用户点开应用后运行几十秒，而要持续感知声音、画面和环境，在后台理解需求，甚至提前执行任务。 一颗核心能跑多快，仍然重要。但当CPU、GPU、NPU、内存和存储需要频繁交换数据，决定体验的已经不只是每个单元的峰值性能，而是整颗SoC如何组织算力。 MediaTek资深副总经理徐敬全在天玑旗舰芯片新品发布会上给出了明确判断： “计算基准将不再是单一核心的能力，而是要将异构的计算单元整合为系统级的融合计算架构。” 这是理解天玑9600 Pro的关键，台积电2nm、超过330亿个晶体管和2+3+3全大核CPU， 构成这颗旗舰芯片的性能底座。天玑智算融合架构、双NPU以及贯穿游戏、影像和通信的AI能力，则指向一个更大的变化 ， 旗舰SoC的竞争正在从几个核心分别升级，走向计算、存储和调度共同设计。 AI让手机一直「醒着」，峰值性能不再是唯一标准 智能体首先改变的是手机工作的节奏。 过去，用户打开应用、拍下一张照片或者启动游戏，芯片在短时间内拉高性能，完成任务后迅速回到低功耗状态。智能体却需要持续理解环境，并在前台应用运行时保持在线。芯片一天被唤醒的次数可能是过去的数倍，CPU的空档也会越来越短、越来越碎。 这意味着，电量未必消耗在一次特别重的计算上，也可能被一次次核心启动、任务切换和数据搬运吃掉。与此同时，AI不能独占手机性能，用户打游戏、看视频或开会时，后台智能体仍可能运行，大模型与应用争抢内存，CPU和NPU还要频繁交接任务。 MediaTek无线通信事业部副总经理陈一强在发布会上说， “过去评价旗舰芯片，会问能够跑多快，智能体时代，还要问能不能一整天这样”。 这个问题背后，是端侧AI的价值和限制同时出现。 MediaTek董事、总经理暨营运长陈冠州表示，AI的入口将从PC扩展到手机等更多终端，算力将从云端集中式部署走向云端与端侧混合，AI用户也会从企业进一步扩展到消费者。手机不只是连接云端AI工厂的入口，本身也会成为生产Token的分布式AI工厂。 延迟是一方面，隐私则是更直接的约束。陈冠州说： “有些隐私资料不能送到云端",
+    "url": "https://www.leiphone.com/category/chips/pE0IvGEQtRiAdZcO.html",
+    "imageUrl": null,
+    "source": "雷锋网",
+    "categoryId": null,
+    "publishedAt": "2026-09-16T10:02:00.000Z",
+    "createdAt": "2026-09-17T00:10:31.352Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "Chips & Compute",
+    "contentFormats": [
+      "Xiaohongshu Explainer",
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160892,
+    "title": "华为坤灵升级“4+10+N”场景化方案，发布“经纬计划”和50个样板点",
+    "description": "[中国，上海，2026年9月16日] 今日，华为坤灵新品发布会2026在上海举行。华为常务董事、ICT BG CEO杨超 斌宣布，华为坤灵全面升级 “4+10+N” 一站式场景化方案，发布20款新品，并面向中国分销伙伴发布“经纬计划”和50个样板点，让智能世界触手可及。 华为常务董事、ICT BG CEO杨超斌发表主题演讲 围绕四大特质，升级“ 4+10+N” 场景化方案 在企业加速智能化转型的过程中，网络、存储、安全成为高效释放AI算力的关键要素。但在分销市场，企业仍存在共性挑战，包括产品功能单一、跨产品集成难、部署周期长、运维效率低等。 为解决以上挑战，华为坤灵围绕“化繁为简、开箱即用、智驭智维，品质普惠”四大特质，聚焦智能办公、商业、教育、医疗四大核心场景、十个场景化方案及N个明星产品，全面升级“4+10+N”场景化方案。 杨超斌表示：“全场景智能化前景广阔，华为坤灵将坚定围绕‘4+10+N’持续打造一站式场景化方案，把复杂留给自己，把简单留给客户和伙伴。” 发布“经纬计划”及50个样板点 为更高效服务客户，华为 坤灵 发布“经纬计划”，通过全域联动1.5万多家工程商伙伴，构建覆盖全国300个城市的销售与服务网络。目前，华为坤灵已在全国300个城市的核心商圈、电脑城、工程商密集区域，识别1万多个网格，极大拉近华为坤灵与最终用户的距离，提升服务响应速度。 同时，华为坤灵发布50个样板点，为广大客户提供智能化实践参照，助力更多企业走好智能化转型之路。",
+    "url": "https://www.leiphone.com/category/industrynews/3eVYZT04EAfdhQZ3.html",
+    "imageUrl": null,
+    "source": "雷锋网",
+    "categoryId": null,
+    "publishedAt": "2026-09-16T09:27:00.000Z",
+    "createdAt": "2026-09-17T00:10:31.352Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "Chips & Compute",
+    "contentFormats": [
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160880,
+    "title": "AI大模型工场2026 AI产业生态大会今日举办，大咖同台共探智能生长与产业共生",
+    "description": "9月15日，由AI大模型工场主办的“2026 AI产业生态大会”在北京举行。",
+    "url": "https://www.qbitai.com/2026/09/490760.html",
+    "imageUrl": null,
+    "source": "量子位",
+    "categoryId": null,
+    "publishedAt": "2026-09-16T08:51:02.000Z",
+    "createdAt": "2026-09-17T00:10:28.265Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "AI Models & Agents",
+    "contentFormats": [
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160893,
+    "title": "碧桂园服务与支付宝全面深化合作，共筑“智慧物业”数字化新标杆",
+    "description": "2026年9月15日，碧桂园服务与支付宝正式签署合作协议。双方宣布将围绕物业服务升级、年终缴费大促及智慧社区建设等领域开展深度合作。此次合作标志着双方合作全面升级，通过数字化技术为业主打造更具获得感的服务体验，同时为物业行业降本增效提供参考。 科技让服务“随手可得”，提升居住幸福感 为了给业主提供更有“温度”的智慧生活，碧桂园服务与支付宝将共同升级业主服务体系。碧桂园服务集团副总裁兼CTO赵晓光表示“物业行业步入存量时代，服务质量成为核心竞争力，传统人工运维、催缴模式人力成本高、缴费效率低、业主感知弱，依靠数字化提升服务价值是必然趋势。” 服务透明化。通过支付宝官方阵地主动推送物业服务周报与月报，让业主及时了解小区的绿化维护、设施修缮及安全巡检进度，实现服务价值的可视化与透明化。 便捷体验。双方将引入支付宝“碰一下”等技术应用，业主只需手机轻碰即可完成小区门禁开启、停车缴费及物业报修，进一步简化操作流程。 一站式数字生活。将物业费缴纳与水电燃气等民生缴费深度集成，业主在一个界面即可完成多类家庭账单支付，真正实现“生活小事，一键搞定”。 数字化缴费矩阵， 提升物业费 收缴率 针对物业行业普遍面临的人力成本高、催缴压力大、收缴率提升难等“痛点”，支付宝为碧桂园服务提供了全链路的数字化升级方案。 一方阵地赋能：依托支付宝官方账单推送、锁屏提醒及AI智能辅助，将传统催缴转变为温馨更具服务感的数字化提醒。这不仅有助于降低物业管家的人力投入，也能减少因催缴引发的矛盾，实现“服务先行，自然缴费”。 高频场景化赋能：通过将物业费接入支付宝“生活缴费”这一高频入口，把业主缴纳水电费的习惯自然带入物业费缴纳场景，进一步提升业主缴费的自主性与物业公司的收缴效率，让物业公司可以释放更多人力资源做好业主服务。 价值1亿元资源注入，目标助力物业企业预缴率提升5% 为了提升行业数字化进程，支付宝在会上重磅宣布：将投入价值1亿元专项激励资源，专项用于支持头部及优质物业合作伙伴开展“年终缴费狂欢节”。在第四季度物业费收缴高峰期，支付宝将投入平台流量，并通过实物礼品、缴费红包等方式向业主提供优惠权益，同时推出“预存立减”“缴费抽奖”等活动，进一步提升物业费线上缴纳的便利性和参与体验，力争帮助参与活动的物业企业将预缴费率提升5个百分点。 对此，碧桂园服务CFO田田表示：“财务指标的提升是结果，本质上是业",
+    "url": "https://www.leiphone.com/category/industrynews/U2JufXg1A3ES2dfg.html",
+    "imageUrl": null,
+    "source": "雷锋网",
+    "categoryId": null,
+    "publishedAt": "2026-09-16T08:48:00.000Z",
+    "createdAt": "2026-09-17T00:10:31.352Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "Policy & Society",
+    "contentFormats": [
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160894,
+    "title": "基元律动与无问芯穹达成战略合作，推进高质量Token供给与应用",
+    "description": "2026年 9 月 15 日，AI基础设施公司基元律动（TokenRhythm）与无问芯穹（Infinigence AI）签署战略合作协议。双方将结合无问芯穹的Agentic Infra产品及服务体系与基元律动的多模型服务、智能路由能力，围绕高质量Token的供给、调度与应用展开合作，共同开拓市场。 图注：基元律动与无问芯穹战略合作签约仪式 AI基础设施服务商是基元律动商业模式中的重要伙伴。基元律动连接模型供给与业务需求，通过智能路由和任务执行，让模型能力在具体场景中发挥更多价值；无问芯穹则依托在模型算法与芯片硬件之间实现极致效率与成本优化的能力，为模型训练、推理和部署及强化学习等任务提供高效、稳定的支持。双方希望将应用、模型与基础设施纳入更完整的客户方案，缩短从技术验证到业务使用的过程。 据基元律动介绍，随着公司快节奏地发展，已形成了从产品上线、用户获取、多模型调用到模型能力优化的业务闭环。其工程能力支持产品快速交付，智能路由可根据任务需要组织模型，开源产品、API和企业场景则构成不同的获客入口。使用过程中形成的有效反馈，可以进一步用于改善路由与模型能力。 这套业务体系也为基元律动与无问芯穹的合作提供了基础。对于无问芯穹，已有产品、用户入口和任务需求的应用伙伴，有望带来持续的模型调用和资源需求；对于基元律动，稳定的基础设施供给则有助于承接更多任务，并支持模型迭代。下游的实际需求与使用反馈，也能为上游资源配置和技术优化提供依据。 模型供应链是另一项支撑。据悉，基元律动已首发接入Qwen-3.8-Max及牛来（GLM-5.3-Flash），与上游厂商的合作为模型供给及调用质量提供保障。智能路由在此基础上，根据任务要求、模型能力和成本选择调用方式，让不同模型在适合的任务中发挥所长。 根据协议，无问芯穹将以稳定高效的Agentic Infra产品及服务体系，为基元律动持续扩大的Agent业务规模提供底层支撑，助力基元律动打通从基础设施到企业级Agent应用的闭环。双方将根据业务发展，同时面向重点行业与典型场景开展联合验证，探索通过企业协作平台实现Agent能力接入与应用延展，共同构建企业级Agent交付体系。 双方此前已在NeoHorse-1研发中开展合作：无问芯穹提供底层基础设施支撑与Infra优化技术能力，以推理优化技术支撑大规模推理任务，并以弹性训练系统提升训练效率",
+    "url": "https://www.leiphone.com/category/industrynews/nFBwVeaZsAi37i5Q.html",
+    "imageUrl": null,
+    "source": "雷锋网",
+    "categoryId": null,
+    "publishedAt": "2026-09-16T08:20:00.000Z",
+    "createdAt": "2026-09-17T00:10:31.352Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "Chips & Compute",
+    "contentFormats": [
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160881,
+    "title": "高通技术公司携手中兴努比亚和豆包手机助手，共同推动智能手机迈入个人AI新时代",
+    "description": "第五代骁龙8至尊版赋能全新AI智能体手机努比亚NaviX Ultra，加速智能体体验规模化落地",
+    "url": "https://www.qbitai.com/2026/09/490756.html",
+    "imageUrl": null,
+    "source": "量子位",
+    "categoryId": null,
+    "publishedAt": "2026-09-16T08:18:44.000Z",
+    "createdAt": "2026-09-17T00:10:28.265Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "AI Models & Agents",
+    "contentFormats": [
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160882,
+    "title": "基元律动与无问芯穹达成战略合作，推进高质量Token供给与应用",
+    "description": "2026年 9 月 15 日，AI基础设施公司基元律动（TokenRhythm）与无问芯穹（Infinigence AI）签署战略合作协议。",
+    "url": "https://www.qbitai.com/2026/09/490750.html",
+    "imageUrl": null,
+    "source": "量子位",
+    "categoryId": null,
+    "publishedAt": "2026-09-16T08:09:53.000Z",
+    "createdAt": "2026-09-17T00:10:28.265Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "AI Models & Agents",
+    "contentFormats": [
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160895,
+    "title": "清华稳准智能联合发布LimiX-2，结构化数据基础模型登顶国际评测榜单",
+    "description": "9月16日，稳准智能联合清华大学计算机系崔鹏教授，发布新一代数据大模型 LimiX-2，模型参数规模提升至400M。在 TabArena 、BCCO、TALENT三个国际主流结构化数据Benchmark中，LimiX-2总体Elo分数分别达到1935、1432和1506，均位于榜单第一，超过Google、SAP、Amazon等国际大厂的同类模型。 在 TabArena 、BCCO、TALENT三个国际主流结构化数据Benchmark中，LimiX-2 总体Elo分数分别达到1935、1432和1506，均位于榜单第一，超过Google、SAP、Amazon等国际大厂的同类模型。 LimiX-2 登顶国际主流Benchmark榜单 Elo是衡量模型综合能力的排名指标。TabArena、BCCO、TALENT是国际主流结构化数据模型评测基准，覆盖多类任务，用于评估模型在不同数据集上的泛化能力和预测性能，已成为当前结构化数据基础模型竞争的重要评价依据。 LimiX-2在 TabArena 上的回归、二分类、多分类Elo均为最优 这次模型能力升级主要沿着3条技术路线推进。 第一是上下文机制网络CMNs（Contextual Mechanism Networks），作为预测依赖关系的系统，将建模重点从预先指定的目标变量，转向变量之间的相互关联； 第二是在预训练阶段升级自动化合成数据的生成引擎； 第三是进一步Scaling，将模型参数规模扩大至400M。 LimiX团队提出上下文机制网络（CMNs），开辟从“目标预测”走向“结构发现”的结构化数据建模新范式。 传统经典 PFNs以指定目标的预测分布为核心； CMNs 则将上下文数据的全变量联合依赖作为建模对象，不仅关注变量取什么值，更着眼于发现变量如何相互关联、共同构成怎样的内在结构。 这一范式转变重新确立了模型的学习目标。LimiX 通过上下文条件掩码建模（CCMM），在不同观测模式下组织跨变量监督，将变量关系推断确立为明确的预训练目标。模型不再仅为某个指定结果学习相关信息，而是通过多种条件预测，共同约束对全变量依赖结构的表达。 这一原则也贯穿网络架构。因而，LimiX 采用单元格级（Cell-Level）建模，以变量在各样本中的观测为基本表示单元，保留列身份、具体取值和缺失状态，支持跨变量、跨样本的信息交互。从数据表示、训练",
+    "url": "https://www.leiphone.com/category/industrynews/HQ8yti3MYREtevrN.html",
+    "imageUrl": null,
+    "source": "雷锋网",
+    "categoryId": null,
+    "publishedAt": "2026-09-16T08:05:00.000Z",
+    "createdAt": "2026-09-17T00:10:31.352Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "Education & Future Skills",
+    "contentFormats": [
+      "Xiaohongshu Explainer",
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160896,
+    "title": "大促GMV猛涨500%：激光雕刻设备靠\"创意落地\"出海东南亚",
+    "description": "在东南亚，手工创作正在成为越来越多年轻人的日常。有人把木板刻成桌面摆件，有人在皮革上刻下名字，做成定制钱包，还有人把金属牌雕刻成独一无二的礼物送给朋友。 个性化表达的需求不断升温，激光雕刻设备也因此从专业工具，逐渐走进更多普通消费者的视野。 Elliot 所在的团队，已在国内激光雕刻设备领域深耕多年。以雕刻主机为核心，团队逐步将定位、升降、旋转、排烟及材料等相关产品纳入体系，形成了较完整的产品矩阵。 随着业务逐步成熟，作为负责人的Elliot开始考虑：能否将这套产品和服务，带到更广阔的海外市场？ 很快，他把目光投向了东南亚，并决定把这里作为出海的第一站。在团队看来，从家居装饰到个人礼品，当地消费者对个性化定制的接受度较高，激光雕刻能够发挥作用的场景也足够丰富。 选定市场后，团队选择入驻 Shopee，先后在马来西亚、泰国等站点开通了店铺。入驻后的增长表现，很快超出了团队预期。在今年 Shopee 9.9 大促当天，店铺 GMV 同比增长近 500%。 这个亮眼数据并非来自某个偶然爆款，而是产品、内容、投放和履约等环节协同作用的结果。 从一句想法到一件成品，AI让激光雕刻更容易上手 激光雕刻机的核心价值，在于把创意从想法转化为实物。输入一句祝福、生成一个图案，设备就能在木板、皮革或金属表面完成雕刻，让原本抽象的想法有了具体形态。 但对许多普通消费者而言，从“想做什么”到“真的做出来”，中间往往隔着设计、转格式、导入设备等多个步骤。 AI功能的加入，正是为了缩短从创意到成品的距离。 “以前，用户有了灵感，还得先把它做成机器能识别的图案文件，中间要来回处理好几次。”Elliot说，“现在，他们可以直接把想法告诉AI。” 具体来看，配套软件中的AI会根据用户输入的文字描述，生成可用于雕刻的图案素材，并在确认效果后直接让机器执行雕刻任务，所有操作都在同一软件内完成。在 Elliot 看来，AI 功能的意义，就是让创意不再受限于设计能力，\"大家只要说清楚想做什么就行，其他的交给AI和机器。\" 当创作流程变得更简单，消费者对产品的判断也随之改变。对没有使用经验的用户来说，比起先研究设备参数，他们更想先确认一件事：这台机器能否帮自己做出想要的作品。 这意味着，产品需要被 \"看见\"，而不仅仅是被 \"罗列\"。 \"激光雕刻设备的价值，很难通过参数表完全体现出来。用户得亲眼看到图案怎么生成",
+    "url": "https://www.leiphone.com/category/industrynews/wGbfydEJOj5JiHMR.html",
+    "imageUrl": null,
+    "source": "雷锋网",
+    "categoryId": null,
+    "publishedAt": "2026-09-16T07:57:00.000Z",
+    "createdAt": "2026-09-17T00:10:31.353Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "AI Models & Agents",
+    "contentFormats": [
+      "Xiaohongshu Explainer",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160883,
+    "title": "协同办公进入Agent时代，飞书+豆包工作跑在了最前面",
+    "description": "AI协同办公的新官配，我先磕了",
+    "url": "https://www.qbitai.com/2026/09/490686.html",
+    "imageUrl": null,
+    "source": "量子位",
+    "categoryId": null,
+    "publishedAt": "2026-09-16T07:46:38.000Z",
+    "createdAt": "2026-09-17T00:10:28.265Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "AI Models & Agents",
+    "contentFormats": [
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160884,
+    "title": "西门子不造机器人，为什么机器人进厂的故事里总有它？",
+    "description": "帮助成熟赛道复制方案，帮助新赛道长出场景。",
+    "url": "https://www.qbitai.com/2026/09/490416.html",
+    "imageUrl": null,
+    "source": "量子位",
+    "categoryId": null,
+    "publishedAt": "2026-09-16T07:38:18.000Z",
+    "createdAt": "2026-09-17T00:10:28.265Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "Robotics & Embodied AI",
+    "contentFormats": [
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160897,
+    "title": "AI健康走进百姓餐桌，蚂蚁阿福推出AI饮食分功能",
+    "description": "每天吃的健康吗？现在拍张照就能知道了。9月16日，蚂蚁阿福发布了\"AI饮食分\"：用户拍下餐食照片，AI就能自动识别食物种类、算清营养和热量，给出一目了然的评分。同时，蚂蚁阿福还宣布，为鼓励用户认真吃饭，“科学减重一亿斤”活动推出加码奖励——将发放一亿颗鸡蛋，用户只需坚持使用AI拍饮食，即可1分钱包邮领鸡蛋。 吃饭前拍照让AI打分，男女老少都有专属营养师 据介绍，AI饮食评分参考中国营养学会\"合理膳食指数\"，由阿福与中国营养学会专家组共同研发制定：用户饭前拍摄餐食照片，AI即可识别菜品构成，分析碳水、蛋白质、脂肪、膳食纤维的搭配比例，评估油盐糖摄入是否超标，以及是否存在高嘌呤、高升糖食物。 记者实测了这一功能。拍摄一份两荤一素的工作餐后，系统给出了81分：饮食分肯定了这顿饭的蛋白质摄入较为充足、食物种类丰富，但提示钠摄入量明显偏高，并点名整体\"油脂偏高、糖分也不少\"，建议将饮品换为无糖茶，口味上\"明天可以试试清淡一点\"。 蚂蚁阿福AI饮食分的产品经理表示：“我们希望给每个用户一个触手可及的专属营养师”，他介绍，面对不同人群的健康管理需求，阿福会结合用户的BMI、运动强度、个性化需求等情况给出不同的评分和建议。 在减重的用户，阿福拍照就能记录、管理三餐热量，结合体重给出饮食和运动建议，也能避免极端减肥方式带来的副作用；对于三高等慢病人群来说，用阿福拍饮食可以避开高油高糖高盐类食物，促进血糖血压血脂的稳定和改善；家里有孕妇、宝宝、老人的，阿福会分阶段给出营养搭配参考，什么该多吃什么得忌口，都有科学依据。日常点外卖、买零食、水果前，也可以用阿福拍一下，热量营养做到心中有数；网上遇到拿不准的养生方法，问一问阿福，也可以避免踩坑。 科学减重一亿斤再升级：好好吃饭，还有机会领鸡蛋 为鼓励用户真实记录饮食、养成长期习惯，阿福还宣布正式加码“科学减重一亿斤”活动激励，将为用户发放1亿颗鸡蛋。目前，用户只需连续3天拍照记录三餐、生成饮食分，即可解锁惊喜掉落，参与1分钱领鸡蛋。产品负责人介绍，吃得越健康、记录越认真，中奖概率越高。 公开数据显示，自今年6月蚂蚁阿福推出“科学减重一亿斤”活动以来，已经推出一分钱体脂秤、升级AI拍饮食功能，并打通了小米、华为体脂秤，惠及更多减重用户。截至9月初，已有超275万人上称打卡，累计减重超500万斤，其中，配合AI饮食打卡的用户，人均减重斤数高出一倍",
+    "url": "https://www.leiphone.com/category/industrynews/iPTSFPdM6GNDpuwA.html",
+    "imageUrl": null,
+    "source": "雷锋网",
+    "categoryId": null,
+    "publishedAt": "2026-09-16T07:20:00.000Z",
+    "createdAt": "2026-09-17T00:10:31.353Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "Bioengineering",
+    "contentFormats": [
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160885,
+    "title": "清华稳准智能联合发布LimiX-2，结构化数据基础模型登顶国际评测榜单",
+    "description": "9月16日，稳准智能联合清华大学发布新一代数据大模型 LimiX-2，模型参数规模提升至400M。",
+    "url": "https://www.qbitai.com/2026/09/490400.html",
+    "imageUrl": null,
+    "source": "量子位",
+    "categoryId": null,
+    "publishedAt": "2026-09-16T06:32:31.000Z",
+    "createdAt": "2026-09-17T00:10:28.265Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "Education & Future Skills",
+    "contentFormats": [
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160898,
+    "title": "Anew Labs已完成 2.9 亿美元融资，红杉中国、高瓴、IDG、五源、高榕等参与",
+    "description": "9月16日，记者从相关渠道获悉，AI制药公司Anew Labs（新生实验室）日前已完成首轮独立融资，融资总额 2.9 亿美元。本轮投资方涵盖红杉中国、IDG资本、高瓴创投、五源资本、高榕资本等投资机构，同时有多家国内医药产业集团作为战略投资方参与。 今年 6 月，据媒体报道，字节跳动将 AI 制药业务线拆分独立，核心团队、算法平台及已有管线资产整体注入新主体，由原团队负责人刘凯负责，核心成员约 50 人，涵盖 AI 算法与制药领域专家。拆分后的主体品牌定为Anew Labs（新生实验室）。 业内分析认为，Anew Labs（新生实验室）此次融资，是希望以独立主体吸引更多行业人才与战略资源、围绕AI制药业务建立适合的组织激励形式。 截至发稿， Anew Labs （新生实验室）和字节跳动均未对此消息置评。 雷峰网 雷峰网",
+    "url": "https://www.leiphone.com/category/industrynews/in025mGV6Ex4ja37.html",
+    "imageUrl": null,
+    "source": "雷锋网",
+    "categoryId": null,
+    "publishedAt": "2026-09-16T06:28:00.000Z",
+    "createdAt": "2026-09-17T00:10:31.353Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "AI Models & Agents",
+    "contentFormats": [
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160886,
+    "title": "B站AI无限竞技场今日上线！全球百大AI模型同场竞技，GPT-6高居榜首",
+    "description": "9月16日，B站「AI无限竞技场」正式上线，首期大模型测评榜单同步公布。",
+    "url": "https://www.qbitai.com/2026/09/490396.html",
+    "imageUrl": null,
+    "source": "量子位",
+    "categoryId": null,
+    "publishedAt": "2026-09-16T06:23:05.000Z",
+    "createdAt": "2026-09-17T00:10:28.265Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "AI Models & Agents",
+    "contentFormats": [
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160899,
+    "title": "豆包 2.1 Pro模型更新，已接入豆包工作",
+    "description": "9月16日，据火山引擎官方消息，豆包 2.1 Pro模型在近期更新至0915版本。新模型API已在火山方舟全量上线，并接入豆包工作。用户在豆包工作内选用“豆包 2.1 Pro（0915 新版）”，即可体验到全面升级的工作任务执行能力。 据悉，豆包新模型在视频推理、3D物体图像识别等多模态理解任务上均有增强。其编程能力更是有显著提升，可处理复杂代码仓库中的跨文件、长程问题。在“看图写代码”的多模态编程场景中，豆包 2.1 Pro最新版已达到国内领先水平，更好地满足前端网页设计、游戏开发、3D建模等实际交付需求。 测试案例显示，新版豆包 2.1 Pro可调度多个子Agent并行开发，面对开源游戏Luanti（约38.7万行代码）仓库中的1000个真实历史Issue，能够在近36小时内，将83%的问题修复至可合并级标准。面对3D建模任务，新版模型可“看懂”庭院四季设计图，继而从0到1，以代码方式生成可演示、可控制镜头变化的3D动态场景。 豆包 2.1 Pro更新版的通用Agent能力也有明显增强。特别是金融投研、办公自动化等需要多轮调用工具、联网调研的长程场景，模型强化了证据溯源、权威信源检索、时效判断和数据核验的能力，幻觉有效降低，复杂长程任务推进更稳。例如，在核查财报信息任务中，新版模型能够大范围检索跨语种内容、交叉比对不同来源信息、形成可回溯的尽调报告。研究方法与交付报告质量更接近专家水平。 据火山引擎介绍，豆包 2.1 Pro更新版的Token效率也进一步优化，推理轮次和工具调用次数有所降低。特别是图像推理和视频推理的Token消耗，比上一代减少30%以上，大幅降低企业和开发者的使用成本。 雷峰网 雷峰网",
+    "url": "https://www.leiphone.com/category/industrynews/IMu1LaqEfGZXkptr.html",
+    "imageUrl": null,
+    "source": "雷锋网",
+    "categoryId": null,
+    "publishedAt": "2026-09-16T06:01:00.000Z",
+    "createdAt": "2026-09-17T00:10:31.353Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "AI Models & Agents",
+    "contentFormats": [
+      "Xiaohongshu Explainer",
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160887,
+    "title": "量子位2026人工智能年度榜单，正式启动！",
+    "description": "报名通道已开启，欢迎参与！",
+    "url": "https://www.qbitai.com/2026/09/490329.html",
+    "imageUrl": null,
+    "source": "量子位",
+    "categoryId": null,
+    "publishedAt": "2026-09-16T04:16:10.000Z",
+    "createdAt": "2026-09-17T00:10:28.265Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "Quantum Technology",
+    "contentFormats": [
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160888,
+    "title": "被英伟达点名的杭州团队，补上了AI for Science的「最后一公里」",
+    "description": "从想法到结果，一次对话实现",
+    "url": "https://www.qbitai.com/2026/09/490185.html",
+    "imageUrl": null,
+    "source": "量子位",
+    "categoryId": null,
+    "publishedAt": "2026-09-16T03:40:35.000Z",
+    "createdAt": "2026-09-17T00:10:28.265Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "AI Models & Agents",
+    "contentFormats": [
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160900,
+    "title": "奇安信斩获国家信息安全漏洞库CNNVD两项重磅荣誉",
+    "description": "2026年9月15日，2026年国家网络安全宣传周成都系列活动的重要组成部分——第二届基础软硬件智能化漏洞治理生态创新技术交流活动在成都成功举办。奇安信凭借在漏洞协同管理与高质量漏洞报送方面的卓越表现，一举斩获“2026年度协同软硬件漏洞管理优秀企业”、“2026年度基础软硬件漏洞报送优秀企业”两项重磅荣誉，是本次大会获奖最多的企业之一。 本次大会以“AI向善·安全有道”为主题，由国家信息安全漏洞库（CNNVD）、中国信息产业商会信息安全产业分会主办，《中国信息安全》杂志社承办，汇聚了来自国家关键信息基础设施单位、网络安全公司、基础软硬件企业及高校科研机构的众多代表。 作为国家级信息安全漏洞数据平台，CNNVD承担着重大网络安全漏洞的发现、分析、处置职能，其年度奖项评选代表着国内漏洞治理领域的最高专业水准。在本次评选中，奇安信同时获得“协同管理”与“报送质量”两个维度的认可，体现了企业在漏洞生态中兼具“发现者”与“守护者”的双重角色。这也是继奇安信蝉联CNNVD最高等级“核心技术支撑单位”后，国家权威机构对其漏洞治理全链条能力的再度肯定。 两项殊荣的背后，是奇安信十余年来在漏洞领域持续深耕所构建的体系化能力。在漏洞挖掘与发现端，奇安信依托代码安全实验室、天工实验室、无极实验室、巽丰工控安全实验室、威胁情报中心、补天平台等十余个技术团队，形成了覆盖软件源代码分析、二进制漏洞挖掘、操作系统内核级漏洞发现、工控系统安全研究的完整技术矩阵。公司已累计向CVE、CNNVD、CNVD、NVDB等国内外权威漏洞平台报告0day漏洞千余个，并屡次获得谷歌、微软、苹果、Oracle、Cisco等知名厂商的官方致谢，技术实力获得国际同行广泛认可。 在漏洞报送的“质”与“量”上，奇安信始终保持行业领先。2026年度第一期CNNVD漏洞奖励评选中，奇安信一举包揽6个一级贡献奖，获奖数量位居参评单位之首。高质量原创漏洞的持续输出，为国家级漏洞库的预警研判和消控处置提供了坚实的数据支撑。 与此同时，奇安信将“协同管理”理念贯穿于漏洞治理全生命周期。在自身产品安全方面，公司引入SDL安全开发生命周期，建立“漏洞发现—推修—验证—复盘”的闭环机制；在产业协同层面，补天漏洞响应平台已汇聚超过25万名白帽子专家，累计报告漏洞超过327万个，搭建起连接民间安全力量与厂商修复体系的桥梁，有效推动漏洞从发现",
+    "url": "https://www.leiphone.com/category/industrynews/P4eihytTQZUWVoi1.html",
+    "imageUrl": null,
+    "source": "雷锋网",
+    "categoryId": null,
+    "publishedAt": "2026-09-16T02:36:00.000Z",
+    "createdAt": "2026-09-17T00:10:31.353Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "Policy & Society",
+    "contentFormats": [
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160901,
+    "title": "王强宇履新百望：从发票SaaS工具，到财税垂直大模型，再到企业的Palantir",
+    "description": "在今天的AI行业，能谈大模型的人很多，真正把垂类大模型做出来、做进真实业务流程，并且完成从技术、产品到规模化应用闭环的人，却依然稀缺。 王强宇是卓越的实战派代表，这也是资本市场对他出任百望股份联席总经理高度关注的原因。 在加入百望股份之前，王强宇已经完整走过一次垂类大模型从0到1、再从1走向规模化应用的路径。 从连续创业，到担任钉钉副总裁，再到创办壹生检康、主导豆蔻医疗大模型及临床智能产品落地，他过去二十余年的职业经历，几乎贯穿了中国互联网从PC、移动互联网、企业互联网再到人工智能的几轮重大产品范式变化。 更重要的是，他不只是一个熟悉技术趋势的管理者，而是一个已经证明过自己能够把新技术转化成真正产品的人。 豆蔻大模型已经进入医疗机构的真实临床场景，从专业知识体系、模型能力，到医生实际工作流程，再到持续使用和反馈， 王强宇带领团队完成的并不是一次模型发布，而是一整套垂类AI商业化方法论的验证。 现在，他要把这套已经被证明有效的方法带到百望股份。而百望股份恰好处在一家企业最关键的战略转折点上：从一家以发票和财税数字化能力见长的企业服务公司，转向一家 以真实交易数据为基石的AI公司 。 这可能是理解王强宇履新最重要的坐标： 一个做成过垂类大模型的人，来到了一家最适合做垂类AI的公司。 百望 科技新愿景 ：一家以真实交易数据为基石的AI公司 王强宇履新之际，百望股份正在重新回答一个非常基础的问题：如果大模型已经成为一种越来越普遍的基础能力，那么一家长期服务企业经营活动的公司，真正不可复制的资产到底是什么？ 答案很简单： 真实交易数据。 在企业经营世界里，订单、商品、合同、发票、付款、税务、信用以及履约并不是孤立的数据字段，而是一家企业真实经营行为留下来的事实链条。它们与互联网上大量用于训练通用模型的公开文本完全不同，因为这些数据不仅意味着“信息”，还意味着真实发生过的商业关系、资金流动、责任关系以及经营结果。 百望股份长期处在这些企业经营数据流经的关键节点，积累了自己的底层优势。 百望股份发布的公告显示，王强宇的任务是 “统筹集团AI产品战略规划及财税大模型的技术优化、产品迭代、场景适配与全链路商业化落地，推动人工智能技术在企业服务领域的深度应用与业务创新，助力公司构建具有市场竞争力的AI产品体系。” 在他的构想里，百望股份下一阶段的目标，是从一家在既有产品里增加AI能力的",
+    "url": "https://www.leiphone.com/category/industrynews/eHFMXZuvEmgUO75A.html",
+    "imageUrl": null,
+    "source": "雷锋网",
+    "categoryId": null,
+    "publishedAt": "2026-09-16T02:13:00.000Z",
+    "createdAt": "2026-09-17T00:10:31.353Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "AI Models & Agents",
+    "contentFormats": [
+      "Xiaohongshu Explainer",
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160902,
+    "title": "510万一张！携程上架太空旅行船票：已有681人购买，还得自己买保险；娃哈哈因拖欠员工公积金被查封办公楼；华为放权！问界将由赛力斯主导",
+    "description": "要闻提示 1.510万一张！携程上架太空旅行船票：已有681人购买，还得自己买保险 2.娃哈哈因拖欠员工公积金被查封办公楼 3.鸿蒙智行：问界将由赛力斯主导，华为终端参与赋能 4.特斯拉Model YL后轮塌陷后续：官方修改车主手册多项车辆参数，整体缩减3-4毫米 5.苹果新系统已更新调休闹钟 6.因加大AI投入，报道称字节跳动2026上半年净利润下降 7.82%！长鑫科技利润率在全球存储芯片企业中排名第一 8.谷歌放开内部权限，允许工程师使用Anthropic Claude 今日头条 510万一张！携程上架太空旅行船票：已有681人购买，还得自己买保险 9月15日消息，据媒体报道，近日，携程上架了2027年维珍银河太空旅行船票，510万元一张。这也是目前国内公开渠道售价最贵的太空游产品，已售出681份。 整个行程一共6天，出发地在美国新墨西哥州的拉斯克鲁塞斯。第一步不是上天，而是先自己坐飞机到美国，签证费用、机票费用甚至保险费用都需要自己出，不包含在510万元内。前4天都在学习怎么离开地球，第5天才正式发射。 据了解，维珍银河此前一代飞船已经完成使命宣告退役，如今项目依靠新一代Delta级飞船开展运营。受技术研发进度影响，商业飞行计划几经调整，最新计划安排在2027年2月重启，后续飞船也会陆续就位投入使用。 针对此消息，不少网友调侃：“还回家吃饭吗？”“包捞包活吗？”“啧，有钱且胆大的人还是不在少数。就是一生一次这文案有点耐人寻味哈哈哈。”“681份是假数据吧，互联网老套路了。”“我恐高，就不参加了，谢谢。”（快科技、每日经济新闻） 国内资讯 娃哈哈因拖欠员工公积金被查封办公楼 9月15日消息，近日，黑龙江省鸡西市鸡冠区人民法院公告，查封虎林市宏胜饮料有限公司（曾用名：虎林市娃哈哈饮料有限公司）名下一处房产。查封期限为三年，自2026年8月20日至2029年8月20日。一名娃哈哈内部员工向媒体透露，此次被查封并非生产厂房，而是企业办公楼。 一位因工厂关停而离职的员工向媒体表示，本次法院查封系鸡西市住房公积金管理中心向法院申请的财产保全，查封公告被张贴在公司办公楼内。针对这一说法，媒体通过短信形式向经办此事的鸡西市住房公积金管理中心虎林管理部一位工作人员求证，其确认法院查封是由于公积金追缴所致。对于追缴的进度，这位工作人员表示，“正常推进，法院正（在）处理。” 上述",
+    "url": "https://www.leiphone.com/category/zaobao/PDGNX4A6cRCzbe56.html",
+    "imageUrl": null,
+    "source": "雷锋网",
+    "categoryId": null,
+    "publishedAt": "2026-09-16T00:31:00.000Z",
+    "createdAt": "2026-09-17T00:10:31.353Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "Chips & Compute",
+    "contentFormats": [
+      "WeChat Deep Dive"
+    ]
+  },
+  {
     "id": 2160861,
     "title": "Georgia Tech’s Avant South Brings ‘AI in Action’ to Atlanta",
     "description": "&lt;span&gt;Georgia Tech’s Avant South Brings ‘AI in Action’ to Atlanta&lt;/span&gt; &lt;span&gt;&lt;a title=\"View user profile.\" href=\"https://news.gatech.edu/user/1\"&gt;Superadmin&lt;/a&gt;&lt;/span&gt; &lt;span&gt;&lt;time datetime=\"2026-09-15T19:38:58-04:00\" title=\"Tuesday, September 15, 2026 - 19:38\"&gt;Tue, 09/15/2026 - 19:38&lt;/time&gt; &lt;/span&gt; &lt;div&gt;&lt;p&gt;Artificial intelligence is already changing how people work, learn, build companies, manufacture products, move goods, deliver healthcare, and create art. This October, the Georgia Tech community will have a front-row seat to conversations about where that transformation is heading and how to be part of it.&lt;/p&gt;&lt;p&gt;&lt;a href=\"https://avantsouth.com/\"&gt;Avant South&lt;/a&gt; returns to &lt;strong&gt;Tech Square on Oct. 12 – 13&lt;/strong&gt; to convene founders, executives, policymakers, investors, researchers, creators, and students to focus on the intersection of technology, culture, and innovation.",
@@ -90,6 +692,24 @@
     ]
   },
   {
+    "id": 2160903,
+    "title": "美团发布“手艺人Agent”，发型师可“吩咐”AI小帮手打理线上作品",
+    "description": "9月15日，美团在2026百大发型师生态大会上正式发布首个“手艺人Agent”，基于平台AI技术和对行业真实经营经验的积累，为发型师等手艺人提供专属AI小帮手。 据了解，“手艺人Agent”可提供线上运营知识问答、经营数据分析、关键事项提醒、作品管理和发布等多项支持。",
+    "url": "https://www.leiphone.com/category/industrynews/Yuupw4bTHf0c0QsZ.html",
+    "imageUrl": null,
+    "source": "雷锋网",
+    "categoryId": null,
+    "publishedAt": "2026-09-15T15:07:00.000Z",
+    "createdAt": "2026-09-17T00:10:31.353Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "AI Models & Agents",
+    "contentFormats": [
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
     "id": 2160862,
     "title": "地平线第1500万颗征程芯片搭载大众 ID. AURA T6，HSD V2.1 即将推出",
     "description": "首发全场景倒车能力，体验再进一步",
@@ -99,6 +719,24 @@
     "categoryId": null,
     "publishedAt": "2026-09-15T13:32:54.000Z",
     "createdAt": "2026-09-16T00:00:17.656Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "Chips & Compute",
+    "contentFormats": [
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160904,
+    "title": "旗舰SoC进入融合计算时代，天玑9600 Pro首创AI原生架构！",
+    "description": "就在这两天，联发科正式发布新一代旗舰移动平台天玑9600 Pro。作为天玑首款Pro旗舰，它率先采用台积电2nm制程，并以全新AI原生架构重构移动计算，带来双超大核CPU、重构双NPU、神经网络渲染与智能影像等一系列架构级升级，推动性能、能效、AI、游戏、影像以及通信显示体验全面跃升。 过去几年，AI正从云端加速走向终端，手机也成为AI能力最重要的入口之一。随着生成式AI持续发展、消费者智能体进入新阶段，设备需要承载更强的理解与推理能力，也要更高效地调动内部多种算力资源，这让旗舰芯片的竞争开始从单一计算单元的性能提升，走向整颗SoC的系统级协同。 正是在这种思路之下，天玑9600 Pro 首创AI原生架构，将CPU、GPU、NPU、ISP等异构计算核心通过软硬融合整合为系统级融合计算架构，让不同算力单元协同工作。由此，旗舰芯片的性能基准也进一步升级为对整颗SoC协同效率的考验，而融合计算架构，正成为天玑9600 Pro面向AI新时代打造的全新计算核心。 2nm旗舰看天玑，智算融合架构，旗舰性能与能效迎来全面升级 Pro旗舰，首先要有Pro级的基础。天玑9600 Pro率先采用行业首批台积电2nm制程，在逻辑密度、性能与能效方面带来全面提升。 天玑9600 Pro集成超过330亿个晶体管，精密设计进一步深入2nm制程。早在2nm研发初期，联发科技便与台积电展开深度共研，双方围绕2nm核心指标进行联合攻坚，并通过设计工艺协同优化（DTCO）进一步提升制程的性能上限。 作为旗舰芯片的核心算力底座，天玑9600 Pro 采用天玑智算融合架构，融合并调动 CPU、NPU、内存、闪存等核心计算组件，打造面向智能体的CPU 架构，除了全面升级的 CPU 架构，还有强大的算力调度技术，带来超强能效，超高性能。 经实测，天玑 9600 Pro 基于天玑智算融合架构，实现了能效的巨大飞跃！超大核功耗下降37%，多核功耗下降61% 已经是断代式的领先！ 其次还有超强性能，天玑 9600 Pro 首创2+3+3全大核CPU架构，采用双超大核设计，包括2颗最高4.55GHz的C2-Ultra超大核，以及3颗4.35GHz和3颗3.1GHz的C2-Pro大核，面向重载和AI多任务并行进一步强化处理能力。 同时，天玑9600 Pro 还搭载34.5MB L2+L3+系统缓存的缓存架构，二级缓存相",
+    "url": "https://www.leiphone.com/category/industrynews/q1k5B0Zq8YMKM91n.html",
+    "imageUrl": null,
+    "source": "雷锋网",
+    "categoryId": null,
+    "publishedAt": "2026-09-15T13:01:00.000Z",
+    "createdAt": "2026-09-17T00:10:31.353Z",
     "language": "zh",
     "region": "China",
     "topic": "Chips & Compute",
@@ -173,6 +811,80 @@
     "region": "China",
     "topic": "Chips & Compute",
     "contentFormats": [
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160905,
+    "title": "阶跃发布 StepAudio 3 ，多款语音模型登顶 Artificial Analysis 全球榜单",
+    "description": "9月15日，阶跃发布新一代语音大模型 StepAudio 3 系列，一次性推出 StepAudio 3 Realtime、StepAudio 3 ASR、StepAudio 3 TTS、StepAudio 3 Gen 和 StepAudio 3 Music 五款模型，覆盖实时语音交互、语音识别、真人级语音生成和音乐创作等场景。其中，多款模型在 权威 第三方 AI 模型评测机构 Artificial Analysis 榜单中位列全球第一。 相比过去主要围绕语音识别或语音生成等单项能力展开竞争，StepAudio 3 将能力进一步延伸至语音理解与生成、实时推理、任务执行和音频创作的全栈能力，让 AI 不仅能够“听”和“说”，也能够理解声音背后的语义与情绪，并参与更完整的交互和内容生产过程。 其中，面向实时语音交互场景的 StepAudio 3 Realtime 支持原生全双工对话，可以在持续交流过程中判断何时回应、何时等待，并处理临时打断和连续反馈。在 Artificial Analysis Conversational Dynamics 榜单中，该模型以 98.9% 的综合得分排名全球第一。 与传统实时语音模型主要追求低延迟和自然对话不同，StepAudio 3 Realtime 还进一步加入了语音推理和任务执行能力。模型能够同时理解语义、语气、情绪及环境声音，并支持推理与语音生成并行；Tool Call 和长任务则可以异步执行，在任务运行期间不打断当前对话。其在 Artificial Analysis Speech Reasoning 榜单中同样位列全球第一。 在语音识别方面，StepAudio 3 ASR 将高精度识别与大语言模型的上下文理解和知识能力结合，不仅要解决“听清楚”，也进一步提升对专业术语、人名、地名、方言及复杂上下文的理解能力。 该模型支持中文、英文、方言、中英混说、长音频和专业领域等多类场景，并针对低声、快速语音、含糊连读以及背景音乐等复杂输入进行优化。在 Artificial Analysis 非流式语音识别准确性榜单中，StepAudio 3 ASR 的 WER（词错误率）为 1.7%，并列全球第一。WER 越低意味着转写错误越少，该成绩意味着模型在第三方综合测试中的语音识别准确率已处于全球第一梯队。 除实时交互和语音识别外，此次发布也进一步拓",
+    "url": "https://www.leiphone.com/category/industrynews/bqWUmrRwgYnqHzxZ.html",
+    "imageUrl": null,
+    "source": "雷锋网",
+    "categoryId": null,
+    "publishedAt": "2026-09-15T09:50:00.000Z",
+    "createdAt": "2026-09-17T00:10:31.353Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "AI Models & Agents",
+    "contentFormats": [
+      "Xiaohongshu Explainer",
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160906,
+    "title": "英伟达开源 IMO 金牌配方：不仅是「人海战术」，1.5TB 显存做实 AI「 推恩令」？",
+    "description": "用三套 checkpoint 完成多轮证明搜索，用过程透明平息学术怒火，用 1.5TB 显存门槛锁定算力霸权。名为代码平权，实则算力集权。 作者丨 郑佳美 编辑丨岑 峰 9 月 9 日，NVIDIA 公布了 Nemotron 3 Ultra 在 2026 年 IMO 上使用的整套数学推理系统。 这套系统最终拿到 30/42 分，超过当届 29 分的金牌线。整个比赛过程中，模型只用自然语言写证明，没有调用 Lean 等形式化证明器，也没有借助外部工具或联网检索。 但这次发布的重点不只是成绩。NVIDIA 还把支撑这 30 分的两个数学专家 checkpoint、SFT 与 RL 训练数据、推理代码、训练配方、比赛提交证明，以及 200 道新的 Nemotron-IMO-Bench 一起开放了出来。 换句话说，这次公开的是一整套从训练到比赛推理的系统，而不是单独放出一个更强的数学模型。Nemotron 3 Ultra 只是底座，后面两个专家模型、大规模证明搜索、模型验证和多轮改写，共同组成了把成绩推到 IMO 金牌线的完整链路。 两天后的 9 月 11 日，陶哲轩、Peter Scholze、Maryna Viazovska 等 25 位菲尔兹奖得主联合发声，批评 AI 数学成果发布越来越快，而证明检查、方法梳理和复现往往没有足够时间展开。 放在这样的背景里，NVIDIA 这次开源比较少见的一点，是把一个 IMO 金牌级结果背后的模型、数据、推理流程和计算成本都留了下来。 而这套系统的技术起点，是 NVIDIA 没有继续对同一个 Nemotron 3 Ultra 反复采样，而是先训练了两个行为明显不同的数学专家。 01 两个专家 checkpoint Nemotron 里面一个比较核心的设计，是让后训练直接服务于后面的搜索。 SFT 数据里除了完整证明，还加入了大量证明修改、验证和再次验证的轨迹。这样训练出来的模型，学到的不只是从题目生成证明，还包括拿到一份已经写了一半、甚至局部存在错误的证明以后，怎样判断哪里出了问题，再沿着原来的路线继续修。雷峰网 放进搜索系统以后，这种能力会直接影响计算资源的利用方式。高难数学题很少只有会做和不会做两种状态，大量候选其实处在中间区域，主体结构已经接近可用，只在某个引理、边界条件或者推导闭环上出了问题。 一个只会重新作答的模型，每次失",
+    "url": "https://www.leiphone.com/category/ai/A3z1I1E1p15O83NO.html",
+    "imageUrl": null,
+    "source": "雷锋网",
+    "categoryId": null,
+    "publishedAt": "2026-09-15T09:38:00.000Z",
+    "createdAt": "2026-09-17T00:10:31.353Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "Chips & Compute",
+    "contentFormats": [
+      "Xiaohongshu Explainer",
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160907,
+    "title": "亚太唯一！腾讯云首次入选IDC MarketScape 全球托管边缘服务领导者类别",
+    "description": "9 月 15 日，国际数据公司（IDC）发布《IDC MarketScape: Worldwide Managed Edge Services 2026 Vendor Assessment》报告。凭借边缘安全加速平台EdgeOne，腾讯云位居领导者（Leaders）类别，成为首次入选、也是本次唯一入选领导者类别的中国厂商、亚太厂商。 IDC MarketScape 报告指出：“腾讯云 EdgeOne 通过统一平台原生融合加速、安全、边缘计算与 AI 能力，帮助企业免于组装多个点解决方案，从而降低多产品组合带来的集成与运维复杂度。”本次评估印证了EdgeOne在全球基础设施规模、交付能力及服务成熟度上的综合实力，及面向 AI 时代成熟完备的托管边缘服务，跻身全球第一梯队。 构建 AI 原生应用的边缘基础设施，打造高性能边缘 AI 服务 IDC 指出，传统 CDN 正加速向托管边缘服务演进，竞争焦点已转向边缘侧 AI 推理能力。边缘正成为 AI 时代连接网络、计算与应用的基础设施。沿着这一趋势，腾讯云EdgeOne 正将全球基础设施全面打造为面向 AI 原生应用的边缘底座：为企业提供边缘加速、安全防护、边缘 AI 推理，以及全栈 Web 与智能体开发部署等能力。在安全上，防护对象从抵御攻击扩展到对 AI 爬虫、智能体等新型访问的识别与治理。 同时，需要靠近用户的不再只是内容，还有推理。在实时对话、交易、游戏互动、媒体内容生成等场景，响应速度直接决定体验。EdgeOne 推出边缘 AI 推理平台 Booster，把全球分布式基础设施从内容分发延伸到 AI 计算，在贴近业务的节点部署推理服务，图像与视频生成、语音与音频处理、存储与缓存就近完成，AIGC 生产、实时媒体处理、智能推荐、广告决策等业务由此就近调用算力，实现毫秒级响应。 在托管上，Vibe Coding（氛围编程）兴起，推动应用开发从“编写网页”延伸到“开发智能体”。大量新生成的智能体正加速投入生产环境，对即时部署与托管提出新要求。EdgeOne 的边缘托管平台 Makers 从托管网页扩展到托管 Web 与智能体，开发者完成的项目仅需少量适配即可上线，无需搭建和维护运行基础设施。目前，Makers 已服务超 50 万名用户，累计托管站点超百万个，支撑企业官网、出海电商、AI SaaS，以及医疗、政务、法律等行业",
+    "url": "https://www.leiphone.com/category/industrynews/pxm3hT4tSVTrgyIS.html",
+    "imageUrl": null,
+    "source": "雷锋网",
+    "categoryId": null,
+    "publishedAt": "2026-09-15T09:24:00.000Z",
+    "createdAt": "2026-09-17T00:10:31.354Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "Chips & Compute",
+    "contentFormats": [
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160908,
+    "title": "“阿宝”交新朋友：携手比亚迪“迪迪虾”，实现车机端一句话办事",
+    "description": "“阿宝”又交新朋友！9月14日，“阿宝”亮相腾势N8L纯电上市发布会，并与比亚迪AI超级智能体“迪迪虾”达成跨端协同办事合作。腾势N8L车主直接对“迪迪虾”说一句话，由“迪迪虾”唤起“阿宝”办理生活服务，在车机端实现“一句话办事”。 （阿宝X 迪迪虾在车机场景组成新的“办事搭子”） 比如，车主可以说“你好腾势，帮我缴一下停车费”“你好腾势，帮我买杯咖啡”，就可唤起“迪迪虾”理解车主在车内场景下的语音需求，并唤起“阿宝”执行；“阿宝”则在支付宝内完成服务匹配和办理，并在声纹核身成功后通过支付宝AI付完成交易。目前，双方已落地停车缴费、咖啡点单、领取周边优惠券、收集蚂蚁森林能量等服务。 在协同办事过程中，两个智能体各司其职、各守可信边界。“迪迪虾”主要负责车机侧的语音交互和意图理解，不接触用户的支付宝账号、支付信息等资金隐私；“阿宝”则在支付宝体系内完成服务调用和办理，不越界获取车机侧无关信息。在支付、授权等关键步骤，仍需用户主动确认后才能完成，并由支付宝多维风控系统守护每笔交易。 （车主一句话可唤起“迪迪虾”联动“阿宝”智能点单） 双方此次合作，依托支付宝国内首个 AHA（Agent Hub Access）多智能体跨端互联协议体系，解决服务适配难、协同不安全等问题，用户凭“一句话需求”，就可完成“跨智能体协同—安全履约—交易办结”的全流程服务。 自6月上线以来，阿宝跨端互联“朋友圈”快速扩容。在车机端，已与60家车企达成定点合作；在手机端，则联手OPPO“小布”实现用户“一句话”办理近200项生活事项。此外，OPPO“小布”、vivo蓝心小V、荣耀YOYO、华为小艺等智能体，以及千问眼镜、阶跃STEPX Neo等可穿戴设备和AI原生手机均已与阿宝展开合作。 而在服务生态方面，截至目前，已有万余项生活服务接入阿宝，包括肯德基、蜜雪冰城、瑞幸、高德打车、黄山景区、丰巢、货拉拉等覆盖餐饮、酒旅、宠物、市民办事等12类生活服务。 雷峰网 雷峰网",
+    "url": "https://www.leiphone.com/category/industrynews/mIVmFo7yO9N62L0j.html",
+    "imageUrl": null,
+    "source": "雷锋网",
+    "categoryId": null,
+    "publishedAt": "2026-09-15T08:45:00.000Z",
+    "createdAt": "2026-09-17T00:10:31.354Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "Policy & Society",
+    "contentFormats": [
+      "Short Video",
       "WeChat Deep Dive"
     ]
   },

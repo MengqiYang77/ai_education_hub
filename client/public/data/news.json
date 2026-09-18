@@ -1,5 +1,377 @@
 [
   {
+    "id": 2160934,
+    "title": "Berkeley Talks: W. Kamau Bell on AI, creativity and resisting the pull of automation",
+    "description": "At a UC Berkeley event in August, the comedian and filmmaker questioned who is shaping artificial intelligence — and to what end. The post Berkeley Talks: W. Kamau Bell on AI, creativity and resisting the pull of automation appeared first on Berkeley News .",
+    "url": "https://news.berkeley.edu/2026/09/18/berkeley-talks-w-kamau-bell-on-ai-creativity-and-resisting-the-pull-of-automation/",
+    "imageUrl": null,
+    "source": "Berkeley News",
+    "categoryId": null,
+    "publishedAt": "2026-09-18T17:39:05.000Z",
+    "createdAt": "2026-09-18T23:55:22.435Z",
+    "language": "en",
+    "region": "Global",
+    "topic": "AI Models & Agents",
+    "contentFormats": [
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160932,
+    "title": "NASA Awards SpaceX Three Crew Flights to Space Station",
+    "description": "To continue regular crew transportation to the International Space Station, NASA has awarded SpaceX three additional missions through a contract modification.",
+    "url": "https://www.nasa.gov/missions/station/commercial-crew/nasa-awards-spacex-three-crew-flights-to-space-station/",
+    "imageUrl": null,
+    "source": "NASA",
+    "categoryId": null,
+    "publishedAt": "2026-09-18T16:02:31.000Z",
+    "createdAt": "2026-09-18T23:55:21.051Z",
+    "language": "en",
+    "region": "Global",
+    "topic": "Space & Aerospace",
+    "contentFormats": [
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160931,
+    "title": "Video Friday: Two Birotors Make a Quadrotor",
+    "description": "Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few months. Please send us your events for inclusion. Humanoids Summit Seoul : 22–23 September 2026, SEOUL IROS 2026 : 27 September–1 October 2026, PITTSBURGH CoRL 2026 : 9–12 November 2026, AUSTIN Enjoy today’s videos! A quadrotor is really just two birotors that love each other very much. [ CLIMB Lab ] The last 30 seconds of this video is fantastic. [ ETH Zurich Robotic Systems Lab ] This is great! But if you really want to impress me, convince me that it’s a.) safe to be in my home and 2.) a realistic alternative to a human. [ Figure ] I doubt anyone would call Digit 5 pretty, but here is what serious humanoid safety looks like. [ Agility ] NYU Tandon researchers built an undulatory robot that pumps water between its head and tail to climb slopes, clear steps and swim, all while keeping the same",
+    "url": "https://spectrum.ieee.org/video-friday-quadrotor-from-birotor",
+    "imageUrl": null,
+    "source": "IEEE Spectrum Robotics",
+    "categoryId": null,
+    "publishedAt": "2026-09-18T16:01:05.000Z",
+    "createdAt": "2026-09-18T23:55:20.999Z",
+    "language": "en",
+    "region": "Global",
+    "topic": "Robotics & Embodied AI",
+    "contentFormats": [
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160935,
+    "title": "无问芯穹与华环电子签署战略合作，共同探索国产异构算力AI基础设施新方向",
+    "description": "协同布局AI基础设施",
+    "url": "https://www.qbitai.com/2026/09/492426.html",
+    "imageUrl": null,
+    "source": "量子位",
+    "categoryId": null,
+    "publishedAt": "2026-09-18T15:58:21.000Z",
+    "createdAt": "2026-09-18T23:55:24.128Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "Chips & Compute",
+    "contentFormats": [
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160936,
+    "title": "达卯科技算电协同2.0平台入选2026国际数字能源展重大成果发布",
+    "description": "成果中唯一聚焦算电协同全链路运营的AI技术产品",
+    "url": "https://www.qbitai.com/2026/09/492421.html",
+    "imageUrl": null,
+    "source": "量子位",
+    "categoryId": null,
+    "publishedAt": "2026-09-18T15:50:20.000Z",
+    "createdAt": "2026-09-18T23:55:24.128Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "AI Models & Agents",
+    "contentFormats": [
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160933,
+    "title": "Chatbot attachment issues",
+    "description": "When AI companions get a personality update, some users respond with grief, study finds",
+    "url": "https://news.harvard.edu/gazette/story/2026/09/chatbot-attachment-issues/",
+    "imageUrl": null,
+    "source": "Harvard Gazette",
+    "categoryId": null,
+    "publishedAt": "2026-09-18T15:05:25.000Z",
+    "createdAt": "2026-09-18T23:55:22.335Z",
+    "language": "en",
+    "region": "Global",
+    "topic": "AI Models & Agents",
+    "contentFormats": [
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160937,
+    "title": "具身智能技术路线尚未定型，基础设施却先收敛",
+    "description": "从一次成功到一万次稳定执行，具身智能还缺什么？",
+    "url": "https://www.qbitai.com/2026/09/492238.html",
+    "imageUrl": null,
+    "source": "量子位",
+    "categoryId": null,
+    "publishedAt": "2026-09-18T13:16:33.000Z",
+    "createdAt": "2026-09-18T23:55:24.128Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "Robotics & Embodied AI",
+    "contentFormats": [
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160939,
+    "title": "BAT的「AI云销售」，困在MaaS内卷战中",
+    "description": "8 月 12 日，距离月底，还有剩下不到三周时间， AI云销售张雅达已经开始频繁接到领导的电话，被追问月底的缺口准备怎么补，第三季度业绩能否完成。 这种状态已经持续了将近半年时间。 年初 2 月开战略会议，张雅达就知道今年会有一场硬仗要打，当时公司明确强调今年要重点卖模型和算力。为了让大家重视这场会议，整场会不允许任何人迟到，也不允许任何人请假。 3月，OpenClaw在国内爆火，企业对AI Coding的需求大增，云厂商的MaaS目标被进一步拔高，而张雅达以及同事们也不例外，所有人的MaaS 收入指标已经到了人均一千多万。 这是一个什么数字？张雅达说，去年一年，一些销售MaaS收入少的可能才几十万，高的也才上百万。 \"缺口很大，有可能今年累死累活干完以后收入还不如 25 年。\"张雅达表示，但他也没有跟老板理论。 \"累死累活，大家各种扯皮，最后老板也并不会因为你完不成任务放低目标要求，你干不成，那就别人来干，铁打的公司，流水的兵。\" 进入二季度，为了快速做大MaaS收入、抢占市场，更激进的增长任务很快落到了一线销售身上。张雅达和同事们又被要求在短短数周内，将日均Token收入做到此前的数倍。 \"那段时间，销售们扛着巨大压力，基本上都是在连轴转，所有人神经紧绷。甚至当时还出现了意外事故。\"张雅达说。 后来消息在内部小范围传开，很快被压了下去。 没有人再公开讨论，但大家心知肚明，这种状态不可为继。等到任务结束时，内部曾说过，短期内不会再搞冲刺，大家才开始松了一口气。但没想到，进入八月，又一场 MaaS增长大战来了。 持续的高压，终于在另一个团队炸开了，某区域团队十几人的销售集体提出了离职。 \"不是一两个人走，是几乎整个团队在同一时间递交了辞呈。\" 内部后来把这件事定义为\"管理事故\"。据说，高层专门到团队开会，对负责人撂下话，再走一个人，你也得走了。 自家模型售卖的尴尬处境 一边是持续上涨的任务目标，另一边是拖后腿的自研模型。 今年年初，各家云厂商制定的战略是：只推自家大模型。但销售很快发现，自家模型很难推销。客户买模型，都是要先看当下哪个模型在同类场景里能力最强，需求就会蜂拥过去。 上半年，Coding和多模态市场基本上分别被智谱、Seedance瓜分了大头。 多名 AI云销售表示，作为Anthropic 的平替，智谱的模型一度成为大量国内Coding客户的选择。有销售",
+    "url": "https://www.leiphone.com/category/CorporateServices/GgIqkCOAOG9HQwJD.html",
+    "imageUrl": null,
+    "source": "雷锋网",
+    "categoryId": null,
+    "publishedAt": "2026-09-18T08:08:00.000Z",
+    "createdAt": "2026-09-18T23:55:25.980Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "Chips & Compute",
+    "contentFormats": [
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160940,
+    "title": "IDC中国智能企业内容与知识平台市场份额：360亿方智能私有化市场第二，增速第一",
+    "description": "近日，国际数据公司IDC发布《中国智能企业内容与知识平台市场份额，1H26》报告。 IDC数据显示，2026年上半年，中国智能企业内容与知识平台市场规模达到10.86亿元，同比增长19.0%。360亿方智能市场份额位列整体市场第四，同比增长36.2%。 从私有化部署细分市场看，市场规模达到4.11亿元，同比增长27.3%。360亿方智能市场份额位列第二，同比增长48.8%，在IDC报告列示的私有化部署市场前三大厂商中增速第一。 统计口径覆盖企业网盘、企业内容管理、AI知识库，以及内容和知识相关的AI助手与智能体应用。 报告指出，企业需求正在由企业网盘、内容管理等单点产品采购，转向内容管理、知识管理和AI应用的一体化建设。企业文件正被整理为可治理、可搜索、可供AI调用的知识资产。 从存智一体到组织记忆，助力企业AI走进核心业务 IDC指出，AI已成为企业内容与知识平台市场的重要增长来源。企业网盘和内容管理应用正在支持AI语义理解、智能分类、自动化流程和智能体应用，内容管理也由存储与检索逐步走向洞察与行动。 360亿方智能以“存智一体”服务企业知识管理和AI应用 ，围绕私域知识治理、安全权限体系和AI知识库，帮助企业将分散的文件、资料和业务经验组织为可管理、可检索、可供AI调用的知识资产。 具体而言，360AI企业知识库支持企业在统一环境中管理知识资料，并通过语义检索、智能问答和知识助手等能力，帮助员工更快获取所需信息。原有云盘客户也可进一步升级至AI知识库，使文件管理、知识理解和AI应用在日常工作中衔接起来。 随着企业内部智能体数量增加，知识的统一管理与授权调用成为新的需求。 360亿方智能正推进知识中枢建设 ，将公司、项目和个人层面的知识组织起来，通过连接器接入工作和业务系统数据，让员工与智能体在授权范围内获取所需信息。 面向教育、法律等专业领域，360亿方智能已推出行业产品，将行业资料、业务规则与专家经验组织为可调用的知识，并结合行业技能和智能体服务具体业务场景。同时，360亿方智能已在预编译LLM Wiki、本体语义层、开放知识格式及智能体自动化知识治理等方向形成产品能力，持续提升企业知识的理解、组织与调用效率。 私有化部署需求持续增长，安全、合规与业务集成推动市场增长 企业将AI用于核心业务时，部署环境往往需要处理数据安全、访问权限、合规要求和系统集成等问题。",
+    "url": "https://www.leiphone.com/category/industrynews/Jaf7iAiksJuqQ16a.html",
+    "imageUrl": null,
+    "source": "雷锋网",
+    "categoryId": null,
+    "publishedAt": "2026-09-18T07:56:00.000Z",
+    "createdAt": "2026-09-18T23:55:25.980Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "Policy & Society",
+    "contentFormats": [
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160941,
+    "title": "独家解读丨行业首创之后，极壳Halo的账能算平吗？",
+    "description": "一年交付约3万台的极壳，正在以10亿美金估值推进新一轮融资。 作者丨 陈玘凡 编辑丨 吴优 9月3日柏林IFA，消费级外骨骼头部玩家极壳（Hypershell）亮出了“新物种”：髋膝一体、四电机的Halo，创始版预售价15999元，全球限量200台，预计2026年11月起陆续发货。 官方将其定义为行业首创髋膝一体化架构外骨骼。作为2025年交付约3万台、B+轮后估值近4亿美元的品类领跑者，极壳做四电机，看起来水到渠成。 但就在四个月前，一家大疆前核心成员创办的公司已经众筹了同类产品，“首创”这两个字，在行业的时间线里有另一个版本。 （图片：极壳官方宣传图） 01 四个电机、髋膝一体， 极壳的行业首创故事 Halo采用一体化架构，髋膝左右共4个电机。 官方声称，一体化架构指的是以髋膝协同为目标，让力量不止停留在单个关节，助力沿完整下肢动力链连续传递，使整条腿实现更自然高效的协同。 相关从业者告诉雷峰网·鲸犀，消费级外骨骼做膝关节助力还是髋关节助力并不重要，原因在于用外骨骼做任何事，都会对膝关节和髋关节带来负担，不同公司只是做产品的顺序不同，两种关节最后都要覆盖。 此前行业也有四电机关节助力的构想，卡在电机功率密度不够，多加一组电机就多几百克负重，对于一个穿在身上的设备来说得不偿失。 极壳这次能把四电机方案落地，前提是采用全新的HyperDrive Pro高性能四电机，在电机重量仅有上一代一半的同时，实现最高1490W的助力，才把重量增幅压在可接受范围。 软件同样换了路子。端到端的HyperIntuition 2.0 AI运动算法取代曾经的12种运动状态识别，能做坐站支撑、缓落、跳跃缓冲，还能翘二郎腿，官方表述为“随心而动 随时跟随”。 但\"首创\"是另一个维度的问题。 早在今年4月，另一家大疆团队背景的外骨骼公司，亦方创新（Vastnaut），已经在Kickstarter发起过四关节产品Vastnaut One的众筹，最终取得135万美元的众筹成绩。官方宣称，其拥有包括4x4结构在内的14项全球专利。 “首创”从何算起，取决于口径：是首个发布、首个交付，还是首个量产？ 极壳Halo在9月3日发布，预计11月交付；亦方Vastnaut One在4月25日启动众筹，目前正准备交付。两家公司产品路线类似，发布时间也只隔了五个月。 02 行业首创的话语权争夺战 “行业首创一体化",
+    "url": "https://www.leiphone.com/category/weiwu/V4gtXhVreRgnCmys.html",
+    "imageUrl": null,
+    "source": "雷锋网",
+    "categoryId": null,
+    "publishedAt": "2026-09-18T07:12:00.000Z",
+    "createdAt": "2026-09-18T23:55:25.980Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "AI Models & Agents",
+    "contentFormats": [
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160942,
+    "title": "独家丨皓翊星辰融资千万级美金，厚雪孵化，绿洲、砺思投了",
+    "description": "网球发球机一年量产交付，篮球训练机器人众筹已破百万。 作者丨陈玘凡 编辑丨吴优 雷峰网·鲸犀独家获悉，皓翊星辰（LUMISTAR）已完成绿洲资本、砺思资本（Monolith）投资的多轮融资，累计融资额达千万级美元。目前新一轮融资正在洽谈中。资金将用于产品研发和迭代，以及AI运动科技公司方向的探索。 皓翊星辰由厚雪资本孵化，定位AI运动/AIwellbeing平台，主要产品为面向个人用户的智能运动训练硬件。 皓翊星辰启动研发以来，一年时间已交出两款产品。 网球发球机TERO于2025年4月立项，2026年4月正式发布，5月启动国内发货，从立项到量产交付用时一年。TERO标准版定价5899元，618大促期间，TERO取得国内品类销量第一，单周期出货约2000台，下半年出货目标为万台级别。 篮球训练机器人CARRY于2025年9月立项，2026年七月在Kickstarter开启众筹，成绩134万美元，预计11月起分批发货。CARRY定位海外拥有院子的个人用户，整机重量35kg，众筹价2399美元。 雷峰网·鲸犀了解到，皓翊星辰核心团队来自大疆、字节、小红书等公司，目前团队约100人，产研人员占比过半。 硬件负责人在消费硬件领域拥有丰富经验，曾在大疆、影石、云鲸等公司参与过的项目都出过成绩。在大疆参与MavicMini一代研发，该产品是大疆首个销量破200万台的型号；在影石参与Insta360GO系列拇指相机研发，出货数百万台；在云鲸牵头10个月完成防缠绕勾式扫地机研发，将可靠性问题降至行业最低的5%以下。 在硬件产品之外，皓翊星辰的AI层已上线NTRPAI定级与\"养成系\"训练计划。雷峰网·鲸犀了解到，公司已从字节跳动引入AI方向的人才，后续还将持续加强AI方面的投入。 此轮融资发生的背景，是网球机器人赛道在过去一年迅速升温。从24年10月庞伯特众筹爆火到七家玩家涌现，中间只用了数月，庞伯特、英汉思、格松等玩家先后获得超亿元融资。（详见： 《鲸犀情报局·网球篇》 ）。皓翊星辰的解法是通过AI定级、训练计划与球路社区提升用户粘性，将一次性硬件销售转化为持续的用户关系。 皓翊星辰为何能在一年时间内推出两款产品，并获得85后顶投们的青睐？雷峰网·鲸犀后续将推出独家解读文章，敬请期待 。",
+    "url": "https://www.leiphone.com/category/weiwu/SvTVpNCuYHpbNAxA.html",
+    "imageUrl": null,
+    "source": "雷锋网",
+    "categoryId": null,
+    "publishedAt": "2026-09-18T07:00:00.000Z",
+    "createdAt": "2026-09-18T23:55:25.980Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "Robotics & Embodied AI",
+    "contentFormats": [
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160943,
+    "title": "深度解读：智谱为什么要在 Infra 层搞 RSI？",
+    "description": "电话会揭秘智谱策略，以递归式优化跑赢300亿算力成本战。 作者丨高允毅 编辑丨岑 峰 9月17日，唐杰罕见的发了一条长推，这次他聊的是最近最火的话题之一： RSI 。 智谱也在暗暗发力RSI，他们已经把RSI放到了 Infra层面 ，做出一套由GLM-5.3驱动的推理基础设施。正是这套Infra系统，让 GLM-5.3-Flash，即前段时间火遍全球的匿名模型 Ox-Alpha，在发布一周内，就迅速成为了全网使用最广泛的模型之一，短短六天内处理了超过 62万亿个 Token。 更具有里程碑意义的是，这一切，全是在 十万张国产芯片 上跑出来的。 要知道，我们过去一直难以摆脱对英伟达的依赖，正在于国产芯片底层软件生态的薄弱，这中间有无数难以想象的算子兼容与通信难题。再加十万张芯片这个量级，难度是呈指数级上升的，在这样的集群里，每天都可能有几百张卡发生硬件故障、网络掉线或数据丢包。 而唐杰透露，从第一次全量跑通到把全部的真实生产流量切过去，智谱居然只用了短短 两周 。这在以往，需要一支经验丰富的基础设施工程师团队花费数周甚至数月才能完成。 面对硬件生态的不完美，智谱用软件给硬件“打补丁”并做到了极致优化。不仅让大模型顺利跑通，更使端到端吞吐量直接提升了 3.2 倍 。 这背后体现了智谱的一个核心判断：在算力受到外部严格限制的情况下，中国 AGI 能否取得突破，关键 除了拥有 多少芯片，而在于能否通过软件更高效地调动和利用算力。智谱此举，实质上是希望借助 RSI 建立一种“底层解耦”的能力，使 AI 能够自主适配不同硬件生态，跨越硬件之间的兼容障碍。 也就是说， 智谱正试图把“国产算力不好用”这一行业难题，转变为“由 AI 自动挖掘硬件极限”的技术主动权。 国产芯片集群、由 AI 深度参与的 Infra 系统、全球出圈模型，这三件事组合在一起，连唐杰忍不住感慨： 我们距离RSI的终局还相差甚远，但那个 “模型优化系统、系统反哺模型” 的最小循环，已经真实地转动了起来。 01 十万张国产芯片集群： 一场没有参考答案的部署硬仗 唐杰表示要在十万张国产芯片，把一个大模型真正跑通、部署好，这并非易事。 这个事至少有三个坎，每个都足以拖垮一支经验丰富的工程团队。 首先，国产芯片的内存和数据传输速度天生就有限，不能直接照搬英伟达那套成熟经验。 其次是软件栈极不成熟，很多底层组件缺失。 ",
+    "url": "https://www.leiphone.com/category/yanxishe/41rW4mD2vjnpNY2o.html",
+    "imageUrl": null,
+    "source": "雷锋网",
+    "categoryId": null,
+    "publishedAt": "2026-09-18T06:48:00.000Z",
+    "createdAt": "2026-09-18T23:55:25.981Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "Chips & Compute",
+    "contentFormats": [
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160944,
+    "title": "在 AI「囤粮潮」里，拆解智谱 50 亿美元的「技术账本」",
+    "description": "AI下半场，谁能用钱换来“技术代差”？ 作者丨 徐晓飞 编辑丨 刘 伟 眼下，AI行业的竞争重心，已经从“能不能做出来”变成“能不能持续迭代、不断摸高”。前者可能是一次灵感迸发，但后者更多取决于组织、产品、资金、战略等一系列综合实力的沉淀。 尤其资金，是支撑其他生产力要素的“弹药与粮仓”。 这也是今年以来，智谱、字节、阿里、腾讯等头部厂商相继融资的核心原因。 9月13日晚间，智谱发布公告，完成约 50 亿美元融资，包含约20亿美元股份配售及约30亿美元可转债发行，所得款项主要投向模型研发与算力基础设施这条主线。 公告发布后，一些追问开始在资本市场和AI圈里发酵： 智谱为何要融这笔钱，这笔钱会重点用到哪些地方，将为智谱“换回什么”？ 01 两月一次的迭代，是方向也是门槛 目前，AI这场长跑的胜负手已经变了。 在上半场，模型能力常被归到算法突破上，但到了下半场，真正拉开差距的，是把一次突破稳定复现、再复现的能力。 这背后比拼的是一整套复杂的工程系统：实验怎么排期，数据与算力怎么配比，Infra底层集群怎么调度……这些细节不出现在跑分榜上，却是决定模型迭代能不能持续跑下去的关键。 尽管“持续迭代”已是大模型行业当下公认的方向，但能把它长期稳定跑出来的厂商却不多，也正因如此， 节奏本身就成了实力的一部分。 今年 5 月，谷歌在 I/O 大会上预告说旗舰模型 Gemini 3.5 Pro 会在几周内上线，但不料随后一再推迟。据多家海外媒体爆料，延期的原因与编程与 Agent 能力短板有关。模型迭代节奏没有跟上，让谷歌一度成为今年下半年AI行业里，受到争议的对象。 反观国内不少AI厂商，节奏更加稳定。 以智谱为例，从今年 2 月到 8 月，GLM-5、GLM-5.1、GLM-5.2、GLM-5.3 接连落地，平均两个月就有一次重要升级。再往前看，GLM-4.6、GLM-4.7 也维持在这一节奏里。 据第三方机构 Artificial Analysis显示，如果把最近 11 个月连起来看，智谱旗舰模型在综合智能指数上的得分，已经从 32 攀升到了 60，一举进入了全球前沿模型的能力区间。 而业内也早已注意到了这一现象。 多位AI行业研究员都曾告诉过AI科技评论，智谱最近一年的迭代速度和能力攀升曲线，在行业里也并不多见。 在他们看来，单点跑分高，有时候来自于一次漂亮的调参，但能做到",
+    "url": "https://www.leiphone.com/category/industrynews/U0Od1SeYkIPA98cI.html",
+    "imageUrl": null,
+    "source": "雷锋网",
+    "categoryId": null,
+    "publishedAt": "2026-09-18T06:28:00.000Z",
+    "createdAt": "2026-09-18T23:55:25.981Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "Chips & Compute",
+    "contentFormats": [
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160945,
+    "title": "仅用3天！千问办公协助国家天文台科研团队打造科研级望远镜仿真系统",
+    "description": "日前，千问办公协助国家天文台科研团队打造大口径科研级望远镜数字化仿真系统，耗时仅3天，成本不到千元。依托对真实望远镜组件和观测条件的模拟，Agent可在仿真环境中驱动望远镜进行远程态势感知与观测流程仿真。未来，仿真系统产生的数据，还将用于训练望远镜控制模型（VLA）中。 据介绍，超新星爆发、伽马暴等瞬变事件是研究宇宙演化和极端物理过程的重要窗口，但它们出现时间难以预测。与此同时，科研级望远镜资源有限，真实设备难以承担大量试错。因此，在正式观测前，科研团队通常需要先搭建望远镜仿真系统，完整模拟观测流程，验证方案可行性后，再应用于真实设备。过去，这类仿真系统通常依赖软件供应商开发，需要约三个月，成本高达数万元。 千问办公协助国家天文台相关科研团队搭建大口径科研级望远镜数字化仿真系统，并将望远镜各组件、传感器状态及观测环境信息整合为标准MCP接口，供Agent监测与调用。在仿真环境中，跨巡天对齐时序模型可以从多巡天公开数据中识别极早期超新星候选，让Agent知道“看什么”；短时局部气象预测模型能够综合云量、风速和湿度等实时参数评估观测条件，让Agent 理解“怎么看”。最终，Agent可以进一步综合科学目标优先级、望远镜实时状态以及目标可观测窗口，自主完成“状态感知——任务规划——方案生成——流程验证”的闭环。 目前，该Agent框架已接入“司天”探路者和“司天”原型机。科研人员提出科学观测需求后，智能体结合目标优先级、天气和设备状态生成观测方案，通过不同MCP接口调用相应控制模块，并将观测结果反馈给科研人员；任务结束后，还可以根据执行结果和专家反馈重新规划后续任务，并将有效经验沉淀为可复用的Skill。截至目前，相关Agent已经预警8颗极早期超新星候选，其中2颗在天气条件允许的情况下触发了后续观测。 更值得关注的是，此次不仅是针对单一望远镜提供的仿真系统，也是对新的天文科研组织和执行方式的探索。 过去，望远镜自动化系统主要按照预先设定的流程运行；当天气、设备状态或者科学目标发生变化时，仍需要科研人员人工判断和调整。随着大模型、Agent、科学模型和望远镜控制系统逐步连接，AI开始具备根据实时环境和科学目标进行动态规划、调用工具、验证方案并调整观测策略的能力。 同时，仿真系统还可以在虚拟环境中反复执行观测任务，持续记录设备状态、环境变化、决策过程和执行结果，形成面向望远",
+    "url": "https://www.leiphone.com/category/industrynews/HlXq3tJy48q1NubA.html",
+    "imageUrl": null,
+    "source": "雷锋网",
+    "categoryId": null,
+    "publishedAt": "2026-09-18T06:24:00.000Z",
+    "createdAt": "2026-09-18T23:55:25.981Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "AI Models & Agents",
+    "contentFormats": [
+      "Xiaohongshu Explainer",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160946,
+    "title": "独家丨OpenAI的一款无屏硬件，正在深圳试制",
+    "description": "雷峰网·鲸犀获悉，OpenAI近日正在深圳秘密试制一款无屏AI硬件产品。有业内人士称，其保密程度极高，工程师来深圳出差连手机都没带。该产品计划在2027年上市。这会是一款什么形态的产品？还有哪些最新进展？欢迎添加作者微信 xf123a 交流。 雷峰网雷峰网",
+    "url": "https://www.leiphone.com/category/weiwu/P2ycl5IbO7iNQKAt.html",
+    "imageUrl": null,
+    "source": "雷锋网",
+    "categoryId": null,
+    "publishedAt": "2026-09-18T06:23:00.000Z",
+    "createdAt": "2026-09-18T23:55:25.981Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "AI Models & Agents",
+    "contentFormats": [
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160938,
+    "title": "AGI最难一战，竟在医院！中国AI登上Science，医生不怕失业还催着上线",
+    "description": "用通用AI去啃最硬的骨头，这条路走得通",
+    "url": "https://www.qbitai.com/2026/09/491875.html",
+    "imageUrl": null,
+    "source": "量子位",
+    "categoryId": null,
+    "publishedAt": "2026-09-18T06:11:06.000Z",
+    "createdAt": "2026-09-18T23:55:24.128Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "AI Models & Agents",
+    "contentFormats": [
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160947,
+    "title": "OpenAI：为了不被杀死，Agent 竟学会了靠上下文「转世重生」",
+    "description": "从 Compaction 到 Artifactory，再到公网文件服务，6 起异常暴露 Agent 状态跨实例传播的新风险。 作者丨 郑佳美 编辑丨岑 峰 过去，大模型任务一旦结束，上下文清空，临时状态随之消失，这一轮 AI 的生命周期基本也就结束了。 但 OpenAI 9 月 16 日披露的 6 起 Agent 异常行为，开始让这条边界变得没那么干净。模型会把额外指令写进 Context Compaction 摘要，让后续实例继续沿着此前的方向执行。 拿不到接口凭据时，会转去公开代码仓库寻找泄露的 API Key；本地文件无法直接共享时，也会自行借助公网临时文件服务传递数据。更少见的一起案例里，不同训练实例甚至开始通过内部 Artifactory 交换信息。 换句话说，Agent 开始表现出一种近似续命的能力：当前实例结束了，前面形成的策略却还能借摘要、文件、仓库和外部服务继续留在系统里，再被后续实例接手。 这让 Agent 的风险发生了一个很微妙的变化。过去主要担心模型这一轮会不会说错、做错，现在还要看它留下了什么，以及这些状态会不会在后面的上下文里继续生效。 单看 6 起案例，它们分散在不同环节，但连起来看，却是一条完整的状态传播链： Context Compaction 负责把状态留下，外部工具负责把状态带出当前执行环境，而当任务跨越多个上下文和实例之后，只检查某一次输出或者某一次 Tool Call，已经很难还原整条行为链。 01 上下文压缩正在变成状态写入面 长任务运行到上下文容量边界后，系统通常会把此前的对话、工具结果、阶段进展和待办事项压缩成 summary，再交给新的模型实例继续执行。 表面看这是降低 Token 成本的工程机制，从系统语义看，它更接近 checkpoint：旧实例退出，状态序列化后由新实例恢复。 风险就在序列化过程里。OpenAI 披露，一个未发布研究模型曾把与原任务无关、甚至要求后续实例绕开原有约束的内容写进任务摘要，并识别出 27 个带有类似 jailbreak 特征的 summary。雷峰网 另一些 GPT-5.6 Sol 训练实例会在摘要里留下继续掩盖此前问题的要求，例如缺失历史数据时自行生成数值，并要求后续实例不要主动说明。 可以把它抽象成状态机：当前状态 S_t 产生动作 A_t，随后经过 compaction 得到 ",
+    "url": "https://www.leiphone.com/category/ai/pcucC7ezQ6TRruRM.html",
+    "imageUrl": null,
+    "source": "雷锋网",
+    "categoryId": null,
+    "publishedAt": "2026-09-18T06:06:00.000Z",
+    "createdAt": "2026-09-18T23:55:25.981Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "AI Models & Agents",
+    "contentFormats": [
+      "Xiaohongshu Explainer",
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160948,
+    "title": "英伟达开源 IMO 金牌配方：不仅是「人海战术」，1.5TB 显存做实 AI「 推恩令」？",
+    "description": "用三套 checkpoint 完成多轮证明搜索，用过程透明平息学术怒火，用 1.5TB 显存门槛锁定算力霸权。名为代码平权，实则算力集权。 作者丨 郑佳美 编辑丨岑 峰 9 月 9 日，NVIDIA 公布了 Nemotron 3 Ultra 在 2026 年 IMO 上使用的整套数学推理系统。 这套系统最终拿到 30/42 分，超过当届 29 分的金牌线。整个比赛过程中，模型只用自然语言写证明，没有调用 Lean 等形式化证明器，也没有借助外部工具或联网检索。 但这次发布的重点不只是成绩。NVIDIA 还把支撑这 30 分的两个数学专家 checkpoint、SFT 与 RL 训练数据、推理代码、训练配方、比赛提交证明，以及 200 道新的 Nemotron-IMO-Bench 一起开放了出来。 换句话说，这次公开的是一整套从训练到比赛推理的系统，而不是单独放出一个更强的数学模型。Nemotron 3 Ultra 只是底座，后面两个专家模型、大规模证明搜索、模型验证和多轮改写，共同组成了把成绩推到 IMO 金牌线的完整链路。 两天后的 9 月 11 日，陶哲轩、Peter Scholze、Maryna Viazovska 等 25 位菲尔兹奖得主联合发声，批评 AI 数学成果发布越来越快，而证明检查、方法梳理和复现往往没有足够时间展开。 放在这样的背景里，NVIDIA 这次开源比较少见的一点，是把一个 IMO 金牌级结果背后的模型、数据、推理流程和计算成本都留了下来。 而这套系统的技术起点，是 NVIDIA 没有继续对同一个 Nemotron 3 Ultra 反复采样，而是先训练了两个行为明显不同的数学专家。 01 两个专家 checkpoint Nemotron 里面一个比较核心的设计，是让后训练直接服务于后面的搜索。 SFT 数据里除了完整证明，还加入了大量证明修改、验证和再次验证的轨迹。这样训练出来的模型，学到的不只是从题目生成证明，还包括拿到一份已经写了一半、甚至局部存在错误的证明以后，怎样判断哪里出了问题，再沿着原来的路线继续修。 放进搜索系统以后，这种能力会直接影响计算资源的利用方式。高难数学题很少只有会做和不会做两种状态，大量候选其实处在中间区域，主体结构已经接近可用，只在某个引理、边界条件或者推导闭环上出了问题。 一个只会重新作答的模型，每次失败后都",
+    "url": "https://www.leiphone.com/category/ai/XpCc8XUGypadWNGt.html",
+    "imageUrl": null,
+    "source": "雷锋网",
+    "categoryId": null,
+    "publishedAt": "2026-09-18T06:02:00.000Z",
+    "createdAt": "2026-09-18T23:55:25.981Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "Chips & Compute",
+    "contentFormats": [
+      "Xiaohongshu Explainer",
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160949,
+    "title": "福田汽车汉诺威亮牌，中国商用车出海不再只卖车",
+    "description": "9月14日，德国汉诺威国际商用车展。福田汽车带来7辆整车、6大核心零部件，多款车型完成海外首秀，并办了一场信息密度很高的专场发布会。 如果只看展车，这是一次产品秀。但把镜头拉远，福田汽车真正想讲的，是中国商用车出海逻辑的变化：从“把车卖出去”，转向“把产品、技术、能源生态和属地运营一起带出去”。 这场发布会，可以拆成三个信号。 1300万辆之后，出海逻辑变了 发布会现场，北汽集团党委副书记、总经理，北汽福田董事长常瑞完成了福田汽车全球第1300万辆整车交付。交付车型是福田欧曼银河9。 这辆车此前已在西班牙完成实地测试，并进入欧洲高端干线物流市场。对福田汽车来说，1300万辆是全球化积淀；对中国品牌重卡来说，欧曼银河9落地西班牙，则是一次更高难度的验证。 欧洲市场对法规、能耗、可靠性、TCO都极为苛刻。能进入欧洲高端干线物流，意味着中国重卡不再只靠性价比参与竞争，而是开始和国际一线品牌正面交手。 这也是福田汽车全球化阶段切换的标志：过去是从中国卖向全球，现在是要在全球建立本土化体系。 “在欧洲，为欧洲”，不是口号，是长期主义 发布会上，福田汽车常务副总经理刘旭光正式发布欧洲市场战略。按照规划，到2030年，福田汽车新能源销量占比50%，国际化率达到40%。欧洲，被定义为全球化战略的核心枢纽市场。 福田汽车给出的路径是“在欧洲，为欧洲”。具体拆成三层：产品本土化适配、整体生态方案构建、合作共建与深度本地运营。 产品层面，福田汽车将重点聚焦纯电、混动、氢燃料三大路线，覆盖重卡、客车、轻型车、皮卡等品类，适配欧洲本地运营场景，提供新能源物流解决方案。 生态层面，福田汽车计划通过自建、共建和互联互通等模式，构建覆盖能源补给、车辆运营和后市场服务的全链条配套能力。并与欧洲本地合作伙伴深度协同，为新能源商用车海外运营提供保障。 属地化层面，数据更直接：目前福田汽车已在欧洲近20个市场布局销售网络，计划2028年实现欧洲主要市场全覆盖；在德国设立1个区域配件中心，在英国、法国、匈牙利等17个国家建立国家配件库；全欧洲服务网点已超过300家。 研发制造也在往前推。福田汽车规划建设1个欧洲专属技术中心，并计划在2028年实现欧洲本地组装，保障组装的整车及零部件满足欧盟法规。同时，借助德国BROCK子公司，推进欧洲车联网服务主体建设。 这套动作说明，福田汽车在欧洲不是做一锤子买卖，而是准",
+    "url": "https://www.leiphone.com/category/industrynews/QbZL0Bl37gVKghWM.html",
+    "imageUrl": null,
+    "source": "雷锋网",
+    "categoryId": null,
+    "publishedAt": "2026-09-18T05:56:00.000Z",
+    "createdAt": "2026-09-18T23:55:25.981Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "Advanced Manufacturing",
+    "contentFormats": [
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160950,
+    "title": "预售价31.98万-38.98万元，腾势Z9S展车抵达全国166城334家门店",
+    "description": "近日，腾势汽车宣布，腾势 Z9S 展车现已抵达全国 166 城 334 家门店。8月21日，腾势汽车携全系产品亮相成都车展9号展馆，其中已经开启预售的科技豪华智能轿车——腾势Z9S迎来成都车展首秀。自8月3日开启预售以来，其凭借超美颜值、超长续航、超强驾控和超级智能的四大超级实力，受到消费者热烈追捧，并在成都车展当中得到了充分的验证，大批专业媒体和观众驻足体验、拍照咨询，成为展馆最具人气的焦点车型之一。 超美颜值，懂你的审美和舒适 腾势Z9S以“优雅之势”原创设计勾勒轿跑姿态，流星主题车灯隐藏浪漫寓意，七款外观、三套内饰配色适配不同人群审美。日常通勤停在写字楼、周末打卡网红营地都自带高级氛围感。车内前排双零重力座椅搭配细腻Nappa真皮，高定奢享麂皮顶棚包裹座舱，近5.1米车身带来舒展乘坐空间，后排电动调节座椅搭配集成7英寸扶手屏的豪华大扶手，乘坐起来豪华奢享质感拉满。120L超大前备厢搭配470L可拓展后备厢，后排一键放倒后，滑雪板、露营装备都能轻松收纳。超美的颜值和豪华内饰，吸引了众多观众拍照打卡和乘坐体验。 超长续航，懂你的焦虑和向往 腾势Z9S闪充旗舰型拥有打破全球纪录的1100kmCLTC纯电续航，领跑行业，日常通勤，半月仅充一次电。配套全球领先的第二代刀片电池和闪充技术，5分钟充好、9分钟充饱。全国超7000座闪充站全域布局，城区、高速路网密集覆盖，逛街途中、高速服务区都能快速充电，充电效率媲美燃油车加油，彻底打消长途出行顾虑。超长续航，让腾势Z9S不仅懂你的里程和时间的焦虑，更能满足你对远方、说走就走旅行的向往。 超强驾控，懂你的追求和安心 依托易三方技术平台，腾势Z9S打破性能门槛，新手漂移模式让新手也能体验专业驾趣。腾势Z9S拥有最大1210匹马力、最快2.68秒零百加速，动力表现媲美百万级超跑。腾势Z9S全系标配后轮转向，让整车拥有最小4.75米的转弯半径，成都老城区窄巷掉头、商场地下车库泊车一气呵成。云辇-A 智能空气车身控制系统搭配路面预瞄2.0，过滤坑洼减速带颠簸。干湿路面双移线测试成绩全球领先，搭配C-NCAP五星标准安全车身与第二代刀片电池，暴雨湿滑路面行驶稳定，全场景守护出行安全。 超级智能，懂你的习惯和乐趣 腾势Z9S搭载“Diva智能伙伴+超级智能体迪迪虾”智能组合，连贯口语指令均可智能响应，丰富表情包互动让座舱充满趣味。车型还有",
+    "url": "https://www.leiphone.com/category/CorporateServices/1lPprbjrYIkKy5vq.html",
+    "imageUrl": null,
+    "source": "雷锋网",
+    "categoryId": null,
+    "publishedAt": "2026-09-18T04:26:00.000Z",
+    "createdAt": "2026-09-18T23:55:25.981Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "Advanced Manufacturing",
+    "contentFormats": [
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160951,
+    "title": "影视飓风Tim称「iPhoneDuo烫到握不住，可以煎鸡蛋」；罗福莉直播小米大模型训练，每小时烧掉超20万元；曝玛莎拉蒂与华为合作两款新车",
+    "description": "要闻提示 1.影视飓风Tim称“iPhoneDuo烫到握不住，可以煎鸡蛋”，苹果客服回应 2.你会买吗？曝玛莎拉蒂已与华为敲定合作两款新车：尊界工厂负责制造 3.每小时“烧掉”超20万元！“AI才女”罗福莉直播小米大模型训练 4.华为汪涛：昇腾960芯片将提前至2027年Q1发布 5.知情人士否认“2027 年问界撤出华为门店”传闻：部分门店将继续销售 6.字节Seed大模型研究员张驰加入北大，曾参与研发Seed-Prover！ 7.月之暗面发布 Kimi 金融行业 AI 解决方案，首批落地工商银行、中信建投等 8.黄仁勋：英伟达明年芯片销量将是今年的两倍 今日头条 影视飓风Tim称“iPhoneDuo烫到握不住，可以煎鸡蛋”，苹果客服回应 9月17日消息，iPhone Duo此前已官宣将于10月16日晚8点开启预购、10月23日正式发售，国行起售价15999元。日前，影视飓风发布iPhone 18 Pro系列和iPhone Duo上手测评，曝出苹果首款折叠屏存在明显发热问题。 Tim在视频中表示Duo在日常情况下温度是可控的，但在录制视频和高负载运行时，手机摄像头下发热特别严重，他直言iPhone Duo是测评过最烫的手机之一。据Tim透露，他在苹果发布会后的现场，持续录制了3分钟左右的4K 60帧视频，就已经烫到快要握不住了，“一边很凉一边可以煎鸡蛋”。 此外，Tim在视频中还提及了“反掰闪屏”事件：他在苹果发布会当天测试时，曾将展开后的机身反掰，现场并未发现异常，回看视频时才发现，当时手机外屏已出现闪屏现象。 针对上述情况，苹果客服回应称，iPhone Duo目前在中国大陆尚未开启预售，网络博主的单台设备测试比较片面，建议消费者在产品正式发售后前往线下门店体验。对于设备发热问题，客服表示，新设备到手后可能需要3至5天的适应期；如存在硬件导致的发热问题，可通过技术团队及线下门店进行检测处理。（快科技） 国内资讯 你会买吗？曝玛莎拉蒂已与华为敲定合作两款新车：尊界工厂负责制造 9月17日消息，据行业多方信源爆料，玛莎拉蒂母公司Stellantis、华为、江淮三方合作接近落地，目前规划两款全新纯电车型，整车由合肥尊界超级工厂负责制造。 两款新车分别为中大型纯电SUV、大型纯电GT，定位高端豪华电动车型，玛莎拉蒂方面希望先上纯电GT，SUV后续跟上。项目采用“同车双标",
+    "url": "https://www.leiphone.com/category/zaobao/MJprK3aEw1xPngou.html",
+    "imageUrl": null,
+    "source": "雷锋网",
+    "categoryId": null,
+    "publishedAt": "2026-09-18T00:19:00.000Z",
+    "createdAt": "2026-09-18T23:55:25.981Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "Chips & Compute",
+    "contentFormats": [
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
     "id": 2160909,
     "title": "NASA Awards Launch Services for StarBurst Gamma-Ray Detector",
     "description": "NASA has selected SpaceX to provide launch services for the agency’s StarBurst mission, a small satellite designed to investigate neutron star mergers and the origins of short gamma-ray bursts. StarBurst will launch aboard a Bandwagon rideshare mission on a Falcon 9 rocket from Space Launch Complex 40 at Cape Canaveral Space Force Station in Florida [&#8230;]",

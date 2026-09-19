@@ -1,5 +1,160 @@
 [
   {
+    "id": 2160958,
+    "title": "鹿明机器人剧场《机器人和 TA 的朋友们》全球首演，探索“机器人+演艺”新场景",
+    "description": "9月19日，由鹿明机器人与深圳市文旅产业发展有限公司共同打造的机器人剧场《机器人和 TA 的朋友们》在深圳市宝安区青少年宫迎来全球首场公演。 这场时长45分钟的沉浸式演出， 由机器人主持全程串联， 涵盖舞蹈、相声、小品、武术、DJ秀、魔术六大表演品类， 多台机器人协同参演，通过系统化、专业化的舞台节目编排，实现无间断连贯演出， 为观众带来一场融合科技、艺术与文化内容的现场 演艺体验 。 作为鹿明机器人与深圳市文旅产业发展有限公司共同打造的全新线下演艺项目，该剧场将由深圳文旅进行常态化运营，持续探索机器人在线下文娱文旅场景中的创新应用。 六大节目品类，解锁 机器人 多元演艺场景 《机器人和 TA 的朋友们》通过不同类型的舞台表演，呈现机器人在动作表现、互动表达和多机协同等方面的能力。 演出以机器人男团开场，在《芯跳觉醒》中通过炫酷群舞点燃现场；相声《谁是最强大脑》中，机器人萌娃与人类萌娃展开 了 一场“脑力 大 比拼”；《赛博西游—齐天小圣降妖记》 重构经典IP， 将传统神话与赛博科技 创意 结合；武术节目《功夫小子》呈现 了 机器人对力量、速度与动作的控制；两场DJ秀分别融入未来电音与国风元素，带来不同的舞台表达。此外，机器人还在魔术节目《不完美拍档》中担任助手， 带来意想不到的舞台惊喜。 对于鹿小明而言，这也是一次新的角色拓展。在第二届世界人形机器人运动会上，鹿小明获得啦啦操冠军、街舞冠军及亚军，展现了出色的运动表现能力。 此次登上剧场舞台，机器人需严格遵循节目编排完成动作执行、节奏把控与角色切换，并与同台机器人们及人类表演者无缝协同。机器人由此深度融入节目叙事，成为整场演出的有机组成部分。 NexCore驱动，机器人持续执行复杂舞台任务 一场完整的45分钟演出，本质上是对机器人连续任务执行能力的一次综合考验。从单个动作到完整节目，从单机表演到多机协同，机器人需要完成不同动作技能的组合，并适应节目切换、动作衔接、节奏控制以及多人多机配合等连续任务。 支撑这些能力的，是鹿明机器人面向产业具身打造的 NexCore技能生产系统 。NexCore将任务定义、数据接入、模型训练、技能评测、部署运行和持续学习整合为标准化流程，形成“技能生产—执行—数据反哺”的持续闭环，支持机器人不断获得和迭代新的技能。 在剧场中，不同表演内容对应不同的机器人任务。经过开发、训练与验证后，这",
+    "url": "https://www.leiphone.com/category/industrynews/KQYlP3qCFGorz4hm.html",
+    "imageUrl": null,
+    "source": "雷锋网",
+    "categoryId": null,
+    "publishedAt": "2026-09-19T15:05:00.000Z",
+    "createdAt": "2026-09-19T23:56:34.010Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "Robotics & Embodied AI",
+    "contentFormats": [
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160952,
+    "title": "“留给人类阻止AI的时间不多了”",
+    "description": "AI有可能终结我们所有人",
+    "url": "https://www.qbitai.com/2026/09/492755.html",
+    "imageUrl": null,
+    "source": "量子位",
+    "categoryId": null,
+    "publishedAt": "2026-09-19T11:53:12.000Z",
+    "createdAt": "2026-09-19T23:56:31.195Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "AI Models & Agents",
+    "contentFormats": [
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160953,
+    "title": "Nature：AI重生到1900，这一世抢先爱因斯坦提出光量子",
+    "description": "AI能否提出相对论？",
+    "url": "https://www.qbitai.com/2026/09/492550.html",
+    "imageUrl": null,
+    "source": "量子位",
+    "categoryId": null,
+    "publishedAt": "2026-09-19T11:36:11.000Z",
+    "createdAt": "2026-09-19T23:56:31.195Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "Quantum Technology",
+    "contentFormats": [
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160959,
+    "title": "溪砾科技助阵首个全国 CMT 关爱日，在研管线 RTX-117 临床前数据积极，I 期试验进行中",
+    "description": "2026年9月12日，首个全国CMT（腓骨肌萎缩症）关爱日启动仪式暨“千里同行 步履寻光”病友交流会在云南昆明举行。这场活动由千里行CMT互助之家和豌豆Sir倡议发起，正式将每年9月19日设为全国CMT关爱日。 溪砾科技（ReviR Therapeutics）为支持企业之一，其中国区CEO刘阳博士受邀在活动现场进行报告，为病友及家属带来科研与药物研发相关的前沿信息，并分享了针对 CMT 等多种适应症的创新药管线 RTX-117 的最新研发进展。 刘阳表示，RTX-117 管线的临床前数据显示其分子性质良好、在小鼠实验中取得显著效果，当前正进行临床 I 期试验，进展良好，同时正进行多方科研合作，以支持临床试验的进一步推进。随着溪砾科技对小分子调控RNA疗法的深入钻研，未来有望为CMT患者提供更为精准、有效的治疗方案；患者的及时确诊对于个人疾病干预、生育指导以及疾病研究与药物研发至关重要。 CMT位列我国首批罕见病目录，是一组遗传性周围神经病，患病率约为 1/2500，致残率较高，当前缺乏有效疗法。长期以来，CMT 隐匿在社会认知的盲区之中，患者面临确诊难、康复资源不足、社会理解缺乏等多重困境。 对溪砾科技而言，在推进企业健康发展、开发创新疗法的过程中，了解患者群体现状，聆听患者家庭的真实声音同样重要。对此次病友会活动及关爱日的支持与参与，是溪砾科技以实际行动关爱罕见病群体、促进科研与患者交流的一次实践。 以首个全国CMT关爱日的启动为契机，溪砾科技将持续关注患者需求，积极支持相关公益活动与交流，携手各方推动更多理解、关注与支持，让关爱融入日常，与患者及家庭长久同行。 雷峰网",
+    "url": "https://www.leiphone.com/category/industrynews/8wlffTzwOMxSOsLY.html",
+    "imageUrl": null,
+    "source": "雷锋网",
+    "categoryId": null,
+    "publishedAt": "2026-09-19T10:44:00.000Z",
+    "createdAt": "2026-09-19T23:56:34.010Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "Bioengineering",
+    "contentFormats": [
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160954,
+    "title": "千万奖池找“鲸锐”！单项奖金200万，只等一个最会用AI讲故事的你",
+    "description": "1000万，把才华送上真正的大舞台",
+    "url": "https://www.qbitai.com/2026/09/492501.html",
+    "imageUrl": null,
+    "source": "量子位",
+    "categoryId": null,
+    "publishedAt": "2026-09-19T08:34:35.000Z",
+    "createdAt": "2026-09-19T23:56:31.195Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "AI Models & Agents",
+    "contentFormats": [
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160955,
+    "title": "华为汪涛：华为要打造AI算力底座，只做好一颗芯片远远不够",
+    "description": "CANN跨过拐点，华为补上软件生态",
+    "url": "https://www.qbitai.com/2026/09/492476.html",
+    "imageUrl": null,
+    "source": "量子位",
+    "categoryId": null,
+    "publishedAt": "2026-09-19T08:28:51.000Z",
+    "createdAt": "2026-09-19T23:56:31.195Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "Chips & Compute",
+    "contentFormats": [
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160956,
+    "title": "陶哲轩代表SAIR Foundation宣布正式启动“开放数学模型计划”",
+    "description": "让开放模型与可负担的算力成为数学研究的共享基石",
+    "url": "https://www.qbitai.com/2026/09/492467.html",
+    "imageUrl": null,
+    "source": "量子位",
+    "categoryId": null,
+    "publishedAt": "2026-09-19T06:44:02.000Z",
+    "createdAt": "2026-09-19T23:56:31.195Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "Chips & Compute",
+    "contentFormats": [
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160957,
+    "title": "AI离“理解万物”还有多远？先拿癌细胞和行星轨道试试水",
+    "description": "同一预测核心，跨七类系统验证",
+    "url": "https://www.qbitai.com/2026/09/492429.html",
+    "imageUrl": null,
+    "source": "量子位",
+    "categoryId": null,
+    "publishedAt": "2026-09-19T06:39:32.000Z",
+    "createdAt": "2026-09-19T23:56:31.195Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "AI Models & Agents",
+    "contentFormats": [
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160960,
+    "title": "华为全联接大会2026：360与昇腾AI联合打造解决方案，为AI Agent全面提速",
+    "description": "2026年9月17日，第十一届华为全联接大会在上海开幕。大会期间，360集团与昇腾AI联合打造解决方案。以360智能体工厂为核心的智能体基础设施与昇腾AI深度协同，面向AI Agent场景实现全面提速，为复杂任务执行、多智能体协作和长链路推理提供更高效、更稳定的底层支撑。这也是双方继2026世界人工智能大会联合展示后，合作成果的进一步深化落地。 图说：华为全联接大会期间360与昇腾AI展台 作为360智能体基础设施的核心组件，360智能体工厂承担智能体生成与编排职能，支持通过自然语言快速生成智能体并组建多智能体协作蜂群。其首创的“蜂群多智能体协作技术”支持多智能体多层嵌套、灵活组队与共享协作记忆，实现任务自主规划与协同执行，使原本需要2小时的多角色协作任务缩短至20分钟，效率提升6倍。 随着AI Agent从单轮问答迈向复杂任务执行，异步并行、多智能体协同、长上下文推理以及高频工具调用逐渐成为主流应用形态。Agent运行过程中需要持续进行任务拆解、规划决策、工具调用和结果反馈，这对底层算力平台的稳定性、吞吐能力和响应速度提出了更高要求。 针对智能体场景中的长序列推理和频繁KV Cache读写等挑战，昇腾AI进行了针对性性能优化，通过长序列优化、吞吐优化、运行时优化及算子优化等能力提升，有效降低首Token时延，提升整体吞吐效率，为高并发、长链路Agent任务提供稳定支撑。 在深度理解、通用理解和智能体执行等典型场景中，搭载DeepSeek、Qwen、GLM等主流模型时，昇腾AI已具备良好的开箱性能，经过进一步优化后实现整体性能提升。基于昇腾AI算力支撑，360智能体工厂在内测过程中已实现超过1000步复杂任务连续执行不中断，任务成功率达到95%以上。同时，360智能体工厂采用透明化人机协同机制，将智能体的思考过程、任务规划路径和执行状态全程可视化，让用户能够实时掌握任务进展与执行结果，而底层毫秒级响应能力则为这一体验提供了坚实保障。 图说：360智能体工厂与昇腾AI合作路径示意 当前，AI产业正从“大模型竞争”逐步走向“智能体竞争”。智能体的价值不仅取决于模型能力，更依赖于模型、工具、工作流与算力基础设施之间的协同效率。此次360与昇腾AI联合打造解决方案，正是智能体基础设施与国产AI算力协同发展的又一次实践探索。 未来，双方将持续推进智能体基础设施与国产AI算力生",
+    "url": "https://www.leiphone.com/category/industrynews/uKmCBjBhfQW9iDHy.html",
+    "imageUrl": null,
+    "source": "雷锋网",
+    "categoryId": null,
+    "publishedAt": "2026-09-19T01:58:00.000Z",
+    "createdAt": "2026-09-19T23:56:34.011Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "Chips & Compute",
+    "contentFormats": [
+      "Xiaohongshu Explainer",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
     "id": 2160934,
     "title": "Berkeley Talks: W. Kamau Bell on AI, creativity and resisting the pull of automation",
     "description": "At a UC Berkeley event in August, the comedian and filmmaker questioned who is shaping artificial intelligence — and to what end. The post Berkeley Talks: W. Kamau Bell on AI, creativity and resisting the pull of automation appeared first on Berkeley News .",

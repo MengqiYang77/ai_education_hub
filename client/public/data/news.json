@@ -1,5 +1,413 @@
 [
   {
+    "id": 2160980,
+    "title": "One effort to safeguard humanity: AI ‘constitutions’",
+    "description": "Berkman Klein Center heard calls to keep models ‘honest, helpful, harmless.’ It’s a work in progress.",
+    "url": "https://news.harvard.edu/gazette/story/2026/09/one-effort-to-safeguard-humanity-ai-constitutions/",
+    "imageUrl": null,
+    "source": "Harvard Gazette",
+    "categoryId": null,
+    "publishedAt": "2026-09-21T21:01:56.000Z",
+    "createdAt": "2026-09-22T00:37:30.807Z",
+    "language": "en",
+    "region": "Global",
+    "topic": "AI Models & Agents",
+    "contentFormats": [
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160975,
+    "title": "Perseverance’s View of ‘Turquoise Bay’",
+    "description": "Description NASA’s Perseverance Mars rover used its Mastcam-Z camera to capture this 360-degree panorama of “Turquoise Bay,” a geologic area of interest in the “Margin Unit.” The 818 images used to create the natural-color panorama were captured between Oct. 5 and Oct. 16, 2023, the 933rd to 944th Martian days, or sols, of the mission. […]",
+    "url": "https://science.nasa.gov/photojournal/perseverances-view-of-turquoise-bay/",
+    "imageUrl": null,
+    "source": "NASA",
+    "categoryId": null,
+    "publishedAt": "2026-09-21T19:17:59.000Z",
+    "createdAt": "2026-09-22T00:37:29.585Z",
+    "language": "en",
+    "region": "Global",
+    "topic": "Space & Aerospace",
+    "contentFormats": [
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160981,
+    "title": "Dumbest question is the one you never ask, says Amazon CEO",
+    "description": "AI competition – among companies and in the labor market – also on Jassy’s mind in HBS talk",
+    "url": "https://news.harvard.edu/gazette/story/2026/09/smart-career-move-dumb-questions/",
+    "imageUrl": null,
+    "source": "Harvard Gazette",
+    "categoryId": null,
+    "publishedAt": "2026-09-21T18:23:56.000Z",
+    "createdAt": "2026-09-22T00:37:30.807Z",
+    "language": "en",
+    "region": "Global",
+    "topic": "AI Models & Agents",
+    "contentFormats": [
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160976,
+    "title": "NASA Discovery Reveals Complex Water Systems on Early Mars",
+    "description": "When NASA’s Perseverance rover reached the inner edge of Mars’ Jezero Crater in September 2023, mission scientists were surprised by what they found. Called the “Margin Unit,” the geologic area stretches along the shoreline of an ancient Martian lake, so they expected sedimentary rocks, which would have formed as layers of sand piled on top [&#8230;]",
+    "url": "https://www.nasa.gov/solar-system/planets/mars/nasa-discovery-reveals-complex-water-systems-on-early-mars/",
+    "imageUrl": null,
+    "source": "NASA",
+    "categoryId": null,
+    "publishedAt": "2026-09-21T16:54:43.000Z",
+    "createdAt": "2026-09-22T00:37:29.585Z",
+    "language": "en",
+    "region": "Global",
+    "topic": "Space & Aerospace",
+    "contentFormats": [
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160982,
+    "title": "The ancient ancestor of CRISPR is a unique and potentially powerful genomic tool",
+    "description": "Researchers at the Innovative Genomics Institute discovered a progenitor of CRISPR that may become a versatile gene-editing system in its own right. The post The ancient ancestor of CRISPR is a unique and potentially powerful genomic tool appeared first on Berkeley News .",
+    "url": "https://innovativegenomics.org/news/vipr-systems-origins-of-crispr/",
+    "imageUrl": null,
+    "source": "Berkeley News",
+    "categoryId": null,
+    "publishedAt": "2026-09-21T16:36:29.000Z",
+    "createdAt": "2026-09-22T00:37:30.906Z",
+    "language": "en",
+    "region": "Global",
+    "topic": "Bioengineering",
+    "contentFormats": [
+      "Xiaohongshu Explainer",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160979,
+    "title": "Global Conference in Pittsburgh Puts Carnegie Mellon’s Robotics Leadership in the Spotlight",
+    "description": "&lt;p&gt; &lt;img loading=\"lazy\" src=\"https://www.cmu.edu/news/sites/default/files/styles/listings_desktop_1x_/public/2026-09/260227A_RIC_Opening1656%20%281%29.jpg.webp?h=e1abc858&amp;itok=ST1WBVDd\" width=\"900\" height=\"508\" alt=\"Two community members at CMU's Robotics Innovation Center.\"&gt; &lt;/p&gt; Carnegie Mellon University’s deep roots and latest innovations in robotics will be on display during the 2026 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS).",
+    "url": "https://www.cmu.edu/news/stories/archives/2026/september/global-conference-in-pittsburgh-puts-carnegie-mellons-robotics-leadership-in-the-spotlight",
+    "imageUrl": null,
+    "source": "Carnegie Mellon",
+    "categoryId": null,
+    "publishedAt": "2026-09-21T13:39:32.000Z",
+    "createdAt": "2026-09-22T00:37:30.710Z",
+    "language": "en",
+    "region": "Global",
+    "topic": "Robotics & Embodied AI",
+    "contentFormats": [
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160977,
+    "title": "Widely Attended Gatherings (WAGs) Determinations",
+    "description": "2026 NAHF Enshrinement Ceremony 9.24.26.pdf An Evening with the Stars EWTS 9.16.26.pdf Maryland Space Business Roundtable 9.9.26 Virginia Aerospace Business Association (VASBA) Gala 9.24.26.pdf Roman Space Telescope Event 8.28.26.pdf The Planetary Society_Celebrating Viking 7.20.26.pdf Farnborough Airshow Events 7.18-19.26 University of Maryland Acres 7.14.26.pdf Smithsonian National Air and Space Museum_Blue Origin 7.14.26.pdf Space Business Roundtable_MSBR 7.22.2026.pdf [&#8230;]",
+    "url": "https://www.nasa.gov/organizations/nasa-ethics-advice-for-widely-attended-gatherings-wags/",
+    "imageUrl": null,
+    "source": "NASA",
+    "categoryId": null,
+    "publishedAt": "2026-09-21T12:59:26.000Z",
+    "createdAt": "2026-09-22T00:37:29.585Z",
+    "language": "en",
+    "region": "Global",
+    "topic": "Space & Aerospace",
+    "contentFormats": [
+      "Xiaohongshu Explainer",
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160989,
+    "title": "百度200万美元重奖2支技术团队，李彦宏：认可技术价值，是百度真正的竞争力",
+    "description": "9月21日，百度创始人李彦宏在内部活动上为技术团队颁发“百度最高奖”。两支入围团队均获奖，各获100万美元奖励。今年百度最高奖颁发奖金总计200万美元，折合人民币超1300万元。 “百度最高奖是百度技术信仰一个非常典型的体现。”李彦宏在活动现场表示，从百度成立的第一天起，百度就信仰技术，很多技术都是因为10年、15年的坚持，最后才被认可，才见到效果。“我们擅长坚持。我们有耐心，我们有恒心，我们有信心。我们认可技术的价值，这才是百度真正的竞争力。” 今年获得“百度最高奖”的两个技术团队，分处百度“芯-云-模-体”全栈AI布局的头尾两端。其中，天池团队面向万亿级MoE大模型，自主研发百度天池超节点架构；dodo团队通过打造企业AI员工，成为组织AI内化的核心载体和 Agent 进入百度工作现场的最佳实践平台。 在李彦宏看来，对于获得百度最高奖的技术团队而言，这很可能是一段漫长征程的开始。他举例说，2015年的百度最高奖获奖团队之一“仙童”，做的是芯片，“当时没有人理解，头十几年过得很辛苦，外界很多人也不理解，为什么要做芯片。但是今天坚持了十几年之后，我们看到了收入的高速成长，利润逐渐被放大，资本市场开始认可。” 此外他还分享道，2021年的百度最高奖获奖团队之一“领航”，做的是自动驾驶，后来萝卜快跑单量一骑绝尘，到今天，百度自动驾驶技术位于全球绝对的第一梯队，“也是经过了漫长的征程、十几年的征程，才逐步走到这样一个状态。” “我希望大家能够一起努力，坚持我们的坚持，相信我们的相信，成为这一个时代最大的受益者。我们一起努力，去创造一个属于技术信仰者的时代，属于每一个百度人的时代！”李彦宏说。 “百度最高奖”于2010年7月设立，鼓励“小团队做出大事业”，是百度公司最高级别的奖项，给予每个获奖团队100万美元奖励。奖项评选需满足三项条件：项目意义重大；成果远超预期；团队足够小，必须是小于等于10人。至今年，“百度最高奖”已历16届，语音识别、深度学习平台、大模型等大量AI技术均曾获奖，奖金总额累计近4亿元人民币。",
+    "url": "https://www.leiphone.com/category/industrynews/7frcIluWLrkbs5p9.html",
+    "imageUrl": null,
+    "source": "雷锋网",
+    "categoryId": null,
+    "publishedAt": "2026-09-21T11:58:00.000Z",
+    "createdAt": "2026-09-22T00:37:37.396Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "Robotics & Embodied AI",
+    "contentFormats": [
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160990,
+    "title": "AI4S青年志① | 摇瓶子的手与调参数的脑：两个95后和一场物质科学的化学反应",
+    "description": "在AI4S，AI出身的人是在等AI出奇迹，而Science出身的人是在给AI立规矩。 作者丨 周蕾 编辑丨岑峰 【编者按】 这是雷峰网AI科技评论“AI4S青年志”系列专访的第一篇。当所有人都在谈论AI4S，我们想听真正在做的人怎么说。本系列与这个领域的青年人对谈，记录他们如何走向两个学科的交界，在难题与弯路中走到今天。 2026年7月7日，上海科学智能研究院“百题马拉松”超级科研工厂直播开启，连续5天不间断跑完135道课题。 或许徐丽成和安俊逸自己入行时也没想到，做科研还要“三班倒”盯一场120小时的 干湿闭环直播 。 直播是“一次性的艺术”，没有多少试错空间。徐丽成最紧张的，是配体推荐环节。配体是催化剂的核心组成部分，直接决定反应的效率和选择性。他其实并不确定模型推荐的配体是否能够成功提升反应产率，而直播里不能额外验证——一旦失败，他们来不及再买新的药品。 “非常幸运，它确实提升了4个反应的平均产率，我之前也不知道这个实验结果。”徐丽成回忆起当时的情景，仍然感到十分庆幸。 安俊逸负责Agent系统开发，他最担心的是药物发现题目的执行。药物发现主打长链路，调用工具多，单个任务一跑就是5小时、甚至10小时。这种长链路执行会有误差积累，工具的运行也存在不稳定因素，Agent极有可能在后续步骤中连环出错，最终中途崩溃——这也是大部分Agent的通病。 “直播的时候，药物发现达到了从未有过的任务成功率。”这是最让安俊逸提心吊胆的一类题目，这个结果让他意外。 两人回忆起这场“百题马拉松”时，办公室窗外刚经历了一场盛夏午后的雷阵雨，刚刚放晴。 上智院的办公室位于上海西岸，这里也是众多科研机构和科技企业的驻点。黄浦江穿城而过，有波澜壮阔的历史，也有新的船驶向远方。 徐丽成和安俊逸这两位“95后”，是上智院物质科学方向的青年科学家，也是上智院重点孵化企业“格物智研”的算法专家，一个从化学走向AI，一个从物理走向计算机再走向AI4S。 他们与这个研创一体的团队一起，搭建了国内首个无人介入的物质科学干湿实验全闭环系统——Golab物质科学智能研发工厂。 徐丽成 安俊逸 借着这个机会，雷峰网与两位年轻的科学家聊了聊，他们在来到上智院后，是如何在两个AI和Science的交界处，完成一场“化学反应”的。 01 活化 “化学还有太多未知，但继续卷绩点好像已经没有什么挑战了。” 徐丽成本科在",
+    "url": "https://www.leiphone.com/category/academic/vY1gBvHhcA2frpx4.html",
+    "imageUrl": null,
+    "source": "雷锋网",
+    "categoryId": null,
+    "publishedAt": "2026-09-21T09:51:00.000Z",
+    "createdAt": "2026-09-22T00:37:37.397Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "Bioengineering",
+    "contentFormats": [
+      "Xiaohongshu Explainer",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160991,
+    "title": "GaLaBau 2026观察：MOVA园林工具深化Dealer渠道，专业园林加速迈向AI智能时代",
+    "description": "9月15日至18日，欧洲城市绿化与景观建设专业展GaLaBau 2026在德国纽伦堡举行。MOVA园林工具携覆盖20V、40V、60V的多层级园林工具矩阵及智能割草机产品亮相，进一步面向欧洲Dealer渠道及专业园林市场展开拓展。 展会期间，来自德国及欧洲其他市场的经销商、渠道商和专业用户围绕智能草坪管理、产品组合、专业场景适配及后续渠道合作等话题与MOVA园林工具展开交流。 一位德国专业庭院工具经销商负责人在体验智能无人骑乘割草机后表示，该产品既可以由用户自行驾驶，也能够自主完成大面积草坪作业，并实现定制化草纹效果，这类兼顾人工操作与自主作业的智能化能力，更符合实际应用需求。 对于产品矩阵的渠道价值，一位欧洲专业园林设备Dealer负责人表示，相较于单一产品，完整的园林工具矩阵叠加智能割草机，可以覆盖更多终端需求，也为Dealer提供更大的品类经营空间。 另有德国头部连锁商超工具类目采购经理表示，专业用户需要的已经不只是单一性能更强的工具，而是能够覆盖不同作业场景及时间维度的整体解决方案。 首次发力Dealer渠道，园林工具与智能割草机协同拓展专业市场 此次GaLaBau，MOVA园林工具的一项重点动作，是进一步面向欧洲Dealer渠道展开系统化拓展。 对于Dealer渠道而言，单一明星产品可以形成阶段性关注，但长期经营还取决于品牌能否形成完整的产品组合、持续的新品供给能力，以及覆盖更多终端需求的品类空间。 围绕这一方向，MOVA园林工具此次集中展示覆盖20V、40V、60V的多层级园林工具矩阵，并与智能割草机产品协同呈现。现场交流也从单一产品体验，进一步延伸至市场落地和渠道合作。 其中，园林工具覆盖修剪、吹扫、切割、割草、清雪等高频作业场景，智能割草机则进一步进入智能草坪管理领域。两类产品共同组成从日常园林维护到智能草坪管理的产品组合。 对于渠道而言，这种协同模式意味着面向终端用户时，不再局限于单一设备，而能够围绕不同园林作业需求提供更完整的产品选择。 通过GaLaBau这一专业渠道窗口，MOVA园林工具也在尝试将“ 园林工具矩阵+智能割草机 ”的协同模式带入更多欧洲Dealer体系，进一步拓展专业园林零售渠道。 智能无人骑乘割草机切入大面积草坪管理 智能无人骑乘割草机是此次展会受到较多关注的产品之一。 大面积草坪维护是专业园林作业中耗时较长、重复度较高的一类工",
+    "url": "https://www.leiphone.com/category/weiwu/2HKv7GzxuykgEomF.html",
+    "imageUrl": null,
+    "source": "雷锋网",
+    "categoryId": null,
+    "publishedAt": "2026-09-21T09:18:00.000Z",
+    "createdAt": "2026-09-22T00:37:37.397Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "AI Models & Agents",
+    "contentFormats": [
+      "Xiaohongshu Explainer",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160992,
+    "title": "华为云码道上线鸿蒙编码大模型 面向鸿蒙开发者全面升级",
+    "description": "2026年9月21日，华为云码道CodeArts代码智能体面向鸿蒙开发者进行全面升级，上线“鸿蒙编码大模型+码道鸿蒙智能体+鸿蒙开发者实践中心”三大核心能力，打造全球首个且唯一专为鸿蒙生态打造的AI编码智能体。 华为公有云总裁胡玉海表示：“华为云码道CodeArts代码智能体凝练华为多年研发经验，更懂研发工程实践，为开发者带来了新的开发体验。面向鸿蒙生态，华为云推出新模型、新工具、新实践，为鸿蒙开发者一站式打通‘从想法到上架’全流程，致力于成为更懂鸿蒙开发的AI编码智能体。” ▲华为公有云总裁 胡玉海 【升级一】 鸿蒙编码大模型， 更懂鸿蒙开发 依托华为云独有的鸿蒙增强训练体系，鸿蒙编码大模型融合超百万鸿蒙原素材，深度学习优秀鸿蒙项目代码库与组件资产（含开源样例、鸿蒙API、开发规范及UI/UX布局模板），实现与ArkTS语言及鸿蒙开发范式的深度适配： 训练数据“更全” ：10万+鸿蒙高质量数据，高频鸿蒙开发场景组件100%覆盖，囊括鸿蒙API、开发规范、代码库及组件资产； 代码生成“更准” ： 千行代码错误率降低80%以上，从根本上减少开发者调试负担； 编译通过“更稳” ： 一次编译通过率提升78%以上； Token 消耗“更省”： 单次任务Token消耗降低20%以上。 目前，鸿蒙编码大模型已正式上线华为云码道、华为云MaaS模型广场，可供企业用户方便调用。 【升级二】鸿蒙编码智能体 ，提供 完整提供鸿蒙开发元子能力 鸿蒙编码智能体能一站式覆盖从需求梳理、方案设计、代码编写、到编译构建全流程，减少开发者反复介入，实现鸿蒙应用端到端开发。 同时智能体中内置了DevEco CLI，可以直接调用鸿蒙端侧模拟器，让开发结果即时可见、可调，这个属于业界首创的能力。可实现鸿蒙应用天然适配各类手机、平板等终端设备尺寸，实现全鸿蒙端侧形态自由选择。 鸿蒙编码智能体还内置了鸿蒙知识库、三方库转化、小程序转元服务等技能，且文档、API、最佳实践会进行实时更新，让开发者开箱即用。 【升级三】 码道鸿蒙 开发实践中心，加速开发者能力跃迁 多场景实践案例 ： 汇聚内部专家和生态开发者的优秀实践，提供从入门、进阶、到企业级的实战案例，用更容易理解的方案，让开发者看懂思路、学会方法。 云端实践中心 ： 告别复杂环境配置，打开浏览器即可开发、编译、打包与测试。实践中心将案例、代码仓和开发环境串",
+    "url": "https://www.leiphone.com/category/industrynews/B5ahgA6nibk33DRO.html",
+    "imageUrl": null,
+    "source": "雷锋网",
+    "categoryId": null,
+    "publishedAt": "2026-09-21T09:03:00.000Z",
+    "createdAt": "2026-09-22T00:37:37.397Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "Education & Future Skills",
+    "contentFormats": [
+      "Xiaohongshu Explainer",
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160983,
+    "title": "长三角安全人工智能安徽省实验室发布星界、星驭、星鉴三大AI安全解决方案",
+    "description": "9月19日，第一届中国网络空间安全大会（CCSC 2026）的高水平专题论坛在安徽合肥正式举办。",
+    "url": "https://www.qbitai.com/2026/09/493235.html",
+    "imageUrl": null,
+    "source": "量子位",
+    "categoryId": null,
+    "publishedAt": "2026-09-21T07:52:46.000Z",
+    "createdAt": "2026-09-22T00:37:34.931Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "Policy & Society",
+    "contentFormats": [
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160984,
+    "title": "国产数据库跑出AI新能力！OceanBase登顶国际Data Agent榜单",
+    "description": "OceanBase团队提交的Data Agent方案登顶国际数据智能体基准Data Agent Benchmark",
+    "url": "https://www.qbitai.com/2026/09/493231.html",
+    "imageUrl": null,
+    "source": "量子位",
+    "categoryId": null,
+    "publishedAt": "2026-09-21T07:31:26.000Z",
+    "createdAt": "2026-09-22T00:37:34.931Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "AI Models & Agents",
+    "contentFormats": [
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160993,
+    "title": "登顶国际Data Agent榜单登顶国际Data Agent榜单，OceanBase超过多项GPT、Claude方案",
+    "description": "近日， OceanBase团队提交的Data Agent方案登顶国际数据智能体基准Data Agent Benchmark（简称DAB），以90.62%的准确率位列第一，成为该榜单首个准确率突破90%的参评方案。值得关注的是，这一成绩由国产数据库OceanBase基于国产大模型GLM-5.2构建，超过多项基于GPT、Claude Opus、Claude Fable等海外模型构建的Data Agent方案。本次参评方案内部代号为 Scout，相关能力将融入 OceanBase DataPilot。 （图说：OceanBase登顶国际Data Agent榜单，成为首个准确率突破90%的参评方案） DAB由UC Berkeley EPIC Data Lab与Hasura PromptQL合作推出，评测覆盖互联网/本地生活、金融股票、生物医学、知识产权、企业运营、政务/公共管理、媒体/文娱等多个领域，并涉及PostgreSQL、MongoDB、SQLite、DuckDB等多种数据库。 与传统Text-to-SQL主要考察AI能否将自然语言转换成SQL不同，DAB更关注AI进入真实数据环境后，能否从复杂、分散、形态各异的数据中找到正确答案。一个完整任务中，Data Agent需要理解数据、选择数据、规划分析路径、完成查询计算，并对结果进行验证，考验的是从“理解数据”到“拿到答案”的完整能力。 也正因此，DAB考验的不只是底层模型，而是“模型+Agent+数据系统”的综合能力。模型负责理解和推理，Agent负责规划和执行，数据系统则要支撑数据发现、关联计算和结果校验。三者能否协同，直接影响AI能不能真正把企业数据用起来。 OceanBase此次参评方案，正是围绕这一能力构建。系统通过DataLens构建数据画像，识别字段和数据关系；再根据任务复杂程度规划执行路径，完成数据选择、筛选、关联和计算；得到结果后，还会通过证据追踪和答案校验检查计算过程和结果，发现问题时调整方案并重新验证，形成“数据理解—规划执行—验证修复”的闭环。 这也解释了此次90.62%成绩的含金量：它不是单纯证明国产模型能够完成数据查询，而是验证了国产数据库与国产模型结合后，能够共同支撑复杂的数据分析任务。在底层模型采用GLM-5.2的情况下，OceanBase方案最终超过了多项采用GPT、Claude Opu",
+    "url": "https://www.leiphone.com/category/industrynews/ug9HpmoWVwNMZZTH.html",
+    "imageUrl": null,
+    "source": "雷锋网",
+    "categoryId": null,
+    "publishedAt": "2026-09-21T07:20:00.000Z",
+    "createdAt": "2026-09-22T00:37:37.397Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "AI Models & Agents",
+    "contentFormats": [
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160985,
+    "title": "GPT-6 Astra开进机器人身体！清华联手无问芯穹等开源RPent",
+    "description": "在物理世界真正干活的具身智能体",
+    "url": "https://www.qbitai.com/2026/09/493218.html",
+    "imageUrl": null,
+    "source": "量子位",
+    "categoryId": null,
+    "publishedAt": "2026-09-21T06:22:37.000Z",
+    "createdAt": "2026-09-22T00:37:34.931Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "Robotics & Embodied AI",
+    "contentFormats": [
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160978,
+    "title": "Arctic Melt Season Length Levels Off",
+    "description": "While the sea ice melt season has lengthened dramatically in most of the satellite era, the trend unexpectedly stabilized around 2010.",
+    "url": "https://science.nasa.gov/earth/earth-observatory/arctic-melt-season-length-levels-off/",
+    "imageUrl": null,
+    "source": "NASA",
+    "categoryId": null,
+    "publishedAt": "2026-09-21T04:00:00.000Z",
+    "createdAt": "2026-09-22T00:37:29.585Z",
+    "language": "en",
+    "region": "Global",
+    "topic": "Space & Aerospace",
+    "contentFormats": [
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160986,
+    "title": "百曜科技发起，《AI虚拟细胞（AIVC）技术趋势、产业生态与应用前景研究报告》正式发布",
+    "description": "《AI 虚拟细胞（AIVC）技术趋势、产业生态与应用前景研究报告——AI 时代生命科学的新型基础设施》正式发布。",
+    "url": "https://www.qbitai.com/2026/09/493114.html",
+    "imageUrl": null,
+    "source": "量子位",
+    "categoryId": null,
+    "publishedAt": "2026-09-21T02:28:46.000Z",
+    "createdAt": "2026-09-22T00:37:34.931Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "AI Models & Agents",
+    "contentFormats": [
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160994,
+    "title": "具身智能模型公司方奇科技完成千万级天使轮融资",
+    "description": "近日，具身智能通用大脑研发商方奇科技（北京）有限公司（以下简称“方奇科技”）宣布完成千万级天使轮融资，投资方包括启迪之星创投等知名机构。 据悉，本轮融资资金将主要用于核心技术研发与研发团队扩充，并加速关键技术在典型场景中的验证与商业化落地，持续沉淀机器人可持续学习、可跨本体迁移的“通用技能操作系统”，并为打造通用“机器人大脑”蓄势，逐步构建面向多机器人本体、多场景的具身能力学习-沉淀-分发的基础设施。 解决“大脑”泛化难题，提出语义化世界模型 方奇科技创始人王心舟博士认为，当前具身机器人泛化能力弱的根因仍然在于世界模型缺乏人类知识，而具身“大脑”又缺乏物理常识，简言之，即世界模型和具身模型之间存在物理知识与语义知识的割裂。基于此，方奇科技提出语义化世界模型，旨在“打造像人一样学习、工作与成长的机器人。” 方奇科技创始人王心舟博士 语义化世界模型，即将具身大模型与世界模型深度耦合，把视觉、语言和物理状态组织到统一的三维语义空间中，让机器人能够看懂世界，并能像人一样预测动作、自主决策。图灵学习与语义化世界模型共同组成具身智能机器人模型的进化飞轮，驱动云原生具身大脑持续成长。 方奇科技成立于2026年，是一家具身智能通用大脑研发企业。团队核心成员均来自清华大学，覆盖世界模型、VLA 算法、云原生系统、产业商业化全链路，兼具前沿科研积累与真实场景落地经验。 方奇科技于行业内率先提出“图灵学习范式”，即通过课程学习、任务学习、实践学习、反思学习的链路构建，打破传统遥操学习机器人“只知其然”的困境，让机器人从人类数据与真实实践中持续学习，构建可规模化复制的学习范式。 王心舟介绍，本轮融资后，一方面会持续迭代云原生具身大脑核心技术，扩充顶尖研发人才；另一方面加速产品在标杆场景试点验证，沉淀可跨本体复用的通用技能库。短期打磨可落地的生产力工具，长期目标是打造面向物理世界的具身智能基础设施，让机器人拥有自主学习、持续成长的能力。 盈利模型清晰，已完成商业服务场景技术验证 方奇科技核心技术已在商业服务场景完成图灵学习与语义化世界模型技术验证，申请多项技术专利，并于斯坦福家务挑战赛BEHAVIOR 2026上位列世界第二。公司已与优地机器人（股票代码‌03231.HK）‌、江苏龙寰等达成战略合作，推进试点落地，公司将以“立体清洁”作为练兵场，逐步在商业服务等场景落地试点，具备清晰的商业化",
+    "url": "https://www.leiphone.com/category/industrynews/YREhdZ1XsK1D5Rfi.html",
+    "imageUrl": null,
+    "source": "雷锋网",
+    "categoryId": null,
+    "publishedAt": "2026-09-21T02:27:00.000Z",
+    "createdAt": "2026-09-22T00:37:37.397Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "Robotics & Embodied AI",
+    "contentFormats": [
+      "Xiaohongshu Explainer",
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160987,
+    "title": "IDC评估中国AI算力管理平台:范式智能四项维度获满分，综合评分第一",
+    "description": "范式成为《中国AI算力管理平台技术能力评估，2026》综合评分位列第一的厂商。",
+    "url": "https://www.qbitai.com/2026/09/493109.html",
+    "imageUrl": null,
+    "source": "量子位",
+    "categoryId": null,
+    "publishedAt": "2026-09-21T02:17:33.000Z",
+    "createdAt": "2026-09-22T00:37:34.931Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "Chips & Compute",
+    "contentFormats": [
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160995,
+    "title": "传化集团40周年全面拥抱AI时代：开放全域产业场景，共创新40年",
+    "description": "2026年，创业40年的传化站在新的起点。 四十年来，从化工制造到智慧物流，从科技农业到生物技术产业新城，传化持续在产业实践中寻找增长与创新的答案。面对人工智能加速重构产业的时代变革，传化正在把40年积累的产业场景、产业能力和产业资源，转化为拥抱AI、共创未来的新动能。 9月20日，以“场景为壤，AI生花”为主题的传化40周年场景开放与AI共创生态大会在传化科技城举行。政府领导、专家学者、AI创业者、科技企业、产业伙伴及媒体代表等近千位嘉宾齐聚一堂，共同探讨AI与产业深度融合的新路径。 面对AI带来的产业变革，传化集团董事长徐冠巨的判断很明确：AI的生命力不在云端，而在产业；AI的价值不仅在实验室，更在真实场景。当前，产业与AI之间仍存在鸿沟：AI科技团队有一流技术，却未必找得到理解AI的真实产业场景；产业企业手握庞大数据和场景，却往往缺乏AI科技能力。谁先打通这道鸿沟，谁就能率先释放产业AI的巨大价值。 大会主论坛由数字主持人与传化集团副总裁徐迅共同主持。 四十年产业积累，打开AI时代新空间 四十年，传化积累的是产业；新四十年，传化需要回答的如何把这些产业积累转化为面向未来的创新能力。 传化集团董事长徐冠巨在大会致辞中说，“让技术找到场景，让场景拥抱技术，让创新在产业土壤中开花结果，成为传化迈向新40年的战略追求。” 传化发展40年来，布局了化工制造、智慧物流、科技农业、生物技术产业新城等业务，积累了丰富的产业场景和行业经验。面向新40年，传化已制定AI战略规划：在原有数字化基础上推进基于AI的数字化体系，应用AI科技重构商业模式，并在传化科技城促进产业端AI创新集聚，在生物技术集聚基础上进一步形成“生物技术+AI”双赛道创新生态。 徐冠巨在大会现场发出共创AI生态的邀约：全面开放300多个产业场景，形成至少30个共创项目；提供真实AI需求与订单，首年投入不少于3亿元的AI与数字化订单，通过“揭榜挂帅”推动技术跑在产线上、落在业务中；开放各类有形和无形资源，赋能科创团队；依托传化科技创新孵化平台、传化基金体系和“二元制”联合孵化模式，陪伴创新团队成长。 萧山区委副书记、区长姜永柱出席并致辞。他说，传化作为萧山本土成长的杰出企业，四十年深耕产业，如今开放场景、提供订单、投入资本、共享收益，展现了龙头企业的远见与担当，彰显了萧山企业家血脉里生生不息的奋斗基因，是AI科",
+    "url": "https://www.leiphone.com/category/industrynews/E1dBuYT43K9cd1LQ.html",
+    "imageUrl": null,
+    "source": "雷锋网",
+    "categoryId": null,
+    "publishedAt": "2026-09-21T01:59:00.000Z",
+    "createdAt": "2026-09-22T00:37:37.398Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "Bioengineering",
+    "contentFormats": [
+      "Xiaohongshu Explainer",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160988,
+    "title": "汽车行业首个AI超级智能体「迪迪虾」来了！腾势多款车型即将OTA",
+    "description": "近日，比亚迪重磅发布了AI超级智能体「迪迪虾」，首搭腾势N8L纯电车型上",
+    "url": "https://www.qbitai.com/2026/09/493091.html",
+    "imageUrl": null,
+    "source": "量子位",
+    "categoryId": null,
+    "publishedAt": "2026-09-21T01:48:50.000Z",
+    "createdAt": "2026-09-22T00:37:34.931Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "AI Models & Agents",
+    "contentFormats": [
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160996,
+    "title": "上市遇故障！iPhone 18 Pro曝出死机问题，苹果启动调查；国产突围！长鑫科技宣布第五代技术平台正式量产；特斯拉Roadster开启预定",
+    "description": "要闻提示 1.上市遇故障！iPhone 18 Pro曝出死机问题，苹果启动调查 2.国产突围！长鑫科技宣布第五代技术平台正式量产：每张晶圆产出提升 50% 以上 3.淘宝闪购骑士制服获法国设计奖最高奖，设计团队懵了：我们纯业余 4.董明珠卸任，格力电商换帅 5.苹果闹钟终于响了：iOS 27 支持中国大陆调休日，首次测试火上热搜 6.内存成本大降！华为鲲鹏底层优化：大数据内存需求仅原来75% 7.Anthropic拟于IPO前推出新AI模型，应对OpenAI竞争压力 8.定金33万元！特斯拉Roadster开启预定，不满意可以退全款 今日头条 上市遇故障！iPhone 18 Pro曝出死机问题，苹果启动调查 9月20日消息，据媒体报道，苹果新款手机iPhone 18 Pro系列被曝出现设备突然关机后自动重启的“Panic Full”现象，反映相关问题的用户接连不断。据业内人士透露，在拥有约241万会员的iPhone用户社区“阿沙莫”中，接连出现iPhone 18 Pro和iPhone 18 Pro Max遭遇Panic Full现象的帖子。 一名用户称，在进入需要Face ID认证的银行应用或照片应用“最近删除”项目后，反复使Face ID识别失败，即可重现设备关机现象。该用户表示，用手遮住Face ID传感器部分尝试认证，反复进行放手再遮挡的操作后，屏幕出现“请重试”提示，随后设备即自动重启。经多次测试，同一现象反复出现。 社区中还有其他用户发帖称“iPhone 18 Pro的Panic Full能解决吗”“因18 Pro Max的Panic Full症状要去苹果服务中心”“看YouTube时发生了Panic Full”等。苹果韩国方面回应称“正在了解情况”，尚未给出修复方案。 Panic Full是指iPhone停止响应后自动关机并意外重启的现象。iPhone新品引发Panic Full争议并非首次。2024年上市的iPhone 16系列在发售初期，也以iPhone 16 Pro和Pro Max为主，接连出现设备自动关机或重启案例。此后，苹果通过iOS 18.1更新修复了iPhone 16和iPhone 16 Pro部分机型意外重启的问题。（快科技） 国内资讯 国产突围！长鑫科技宣布第五代技术平台正式量产：每张晶圆产出提升 50% 以上 9 月 20 日消息，据",
+    "url": "https://www.leiphone.com/category/zaobao/W5fLfeynETtTWpTt.html",
+    "imageUrl": null,
+    "source": "雷锋网",
+    "categoryId": null,
+    "publishedAt": "2026-09-21T00:33:00.000Z",
+    "createdAt": "2026-09-22T00:37:37.398Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "AI Models & Agents",
+    "contentFormats": [
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2160997,
+    "title": "深度解读：关于 Jev 的几大疑问",
+    "description": "刷屏全网的 Jev，是 AI 革命，还是营销噱头？ 作者丨 高允毅 编辑丨岑 峰 这几天，全网都被 Jev 刷屏。 说它是这周最火的大模型，一点也不夸张。推特上诸多大佬用它打马里奥，过滤垃圾信息，炒币，称它为“Agent时代的系统1”；也有人说这就是一个 JSON 分类器，值得吹？ 有人说它比 DeepSeek 还快，做同一个任务，28 秒 Jev 已经刷完 428 条数据，完成打标签和分类，DeepSeek V4.1-Flash 才做到第 6 条。 有人已经开始思考，这种判断速度放进自动驾驶场景，能不能更上一层楼。还有人在实测中，摸到了它的使用边界。 可能是天下苦 LLM “慢思考”久矣，让 Jev 的“快思考”在这个节点火爆全球 —— Jev的技术路线，与苦苦钻研o1这种“慢思考”、能写长篇大论的深度推理模型可谓“反其道而行之”，只做一件事：决策判断。这就好比，大家都在培养一个全能作家，TypeSafe AI偏偏弄了一个只能打分的裁判。 这到底是什么？吹的成分大，还是今年的最大创新路线？目前众说纷纭。 我们综合了官网技术报告和业界的深度解读，把它摊开来看。 01 Jev 是什么？来自官网的解释 Jev 是 ChatGPT 早期核心贡献者之一 、RLHF 之父 Diogo Almeida 创立 TypeSafe AI后，闭关两年的开山之作。它与以往的模型很不同的点是， 它不生成文本 。 它接收非结构化输入或问题，返回带类型的概率决策，代码可直接依据结果执行动作。简单理解， 这是一个“自动判断器”，你给它输入一些内容，它还你一个“决策结果”。 它只做三件事，bool、choice、score，bool 是 yes 或者 no 判断，choice 是做选择，score 是打分。 所以，Jev 最大的特点就是 “极速”与“极省” 。官网介绍，它比普通 LLM 快 20-200 倍，成本低近两个数量级，输出 Token 免费。 这种快，来自于新的模型架构、并行采样器以及一种全新训练方法 “校准决策强化学习(RLCD) ” 。其中，最值得注意的，他现在选择 RLCD，是出于对他当年创造的 RLHF 的反思。 当年， GPT-3 还只会文字接龙，RLHF 就是基于人类的反馈诞生的强化学习，它让 AI 的表达与人类偏好对齐，从而催生了 ChatGPT。 但随着 RLHF 被大规",
+    "url": "https://www.leiphone.com/category/yanxishe/NWrXUxymnfYDTSCF.html",
+    "imageUrl": null,
+    "source": "雷锋网",
+    "categoryId": null,
+    "publishedAt": "2026-09-20T23:47:00.000Z",
+    "createdAt": "2026-09-22T00:37:37.398Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "Robotics & Embodied AI",
+    "contentFormats": [
+      "WeChat Deep Dive"
+    ]
+  },
+  {
     "id": 2160961,
     "title": "刚刚，剪映发了个大的：AI生视频和AI剪辑的壁，被打破了！",
     "description": "剪映Hub+剪映助手，好用",

@@ -1,5 +1,488 @@
 [
   {
+    "id": 2161060,
+    "title": "NASA Welcomes Côte d’Ivoire as Newest Artemis Accords Signatory",
+    "description": "Côte d’Ivoire signed the Artemis Accords on Thursday, becoming the 75th signatory and marking a major milestone for this growing coalition. With the signing ceremony in the nation’s largest city, Abidjan, Côte d’Ivoire joined other like-minded nations and committed to the peaceful, transparent, and responsible exploration of the Moon, Mars, and beyond. “The United States [&#8230;]",
+    "url": "https://www.nasa.gov/organizations/oiir/nasa-welcomes-cote-divoire-as-newest-artemis-accords-signatory/",
+    "imageUrl": null,
+    "source": "NASA",
+    "categoryId": null,
+    "publishedAt": "2026-09-24T21:27:17.000Z",
+    "createdAt": "2026-09-25T00:18:42.949Z",
+    "language": "en",
+    "region": "Global",
+    "topic": "Space & Aerospace",
+    "contentFormats": [
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2161061,
+    "title": "NASA Shares SpaceX Crew-14 Assignments for Space Station Mission",
+    "description": "Four crew members from three space agencies will launch to the International Space Station no earlier than spring 2027 for a long-duration science expedition as part of NASA’s SpaceX Crew-14 mission. NASA astronauts Kayla Barron&#160;and Chris Birch&#160;will serve as spacecraft commander and pilot, with JAXA (Japan Aerospace Exploration Agency) astronaut Makoto Suwa, and Roscosmos cosmonaut [&#8230;]",
+    "url": "https://www.nasa.gov/news-release/nasa-shares-spacex-crew-14-assignments-for-space-station-mission/",
+    "imageUrl": null,
+    "source": "NASA",
+    "categoryId": null,
+    "publishedAt": "2026-09-24T21:15:46.000Z",
+    "createdAt": "2026-09-25T00:18:42.949Z",
+    "language": "en",
+    "region": "Global",
+    "topic": "Space & Aerospace",
+    "contentFormats": [
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2161067,
+    "title": "Who’ll win AI race? U.S.? China? Maybe no one.",
+    "description": "Economist Jason Furman says being first will likely matter only in some areas, but risks of going rogue will be shared problem",
+    "url": "https://news.harvard.edu/gazette/story/2026/09/wholl-win-ai-race-u-s-china-maybe-no-one/",
+    "imageUrl": null,
+    "source": "Harvard Gazette",
+    "categoryId": null,
+    "publishedAt": "2026-09-24T18:12:53.000Z",
+    "createdAt": "2026-09-25T00:18:44.581Z",
+    "language": "en",
+    "region": "Global",
+    "topic": "AI Models & Agents",
+    "contentFormats": [
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2161062,
+    "title": "NASA Unveils Winning Designs for Mars Space Food Systems Challenge",
+    "description": "NASA announced the winners of the Deep Space Food Challenge: Mars to Table Thursday, with the top $300,000 prize being awarded to Chinyere Ukeje of Philadelphia, Pa. for the Adaptive Nourishment Infrastructure (ANI) food system concept. This competition challenged solvers to explore innovative solutions for integrated space food systems that would provide safe, nutritious meals [&#8230;]",
+    "url": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/centennial-challenges/nasa-unveils-winning-designs-for-mars-space-food-systems-challenge/",
+    "imageUrl": null,
+    "source": "NASA",
+    "categoryId": null,
+    "publishedAt": "2026-09-24T18:01:45.000Z",
+    "createdAt": "2026-09-25T00:18:42.949Z",
+    "language": "en",
+    "region": "Global",
+    "topic": "Space & Aerospace",
+    "contentFormats": [
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2161059,
+    "title": "Mexican EPICS in IEEE Team Builds Portable Educational Platform",
+    "description": "In Guadalajara, Mexico, many high schools have motivated teachers and talented students with an interest in science, technology, engineering, and mathematics, but they lack access to advanced tools such as robotics laboratories. The resources shortfall limits the students’ opportunities for hands-on learning on cutting-edge applications. A team from ITESO, Universidad Jesuita de Guadalajara , is working to change that. Through the EPICS in IEEE initiative, a multidisciplinary group of 15 engineering students, faculty advisors, and IEEE Guadalajara Section volunteers developed RoboMeshA. The portable, self-contained educational platform brings robotics and AI experiences into classrooms. EPICS is administered by IEEE Educational Activities and funded by the IEEE Robotics and Automation Society . A mobile laboratory Rather than requiring a school to build a dedicated computer lab or install complex software, RoboMeshA operates as an all-in-one mobile learning network. “RoboMeshA brings r",
+    "url": "https://spectrum.ieee.org/epics-in-ieee-portable-educational",
+    "imageUrl": null,
+    "source": "IEEE Spectrum Robotics",
+    "categoryId": null,
+    "publishedAt": "2026-09-24T18:00:04.000Z",
+    "createdAt": "2026-09-25T00:18:42.815Z",
+    "language": "en",
+    "region": "Global",
+    "topic": "Robotics & Embodied AI",
+    "contentFormats": [
+      "Xiaohongshu Explainer",
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2161063,
+    "title": "NASA&#8217;s Machines for Mars Make Beer Bubbly",
+    "description": "Carbon-capture technology repurposed for breweries spreads and finds new applications",
+    "url": "https://www.nasa.gov/technology/tech-transfer-spinoffs/nasas-machines-for-mars-make-beer-bubbly/",
+    "imageUrl": null,
+    "source": "NASA",
+    "categoryId": null,
+    "publishedAt": "2026-09-24T16:41:01.000Z",
+    "createdAt": "2026-09-25T00:18:42.949Z",
+    "language": "en",
+    "region": "Global",
+    "topic": "Space & Aerospace",
+    "contentFormats": [
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2161064,
+    "title": "Practicing for Safe Landings on the Moon and Beyond",
+    "description": "In this Aug. 27, 2026, image, an Alta-X drone flies an advanced guidance and navigation system known as the Safe and Precise Landing – Integrated Capabilities Evolution (SPLICE) experiment near NASA’s Armstrong Flight Research Center in Edwards, California. Researchers at NASA’s Johnson Space Center in Houston developed SPLICE, which successfully completed simulated lunar descent and [&#8230;]",
+    "url": "https://www.nasa.gov/image-article/practicing-for-safe-landings-on-the-moon-and-beyond/",
+    "imageUrl": null,
+    "source": "NASA",
+    "categoryId": null,
+    "publishedAt": "2026-09-24T16:29:19.000Z",
+    "createdAt": "2026-09-25T00:18:42.949Z",
+    "language": "en",
+    "region": "Global",
+    "topic": "Robotics & Embodied AI",
+    "contentFormats": [
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2161065,
+    "title": "US-India Satellite Captures Time-lapse Video of Volcanic Eruption",
+    "description": "Like tendrils on a vine, lava spreads out from the northern crater of Krasheninnikov, a volcano pair on the Pacific coast of Russia’s Kamchatka Peninsula. On July 30, 2025, an 8.8-magnitude earthquake had struck in the nearby ocean, apparently jolting one of the two volcanoes awake. A few days later, for the first time in [&#8230;]",
+    "url": "https://www.nasa.gov/missions/nisar/us-india-satellite-captures-time-lapse-video-of-volcanic-eruption/",
+    "imageUrl": null,
+    "source": "NASA",
+    "categoryId": null,
+    "publishedAt": "2026-09-24T15:47:17.000Z",
+    "createdAt": "2026-09-25T00:18:42.949Z",
+    "language": "en",
+    "region": "Global",
+    "topic": "Space & Aerospace",
+    "contentFormats": [
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2161068,
+    "title": "出海Agent“小元AI”入驻腾讯WorkBuddy：找买家写开发信谈生意",
+    "description": "懂出海，能记忆，自进化",
+    "url": "https://www.qbitai.com/2026/09/496961.html",
+    "imageUrl": null,
+    "source": "量子位",
+    "categoryId": null,
+    "publishedAt": "2026-09-24T14:20:14.000Z",
+    "createdAt": "2026-09-25T00:18:47.018Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "AI Models & Agents",
+    "contentFormats": [
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2161066,
+    "title": "NASA to Study Human Health, Performance During Crew-13 Mission",
+    "description": "During NASA’s SpaceX Crew‑13 mission aboard the International Space Station, astronauts will support a series of biomedical and human performance investigations, including a new collaborative effort to study how spaceflight affects blood flow and clotting. NASA also is testing crew members’ manual piloting skills, evaluating methods to counter vision and brain changes, gathering essential health [&#8230;]",
+    "url": "https://www.nasa.gov/humans-in-space/nasa-to-study-human-health-performance-during-crew-13-mission/",
+    "imageUrl": null,
+    "source": "NASA",
+    "categoryId": null,
+    "publishedAt": "2026-09-24T13:53:48.000Z",
+    "createdAt": "2026-09-25T00:18:42.949Z",
+    "language": "en",
+    "region": "Global",
+    "topic": "Space & Aerospace",
+    "contentFormats": [
+      "Xiaohongshu Explainer",
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2161069,
+    "title": "时隔十年，AI大牛署名新论文",
+    "description": "让自动驾驶“走一步想十步”",
+    "url": "https://www.qbitai.com/2026/09/496834.html",
+    "imageUrl": null,
+    "source": "量子位",
+    "categoryId": null,
+    "publishedAt": "2026-09-24T12:58:55.000Z",
+    "createdAt": "2026-09-25T00:18:47.018Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "Robotics & Embodied AI",
+    "contentFormats": [
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2161074,
+    "title": "从105mm人像到400mm远方 Telesin发布iPhone 18大师影像套装",
+    "description": "2026年9月21日，深圳——雷峰网获悉，Telesin泰迅正式发布面向iPhone 18 Pro系列的大师影像套装，并同步带来Classic经典版与Neo版两条产品线。新品以2X和3.5X双镜头覆盖约105mm人像与约400mm远摄，通过手柄、供电、实体操控、彩焦App和镜头配件生态，构成一套面向移动创作者的随身影像系统。 Telesin发布iPhone 18大师影像套装Classic与Neo 从iPhone 17的市场验证继续向前 上一代iPhone 17大师影像套装全球销量超过10万套，并进入全国3000多家Apple授权零售体系门店。销量与渠道反馈表明，用户对手机摄影配件的需求已经从保护、支撑等基础功能，延伸到握持、供电、远摄和专业操控。 iPhone 18大师影像套装保留了上一代受到用户认可的磁吸安装、相机式握持和实体操作方式，并把升级重点放在续航、双焦段光学、软件协同与配件生态。泰迅希望解决的不是“给手机加多少配件”，而是用户在人物、演出、赛事、旅行和户外环境中，能否更稳定、更高效地完成创作。 Classic把握持 供电 光学与软件合为一体 Classic经典版采用MagSafe磁吸安装，手机靠近即可完成装配。相机式握把改善长时间拍摄的手掌支撑，实体快门与操作按键减少在屏幕中寻找功能的步骤。手柄内置3200mAh电池并支持无线充电，外出拍摄时可以同时承担握持和供电。 光学部分提供2X和3.5X两种选择。2X镜头对应约105mm焦段，适合人物、宠物和空间压缩；3.5X镜头将视野延伸到约400mm，面向演唱会、赛事、野生动物和远景。相比数码裁切，外置光学的目标是在拉近主体的同时保留更多有效信息。 双镜头分别覆盖人物创作与远距离场景 围绕远摄对稳定性的更高要求，泰迅同步提供定制彩焦App。App以外置镜头和手柄为中心设计拍摄流程，提供专属防抖算法及舞台模式、Live图、Log功能。43mm接口还可连接CPL、ND、UV和星光镜等相机配件，让手机继续扩展曝光、反光控制和创意效果。 Neo把个性 手感和续航推向另一种选择 在经典版完整能力之外，Neo版进一步回应用户对配色、触感、握持和续航的偏好。冰川蓝与酒红色两种颜色与iPhone 18新配色形成呼应；细腻布纹表面带来更温和的触感；更大的握把、按键和波轮，让高频操作更直接。 Neo兼容2X与3.5X两支镜头，并将",
+    "url": "https://www.leiphone.com/category/weiwu/11usdeSVZPN0BJs0.html",
+    "imageUrl": null,
+    "source": "雷锋网",
+    "categoryId": null,
+    "publishedAt": "2026-09-24T11:40:00.000Z",
+    "createdAt": "2026-09-25T00:18:49.809Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "Advanced Manufacturing",
+    "contentFormats": [
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2161075,
+    "title": "腾势Z9S正式上市：纯电续航1100km，25.58万元起",
+    "description": "9月23日，腾势旗下“科技豪华智能轿车”Z9S正式上市，推出闪充尊荣型、闪充旗舰型、易三方闪充性能型三款车型，面向用户“悦己、悦人、悦非凡”的不同需求。新车搭载第二代刀片电池及闪充技术，CLTC纯电续航最高1100km，官方给出“5分钟充好，9分钟充饱，零下30度只多3分钟”的补能表现。同时，易三方、AI超级智能体迪迪虾、Diva智能伙伴、天神之眼5.0及云辇-A智能空气车身控制系统等技术集中上车。腾势希望通过舒适、续航、驾控和智能四个维度的升级，重构豪华新能源轿车的价值标尺。 腾势Z9S官方指导价为25.58万元-32.58万元。上市同时，腾势推出十一重专属礼遇，官方公布的权益价值至高8万元，包括至高2万元选装权益，0首付、0月供、0利息金融方案，至高2万元置换补贴及1年免费闪充等，具体适用条件以官方规则为准。腾势推荐官计划也同步上线，至高可解锁20项权益。产品之外，选装、金融和补能权益，共同构成了此次新车上市的购车方案。 超奢舒享：从设计、座椅到空间，豪华体验落到具体配置 外观方面，腾势Z9S延续“优雅之势”设计语言，侧面线条从前门贯穿至车尾，流星定格前脸与流星尾迹车尾形成呼应。无框车门、鹅卵石形外后视镜，以及前窄后宽的轮胎配置，则在造型之外兼顾空气动力学与行驶表现。对于一台大型轿车而言，设计需要同时回应视觉比例、风阻和操控等多重要求。新车提供晨曦紫、午夜蓝、峡湾绿、星曜黑、柔沙灰、松石青、霜玉银七款外观配色，以及云烟紫、霜瓷白、青岚灰三款内饰配色，覆盖不同审美偏好。 内饰方面，前排双零重力座椅是腾势Z9S的一项重点配置。官方称其采用NASA航空座椅标准，配合NAPPA真皮包裹与菱形三线汇合绗缝，强化座椅的舒适性与质感。座舱还采用15㎡声学包，并据官方介绍获得中汽研2026年度低风噪车型奖。此外，三温区双层流空调、帝瓦雷剧院级音响、795mm超宽天幕和色温化妆镜等配置，也将座舱体验从座椅延伸至声音、温度与光线等更具体的使用环节。 空间方面，腾势Z9S强调大型轿车的乘坐与装载能力。按照官方展示的乘坐场景，身高1.8m的乘客坐入后排，仍有较为充裕的头部空间。储物部分，新车提供120L电动前备箱、470L可拓展后备厢及44处储物空间，兼顾随身物品收纳与出行装载需求。对用户而言，这些空间能否方便取放、适应不同场景，也是衡量日常体验的重要部分。 超长续航：1100km之外",
+    "url": "https://www.leiphone.com/category/transportation/nBAYRoWBOZSuBT5D.html",
+    "imageUrl": null,
+    "source": "雷锋网",
+    "categoryId": null,
+    "publishedAt": "2026-09-24T10:30:00.000Z",
+    "createdAt": "2026-09-25T00:18:49.809Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "Advanced Manufacturing",
+    "contentFormats": [
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2161076,
+    "title": "聚焦院外管理提质增效｜《急性冠状动脉综合征患者院外长期随访管理共识》更新研讨，胸痛中心智慧全程管理行动项目正式启动",
+    "description": "近日，第八届“儒道心学”心血管病学会议、第十届沪鲁心血管病专家论坛、第九届日照心血管峰会在山东日照召开。由葛均波院士领衔，黄恺、苏国海、李春洁等数十位心血管领域权威专家参与，会上完成两大核心动作：一是召开《急性冠状动脉综合征患者院外长期随访管理共识》更新研讨会，专家集体锚定共识修订的核心方向；二是胸痛中心智慧全程管理行动项目正式启动，以专家共识为指引推进先行落地验证。作为医疗 AI 赋能院外管理创新的先行者，讯飞医疗执行总裁鹿晓亮受邀参会，与学界、业界共同推动心血管院外管理向标准化、智能化、全周期阶段迈进。 院外管理破局，从“患者参与”到“AI赋能” 历经十五年胸痛中心建设，我国急性心梗院内死亡率已从 10.1% 降至 3% 左右，患者到院后生存率达 96%。但葛均波院士在会上抛出的一组数据，直指行业深层痛点：我国约 79% 的急性心梗死亡发生在院外。当院内急救的效率红利逐步见顶，出院后的康复随访、长期管理与再发预防，成为心血管防控体系中更具挑战的“后半程战场”。 这一困局的背后是供需两端的双重错位：从患者端看，出院并非治疗的终点，而是康复的起点，但传统医疗服务的边界基本止于出院环节，普遍形成医嘱理解、病情监测、医患连接、复诊衔接四大服务断点，患者需求早已从“一通随访电话”转向“离院不离医”的连续服务；从医护端看，优质医疗资源高度集中于院内诊疗，人工随访不仅效率低、标准不一，且多为义务性工作，缺乏配套激励机制，单靠临床力量难以支撑规模化的院外管理。 国家层面也持续释放政策信号，明确鼓励扩大接续性服务供给、推动人工智能在健康管理场景落地应用，为院外患者管理的规范化发展提供了清晰的制度指引。 葛均波院士在会上提出的“患者参与式疾病管理”理念早已被临床验证有效，但要实现规模化落地，必须借助人工智能的力量放大管理效率，而 AI 赋能的技术平台、专业的服务团队、可持续的业务模式、可靠的合作伙伴，正成为院外管理破局的核心要素，这正是本次共识研讨与项目启动的核心出发点。 共识研讨锚定升级方向，AI 纳入核心修订路径 在《急性冠状动脉综合征患者院外长期随访管理共识》更新研讨会上，与会专家围绕三大核心维度深入论证，形成了共识修订的核心结论。一是病种覆盖扩容，从单一 ACS 延伸至主动脉夹层、肺栓塞、低危胸痛等胸痛中心全病种，匹配胸痛中心实际诊疗场景，覆盖更广泛的院外管理人群；二是管理",
+    "url": "https://www.leiphone.com/category/industrynews/5c353eBnBL6ShdzV.html",
+    "imageUrl": null,
+    "source": "雷锋网",
+    "categoryId": null,
+    "publishedAt": "2026-09-24T10:03:00.000Z",
+    "createdAt": "2026-09-25T00:18:49.809Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "Policy & Society",
+    "contentFormats": [
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2161077,
+    "title": "SeeAct AI穆尧：具身智能终局，一定是从“被训练”走向“自我进化”｜物理AI50人",
+    "description": "机器人真正缺的，不是数据，而是经验。 作者：李秋悦 编辑：吴彤 那是具身智能最荒芜的时候。 没有成熟数据集，没有标准Benchmark，甚至没有一条被验证能走通的技术路线。 穆尧南下港大读博，开始研究具身智能。 2021年，穆尧进入HKUMMLab，成为该实验室创始人罗平教授和中国人工智能奠基人之一的汤晓鸥教授共同指导的学生。 “具身智能会是一个非常 Promising 的方向。”刚入组时导师们的这句话，穆尧一直记到今天。 四年后，这个方向的潜力，开始在穆尧自己的研究中得到印证。 穆尧主导的RoboTwin，成了中国具身智能圈的事实标准之一，GitHub斩获超过 2900 颗星，蚂蚁集团的LingBot-VA、生数科技的Motubrain都抢着在这个基准上刷新成绩。他本人入选国家级青年人才计划，成为上海交通大学长聘教轨助理教授，谷歌学术引用超过 5000 次。 2026年，穆尧做了一个更激进的选择：押注“具身自我进化”，创办SeeAct AI观行智能。他给出一个相当明确的判断： “具身的终局一定会迈向奖励驱动的自我进化。” 这个判断，和他2018年在清华读硕士时坚持的东西一脉相承。 那一年，自动驾驶行业还在把感知、规划、控制拆开做，穆尧坚持端到端Policy和奖励驱动。 后来，特斯拉FSD把整个行业收敛到了端到端，再也没人问他这是不是主流方案。 穆尧把这种坚持归结为一个词：taste。 这里我们理解不仅是技术品味，更是洞察技术发展的科学直觉。 那么穆尧为什么会有这样的直觉？ 以下是左林右狸频道与穆尧的对话，在不改变原意的基础上做了部分编辑： 01 奖励驱动从未离场 左林右狸：你第一次系统接触强化学习是在什么时候？ 穆尧： 2017年。 当时David Silver在YouTube上有一套很好的强化学习课程，我也系统学习了图灵奖获得者Sutton的《Reinforcement Learning》。 那个时候爆发的是围棋智能，我看到Alpha Go通过奖励驱动、自我规划、自我推演，最后能够产生超越人类的智能。我当时觉得，这可能就是人工智能皇冠上的明珠。 左林右狸：到了清华做自动驾驶以后，这种判断怎么进入你的研究？ 穆尧： 2018年的时候，我比较笃信两件事情。 第一是端到端的Policy。 第二是奖励驱动，希望由神经网络来承载这个策略。 但是那个时候这个观点还比较超前。",
+    "url": "https://www.leiphone.com/category/ai/k1XGdu6w3n7xGgKB.html",
+    "imageUrl": null,
+    "source": "雷锋网",
+    "categoryId": null,
+    "publishedAt": "2026-09-24T09:19:00.000Z",
+    "createdAt": "2026-09-25T00:18:49.809Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "Robotics & Embodied AI",
+    "contentFormats": [
+      "Xiaohongshu Explainer",
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2161078,
+    "title": "坐稳RGB-Mini LED电视龙头！海信双7旗舰新品登场，原生真彩再进化",
+    "description": "9月23日，2026海信电视召开秋季新品发布会，正式推出全新一代RGB-Mini LED影像旗舰U7T Pro、性能旗舰E7S Pro+两大双7旗舰新品，一次性落地六大行业首发技术，从背光硬件、屏幕素质、专属画质到智能系统全方位革新，彻底改写RGB-Mini LED高端大屏体验标准，海信 RGB-Mini LED 电视也真正实现常用常新，领先行业的优势再度拉大。 从 行业 首创到 高端 主流！海信重新定义RGB原生真彩 作为RGB-Mini LED技术的开创者，海信坚持采用三原色芯片独立发光方案，为用户带来真实纯净、通透自然的原生色彩。自2025年率先全球首发RGB-Mini LED技术以来，海信仅用一年多时间，就将这项颠覆性显示技术从行业首创推向高端主流，彻底重塑高端Mini LED市场格局。海信始终坚持原生色彩、舒适视觉、绿色节能三大技术价值，打造海信RGB-Mini LED原生色彩大师全新画质理念，打通软硬件协同壁垒，让显示技术回归真实观影体验，本次双7旗舰新品正是这套理念的重磅落地成果。 影像旗舰U7T Pro：原生真彩画质再攀新高 作为主打极致影音体验的影像旗舰，海信U7T Pro搭载两大行业首发核心技术，实现画质全方位突破。行业首发玲珑真彩背光2.0延续红绿蓝三原色独立发光架构，搭载最新一代玲珑真彩光芯与超聚光透镜技术，大幅提升动态画面细节表现力与小窗口画面精细度，无论明亮强光场景还是昏暗夜景，都能输出稳定均匀、纯净真实的原生色彩，轻松驾驭电影、剧集、纪录片等各类复杂影像内容。 行业首创真彩黑曜屏，专为RGB-Mini LED原生真彩光源量身定制，搭载真彩晶透技术，将BT.2020色域提升至103%行业新高，极大拓宽色彩显示边界，完美适配广色域影视、高清游戏的高饱和色彩呈现，行业首个实现数字电影标准色域100%覆盖的屏幕，对电影色彩与画质表达意义重大。同时延续上代1.28%超低反射率等优势，实现深邃黑、高透真彩、广视角、抗反光四大能力全面升级，降低环境光干扰，让每一抹原生色彩都鲜活通透、原汁原味。 硬件配置上，海信U7T Pro堪称高端影音标杆，搭载信芯AI画质芯片H7精准调校画面，4.2.2声道帝瓦雷昂扬音响，音画双旗舰加持；无界临境设计弱化边框束缚，配合原生4K 180Hz超高刷新率，兼顾颜值、流畅度与沉浸感。 性能旗舰E7S Pro+： 三大 越级",
+    "url": "https://www.leiphone.com/category/smarthome/Htdf6ElXF7ZKzces.html",
+    "imageUrl": null,
+    "source": "雷锋网",
+    "categoryId": null,
+    "publishedAt": "2026-09-24T09:09:00.000Z",
+    "createdAt": "2026-09-25T00:18:49.810Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "Chips & Compute",
+    "contentFormats": [
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2161079,
+    "title": "百度搭子与英特尔推进端云协同，本地Skill专区正式上线",
+    "description": "记者从2026 Intel Connection大会获悉，百度搭子上线面向英特尔机型的本地Skill专区，并推出混合Skill调度能力。用户提出需求后，系统可根据任务类型和电脑算力，在本地与云端之间自动选择处理方式。 过去，智能体处理语音、文档和图片，通常需要将文件上传至云端；直接调用电脑算力，则需要安装模型、配置环境，对普通用户门槛较高。 本地Skill专区让电脑自身算力可以直接处理具体任务。基于英特尔®酷睿™Ultra智能体PC，语音识别、文生图、文档和图片解析等工作可直接在本地完成，联网检索和复杂分析则由云端处理。百度搭子会根据任务特点自动选择处理方式，用户无需了解背后的模型和技术配置，即可进行能力使用。 此前发布的AI产品榜显示，百度搭子月活达到674.30万，环比增长1063.79％，位列AI办公智能体增速第一。在硬件端，百度搭子已开放标准化API，支持能力、任务和记忆在不同设备间同步，小度家庭硬件和因时科技具身智能设备已完成接入。 据介绍，百度搭子与英特尔将继续适配更多个人电脑和工作站，并增加长文档处理、图文音视频分析、代码开发等本地Skill。百度搭子还将通过标准化API接入更多硬件设备，扩展本地与云端协同的智能体生态。",
+    "url": "https://www.leiphone.com/category/industrynews/BKGiXySS7fLi7SaE.html",
+    "imageUrl": null,
+    "source": "雷锋网",
+    "categoryId": null,
+    "publishedAt": "2026-09-24T08:37:00.000Z",
+    "createdAt": "2026-09-25T00:18:49.810Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "Robotics & Embodied AI",
+    "contentFormats": [
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2161070,
+    "title": "GPT-6之后，具身智能走向何方？诺因发布GLOW技术报告，给出机器人“一教就会”的答案",
+    "description": "人类演示一次，机器人即可实现跨场景任务复用",
+    "url": "https://www.qbitai.com/2026/09/496816.html",
+    "imageUrl": null,
+    "source": "量子位",
+    "categoryId": null,
+    "publishedAt": "2026-09-24T08:20:12.000Z",
+    "createdAt": "2026-09-25T00:18:47.018Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "Robotics & Embodied AI",
+    "contentFormats": [
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2161080,
+    "title": "这次云栖，斑马智能亮出了从汽车到具身智能的入场券",
+    "description": "周五晚上六点，你坐进车里，什么也没说。 AI 系统已经知道，这周六是女儿的生日。它没有等你开口，先推荐了一个游玩地点 —— 郊外那家亲子农场，因为它知道你女儿喜欢大自然。 AI 系统又想起你上周在车里念叨过 “ 好久没吃江浙菜了 ” ，于是在沿途标记出一家评分最高的江浙菜馆。 你只回了一句话： “ 就按这个来。 ” 没有打开 App ，没有搜索，没有比价，甚至没有一句完整的指令。 在斑马智能的叙事里，这就是 “ 主动智能 ” 真正 落地之后，最普通的一个傍晚。你不再需要把需求翻译成搜索词、点击项，机器直接读懂了你的意图，替你完成任务。 而这样的傍晚，不过是具身智能这场更大变局的一角。人形机器人学会走路，机械臂学会抓取，四足机器狗学会翻越障碍 —— 各路玩家正在技术与场景上全面突破，都在回答同一个问题：机器，什么时候真正走进人的生活。 在 2 026 年云栖大会首日，阿里巴巴集团 CEO吴泳铭表示， “机器正在成为思考的主力，‘思考’将像工业革命中的‘动力’一样，成为规模化供给的商品。未来机器思考总量将是人类的1000倍，而今天这一比例不到3%，至少还有几万倍的增长空间。” 车，正是具身智能里最大、最成熟的那个场景。而斑马智能，是那个从车切入、 让车学会思考、且 正把验证过的能力向多端硬件拓展的典型案例。 01 车，是具身智能的最大的中试场 过去两年，具身智能成了创投圈最热的词，技术上的好消息几乎每个月都有。新的算法、新的模型、新的样机，在实验室里一路狂奔。 但技术突破，不等于 在真实商业场景 落地。很多机器人能完成惊艳的 demo ，却找不到一个能规模化、能赚钱的成熟场景。 原因在于，具身智能的场景有的小众、低频、验证成本高；有的场景大、高频、天然连着支付。 而车正是后者。 斑马智能首席产品官蔡明谈到， “相比手机和 AI 眼镜等智能终端，车对 AI 尤其是对 Agent 的诉求更加迫切，车也将会成为 AI 体验最好的具身智能终端。“ 它高频，用户几乎每天都要用车；它密闭，是一个不被打扰的完整空间；它还天然连着支付与生态分润，服务完成的那一刻，钱就能完成流转。可以说， 汽车就是具身智能里最大、最高频、最可规模化、也最成熟的那个场景，也是具身智能 最大的 “ 中试场 ” 。 所谓 “ 中试场 ” ，是介于实验室成果和大规模量产之间的环节，用小批量生产验证产品的可行性、",
+    "url": "https://www.leiphone.com/category/ai/c5xfhIwWHqSfnGrS.html",
+    "imageUrl": null,
+    "source": "雷锋网",
+    "categoryId": null,
+    "publishedAt": "2026-09-24T07:38:00.000Z",
+    "createdAt": "2026-09-25T00:18:49.810Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "Robotics & Embodied AI",
+    "contentFormats": [
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2161081,
+    "title": "Accio与数贸会联合上线“数贸会agent”：超2000家展商轻松逛",
+    "description": "9月24日，Accio与数贸会联合推出的专属智能体“数贸会agent”上线，直接开启Agent智能逛展。 本届数贸会参展企业超2000家，光靠腿很难深度逛透。现在只需下载Accio APP，登录后切换到“数贸会agent”，和它对话就可以轻松解锁路线规划、展商匹配、拍照找厂、日程一览等多项功能。 （图：Accio与数贸会联合推出的专属智能体“数贸会agent”） 一位做外贸生意的庄先生抢先试用了一下，他只是简单地输入了一句“我想和杭州的展商合作”， Accio的“数贸会agent”就直接告诉他“在丝路电商展区（6A号馆）共43家杭州展商”，并帮他推荐了其中5家，精准罗列了展商名字、展位号等信息。“我平常也在用Accio做跨境生意，没想到这次逛数贸会也能用它，省下来的逛展时间就能用来直接洽谈了。”庄先生说。 从生成内容到深入经营流程，AI正在加速融入中小企业的全球生意。本次，阿里面向中小企业打造的全球电商AI工作台Accio亮相第五届数贸会，除了上线“数贸会agent”，还集中展示了AI在市场洞察、选品发品、店铺经营、投流分析和客户接待等生意环节的应用。 展会期间，Accio还在“数贸大道”设置专门的装机活动，由工作人员一对一指导参观者安装和体验Accio，让大家能够现场上手，体验一下用Agent直接跑通生意流程。 数据显示，全球已有超1000万中小企业在用Accio做生意。商家提出经营目标后，Accio可以拆解任务，并调用不同的专业Agent协同执行，将过去分散在不同岗位和工具中的工作组织起来，减少重复操作，让经营者把更多精力投入市场判断和业务决策。 与此同时，中小企业对AI的需求，正在从“给出答案”转向“交付结果”。浙江丽水来杭创业的97后张乾超，一个人带领着Accio上的8个Agent，组成了一支向老外卖棒球帽的AI团队。这8个Agent分别承担市场调研、产品设计、产品开发、政策解读和客户接待等任务。借助Agent之间的任务接力，把原本需要两至三周的选品设计流程压缩到一天。不到2个月，张乾超就在阿里国际站上向欧美和非洲市场售出3000多顶棒球帽。跑出了AI时代的OPC创业新速度。 （图：Accio上的97后OPC创业者张乾超） 值得关注的是，继在国内打通淘宝、天猫、1688、拼多多、京东、抖店等多个电商平台后，在9月初举办的洛杉矶CoCreate峰会上，Acci",
+    "url": "https://www.leiphone.com/category/industrynews/VPJv7JgYFoAP8NJ3.html",
+    "imageUrl": null,
+    "source": "雷锋网",
+    "categoryId": null,
+    "publishedAt": "2026-09-24T07:00:00.000Z",
+    "createdAt": "2026-09-25T00:18:49.810Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "Policy & Society",
+    "contentFormats": [
+      "Xiaohongshu Explainer",
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2161071,
+    "title": "Stripe Tour 中国首秀：构建 AI 经济基础设施，赋能全球商业增长",
+    "description": "Stripe Managed Payments (SMP) 现已全面上线",
+    "url": "https://www.qbitai.com/2026/09/496779.html",
+    "imageUrl": null,
+    "source": "量子位",
+    "categoryId": null,
+    "publishedAt": "2026-09-24T05:46:10.000Z",
+    "createdAt": "2026-09-25T00:18:47.018Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "AI Models & Agents",
+    "contentFormats": [
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2161072,
+    "title": "教机器人干活，光“刷课时”可不够！灵初这次较真数据质量",
+    "description": "专治人机动作对不齐",
+    "url": "https://www.qbitai.com/2026/09/496778.html",
+    "imageUrl": null,
+    "source": "量子位",
+    "categoryId": null,
+    "publishedAt": "2026-09-24T05:45:20.000Z",
+    "createdAt": "2026-09-25T00:18:47.018Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "Robotics & Embodied AI",
+    "contentFormats": [
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2161073,
+    "title": "5分钟完成机器人纳管、10秒启动跨集群任务，清华大学联合无问芯穹开源具身智能云原生平台RLark",
+    "description": "开源一座具身智能的新“塔台”",
+    "url": "https://www.qbitai.com/2026/09/496767.html",
+    "imageUrl": null,
+    "source": "量子位",
+    "categoryId": null,
+    "publishedAt": "2026-09-24T05:19:55.000Z",
+    "createdAt": "2026-09-25T00:18:47.018Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "Robotics & Embodied AI",
+    "contentFormats": [
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2161058,
+    "title": "The promise and peril of using visual AI to study cities",
+    "description": "In their new book, “How AI Sees the City,” the leaders of MIT’s Senseable City Lab examine the technology’s implications for researching urban life.",
+    "url": "https://news.mit.edu/2026/studying-cities-using-visual-ai-fabio-duarte-martina-mazzarello-carlo-ratti-fan-zhang-book-0924",
+    "imageUrl": null,
+    "source": "MIT AI",
+    "categoryId": null,
+    "publishedAt": "2026-09-24T04:00:00.000Z",
+    "createdAt": "2026-09-25T00:18:40.523Z",
+    "language": "en",
+    "region": "Global",
+    "topic": "AI Models & Agents",
+    "contentFormats": [
+      "Xiaohongshu Explainer",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2161082,
+    "title": "豆包再送30天订阅权益，所有用户可免费领取",
+    "description": "近日，在豆包工作正式发布一个月后，豆包再次推出免费福利活动：用户下载或升级豆包工作电脑版或豆包电脑版，即可免费领取 30 天订阅权益。已领取过上一轮30天福利的用户，在权益即将到期期间，会获得下一轮30天的免费订阅。领取前已付费订阅的用户，付费权益自动延期，还可全程获得高峰期优先等权益。 据悉，这是豆包在一个月内第二次向所有用户免费发放订阅权益，8月25日豆包工作正式发布期间，用户下载登录或升级便可免费领取 30 天订阅。此外，在开学季期间，豆包还专门推出了学生优惠活动，面向在校大学生提供3个月免费订阅权益，并同步上线开学季技能专区，辅助学生高效学习，更好地完成新学期的各类学习任务。 作为豆包推出的全新的Agent产品与品牌，豆包工作在发布后迭代迅速，陆续更新了多Agents并行、GUI操作电脑、本地Office文件编辑、任务执行环境自由切换等功能。近期，豆包2.1 Pro模型也完成了一次版本升级，在多模态编程方面表现突出，Agent专业任务交付更可靠，赋予豆包工作更高的生产力场景价值。 雷峰网 雷峰网",
+    "url": "https://www.leiphone.com/category/industrynews/LRRckuCGRzyeiCtP.html",
+    "imageUrl": null,
+    "source": "雷锋网",
+    "categoryId": null,
+    "publishedAt": "2026-09-24T03:23:00.000Z",
+    "createdAt": "2026-09-25T00:18:49.810Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "Education & Future Skills",
+    "contentFormats": [
+      "Xiaohongshu Explainer",
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2161083,
+    "title": "BAT 集体重做「AI 预训练」，补「脏数据」的坑",
+    "description": "最近大半年，国内一批 AI 模型厂商 密集启动“预训练返工”，起因都指向同一件事：数据不行。 它们中，有的此前花了一年死磕万亿参数模型，落地表现却被市面上 1% 规模的小模型倒挂，最终查出是被脏数据拖了后腿。 有的曾因数据标注规则模糊、评测集污染、垃圾语料冗余等工程硬伤而导致模型进展迟缓。 还有的因数据受限，导致模型遭遇性能瓶颈，索性推倒重来，并重建了数据团队。 与此同时，借 API 中转站截留交互轨迹、做数据蒸馏等，也成了行业水面下的一场暗战。 数据，正在给模型厂商上一堂教训深刻的课。这堂课远比算力消耗、架构选型和人才争夺更隐蔽。 “AI 下半场的胜负手是数据”，这话听上去像常识，但直到今天，大家才真正闻到了它背后的血腥味。 01 数据上的“粗放式弯路” 预训练返工，本质上是在补数据的课。 “多就行了”的误区 一位头部基模公司的数据专家赵翔向雷峰网回忆，前些年刚开始做预训练的时候，大家的主流观点是“数据多就可以了，稍微差一点没关系，模型自己有转化能力和鲁棒性。” 于是开始一味地粗放式堆数据，只求规模不讲质量。 再加上，当时行业普遍缺乏成熟的大规模数据治理体系，大家为了凑齐数千亿甚至上万亿 token 的语料库，抓取了大量网页垃圾、脏语料，甚至混入了各种来源不明的清洗包。 很多数据的标注和筛选也没有处理好，导致训练出来的第一版模型效果较差。 然后大家才发现， 不注重数据质量，会让模型卡在 60、70 分上不去 ，“眼看海外的模型都跑到 90 分了，就是追不上。”于是不得不回过头来重做数据优化。 脏数据的代价 “底层脏数据的危害远比想象的大。它会让你投入的 卡、钱、人力都浪费掉，而且还会耽误你的时间窗口。 ”某模型厂商前高管、现 AI 创业者王斌告诉雷峰网。 他向雷峰网描述过一个典型案例。一家中部基模公司，把爬来的技术博客整批灌进预训练语料，跑到训练中期才发现，其中相当部分是采集站的机器生成页，同一个段落被重复了几万次。 模型在评测集上开始莫名其妙地复读，等团队定位到问题，几万卡时已经烧掉了，那一版只能作废重来。 事实上，这样的翻车在行业里远不止一例。不少团队都是训练效果出了问题后，才回过头来补数据治理的课。 不当的数据 KPI 基元律动创始人王云鹤也曾在接受媒体采访时提到过，AI 没有什么新鲜事，数据是地基，数据不行，不要怪算力；数据不达标，什么算法都不行，因为这违",
+    "url": "https://www.leiphone.com/category/industrynews/W5SkVkK9QJ1FDapI.html",
+    "imageUrl": null,
+    "source": "雷锋网",
+    "categoryId": null,
+    "publishedAt": "2026-09-24T01:43:00.000Z",
+    "createdAt": "2026-09-25T00:18:49.810Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "Chips & Compute",
+    "contentFormats": [
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2161084,
+    "title": "为了智能体AI，高通「新造」了第六代骁龙8超级至尊版",
+    "description": "“ 我们正在从以手机为中心的模式，转向以智能体为中心的新体验。 手机、PC、眼镜、可穿戴设备以及汽车，都将成为智能体的终端入口。”2026骁龙峰会上，高通公司总裁兼CEO安蒙说。 过去二十年，智能手机围绕App运转 。 智能体则需要持续感知、理解上下文、调用工具，并在用户没有操作手机时代表用户执行任务。 “这是一次令人兴奋的技术变革，智能体AI会创造一种全新的终端工作流程。”安蒙表示，“ 我们需要重新思考计算引擎的设计。 CPU需要更强的性能来完成智能体编排，NPU加速器负责高效的AI推理，GPU负责高度并行的计算，连接能力也比以往任何时候都更加重要。” 高通为智能体AI首次同时推出两款 2nm制程 移动旗舰平台——第六代骁龙8超级至尊版 和第六代骁龙8至尊版。 高通技术公司高级副总裁兼手机业务总经理Chris Patrick解释说：“单一标准，已经无法定义旗舰。保持领导力需要不止一条前进道路。” 两款平台共享多项核心技术， 第六代骁龙8超级至尊版位于产品组合顶端，拥有高通最顶级的配置， 包括业界首个最高主频达到5GHz的移动CPU、GPU中首次加入的 Matrix Cores（ 矩阵核心），以及可以运行300亿参数 MoE 模型的NPU。 这些升级背后，藏着一个核心问题 ， 智能体全天运行，到底需要怎样的计算平台？高通给出的答案，是从 智能体 AI需求出发重新设计SoC。 高通到底如何围绕AI，“新造”第六代骁龙8超级至尊版？ 智能体撞上「内存墙」，高通给CPU、GPU、NPU同时「动刀」 第六代骁龙8超级至尊版最醒目的数字是5GHz。 但Chris Patrick强调，“速度只是其中一部分，CPU还需要快速访问数据。” 这指向AI难以绕开的内存墙。“ 端侧智能体的主要问题其实还是内存和续航的限制 ，而非性 能的限制。”高通公司产品技术专家朱元堃对雷峰网表示。 模型推理需要持续读取模型权重、上下文、KV-cache和中间结果。当数据在系统内存与片上存储之间频繁往返，数据搬运所需的时间和电量也会影响实际性能。 内存墙的挑战同时存在于CPU、GPU和NPU ， 第六代骁龙8超级至尊版 如何打破内存墙？ 最高主频达到5GHz的Oryon CPU引入全新 Oryon FlexCache ，让8个核心访问同一个共享L2缓存池，并根据工作负载动态分配资源。智能体处理一连串任务",
+    "url": "https://www.leiphone.com/category/chips/DWpfJx2HNekZmlQK.html",
+    "imageUrl": null,
+    "source": "雷锋网",
+    "categoryId": null,
+    "publishedAt": "2026-09-23T23:08:00.000Z",
+    "createdAt": "2026-09-25T00:18:49.810Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "Chips & Compute",
+    "contentFormats": [
+      "Xiaohongshu Explainer",
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
     "id": 2161034,
     "title": "Arctic Sea Ice Reaches 2026 Annual Minimum Extent",
     "description": "Arctic sea ice reached its annual minimum extent on Sept. 12, according to NASA and the National Snow and Ice Data Center (NSIDC) at the University of Colorado Boulder. The ice covered an estimated 1.78 million square miles (4.6 million square kilometers), tying 2008, 2010, and 2025 for the 10th-lowest minimum in the satellite record. […]",

@@ -1,5 +1,57 @@
 [
   {
+    "id": 2161105,
+    "title": "量子AI创业来了一支“清华梦之队”：10亿估值，用量子改造大模型底层",
+    "description": null,
+    "url": "https://www.qbitai.com/2026/09/498633.html",
+    "imageUrl": null,
+    "source": "量子位",
+    "categoryId": null,
+    "publishedAt": "2026-09-27T14:20:35.000Z",
+    "createdAt": "2026-09-28T00:19:51.854Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "Quantum Technology",
+    "contentFormats": [
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2161106,
+    "title": "量子计算走上桌面！“小盒子”跑通端到端，数据全程不出门",
+    "description": "想让开发者“说句话就能跑量子计算”",
+    "url": "https://www.qbitai.com/2026/09/498605.html",
+    "imageUrl": null,
+    "source": "量子位",
+    "categoryId": null,
+    "publishedAt": "2026-09-27T13:57:57.000Z",
+    "createdAt": "2026-09-28T00:19:51.854Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "Quantum Technology",
+    "contentFormats": [
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2161107,
+    "title": "遇见AI未来：中科通量SmarCo系列产品亮相全球数字贸易博览会",
+    "description": "9月23日至27日，第五届全球数字贸易博览会在杭州大会展中心举行。中科通量作为国内视频智能和AI智算领域的代表企业，受邀在2号主题展馆重磅亮相，全面展示其在视频AI、智能存储与算力领域的最新成果。 亮相国家级舞台，全线产品集中呈现 作为全球数字贸易领域中国唯一以数字贸易为主题的国家级、国际性、专业型展会，数贸会已成为展示全球数字贸易新技术、新产品、新生态的重要窗口。展会期间，中科通量SmarCo系列全线产品重磅展出，成为活动现场的关注焦点。 在AI算力方面，SmarCo AI工作站是一款专为视频、大模型与机器人研发而生的桌面级智算设备。产品以SmarCo GC3 AI芯片为核心，采用RISC-V数据流架构，集成128GB LPDDR5 ECC统一寻址内存与专用视频引擎，提供至高200TOPS AI算力，可支持70B大模型本地化部署；同时支持至高128路1080p@30fps硬件解码，一台桌面设备即可承担过去需要服务器才能完成的大规模视频AI工作负载，为本地大模型、AIGC视频创作、机器人与AI Agent等应用提供算力基础。 在AI交互方面，SmarCo AI数字员工是一套面向线下服务场景的AI数字员工解决方案，由数字人形象、企业知识、多模态交互与本地算力共同构成，可承担接待咨询、导览讲解、培训会议与内容营销等高频、标准化工作，覆盖AI大堂经理、AI培训导师、AI获客主播、AI会议助手四大场景，为营业厅、银行网点、零售展厅和企业展馆提供统一、可持续更新的智能服务体验。 在视频处理方面，SmarCo智能视频编码一体机专为解决视频传输带宽瓶颈、盘活存量存储资源而设计，依托国产RISC-V芯片实现芯片级\"无损\"智能编码，可在不改变原有视频系统架构的前提下，保障恶劣网络条件下视频稳定回传，并在不更换硬盘的情况下释放数倍存储空间，以最小成本帮助客户解决\"传不回、存不下\"的难题，已应用于智慧高速、电网、低空视觉、智慧城市等场景。 在视频智能应用方面，SmarCo智能视频存算一体机基于国产RISC-V架构视频专用AI芯片与端-云-用一体化架构，提供视频接入、AI解析、事件闭环等全栈能力，内置可扩展算法仓库，支持人员、车辆、行为、环境等多维度识别，让视频监控从\"看得见\"升级为\"看得懂、能预警、可闭环\"；SmarCo智能视频研判一体机则提供\"开箱即用\"的属地视频及直播监测能力，覆盖视",
+    "url": "https://www.leiphone.com/category/industrynews/D18iwUndD8KTdpMu.html",
+    "imageUrl": null,
+    "source": "雷锋网",
+    "categoryId": null,
+    "publishedAt": "2026-09-27T01:55:00.000Z",
+    "createdAt": "2026-09-28T00:19:54.516Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "Robotics & Embodied AI",
+    "contentFormats": [
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
     "id": 2161100,
     "title": "索辰科技加码世界模型，与战略投资企业美梦空间联合发布具身模型与物理测评标准",
     "description": "“世界模型”开始成为具身智能跨越商业化“奇点”的新叙事。",

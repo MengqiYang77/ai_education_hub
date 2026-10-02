@@ -1,5 +1,130 @@
 [
   {
+    "id": 2161198,
+    "title": "New tool lets users repair AI-generated 3D models, then fabricate them just the way they want",
+    "description": "“InstructMesh” can generate designs for everyday objects that are easy to edit and fabricate for both experts and newcomers to 3D modeling.",
+    "url": "https://news.mit.edu/2026/instructmesh-tool-lets-users-repair-ai-3d-models-then-fabricate-them-1001",
+    "imageUrl": null,
+    "source": "MIT AI",
+    "categoryId": null,
+    "publishedAt": "2026-10-01T22:00:00.000Z",
+    "createdAt": "2026-10-02T01:20:13.295Z",
+    "language": "en",
+    "region": "Global",
+    "topic": "AI Models & Agents",
+    "contentFormats": [
+      "Xiaohongshu Explainer",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2161203,
+    "title": "Digital life doesn’t have to be this way",
+    "description": "Writer, activist Cory Doctorow wants you to be mad about tech monopoly — but not blindly terrified of AI",
+    "url": "https://news.harvard.edu/gazette/story/2026/10/digital-life-doesnt-have-to-be-this-way-cory-doctorow/",
+    "imageUrl": null,
+    "source": "Harvard Gazette",
+    "categoryId": null,
+    "publishedAt": "2026-10-01T21:18:34.000Z",
+    "createdAt": "2026-10-02T01:20:17.510Z",
+    "language": "en",
+    "region": "Global",
+    "topic": "AI Models & Agents",
+    "contentFormats": [
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2161200,
+    "title": "NASA’s SpaceX Crew-13 Launches",
+    "description": "In this Oct. 1, 2026, photo, a SpaceX Falcon 9 rocket and Dragon spacecraft launch from Space Launch Complex 40 at Cape Canaveral Space Force Station in Florida. The spacecraft is carrying NASA astronauts Jessica Watkins and Luke Delaney, CSA (Canadian Space Agency) astronaut Joshua Kutryk, and Roscosmos cosmonaut Sergey Teteryatnikov to the International Space Station for a [&#8230;]",
+    "url": "https://www.nasa.gov/image-article/nasas-spacex-crew-13-launches/",
+    "imageUrl": null,
+    "source": "NASA",
+    "categoryId": null,
+    "publishedAt": "2026-10-01T18:05:38.000Z",
+    "createdAt": "2026-10-02T01:20:15.953Z",
+    "language": "en",
+    "region": "Global",
+    "topic": "Space & Aerospace",
+    "contentFormats": [
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2161204,
+    "title": "ATDC Startup Brings Community-Centered Energy Infrastructure to Downtown Los Angeles",
+    "description": "&lt;span&gt;ATDC Startup Brings Community-Centered Energy Infrastructure to Downtown Los Angeles&lt;/span&gt; &lt;span&gt;&lt;a title=\"View user profile.\" href=\"https://news.gatech.edu/user/1\"&gt;Superadmin&lt;/a&gt;&lt;/span&gt; &lt;span&gt;&lt;time datetime=\"2026-10-01T13:48:05-04:00\" title=\"Thursday, October 1, 2026 - 13:48\"&gt;Thu, 10/01/2026 - 13:48&lt;/time&gt; &lt;/span&gt; &lt;div&gt;&lt;p&gt;In Downtown Los Angeles, damaged lighting infrastructure, unlit pedestrian corridors, and temporary&lt;br&gt;battery trailers have created challenges for businesses, residents, and visitors. As the city prepares for&lt;br&gt;major global events in the coming years, the need for reliable energy infrastructure that complements the&lt;br&gt;surrounding environment has become increasingly important.&lt;/p&gt;&lt;p&gt;&lt;br&gt;Clean technology company Gaia Agricultural Technology is working to help Los Angeles address some&lt;br&gt;of those challenges through Gaia Box, its patented infrastruct",
+    "url": "https://news.gatech.edu/news/2026/10/01/atdc-startup-brings-community-centered-energy-infrastructure-downtown-los-angeles",
+    "imageUrl": null,
+    "source": "Georgia Tech",
+    "categoryId": null,
+    "publishedAt": "2026-10-01T17:48:05.000Z",
+    "createdAt": "2026-10-02T01:20:18.445Z",
+    "language": "en",
+    "region": "Global",
+    "topic": "Advanced Manufacturing",
+    "contentFormats": [
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2161201,
+    "title": "NASA’s SpaceX Crew-13 Launches to International Space Station",
+    "description": "Four crew members of NASA’s SpaceX Crew-13 mission launched at 11:10 a.m. EDT Thursday from Space Launch Complex 40 at Cape Canaveral Space Force Station in Florida for a science expedition aboard the International Space Station. “Crew-13 is another demonstration of America’s unmatched capability in human spaceflight and the strength of our commercial partnerships,” said [&#8230;]",
+    "url": "https://www.nasa.gov/news-release/nasas-spacex-crew-13-launches-to-international-space-station/",
+    "imageUrl": null,
+    "source": "NASA",
+    "categoryId": null,
+    "publishedAt": "2026-10-01T15:59:24.000Z",
+    "createdAt": "2026-10-02T01:20:15.954Z",
+    "language": "en",
+    "region": "Global",
+    "topic": "Space & Aerospace",
+    "contentFormats": [
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2161199,
+    "title": "Atlas Robot’s New Hand May Outperform Humanlike Designs",
+    "description": "Today, Boston Dynamics is announcing a redesigned hand for its Atlas robot . The previous generation could do some crazy superhuman things with its three fingers, but it was never intended for mass production in the tens or hundreds of thousands. Switching from research hardware to a scalable product makes previously ignorable questions suddenly paramount: How can you make a hand that does everything you need it to do but is also rugged and reliable and cost-effective? It’s questions like these that drove the design of the new Atlas hand, and while it doesn’t look much like a human hand, it might be a hand that makes it out into the real world. - YouTube www.youtube.com Compared to the almost eerily humanlike hands designed by a litany of other humanoid robotics companies , Atlas’s new hand does look awfully clunky. We’ve certainly seen some of those robots with much more humanlike hands perform dexterous manipulation tasks that are, speaking as someone who has personally witnessed rob",
+    "url": "https://spectrum.ieee.org/robust-robot-hand",
+    "imageUrl": null,
+    "source": "IEEE Spectrum Robotics",
+    "categoryId": null,
+    "publishedAt": "2026-10-01T14:40:12.000Z",
+    "createdAt": "2026-10-02T01:20:15.679Z",
+    "language": "en",
+    "region": "Global",
+    "topic": "Robotics & Embodied AI",
+    "contentFormats": [
+      "Xiaohongshu Explainer",
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2161202,
+    "title": "NASA’s Webb Provides Crash Course on Planet-Shattering Collisions",
+    "description": "In the early history of our solar system, scientists theorize that a Mars-sized object called Theia smashed into the infant Earth, vaporizing massive amounts of rock and blasting it into space. Some of that material coalesced into the Moon, where NASA’s Artemis program is returning humans, preparing for Mars, and shaping the future of space […]",
+    "url": "https://science.nasa.gov/missions/webb/nasas-webb-provides-crash-course-on-planet-shattering-collisions/",
+    "imageUrl": null,
+    "source": "NASA",
+    "categoryId": null,
+    "publishedAt": "2026-10-01T14:00:00.000Z",
+    "createdAt": "2026-10-02T01:20:15.954Z",
+    "language": "en",
+    "region": "Global",
+    "topic": "Space & Aerospace",
+    "contentFormats": [
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
     "id": 2161168,
     "title": "NASA Adds New Science Investigations for Moon Base",
     "description": "Editor&#8217;s note: This release was updated on Sept. 30, 2026, to correct the name of the DISCO payload. NASA selected three new scientific investigations and their payload suites to advance our knowledge of the Moon and help pave the way for building humanity’s first lunar outpost, Moon Base. The suite of science instruments and technologies [&#8230;]",

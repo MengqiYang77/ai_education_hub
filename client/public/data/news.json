@@ -1,5 +1,109 @@
 [
   {
+    "id": 2161218,
+    "title": "A Journey to the Depths of Ancient Mars?",
+    "description": "Written by Alex Jones, Ph.D. candidate at Imperial College London Sept. 29, 2026 After spending the last six months exploring “Lac de Charmes,” a region of ancient rock beyond Jezero crater’s western rim, Perseverance has stumbled upon a vast field of light-toned rocks peppering the Martian surface. Light-colored rocks are a strange sight on Mars, […]",
+    "url": "https://science.nasa.gov/blog/a-journey-to-the-depths-of-ancient-mars/",
+    "imageUrl": null,
+    "source": "NASA",
+    "categoryId": null,
+    "publishedAt": "2026-10-06T00:48:54.000Z",
+    "createdAt": "2026-10-06T02:05:13.305Z",
+    "language": "en",
+    "region": "Global",
+    "topic": "Space & Aerospace",
+    "contentFormats": [
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2161219,
+    "title": "NASA to Stream SpaceX Crew-12 Return, Splashdown Live",
+    "description": "NASA and SpaceX are targeting no earlier than 8:05 a.m. EDT, Wednesday, Oct. 7, for the undocking of the agency’s SpaceX Crew-12 mission from the International Space Station, pending weather conditions. An Oct. 7 undock puts NASA astronauts Jessica Meir and Jack Hathaway, ESA (European Space Agency) astronaut Sophie Adenot, and Roscosmos cosmonaut Andrey Fedyaev [&#8230;]",
+    "url": "https://www.nasa.gov/news-release/nasa-to-stream-spacex-crew-12-return-splashdown-live/",
+    "imageUrl": null,
+    "source": "NASA",
+    "categoryId": null,
+    "publishedAt": "2026-10-05T21:44:40.000Z",
+    "createdAt": "2026-10-06T02:05:13.305Z",
+    "language": "en",
+    "region": "Global",
+    "topic": "Space & Aerospace",
+    "contentFormats": [
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2161221,
+    "title": "CMU Robotics Expertise and Facilities Attract IROS 2026 Conference Attendees",
+    "description": "&lt;p&gt; &lt;img loading=\"lazy\" src=\"https://www.cmu.edu/news/sites/default/files/styles/listings_desktop_1x_/public/2026-10/261001B_IROS_RIC_Tours_EH_006.jpg.webp?h=7bcf903e&amp;itok=L00I8VtB\" width=\"900\" height=\"508\" alt=\"Attendees brows demo booths in the Robotics Innovation Center as part of the 2026 IROS conference..\"&gt; &lt;/p&gt; Academics and industry leaders in robotics toured Carnegie Mellon’s facilities as part of the Conference on Intelligent Robots and Systems (IROS).",
+    "url": "https://www.cmu.edu/news/stories/archives/2026/october/cmu-robotics-expertise-and-facilities-attract-iros-2026-conference-attendees",
+    "imageUrl": null,
+    "source": "Carnegie Mellon",
+    "categoryId": null,
+    "publishedAt": "2026-10-05T19:39:30.000Z",
+    "createdAt": "2026-10-06T02:05:14.080Z",
+    "language": "en",
+    "region": "Global",
+    "topic": "Robotics & Embodied AI",
+    "contentFormats": [
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2161222,
+    "title": "The ‘WarGames’ Problem: Computer Science Has Long Understood What it Takes to Keep AI Under Control",
+    "description": "&lt;span&gt;The ‘WarGames’ Problem: Computer Science Has Long Understood What it Takes to Keep AI Under Control&lt;/span&gt; &lt;span&gt;&lt;a title=\"View user profile.\" href=\"https://news.gatech.edu/user/1\"&gt;Superadmin&lt;/a&gt;&lt;/span&gt; &lt;span&gt;&lt;time datetime=\"2026-10-05T12:28:32-04:00\" title=\"Monday, October 5, 2026 - 12:28\"&gt;Mon, 10/05/2026 - 12:28&lt;/time&gt; &lt;/span&gt; &lt;div&gt;&lt;div class=\"theconversation-article-body\"&gt;&lt;p&gt;AI agents don’t go rogue. That’s something only humans do.&lt;/p&gt;&lt;p&gt;Nevertheless, a &lt;em&gt;New York Times&lt;/em&gt; article – representative of much news coverage of AI – &lt;a href=\"https://www.nytimes.com/2026/08/24/technology/hugging-face-open-source-ai-attack.html\"&gt;described an OpenAI hacking&lt;/a&gt; as “A.I. bots going rogue and independently spearheading a cyberattack.”&lt;/p&gt;&lt;p&gt;Name-brand artificial intelligence agents have been on a hacking spree in 2026. OpenAI’s software agents &lt;a href=\"htt",
+    "url": "https://news.gatech.edu/news/2026/09/29/wargames-problem-computer-science-has-long-understood-what-it-takes-keep-ai-under",
+    "imageUrl": null,
+    "source": "Georgia Tech",
+    "categoryId": null,
+    "publishedAt": "2026-10-05T16:28:32.000Z",
+    "createdAt": "2026-10-06T02:05:14.879Z",
+    "language": "en",
+    "region": "Global",
+    "topic": "Chips & Compute",
+    "contentFormats": [
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2161223,
+    "title": "刚刚，Hinton发了首篇RSI论文",
+    "description": "AI已经开始真正进入「造下一代AI」的流水线",
+    "url": "https://www.qbitai.com/2026/10/501705.html",
+    "imageUrl": null,
+    "source": "量子位",
+    "categoryId": null,
+    "publishedAt": "2026-10-05T04:42:52.000Z",
+    "createdAt": "2026-10-06T02:05:17.071Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "AI Models & Agents",
+    "contentFormats": [
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2161220,
+    "title": "Moon-Like Madagascar",
+    "description": "A bright lens of anorthosite, a rock type prevalent on the lunar surface, is cradled within sheared rocks in the country’s south.",
+    "url": "https://science.nasa.gov/earth/earth-observatory/moon-like-madagascar/",
+    "imageUrl": null,
+    "source": "NASA",
+    "categoryId": null,
+    "publishedAt": "2026-10-05T04:01:00.000Z",
+    "createdAt": "2026-10-06T02:05:13.305Z",
+    "language": "en",
+    "region": "Global",
+    "topic": "Space & Aerospace",
+    "contentFormats": [
+      "WeChat Deep Dive"
+    ]
+  },
+  {
     "id": 2161214,
     "title": "Mapping the Gaps in NASA&#8217;s Return to the Moon, featuring Richard Spolzino",
     "description": "&#8220;I want to be able to look at a rocket launch and say, ‘I touched a piece of this.’&#8221; That&#8217;s how Richard Spolzino describes the thing he&#8217;s chasing. Not a title, not a specific mission, not even NASA itself, just the ability to point at something real and know his work made it possible. At [&#8230;]",

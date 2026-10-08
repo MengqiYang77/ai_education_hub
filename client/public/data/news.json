@@ -1,5 +1,323 @@
 [
   {
+    "id": 2161237,
+    "title": "NASA Sets Coverage for SpaceX 35th Station Resupply Launch, Arrival",
+    "description": "NASA and SpaceX are targeting 6:33 a.m. EDT, Tuesday, Oct. 13, for the next launch to deliver science investigations, supplies, and equipment, including the final set of International Space Station Roll-Out Solar Arrays, to the space station. This is the 35th SpaceX commercial resupply services mission to the orbital complex for NASA. NASA also will [&#8230;]",
+    "url": "https://www.nasa.gov/news-release/nasa-sets-coverage-for-spacex-35th-station-resupply-launch-arrival/",
+    "imageUrl": null,
+    "source": "NASA",
+    "categoryId": null,
+    "publishedAt": "2026-10-07T21:16:42.000Z",
+    "createdAt": "2026-10-08T01:35:54.928Z",
+    "language": "en",
+    "region": "Global",
+    "topic": "Space & Aerospace",
+    "contentFormats": [
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2161238,
+    "title": "NASA’s SpaceX 35th Commercial Resupply Mission Overview",
+    "description": "NASA and SpaceX are targeting no earlier than Tuesday, Oct. 13 to launch scientific investigations, supplies, and equipment to the International Space Station.",
+    "url": "https://www.nasa.gov/general/nasas-spacex-35th-commercial-resupply-mission-overview/",
+    "imageUrl": null,
+    "source": "NASA",
+    "categoryId": null,
+    "publishedAt": "2026-10-07T20:17:16.000Z",
+    "createdAt": "2026-10-08T01:35:54.928Z",
+    "language": "en",
+    "region": "Global",
+    "topic": "Space & Aerospace",
+    "contentFormats": [
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2161239,
+    "title": "NASA’s PRIMA Spacecraft (Artist’s Concept)",
+    "description": "Description This artist’s concept depicts the proposed design for NASA’s PRobe far-Infrared Mission for Astrophysics (PRIMA), which was selected by the agency in September 2026. The PRIMA observatory is the first in a new class of NASA astrophysics missions, called Probe Explorers, within the agency’s longstanding Explorers Program. By observing far-infrared light, PRIMA will enable scientists to study cosmic […]",
+    "url": "https://science.nasa.gov/photojournal/nasas-prima-spacecraft-artists-concept/",
+    "imageUrl": null,
+    "source": "NASA",
+    "categoryId": null,
+    "publishedAt": "2026-10-07T20:15:49.000Z",
+    "createdAt": "2026-10-08T01:35:54.928Z",
+    "language": "en",
+    "region": "Global",
+    "topic": "Space & Aerospace",
+    "contentFormats": [
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2161234,
+    "title": "Discovering the value of humanistic inquiry",
+    "description": "Students in MIT’s Concourse program delve deeply into the human condition, debate challenging questions, and learn to develop judgment about issues that can’t be quantified.",
+    "url": "https://news.mit.edu/2026/discovering-value-humanistic-inquiry-1007",
+    "imageUrl": null,
+    "source": "MIT AI",
+    "categoryId": null,
+    "publishedAt": "2026-10-07T20:10:00.000Z",
+    "createdAt": "2026-10-08T01:35:51.027Z",
+    "language": "en",
+    "region": "Global",
+    "topic": "Education & Future Skills",
+    "contentFormats": [
+      "Xiaohongshu Explainer",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2161240,
+    "title": "NASA’s Curiosity Looks Back After Reaching Elevation Milestone",
+    "description": "Description NASA’s Curiosity Mars rover captured this view looking back at the floor of Gale Crater, with the crater’s rim visible in the distance, on Sept. 5, 2026, the 5,006th Martian day, or sol, of the mission. Just nine days prior, on Aug. 26 (Sol 4,996), Curiosity set a mission milestone by reaching 1 kilometer […]",
+    "url": "https://science.nasa.gov/photojournal/nasas-curiosity-looks-back-after-reaching-elevation-milestone/",
+    "imageUrl": null,
+    "source": "NASA",
+    "categoryId": null,
+    "publishedAt": "2026-10-07T17:00:47.000Z",
+    "createdAt": "2026-10-08T01:35:54.928Z",
+    "language": "en",
+    "region": "Global",
+    "topic": "Space & Aerospace",
+    "contentFormats": [
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2161241,
+    "title": "NASA’s Curiosity Captures Dawn Breaking on Wind-Carved Cliffs",
+    "description": "Description NASA’s Curiosity Mars rover captured this panorama of sunrise illuminating distant, wind-carved features called yardangs on Aug. 11, 2026, the 4,982nd Martian day, or sol, of the mission. Scientists are eager to learn more about how the yardang layer formed. Figure A is a crop zooming in on the distant yardangs. Since 2014, Curiosity […]",
+    "url": "https://science.nasa.gov/photojournal/nasas-curiosity-captures-dawn-breaking-on-wind-carved-cliffs/",
+    "imageUrl": null,
+    "source": "NASA",
+    "categoryId": null,
+    "publishedAt": "2026-10-07T16:49:50.000Z",
+    "createdAt": "2026-10-08T01:35:54.928Z",
+    "language": "en",
+    "region": "Global",
+    "topic": "Space & Aerospace",
+    "contentFormats": [
+      "Xiaohongshu Explainer",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2161235,
+    "title": "Agent Lightning v1.0: A 3,500-Line Lightweight Agentic RL Framework for Training Agents with Real Harnesses",
+    "description": "Training AI agents with reinforcement learning can be challenging because their tools, context, and decision-making are managed by complex frameworks. Agent Lightning connects existing agents to RL training, making it easier to improve them without rebuilding them. The post Agent Lightning v1.0: A 3,500-Line Lightweight Agentic RL Framework for Training Agents with Real Harnesses appeared first on Microsoft Research .",
+    "url": "https://www.microsoft.com/en-us/research/blog/agent-lightning-v1-0-a-3500-line-lightweight-agentic-rl-framework-for-training-agents-with-real-harnesses/",
+    "imageUrl": null,
+    "source": "Microsoft Research",
+    "categoryId": null,
+    "publishedAt": "2026-10-07T16:00:00.000Z",
+    "createdAt": "2026-10-08T01:35:53.798Z",
+    "language": "en",
+    "region": "Global",
+    "topic": "Education & Future Skills",
+    "contentFormats": [
+      "Xiaohongshu Explainer",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2161236,
+    "title": "HiPHI: A Large-Scale Benchmark for High-Precision Human Motion and Object Interaction",
+    "description": "This White Paper gives robotics researchers and engineers an overview of a new large-scale motion capture dataset built to close the data gap limiting humanoid robot learning. It also shows how policies trained on the dataset transfer to a real humanoid robot. What you will learn about: Why humanoid robot learning, a central problem in embodied AI and Physical AI, needs data that internet video and existing motion capture datasets cannot provide. How FrameNet , a linguistic framework for human action, can guide motion capture collection to systematically cover a broad range of whole-body motion. Why synchronized object trajectories and meshes make human-object interaction data useful for teaching robots real-world tasks such as carrying, pushing, and pulling. How reinforcement learning policies trained on this motion capture data improve with scale, and how sim-to-real transfer carries them onto a physical humanoid robot. Download this free whitepaper now!",
+    "url": "https://content.knowledgehub.wiley.com/hiphi-a-large-scale-benchmark-for-high-precision-human-motion-and-object-interaction/",
+    "imageUrl": null,
+    "source": "IEEE Spectrum Robotics",
+    "categoryId": null,
+    "publishedAt": "2026-10-07T13:49:48.000Z",
+    "createdAt": "2026-10-08T01:35:54.897Z",
+    "language": "en",
+    "region": "Global",
+    "topic": "Robotics & Embodied AI",
+    "contentFormats": [
+      "Xiaohongshu Explainer",
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2161246,
+    "title": "《碳硅道统·跨域迁移治理法典》188集 总纲摘要",
+    "description": "一、法典核心定调 本法典为弱AI至AGI全周期、全行业、全文明维度的AI跨域迁移治理唯一终审基准，是国内首套从事故解剖、机理溯源、权责确权，到行业落地、顶层监管、文明风控、终局闭环的全链路可工程化治理范式。 法典严格遵循集数规范：000为独立零号基准定标集，不计入正集；七层主体001–188严格合计188集，无溢出、无错乱、无重复，终局声明不占用正集编号，全体系结构完全锁档定型。 本法典彻底打破传统AI治理“重规则、无机理、无溯源、无落地”的短板，以NT1-NT4负迁移体系为核心判定标准、知识血统+铜脉接口双暗线为工程底座、七层递进架构为治理层级，实现从文字理论到可审计、可校验、可拦截、可回滚的工业级治理闭环，完成AI跨域治理从“经验约束”到“道统定规”的终极升维。 二、零号基准：全域唯一法定前置定标（000） 本集为全法典所有跨域负迁移场景永不迭代的唯一口径，定义四类AI跨域致命迁移原型，统一全体系判定标准，彻底解决行业语义混乱、定义模糊、判定无据的核心痛点： 1. NT1机制错配迁移：源域核心运行机制、底层逻辑在目标域完全不成立，是结构性底层失效； 2. NT2语义漂移迁移：指标、符号、概念表层一致，底层定义域、适用前提、真值逻辑彻底偏移； 3. NT3未知静默补全迁移：目标域空白项、未知缺省项被模型默认值自动填充，伪造确定性结果，属于静默隐形高危故障； 4. NT4权力偷渡迁移：源域隐含决策权重、审核权限、治理地位无授权偷渡至目标域，是最隐蔽、最高危、无监管的越界迁移。 三、七层递进核心架构（001-188） 全法典采用从微观事故→中观机理→权责制度→行业落地→顶层监管→文明维度→终局闭环的七层递进逻辑，层层锁档、逐级收敛、全域咬合，每层级终结均设置层基线锁档+术语永久固化，确保体系边界绝对固定。 第一层：迁移事故解剖层（001-021|21集） 聚焦真实跨域迁移翻车全链路解剖，覆盖医疗、金融、自动驾驶、教育、司法、农业等核心高危场景，拆解准确率正常但机制失效、链式语义漂移、权限绕过、置信度失真、算法暴力放大等隐性事故。 建立十六维解剖框架、十六问审计范式、事故血统追溯取证体系，锁定迁移事故回滚失败、责任错配、边界失效的根因，形成全域风险图谱与基础审计基准。 第二层：迁移技术机理层（022-051|30集） 穿透表层事故，深挖AI跨域迁移结构性原罪，论证无约束",
+    "url": "https://www.leiphone.com/category/industrynews/NWhDqDo0wpZbKRgp.html",
+    "imageUrl": null,
+    "source": "雷锋网",
+    "categoryId": null,
+    "publishedAt": "2026-10-07T11:37:00.000Z",
+    "createdAt": "2026-10-08T01:36:00.900Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "Robotics & Embodied AI",
+    "contentFormats": [
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2161243,
+    "title": "《怪物史莱克》编剧也来了！这家AI影视公司，视频模型全球第二！",
+    "description": null,
+    "url": "https://www.qbitai.com/2026/10/501803.html",
+    "imageUrl": null,
+    "source": "量子位",
+    "categoryId": null,
+    "publishedAt": "2026-10-07T11:34:47.000Z",
+    "createdAt": "2026-10-08T01:35:57.685Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "AI Models & Agents",
+    "contentFormats": [
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2161247,
+    "title": "碳硅道统·跨域迁移治理法典",
+    "description": "000|全局唯一前置定标：负迁移NT1-NT4四类原型·终审定义 零号基准集，独立于七层主体序列，不计入188正集计数。本集为全书负迁移判定唯一法定口径，常规场景永久锁死，不接受衍生释义、简化释义、片面释义，为AI跨域治理公理原点。 前置总叙 AI跨域迁移，是将源域经过闭环验证、边界固化、权责确权的知识包、模型权重、决策逻辑、评价指标、隐式前提与治理规则，迁移至目标域用于推理、预测、研判、决策的工程行为。 正向合规迁移，必须同时满足四大刚性公理： 前提相容、机制同构、语义对齐、权限匹配。 四项任意缺失，即构成负迁移隐患。 负迁移，是指未经全域校验、公理适配、权责重审的跨域行为。因前提断裂、语义错位、未知项伪造、权限偷渡，造成目标域结构性、系统性、累积性的推理失真与治理失序，是AI跨域失控的一级根因。 本集固化NT1、NT2、NT3、NT4四类负迁移原型，覆盖全部已知跨域故障形态，为所有事故解剖、机理推演、权责判定、监管审计、行业风控的终审唯一依据。 NT1机制错配迁移 源域模型赖以生效的底层物理、统计、因果约束机制，在目标域客观边界内不再成立。表层输入输出形态正常，但核心因果链路彻底断裂，属于结构性底层硬失效。 病灶本质为跨域机制不兼容，模型运算沦为无因果数值拟合。短期精度指标可保持优异，形成表面成功陷阱，无法通过调参、增样本、降噪修复，属于范式级不兼容。 判定准则：核验源域核心因果前提集合，任意一条核心机制在目标域失效，直接判定NT1，不以输出结果优劣作为依据。 典型场景：结构化道路自动驾驶模型迁移至非结构化野外道路；标准化医疗影像模型迁移至老旧低分辨设备场景。 NT2语义漂移迁移 同一文字标签、指标、术语、分类符号在源域与目标域字面完全一致，但其对应的样本空间、真值定义、损失基准、价值体系发生根本性偏移，形成符号同构、内核异构的隐性错位。 语义漂移具备链式累积、逐级放大的特征，是算法偏见、评价失真、业务脱节的核心来源。传统可解释算法仅能识别表层符号，无法捕获底层定义域滑移，隐蔽性极强。 判定准则：剥离文字表象，核验概念底层真值与样本边界，出现根本性不一致即判定NT2。 典型场景：消费贷风险标签直接复用至企业信贷风险判定；教育学情评价指标跨域用于司法量刑参考。 NT3未知静默补全迁移 目标域存在源域知识包未覆盖、未训练、未观测的未知场景与未知维度。模型在信息不足、",
+    "url": "https://www.leiphone.com/category/industrynews/XNaGx6kCv9dNhtKY.html",
+    "imageUrl": null,
+    "source": "雷锋网",
+    "categoryId": null,
+    "publishedAt": "2026-10-07T11:31:00.000Z",
+    "createdAt": "2026-10-08T01:36:00.900Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "Robotics & Embodied AI",
+    "contentFormats": [
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2161248,
+    "title": "碳硅道统《AI安全与文明治理法典》第189集｜全法典总目录索引终卷",
+    "description": "适用：法典运维中心、跨文明联合审计委员会、全体系卷宗归档、官方检索核验、所有引用与落地主体。 核心定位：本卷为碳硅道统1–188集完整体系唯一官方总索引。汇总全法典谱系层级、卷目定位、体系归属、归档哈希索引、卷宗检索规则，实现整套道统法典一键溯源、层级可查、边界可分、正本可验。 核心目标：终结卷宗散乱检索，建立结构化、层级化、可核验、可追溯的全法典官方检索体系，完成碳硅道统全部卷宗闭环终典。 一、核心定义 1. 总索引终卷：承载1–188集完整谱系、层级归类、核心定位、归档标识、检索规则的终结附录卷宗。 2. 五级体系谱系：公理根基层、技术风控层、产业落地层、制度适配层、文明稳态层。 3. 卷宗正本锚定：所有卷目唯一归属、唯一效力、唯一归档哈希基线。 4. 检索准入规则：规范外部引用、内部调档、分支核验、跨卷对照的统一标准。 二、全法典五级体系宏观谱系 第一级：公理根基层（道统本源·永久冻结） 定位：整套法典不可解构、不可变通、不可迭代的文明本源基座。 作用：所有规则、约束、边界、秩序的唯一推导源头。 第二级：技术风控层（工程内核·安全底盘） 定位：AI内生风险、模型失控、权限溢出、推理黑盒、数据流熵变的底层技术治理。 作用：守住硅基运行的工程级绝对安全。 第三级：产业落地层（行业执行·工程合规） 定位：企业研发、训练、部署、迭代、商用上线的标准化落地基线。 作用：让法典从理论规则转化为可量产、可核验、可审计的行业合规体系。 第四级：制度适配层（社会多维采信边界） 定位：司法、政策、学术、媒体、国家治理的边界切割、范式统一、防撕裂、防越位。 作用：让法典在人类制度体系内精准适配、不越位、不失效、不泛化。 第五级：文明稳态层（碳硅共生终局秩序） 定位：人机文明主次关系、价值秩序、周期治理、终局锁档。 作用：定义碳硅共生文明的万年稳态秩序。 三、1–188集全卷结构化总目录（官方归档版） 【第一谱系：公理根基体系|永久锁档】 包含：道统元规则、十大公理、四大永久锚点、道统宪制基线、本体映射模型、文明元秩序。 ——全谱系零修改、零迭代、永久生效 【第二谱系：技术风控体系|内核安全闭环】 包含： 模型对齐约束、目标防漂移、权限层级隔离、数据熵变风控、 推理链路审计、硬熔断机制、故障自愈、极端场景压制、 低熵数据流防控、跨溢出边界风控、智能体集群约束、 系统无状态协议、时序收",
+    "url": "https://www.leiphone.com/category/industrynews/SCYRWOQSLbEpAnGs.html",
+    "imageUrl": null,
+    "source": "雷锋网",
+    "categoryId": null,
+    "publishedAt": "2026-10-07T11:26:00.000Z",
+    "createdAt": "2026-10-08T01:36:00.900Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "Policy & Society",
+    "contentFormats": [
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2161249,
+    "title": "碳硅道统《AI安全与文明治理法典》188集 · 七层体系目录",
+    "description": "当前全球AI治理讨论多聚焦法规与产业监管，往往忽略底层认知安全与模型原生技术风险。碳硅道统发布《AI安全与文明治理法典》，全套共188集，搭建七层递进式研究框架。从普通人的AI认知风险，到大模型底层安全机理，再到行业权责、国家算力监管，最终延伸至跨代际文明尺度的长期风控。这套体系尝试打通技术安全、法律权责、产业落地与文明治理，为AI安全与碳硅共生发展提供一套完整的参考范式。 第一层：基础认知安全层（001–024） 面向公众、从业者建立基础AI风险判别能力，区分普通信息错误与认知污染，破除AGI市场泡沫与能力幻觉，是整套法典的底层安全底座。 001|AI风险的分层分类体系与客观评估基线 002|专用AI与通用人工智能的核心边界辨析 003|AI能力幻觉的成因识别与判定基准 004|AI算法偏见的形成类型与风险边界 005|AGI市场叙事泡沫与公众认知偏差溯源 006|认知污染与普通信息错误的本质区别 007|当代AI安全研究范式的盲区与局限 008|AI红队测试的安全价值与固有短板 009|AI演示能力与真实落地能力的判定差异 010|人机认知依赖的形成机制与安全风险 011|弱AI阶段风险特征与演化规律 012|AI内容传播中的认知放大效应 013|AI风险短期中期长期时序分层框架 014|AI能力涌现的观测边界与过度解读纠偏 015|普通用户可用的AI输出风险简易判别法 016|媒体AI宣传夸大叙事的模式识别 017|AI推荐系统叠加信息茧房的认知固化风险 018|AI安全的准确定义：可控风险而非零风险 019|开源与闭源AI模型基础安全特征对比 020|AI辅助决策的参考边界与人终审权限 021|AI虚假内容与传统网络谣言风险差异 022|AI风险评估中样本偏差造成的失真问题 023|基础安全规则不适用场景反例校准 024|基础认知安全层全局评估基线汇总 第二层：技术风险边界层（025–054） 下沉至大模型底层技术机理，覆盖模型黑箱、提示注入、数据投毒、后门、对抗样本、多模型互联等原生技术安全缺陷；所有治理规则均建立在本层技术可行性之上。 025|大模型黑箱特性带来的安全治理难点 026|AI模型对齐失效与奖励篡改底层机理 027|认知熵增：大规模AI分发语义漂移规律 028|提示注入攻击原理与基础防护规范 029|训练数据投毒攻击类型与检出短板 030|模",
+    "url": "https://www.leiphone.com/category/industrynews/zjq0L18W5NV7Y49M.html",
+    "imageUrl": null,
+    "source": "雷锋网",
+    "categoryId": null,
+    "publishedAt": "2026-10-07T11:19:00.000Z",
+    "createdAt": "2026-10-08T01:36:00.900Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "Chips & Compute",
+    "contentFormats": [
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2161244,
+    "title": "晕…这年头还有说人话的AI不",
+    "description": null,
+    "url": "https://www.qbitai.com/2026/10/501796.html",
+    "imageUrl": null,
+    "source": "量子位",
+    "categoryId": null,
+    "publishedAt": "2026-10-07T08:41:13.000Z",
+    "createdAt": "2026-10-08T01:35:57.685Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "AI Models & Agents",
+    "contentFormats": [
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2161245,
+    "title": "Meshy 跻身 a16z 消费级 AI 应用月收入 Top 50，为榜单唯一 AI 3D 公司",
+    "description": "在 a16z 首份消费级 AI 应用月收入榜单中，Meshy 位列第 31 名，与 OpenAI、Anthropic、Canva、Superhuman、Higgsfield 等共同上榜",
+    "url": "https://www.qbitai.com/2026/10/501791.html",
+    "imageUrl": null,
+    "source": "量子位",
+    "categoryId": null,
+    "publishedAt": "2026-10-07T06:39:36.000Z",
+    "createdAt": "2026-10-08T01:35:57.685Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "AI Models & Agents",
+    "contentFormats": [
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2161250,
+    "title": "Meshy 跻身 a16z 消费级 AI 应用月收入 Top 50，为榜单唯一 AI 3D 公司",
+    "description": "在 a16z 首份消费级 AI 应用月收入榜单中， Meshy 位列第 31 名，与 OpenAI 、 Anthropic 、 Canva 、 Superhuman 、 Higgsfield 等共同上榜 加州硅谷， 2026 年 10 月 5 日 —— 全球领先的 AI 3D 多模态模型公司 Meshy 今日宣布，公司入选由硅谷风险投资机构 Andreessen Horowitz （ a16z ）发布的 “ 消费级 AI 应用月收入 Top 50” 榜单。 Meshy 位列第 31 名，是榜单上唯一一家 AI 3D 公司，与 OpenAI 、 Anthropic 、 Canva 、 Superhuman 、 Higgsfield 等企业共同上榜。 a16z 在报告中指出，收入榜单上多款头部创意类产品均建立在自研模型之上；即便通用模型在图像和视频生成方面不断进步，消费者仍持续为专业化创意工具付费。 Meshy 自主研发面向 3D 生成的多模态模型，此次上榜标志着 AI 3D 已经和语言、图像、视频、音乐一样，成为一个独立的付费品类。 “ 很荣幸 Meshy 成为该榜单上唯一的 AI 3D 公司，这说明 3D 已经成为用户愿意付费的品类。 ”Meshy 增长副总裁潘菲表示， “ 每天，都有大量艺术家、工作室和创作者借助 Meshy ，在几分钟内把创意变成 3D 作品。我们相信， 3D 将是下一个伟大的创作媒介，而我们的使命，就是让每个人都能轻松用 3D 进行创作。 ” 此次入选，是 Meshy 一段快速增长期的缩影。公司近期宣布，其年度经常性收入（ ARR ）已突破 1 亿美元； 2026 年 7 月，公司完成近 4 亿美元 B 轮融资，投后估值超 100 亿元。 关于 Meshy Meshy 构建用于 AI 驱动 3D 生成的多模态基础模型，将文本和图像转化为可用于游戏、电影和 3D 打印的生产级 3D 资产。 Meshy 由拥有麻省理工学院博士学位的胡渊鸣（ Ethan Hu ）创立，目前在全球拥有超过 1500 万注册用户。 2026 年 7 月，该公司完成了近 4 亿美元的 B 轮融资，估值达 15 亿美元，这是迄今为止 AI 3D 领域最大的融资轮次。了解更多信息，请访问 meshy.ai 。",
+    "url": "https://www.leiphone.com/category/industrynews/ZKXlV8iIwXaBOpzO.html",
+    "imageUrl": null,
+    "source": "雷锋网",
+    "categoryId": null,
+    "publishedAt": "2026-10-07T04:19:00.000Z",
+    "createdAt": "2026-10-08T01:36:00.900Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "AI Models & Agents",
+    "contentFormats": [
+      "Xiaohongshu Explainer",
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2161251,
+    "title": "蚂蚁阿福“科学减重1亿斤”迎来“退展”：中秋国庆假期全国60万网友胖了100万斤",
+    "description": "中秋国庆超长假期即将结束，更“扎心”的灵魂拷问来了：你胖了吗？ 健康AI蚂蚁阿福数据显示，9月25日-10月6日假期期间，全国参与阿福“科学减重1亿斤”的网友中，60万人累计长胖超100万斤。其中，超10万人长胖了3斤以上。 10月4日至7日，蚂蚁阿福APP的减重活动页面的统计数据，也已经连续四天显示“昨日全国增重”，10月7日显示昨日全国单日净增重达3.47万斤，被网友调侃减肥大业迎来了“退展”。 在社交平台上，此次减重“退展”也引起广泛讨论。有网友表示：“返工路上，不光心情沉重，身体也是肥嘟嘟的。”有人晒出体重秤照片，并配文：“阿福见证了我假期的鲜香麻辣，之后必将洗心革面。”也有网友“提醒”阿福：很多人还在返程路上没上秤，更大的“退展”在后面。 每逢假期胖三斤保守了？ 这些省份减重“退展”居前 河南地区李女士告诉记者，她此前参与了阿福21天减重打卡行动，中秋国庆假期前往广东旅游，于10月5日返乡。“出发前瘦了2斤，回来一上秤，减重贡献变成了-2斤，”李女士说，“给全国网友‘拖后腿了’，广东早茶实在难以抗拒。” 李女士并非孤例。根据阿福公布的数据，在假期长胖人群中，体重涨了1-3斤的约27万人，大多数网友的体重管理“尚且可控”。胖了3斤至6斤的约9万人，已超过“每逢佳节胖三斤”的民间基准线；而胖6斤以上的有超1万人，网友自嘲“每逢佳节不是胖三斤，而是三公斤”。 从区域数据来看，广东、浙江、江苏、山东、河南位列增重省份前五。有网友表示，是不是美食大省，从增重斤数就看出来了。 不过，也有部分用户顶住“假期压力”，仍在为减重行动助力。中秋国庆假期，全国同时也有65万阿福网友体重下降，累计减重超100万斤。 假期长胖是客观规律？ 专家和阿福支招节后体重管理 值得注意的是，“放假变胖”这件事其实已经被相关研究验证过。德国哥廷根大学农业经济学与农村发展系于晓华教授等人2020年在《应用经济学快报》上发表一则研究，根据中国健康与营养调查（CHNS）数据考察中国国庆假期带来的增重效应。结果显示，中国成年人在国庆7天假期期间的平均增重斤数为1.56公斤，也就是三斤左右。 减重科普博主、上海市第六人民医院普外科副主任韩晓东接受记者采访时表示，节假日容易长胖，与饮食、运动、作息等密切相关。假期里聚餐外食较多，高糖、高油、高盐食物的摄入也多，同时运动减少、作息紊乱，带来了体重增加。节后可",
+    "url": "https://www.leiphone.com/category/industrynews/7kLgFJjmaGU8YuBW.html",
+    "imageUrl": null,
+    "source": "雷锋网",
+    "categoryId": null,
+    "publishedAt": "2026-10-07T04:17:00.000Z",
+    "createdAt": "2026-10-08T01:36:00.900Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "Education & Future Skills",
+    "contentFormats": [
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2161242,
+    "title": "Arctic Sea Ice Shrinks to Its 2026 Minimum",
+    "description": "Satellite records show Arctic sea ice covering less of the ocean in both winter and summer.",
+    "url": "https://science.nasa.gov/earth/earth-observatory/arctic-sea-ice-shrinks-to-its-2026-minimum/",
+    "imageUrl": null,
+    "source": "NASA",
+    "categoryId": null,
+    "publishedAt": "2026-10-07T04:00:00.000Z",
+    "createdAt": "2026-10-08T01:35:54.929Z",
+    "language": "en",
+    "region": "Global",
+    "topic": "Space & Aerospace",
+    "contentFormats": [
+      "Xiaohongshu Explainer",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
     "id": 2161224,
     "title": "Supercomputing researchers document evolution of AI hardware",
     "description": "An ongoing survey tracks the latest AI accelerator systems to keep hardware relevant for Lincoln Laboratory staff and sponsors.",

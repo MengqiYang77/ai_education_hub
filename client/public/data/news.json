@@ -1,5 +1,22 @@
 [
   {
+    "id": 2161328,
+    "title": "硅谷AI现状：谁有算力谁是爹",
+    "description": "马斯克连横A社，硅谷VC开始囤GPU",
+    "url": "https://www.qbitai.com/2026/10/502585.html",
+    "imageUrl": null,
+    "source": "量子位",
+    "categoryId": null,
+    "publishedAt": "2026-10-11T05:22:38.000Z",
+    "createdAt": "2026-10-12T01:03:23.887Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "Chips & Compute",
+    "contentFormats": [
+      "WeChat Deep Dive"
+    ]
+  },
+  {
     "id": 2161308,
     "title": "字节发现 DeepSeek 隐藏 Bug，加点空格，模型翻车",
     "description": "DeepSeek 的省钱杀手锏，为何成了致命盲区？ 作者丨 高允毅 编辑丨岑 峰 同一个问题问 DeepSeek 两次，只是多敲了几个空格，给出的答案居然一个像“天才”，一个像“智障”。 9月底，字节团队的最新论文 《Periodic Weak Spots: Phase Sensitivity from Chunked KV-Cache Compression》 ，直接点名了 DeepSeek V4 系列模型的 “神鬼二象性 ”问题。 图注：论文链接 https://arxiv.org/pdf/2609.36322 这本质上是底层算法偷懒导致的“周期性失忆”， 分块 KV Cache 压缩技术 把长上下文切块压缩处理，这就带来一个问题： “位置决定命运” 。如果你的核心词不巧落在了切块交界的“信息盲区”里，那模型只能胡言乱语。 想象一下，如果让大模型审阅几十页合同，而关键条款刚好卡在“信息盲区”，模型直接无视这条信息，给出相反的结论。而这个错误可能是你不小心加了点空白字符，模型直接翻了车，你还根本不知道问题出在哪。 而这种“神鬼二象性”的先天短板，绝非 DeepSeek 一家独有。在当下这个高喊“把长文本成本打下来”的时代，只要采用了这类分块压缩或稀疏化技术的模型，或多或少都有类似问题，比如开源的 Llama 3 系列。 01 字节论文抓住 DeepSeek 小辫子 字节最初的发现，源于让 DeepSeek-V4-Flash-Base 补全一段代码。 任务是补全一段 FP8 量化函数的最后一个 Token。按照代码逻辑，正确结果应该是8，但因为研究人员在代码最前面加了一串纯装饰用的等号，模型输出了32。 更奇怪的是，这种错误不是随机的，而是和等号的数量直接挂钩： 当把等号数量除以 4，如果余数是 0 或 1，模型大概率答错，错误率高达 71.3%；如果余数是 2 或 3，模型又能答对了，正确率高达 91.5%。 字节团队顺藤摸瓜，发现这是大模型采用 分块 KV Cache 压缩技术后 ，留下的一道先天短板。 分块 KV Cache 压缩技术，是DeepSeek用来解决长上下文显存压力问题的杀手锏，它把连续的 Token 按固定长度切割，每一段里的Token可以通过一个可学习的门控层，压缩成“小摘要”，这样长上下文的显存压力一下子就减轻了。 这解决了显存问题，但引入了",
@@ -12,6 +29,23 @@
     "language": "zh",
     "region": "China",
     "topic": "Education & Future Skills",
+    "contentFormats": [
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2161329,
+    "title": "西门子将亮相2026工博会：以软硬协同的工业全栈能力，推动物理AI加速落地",
+    "description": "西门子将以更集中、更场景化的方式，展示其工业全栈能力",
+    "url": "https://www.qbitai.com/2026/10/502541.html",
+    "imageUrl": null,
+    "source": "量子位",
+    "categoryId": null,
+    "publishedAt": "2026-10-10T10:30:36.000Z",
+    "createdAt": "2026-10-12T01:03:23.887Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "AI Models & Agents",
     "contentFormats": [
       "WeChat Deep Dive"
     ]

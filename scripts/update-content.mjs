@@ -1,4 +1,5 @@
 import { readFile, writeFile } from "node:fs/promises";
+import { isRelevantChineseNews } from "./news-relevance.mjs";
 
 const dataDir = new URL("../client/public/data/", import.meta.url);
 const recentCutoff = Date.now() - 1000 * 60 * 60 * 24 * 120;
@@ -96,7 +97,7 @@ async function updateNews() {
         const value = `${title} ${description}`;
         const language = detectLanguage(value);
         const relevant = feed.focused ? frontierPattern.test(value) || educationPattern.test(value) : frontierPattern.test(value) || (patterns["AI Models & Agents"].test(value) && educationPattern.test(value));
-        if (!title || !url || urls.has(url) || language !== feed.language || !relevant || Number.isNaN(date.getTime()) || date.getTime() < recentCutoff) continue;
+        if (!title || !url || urls.has(url) || language !== feed.language || !relevant || (language === "zh" && !isRelevantChineseNews({ title })) || Number.isNaN(date.getTime()) || date.getTime() < recentCutoff) continue;
         rows.push(normalizeNews({ id: nextId++, title, description: description || null, url, imageUrl: null, source: feed.source, categoryId: null, publishedAt: date.toISOString(), createdAt: new Date().toISOString() }));
         urls.add(url); added++;
       }

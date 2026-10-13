@@ -1,4 +1,5 @@
 import { mkdir, readFile, writeFile } from "node:fs/promises";
+import { isRelevantChineseNews } from "./news-relevance.mjs";
 
 const sourceDir = new URL("../client/public/data/", import.meta.url);
 const outputDir = new URL("../client/public/data/derived/", import.meta.url);
@@ -7,7 +8,14 @@ const read = async name => JSON.parse(await readFile(new URL(`${name}.json`, sou
 const write = async (name, rows) => writeFile(new URL(`${name}.json`, outputDir), JSON.stringify(rows));
 const newestFirst = rows => [...rows].sort((a, b) => String(b.publishedAt ?? "").localeCompare(String(a.publishedAt ?? "")));
 
-const news = newestFirst(await read("news"));
+const seenNewsTitles = new Set();
+const news = newestFirst((await read("news")).filter(row => row.language !== "zh" || isRelevantChineseNews(row)))
+  .filter(row => {
+    const key = String(row.title ?? "").replace(/[^\p{L}\p{N}]/gu, "").toLocaleLowerCase();
+    if (!key || seenNewsTitles.has(key)) return false;
+    seenNewsTitles.add(key);
+    return true;
+  });
 const research = newestFirst(await read("research"));
 const newsCard = row => ({
   id: row.id,

@@ -7,7 +7,9 @@ type DataRecord = Record<string, RecordValue>;
 async function load<T extends DataRecord>(name: string): Promise<T[]> {
   const response = await fetch(`/data/${name}.json`);
   if (!response.ok) throw new Error(`Unable to load ${name}`);
-  return response.json();
+  const rows = await response.json();
+  if (!Array.isArray(rows)) throw new Error(`Invalid data for ${name}`);
+  return rows;
 }
 
 const query = <T,>(key: unknown[], loader: () => Promise<T>, options?: Options) =>
@@ -25,21 +27,17 @@ export const trpc = {
     list: { useQuery: () => query(["tools"], () => load<any>("tools")) },
   },
   news: {
-    recent: { useQuery: (input?: { limit?: number }) => query(["news", input], async () => (await load<any>("news")).sort(byPublished).slice(0, input?.limit ?? 10)) },
-    byLanguage: { useQuery: (input: { language: string; limit?: number }) => query(["news", "language", input], async () => (await load<any>("news")).filter(x => x.language === input.language).sort(byPublished).slice(0, input.limit ?? 30)) },
-    byTopic: { useQuery: (input: { keyword: string; limit?: number }, options?: Options) => query(["news", "topic", input], async () => search(await load<any>("news"), input.keyword).slice(0, input.limit ?? 8), options) },
-    searchByTitle: { useQuery: (input: { q: string }, options?: Options) => query(["news", "search", input.q], async () => search(await load<any>("news"), input.q).slice(0, 20), options) },
+    recent: { useQuery: (input?: { limit?: number }) => query(["news", "recent", input], async () => (await load<any>("derived/news-recent")).slice(0, input?.limit ?? 10)) },
+    byLanguage: { useQuery: (input: { language: string; limit?: number }) => query(["news", "language", input], async () => (await load<any>(`derived/news-${input.language}`)).slice(0, input.limit ?? 30)) },
+    byTopic: { useQuery: (input: { keyword: string; limit?: number }, options?: Options) => query(["news", "topic", input], async () => search(await load<any>("derived/news-index"), input.keyword).slice(0, input.limit ?? 8), options) },
+    searchByTitle: { useQuery: (input: { q: string }, options?: Options) => query(["news", "search", input.q], async () => search(await load<any>("derived/news-index"), input.q).slice(0, 20), options) },
   },
   research: {
-    list: { useQuery: (input?: { limit?: number; topic?: string }) => query(["research", input], async () => (await load<any>("research")).filter(x => !input?.topic || x.topic === input.topic).sort(byPublished).slice(0, input?.limit ?? 20)) },
-    byTopic: { useQuery: (input: { topic: string; limit?: number }, options?: Options) => query(["research", "topic", input], async () => (await load<any>("research")).filter(x => x.topic === input.topic).sort(byPublished).slice(0, input.limit ?? 8), options) },
-    searchByTitle: { useQuery: (input: { q: string }, options?: Options) => query(["research", "search", input.q], async () => search(await load<any>("research"), input.q).slice(0, 20), options) },
+    list: { useQuery: (input?: { limit?: number; topic?: string }) => query(["research", "list", input], async () => (await load<any>(input?.topic ? "derived/research-list" : "derived/research-recent")).filter(x => !input?.topic || x.topic === input.topic).slice(0, input?.limit ?? 20)) },
+    byTopic: { useQuery: (input: { topic: string; limit?: number }, options?: Options) => query(["research", "topic", input], async () => (await load<any>("derived/research-list")).filter(x => x.topic === input.topic).slice(0, input.limit ?? 8), options) },
+    searchByTitle: { useQuery: (input: { q: string }, options?: Options) => query(["research", "search", input.q], async () => search(await load<any>("derived/research-index"), input.q).slice(0, 20), options) },
   },
 };
-
-function byPublished(a: DataRecord, b: DataRecord) {
-  return String(b.publishedAt ?? "").localeCompare(String(a.publishedAt ?? ""));
-}
 
 function search<T extends DataRecord>(items: T[], term: string) {
   const needle = term.trim().toLocaleLowerCase();

@@ -19,10 +19,14 @@ const topics = [
 export default function News() {
   const [selectedTopic, setSelectedTopic] = useState<string | null>(null);
   const [tabMode, setTabMode] = useState<TabMode>("global");
-  const { data: globalNews } = trpc.news.byLanguage.useQuery({ language: "en", limit: 300 });
-  const { data: chinaNews } = trpc.news.byLanguage.useQuery({ language: "zh", limit: 300 });
+  const globalQuery = trpc.news.byLanguage.useQuery({ language: "en", limit: 300 });
+  const chinaQuery = trpc.news.byLanguage.useQuery({ language: "zh", limit: 300 });
+  const { data: globalNews } = globalQuery;
+  const { data: chinaNews } = chinaQuery;
+  const activeQuery = tabMode === "china" ? chinaQuery : globalQuery;
   const activeNews = tabMode === "china" ? chinaNews : globalNews;
   const filteredNews = selectedTopic ? activeNews?.filter((item) => item.topic === selectedTopic) : activeNews;
+  const count = (value: number) => activeQuery.isPending ? "…" : activeQuery.isError ? "—" : value;
 
   return (
     <div className="min-h-screen bg-background">
@@ -101,7 +105,7 @@ export default function News() {
               <h2 className="text-2xl font-bold">{tabMode === "china" ? "按前沿科技主题浏览" : "Explore frontier technology"}</h2>
             </div>
             <button onClick={() => setSelectedTopic(null)} className={`text-sm px-3 py-2 border ${selectedTopic === null ? "border-foreground bg-foreground text-background" : "border-border"}`}>
-              {tabMode === "china" ? `全部 ${activeNews?.length ?? 0}` : `All ${activeNews?.length ?? 0}`}
+              {tabMode === "china" ? `全部 ${count(activeNews?.length ?? 0)}` : `All ${count(activeNews?.length ?? 0)}`}
             </button>
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-3">
@@ -112,7 +116,7 @@ export default function News() {
                 <button key={topic.name} onClick={() => setSelectedTopic(selected ? null : topic.name)} className={`text-left p-4 border transition-all ${selected ? "border-foreground bg-foreground text-background" : "border-border hover:border-foreground hover:bg-muted/40"}`}>
                   <div className="flex justify-between gap-3">
                     <span className="font-semibold">{tabMode === "china" ? topic.zh : topic.name}</span>
-                    <span className="text-sm opacity-60 tabular-nums">{count}</span>
+                    <span className="text-sm opacity-60 tabular-nums">{activeQuery.isPending ? "…" : activeQuery.isError ? "—" : count}</span>
                   </div>
                   <p className="text-xs opacity-60 mt-1">{tabMode === "china" ? topic.name : topic.zh}</p>
                   <p className="text-xs opacity-70 mt-3">{tabMode === "china" ? topic.zhDescription : topic.description}</p>
@@ -130,9 +134,20 @@ export default function News() {
             <h2 className="text-2xl font-bold">
               {selectedTopic ? (tabMode === "china" ? topics.find(topic => topic.name === selectedTopic)?.zh : selectedTopic) : (tabMode === "china" ? "全部中文资讯" : "All English stories")}
             </h2>
-            <span className="text-sm text-muted-foreground">{filteredNews?.length ?? 0} {tabMode === "china" ? "条" : "stories"}</span>
+            <span className="text-sm text-muted-foreground">{count(filteredNews?.length ?? 0)} {tabMode === "china" ? "条" : "stories"}</span>
           </div>
-          {filteredNews && filteredNews.length > 0 ? (
+          {activeQuery.isPending ? (
+            <p className="text-center py-16 text-muted-foreground" role="status">
+              {tabMode === "china" ? "正在加载新闻…" : "Loading news…"}
+            </p>
+          ) : activeQuery.isError ? (
+            <div className="text-center py-16" role="alert">
+              <p className="text-muted-foreground mb-4">{tabMode === "china" ? "新闻暂时无法加载，请重试。" : "News could not be loaded. Please try again."}</p>
+              <button className="border border-foreground px-4 py-2 text-sm" onClick={() => activeQuery.refetch()}>
+                {tabMode === "china" ? "重新加载" : "Retry"}
+              </button>
+            </div>
+          ) : filteredNews && filteredNews.length > 0 ? (
             <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
               {filteredNews.map((item) => (
                 <a

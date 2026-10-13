@@ -4,8 +4,9 @@
   "type": "module",
   "license": "MIT",
   "scripts": {
+    "data:build": "node scripts/build-public-data.mjs",
     "dev": "NODE_ENV=development tsx watch server/_core/index.ts",
-    "build": "vite build",
+    "build": "node scripts/build-public-data.mjs && vite build",
     "start": "vite preview --host 0.0.0.0",
     "check": "tsc --noEmit",
     "content:import": "node scripts/import-csv.mjs",

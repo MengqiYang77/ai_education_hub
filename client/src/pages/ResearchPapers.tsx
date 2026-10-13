@@ -6,7 +6,7 @@ export default function ResearchPapers() {
   // Research papers are English only, no language filter needed
   const [categoryFilter, setCategoryFilter] = useState<string | null>(null);
 
-  const { data: papers, isLoading } = trpc.research.list.useQuery({
+  const { data: papers, isPending, isError, refetch } = trpc.research.list.useQuery({
     topic: categoryFilter || undefined,
   });
 
@@ -79,9 +79,14 @@ export default function ResearchPapers() {
         </div>
 
         {/* Papers List */}
-        {isLoading ? (
+        {isPending ? (
           <div className="text-center py-12">
             <p className="text-gray-600">Loading research papers...</p>
+          </div>
+        ) : isError ? (
+          <div className="text-center py-12" role="alert">
+            <p className="text-gray-600 mb-3">Research papers could not be loaded.</p>
+            <button className="underline" onClick={() => refetch()}>Retry</button>
           </div>
         ) : filteredPapers.length === 0 ? (
           <div className="text-center py-12">

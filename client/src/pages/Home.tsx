@@ -8,8 +8,8 @@ import { useState } from "react";
 export default function Home() {
   const [searchQuery, setSearchQuery] = useState("");
   const { data: categories } = trpc.categories.list.useQuery();
-  const { data: news } = trpc.news.recent.useQuery({ limit: 8 });
-  const { data: research } = trpc.research.list.useQuery({ limit: 8 });
+  const { data: news, isPending: newsPending, isError: newsError, refetch: retryNews } = trpc.news.recent.useQuery({ limit: 8 });
+  const { data: research, isPending: researchPending, isError: researchError, refetch: retryResearch } = trpc.research.list.useQuery({ limit: 8 });
 
   const handleSearch = (e: React.FormEvent) => {
     e.preventDefault();
@@ -102,6 +102,8 @@ export default function Home() {
               </div>
               
               <div className="space-y-6">
+                {newsPending && <p className="text-muted-foreground" role="status">Loading news…</p>}
+                {newsError && <p className="text-muted-foreground" role="alert">News could not be loaded. <button className="underline" onClick={() => retryNews()}>Retry</button></p>}
                 {news?.slice(0, 6).map((item) => (
                   <a
                     key={item.id}
@@ -151,6 +153,8 @@ export default function Home() {
               </div>
               
               <div className="space-y-6">
+                {researchPending && <p className="text-muted-foreground" role="status">Loading research…</p>}
+                {researchError && <p className="text-muted-foreground" role="alert">Research could not be loaded. <button className="underline" onClick={() => retryResearch()}>Retry</button></p>}
                 {research?.slice(0, 6).map((paper: any) => (
                   <a
                     key={paper.id}

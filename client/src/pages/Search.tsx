@@ -25,11 +25,11 @@ export default function Search() {
   // Read q param synchronously — window.location.search is always available at render time
   const q = new URLSearchParams(window.location.search).get("q") ?? "";
 
-  const { data: newsResults, isLoading: newsLoading } = trpc.news.searchByTitle.useQuery(
+  const { data: newsResults, isPending: newsLoading, isError: newsError, refetch: retryNews } = trpc.news.searchByTitle.useQuery(
     { q },
     { enabled: !!q }
   );
-  const { data: researchResults, isLoading: researchLoading } = trpc.research.searchByTitle.useQuery(
+  const { data: researchResults, isPending: researchLoading, isError: researchError, refetch: retryResearch } = trpc.research.searchByTitle.useQuery(
     { q },
     { enabled: !!q }
   );
@@ -64,7 +64,7 @@ export default function Search() {
               <p className="text-sm text-muted-foreground mb-1">Search results for</p>
               <h1 className="text-3xl font-bold">"{q}"</h1>
               <p className="text-sm text-muted-foreground mt-2">
-                {newsCount + researchCount} results — {newsCount} news articles, {researchCount} research papers
+                {newsLoading || researchLoading ? "Searching…" : `${newsCount + researchCount} results — ${newsCount} news articles, ${researchCount} research papers`}
               </p>
             </>
           ) : (
@@ -86,11 +86,11 @@ export default function Search() {
               <div className="flex items-center gap-2 mb-6">
                 <Newspaper className="w-5 h-5" />
                 <h2 className="text-xl font-semibold">News</h2>
-                <span className="text-sm text-muted-foreground ml-1">({newsCount})</span>
+                <span className="text-sm text-muted-foreground ml-1">({newsLoading ? "…" : newsError ? "—" : newsCount})</span>
               </div>
 
-              {newsLoading ? (
-                <div className="space-y-4">
+                {newsLoading ? (
+                  <div className="space-y-4">
                   {[1, 2, 3].map(i => (
                     <div key={i} className="border-b border-border pb-4 animate-pulse">
                       <div className="h-4 bg-muted rounded w-3/4 mb-2" />
@@ -98,7 +98,9 @@ export default function Search() {
                     </div>
                   ))}
                 </div>
-              ) : newsCount === 0 ? (
+                ) : newsError ? (
+                  <p className="text-muted-foreground text-sm py-8" role="alert">News could not be loaded. <button className="underline" onClick={() => retryNews()}>Retry</button></p>
+                ) : newsCount === 0 ? (
                 <p className="text-muted-foreground text-sm py-8">No news articles found for "{q}".</p>
               ) : (
                 <div className="space-y-5">
@@ -140,7 +142,7 @@ export default function Search() {
               <div className="flex items-center gap-2 mb-6">
                 <FileText className="w-5 h-5" />
                 <h2 className="text-xl font-semibold">Research</h2>
-                <span className="text-sm text-muted-foreground ml-1">({researchCount})</span>
+                <span className="text-sm text-muted-foreground ml-1">({researchLoading ? "…" : researchError ? "—" : researchCount})</span>
               </div>
 
               {researchLoading ? (
@@ -152,6 +154,8 @@ export default function Search() {
                     </div>
                   ))}
                 </div>
+              ) : researchError ? (
+                <p className="text-muted-foreground text-sm py-8" role="alert">Research could not be loaded. <button className="underline" onClick={() => retryResearch()}>Retry</button></p>
               ) : researchCount === 0 ? (
                 <p className="text-muted-foreground text-sm py-8">No research papers found for "{q}".</p>
               ) : (

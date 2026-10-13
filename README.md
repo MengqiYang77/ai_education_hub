@@ -13,6 +13,8 @@ pnpm dev
 
 Production content lives in `client/public/data`. The scheduled GitHub Action runs every day at 06:00 Asia/Shanghai, adds only unseen URLs, and commits changed JSON files. Vercel then deploys the commit automatically.
 
+The build creates smaller, page-specific files in `client/public/data/derived/` from the canonical news and research JSON. These generated files are not committed; every deployment regenerates them from the latest content.
+
 To run the same update manually:
 
 ```bash

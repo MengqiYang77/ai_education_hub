@@ -18,12 +18,12 @@ export default function Topic() {
   const { topicName } = useParams<{ topicName: string }>();
   const decodedTopic = decodeURIComponent(topicName ?? "");
 
-  const { data: news, isLoading: newsLoading } = trpc.news.byTopic.useQuery(
+  const { data: news, isPending: newsLoading, isError: newsError, refetch: retryNews } = trpc.news.byTopic.useQuery(
     { keyword: decodedTopic, limit: 8 },
     { enabled: !!decodedTopic }
   );
 
-  const { data: research, isLoading: researchLoading } = trpc.research.byTopic.useQuery(
+  const { data: research, isPending: researchLoading, isError: researchError, refetch: retryResearch } = trpc.research.byTopic.useQuery(
     { topic: decodedTopic, limit: 8 },
     { enabled: !!decodedTopic }
   );
@@ -112,7 +112,8 @@ export default function Topic() {
                     </article>
                   </a>
                 ))}
-                {!newsLoading && (!news || news.length === 0) && (
+                {newsError && <p className="text-muted-foreground text-sm py-8" role="alert">News could not be loaded. <button className="underline" onClick={() => retryNews()}>Retry</button></p>}
+                {!newsLoading && !newsError && (!news || news.length === 0) && (
                   <p className="text-muted-foreground text-sm py-8 border-b border-border">
                     No news articles found for this topic yet. Check back after the next scheduled fetch.
                   </p>
@@ -178,7 +179,8 @@ export default function Topic() {
                     </article>
                   </a>
                 ))}
-                {!researchLoading && (!research || research.length === 0) && (
+                {researchError && <p className="text-muted-foreground text-sm py-8" role="alert">Research could not be loaded. <button className="underline" onClick={() => retryResearch()}>Retry</button></p>}
+                {!researchLoading && !researchError && (!research || research.length === 0) && (
                   <p className="text-muted-foreground text-sm py-8 border-b border-border">
                     No research papers found for this topic yet.
                   </p>

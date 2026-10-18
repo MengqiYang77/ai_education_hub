@@ -1,5 +1,39 @@
 [
   {
+    "id": 2161398,
+    "title": "Giving AI a “crystal clear” view of the materials world",
+    "description": "New research can help AI models understand crystalline materials in 3D and reason about their properties.",
+    "url": "https://news.mit.edu/2026/giving-ai-crystal-clear-view-of-materials-world-1018",
+    "imageUrl": null,
+    "source": "MIT AI",
+    "categoryId": null,
+    "publishedAt": "2026-10-18T04:00:00.000Z",
+    "createdAt": "2026-10-18T23:56:55.846Z",
+    "language": "en",
+    "region": "Global",
+    "topic": "AI Models & Agents",
+    "contentFormats": [
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2161399,
+    "title": "清华开源！智能体操作系统任务成本降83%，AI记忆可查可改",
+    "description": "整套系统原生支持MCP",
+    "url": "https://www.qbitai.com/2026/10/503935.html",
+    "imageUrl": null,
+    "source": "量子位",
+    "categoryId": null,
+    "publishedAt": "2026-10-17T12:10:35.000Z",
+    "createdAt": "2026-10-18T23:57:01.587Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "AI Models & Agents",
+    "contentFormats": [
+      "WeChat Deep Dive"
+    ]
+  },
+  {
     "id": 2161389,
     "title": "NASA Names Stephen Cash Marshall Space Flight Center Director",
     "description": "NASA Administrator Jared Isaacman has named Stephen Cash director of the agency’s Marshall Space Flight Center in Huntsville, Alabama, effective Monday, Oct. 19. Cash, a veteran NASA engineer and aerospace executive, returns to lead the center where he began his career more than four decades ago. “Marshall contributions to NASA&#8217;s missions are historic and it&#8217;s [&#8230;]",

@@ -1,5 +1,163 @@
 [
   {
+    "id": 2161402,
+    "title": "NASA Improves Shock, Vibration Analysis",
+    "description": "Rockets vibrate, shake, and flex intensely as they climb into space, and spacecraft packed with delicate scientific instruments must survive those forces. Before any rocket leaves the ground, NASA engineers work to predict how those stresses will affect every part of a spacecraft. To do that, engineers in the Dynamic Environments Group with NASA’s Launch [&#8230;]",
+    "url": "https://www.nasa.gov/centers-and-facilities/kennedy/nasa-improves-shock-vibration-analysis/",
+    "imageUrl": null,
+    "source": "NASA",
+    "categoryId": null,
+    "publishedAt": "2026-10-19T19:28:32.000Z",
+    "createdAt": "2026-10-20T00:55:30.226Z",
+    "language": "en",
+    "region": "Global",
+    "topic": "Space & Aerospace",
+    "contentFormats": [
+      "Xiaohongshu Explainer",
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2161400,
+    "title": "Why teaching AI about symmetry could make prenatal diagnosis more reliable",
+    "description": "A model developed by researchers at MIT and Boston Children's Hospital adjusts scans on the fly to track fetal movement, potentially sparing families repeat hospital visits.",
+    "url": "https://news.mit.edu/2026/teaching-ai-about-symmetry-could-make-prenatal-diagnosis-more-reliable-1019",
+    "imageUrl": null,
+    "source": "MIT AI",
+    "categoryId": null,
+    "publishedAt": "2026-10-19T18:20:00.000Z",
+    "createdAt": "2026-10-20T00:55:28.062Z",
+    "language": "en",
+    "region": "Global",
+    "topic": "Education & Future Skills",
+    "contentFormats": [
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2161403,
+    "title": "NASA’s Simulated Mars Crew Marks One Year Inside Habitat",
+    "description": "The four crew members in NASA’s simulated Mars mission have spent the past year living and working in isolation in a confined habitat at NASA’s Johnson Space Center in Houston.",
+    "url": "https://www.nasa.gov/humans-in-space/nasas-simulated-mars-crew-marks-one-year-inside-habitat/",
+    "imageUrl": null,
+    "source": "NASA",
+    "categoryId": null,
+    "publishedAt": "2026-10-19T18:01:51.000Z",
+    "createdAt": "2026-10-20T00:55:30.226Z",
+    "language": "en",
+    "region": "Global",
+    "topic": "Space & Aerospace",
+    "contentFormats": [
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2161406,
+    "title": "What can AI learn from children?",
+    "description": "The post What can AI learn from children? appeared first on Berkeley News .",
+    "url": "https://ls.berkeley.edu/news/what-can-ai-learn-children",
+    "imageUrl": null,
+    "source": "Berkeley News",
+    "categoryId": null,
+    "publishedAt": "2026-10-19T17:51:17.000Z",
+    "createdAt": "2026-10-20T00:55:32.048Z",
+    "language": "en",
+    "region": "Global",
+    "topic": "AI Models & Agents",
+    "contentFormats": [
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2161405,
+    "title": "Is it already too late to reduce catastrophic AI risk?",
+    "description": "New Kennedy School ‘pre-mortem’ lays out threats, vulnerabilities, and possible steps, warns firms must act now",
+    "url": "https://news.harvard.edu/gazette/story/2026/10/is-it-already-too-late-to-reduce-catastrophic-ai-risk/",
+    "imageUrl": null,
+    "source": "Harvard Gazette",
+    "categoryId": null,
+    "publishedAt": "2026-10-19T17:40:26.000Z",
+    "createdAt": "2026-10-20T00:55:31.703Z",
+    "language": "en",
+    "region": "Global",
+    "topic": "Education & Future Skills",
+    "contentFormats": [
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2161404,
+    "title": "Martian Dawn",
+    "description": "NASA&#8217;s Curiosity captures the dawn on Mars – as well as elongated ridges formed by wind erosion, or yardangs – in this close-up from a panorama released on Oct. 6, 2026. This is the most detailed view yet of distant, wind-carved Martian cliffs, highlighting features the mission’s scientists have long been waiting to see up [&#8230;]",
+    "url": "https://www.nasa.gov/image-article/martian-dawn/",
+    "imageUrl": null,
+    "source": "NASA",
+    "categoryId": null,
+    "publishedAt": "2026-10-19T16:03:51.000Z",
+    "createdAt": "2026-10-20T00:55:30.226Z",
+    "language": "en",
+    "region": "Global",
+    "topic": "Space & Aerospace",
+    "contentFormats": [
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2161401,
+    "title": "The Robot I Didn’t Expect to Build",
+    "description": "Agility Robotics , the company I cofounded out of my robotics lab at Oregon State University in 2015, has just launched Digit 5 . It’s designed to be the first humanoid robot that can safely and economically do useful work at scale, allowing us to bring tens of thousands of humanoid workers into the real world. Engineered to lift 23-kilogram bins onto high shelves and with a battery that can run for 90 minutes on a 9-minute charge, Digit 5’s goal is to handle heavy warehouse tasks shift after shift, filling the need for labor in jobs that are too physically stressful or too dull for humans to want to do. Digit 5 is what Agility has been working toward for over a decade. But the robot is heavy and bulky, lacking the graceful natural motion of its predecessors, and it’s farther than I thought possible from the robot I dreamed of building when I started this company. To deliver a useful commercial product, Agility has taken a path that is very different from what I first imagined. From AT",
+    "url": "https://spectrum.ieee.org/agility-robotics-digit-5-redesign",
+    "imageUrl": null,
+    "source": "IEEE Spectrum Robotics",
+    "categoryId": null,
+    "publishedAt": "2026-10-19T13:00:03.000Z",
+    "createdAt": "2026-10-20T00:55:30.111Z",
+    "language": "en",
+    "region": "Global",
+    "topic": "Robotics & Embodied AI",
+    "contentFormats": [
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2161407,
+    "title": "光量子计算，距离真正的产业化还有多远？",
+    "description": "导语：产业化落地，光量子计算的新考场 记者：郭思 编辑：包永刚 摩尔定律走到红利尽头，AI、新药研发、新材料探索对算力的需求还在不断扩张。依靠持续堆 GPU 提升算力的老路越来越不划算，存算一体、Chiplet、光互连等技术竞相寻找算力增量，量子计算因此被寄予厚望，光量子路线更是长期收到行业关注与讨论。它在实验室创下震撼的量子优越性记录，其工程化进展与产业化时间表也始终是业界关注的焦点。 光量子计算，会成为下一代算力的破局钥匙，还是一场尚待产业化验证的技术革命？ 2026 年 10 月 14 日深圳湾芯展，图灵量子创始人、上海交大无锡光子芯片研究院院长金贤敏带领团队在同一天三项动作接连落地，光子芯片产业合作签约、先进智算联盟扩容，以及粤港澳大湾区量超智融合算力中心共建签约。 这一连串产业布局，提供了一个跳出纸面参数的视角：量子计算的对手，早已不只是物理，芯片工程、产业链生态、商业落地的大考，已然开场。 量子计算的对手，早就不只是物理指标 量子计算走入大众视野，并非最近一两年才发生的新事。伴随摩尔定律见顶，算力供需矛盾日益凸显，量子计算的价值被重新放到聚光灯下。 数耀量生 CTO 邱迪生，曾对传统深度学习与量子计算的求解逻辑做出形象对比：深度学习常用的随机梯度下降，相当于在局部点位附近小范围试探，摸索迭代前进方向，属于局部搜索，很容易出现震荡徘徊；而量子计算能够一次性扫描完整的解空间地形，直接定位最优解，他将这种核心差异概括为 “量子全局最优性”。 图灵量子首席科学家金贤敏则认为，量子计算之所以能够获得长期关注，并不源于某一项单点应用，它是继牛顿力学体系之后，可以系统性赋能整个科学发展的底层基础方向。 早在上世纪四五十年代，晶体管、激光器、核能等成果，就已经完成了第一波量子技术的产业化应用；而当下，人类对量子体系、物质微观体系的操控能力实现跃升，叠加 AI 算力需求爆发，才推动量子计算走到产业发展的关键窗口。 行业经久不衰的疑问依旧存在：超导、离子阱、光量子、中性原子，多条量子技术路线同台竞技，谁能走到商业化的终点？ 纵观当前行业进展，在众多技术路径里，公开实验中同时达成 “可制造、可扩展、已演示量子优越性” 三大条件的，主要集中在光量子与超导两大路线。 超导路线起步较早。2025年，中国科学技术大学团队构建的105比特超导量子计算原型机“祖冲之三号”，在量子随机线路",
+    "url": "https://www.leiphone.com/category/chips/1LbhTsMb0OyPhsw6.html",
+    "imageUrl": null,
+    "source": "雷锋网",
+    "categoryId": null,
+    "publishedAt": "2026-10-19T06:48:00.000Z",
+    "createdAt": "2026-10-20T00:55:39.331Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "Chips & Compute",
+    "contentFormats": [
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2161408,
+    "title": "复旦贾萧松：VLA、WAM新架构层出不穷，但真正的瓶颈不在模型架构 | 世界模型50人",
+    "description": "严骏驰一通电话，贾萧松五年几次转向。 作者：李秋悦 编辑：吴彤 2021年年底，贾萧松直博上海交通大学没多久，在宿舍里接到一个电话。 电话是贾萧松的博导严骏驰打来的，问他接下来读博想研究什么？ 贾萧松的回答是继续做自动驾驶轨迹预测。 两年前，贾萧松在交大致远学院读大三，参加了加州大学伯克利分校的一个暑研项目，在控制理论学者富塚城义（Masayoshi Tomizuka）团队做研究，从车辆交互与轨迹预测入门自动驾驶领域。贾萧松想继续做老本行的打算，本无可厚非。 2019年，贾萧松到UC Berkeley访学 但严骏驰建议贾萧松换一条路，理由是预测夹在感知与决策之间，上下游都受限制，不如做端到端。 彼时的贾萧松也意识到了轨迹预测研究的尴尬之处，能改进的空间很有限，更多的是小修小补。于是，他在严骏驰和上海人工智能实验室OpenDriveLab创始人李弘扬的指导下，开始研究端到端自动驾驶。 三年后，贾萧松和合作者们研究的Think2Drive在ECCV上一经发表，就引人瞩目。 当时，强化学习在复杂驾驶环境中往往需要极其昂贵的交互成本。Think2Drive让模型在低维潜在空间里模拟交互，大幅降低了策略训练成本。他们在一张NVIDIA A6000 GPU上，用三天左右的时间，就训练出能够完成CARLA Leaderboard 2.0复杂驾驶任务的策略。 此后，贾萧松又转向闭环评测、交互式生成仿真领域。 从传统模块化到端到端，从模仿学习到强化学习，再到世界模型，贾萧松的研究经历恰好穿过了自动驾驶过去几年几次重要的技术路线变化。这些研究并非由他一个人推动，也不是整个行业在同一时间完成的线性转向。 但他的亲历提供了一个观察技术演进的视角：每一次转向发生时，旧方法究竟遇到了什么问题，又为什么需要下一种解法？ 如今，贾萧松在复旦大学可信具身智能研究院担任助理教授，研究灵巧手与Ego数据。而自动驾驶过去几年遇到的问题，正在具身智能领域以不同形式重新出现。 以下是雷峰网左林右狸频道与贾萧松的对话，在不改变原意的基础上有所编辑： 01 端到端最重要的价值是直接优化最终目标 左林右狸频道：怎么理解当时严骏驰老师关于“研究轨迹预测会受到上下游限制”的判断？ 贾萧松： 当时研究轨迹预测，通常是给定过去几帧车辆和行人的坐标，预测它们未来的位置。但问题在于，很多与预测有关的信息，可能在上游就已经丢失了",
+    "url": "https://www.leiphone.com/category/academic/omK9nE62h3kHaQg5.html",
+    "imageUrl": null,
+    "source": "雷锋网",
+    "categoryId": null,
+    "publishedAt": "2026-10-19T03:06:00.000Z",
+    "createdAt": "2026-10-20T00:55:39.331Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "Robotics & Embodied AI",
+    "contentFormats": [
+      "WeChat Deep Dive"
+    ]
+  },
+  {
     "id": 2161398,
     "title": "Giving AI a “crystal clear” view of the materials world",
     "description": "New research can help AI models understand crystalline materials in 3D and reason about their properties.",

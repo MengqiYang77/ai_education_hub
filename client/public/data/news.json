@@ -1,5 +1,129 @@
 [
   {
+    "id": 2161413,
+    "title": "Should parents be wary of Silicon Valley’s influence in schools?",
+    "description": "Times reporter says students need ‘tech civics’ to understand value, drawbacks amid breakneck advance of tools like AI",
+    "url": "https://news.harvard.edu/gazette/story/2026/10/should-parents-be-wary-of-silicon-valleys-influence-in-schools/",
+    "imageUrl": null,
+    "source": "Harvard Gazette",
+    "categoryId": null,
+    "publishedAt": "2026-10-20T21:07:32.000Z",
+    "createdAt": "2026-10-21T00:24:03.245Z",
+    "language": "en",
+    "region": "Global",
+    "topic": "Chips & Compute",
+    "contentFormats": [
+      "Xiaohongshu Explainer",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2161414,
+    "title": "How AI is transforming computing education at UC Berkeley",
+    "description": "Here's why UC Berkeley data science faculty say AI tools should complement, rather than replace, the fundamental problem-solving they teach. The post How AI is transforming computing education at UC Berkeley appeared first on Berkeley News .",
+    "url": "https://cdss.berkeley.edu/news/how-ai-transforming-computing-education-uc-berkeley",
+    "imageUrl": null,
+    "source": "Berkeley News",
+    "categoryId": null,
+    "publishedAt": "2026-10-20T19:49:46.000Z",
+    "createdAt": "2026-10-21T00:24:04.340Z",
+    "language": "en",
+    "region": "Global",
+    "topic": "Education & Future Skills",
+    "contentFormats": [
+      "Xiaohongshu Explainer",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2161409,
+    "title": "NASA’s SR-1 Freedom Advances with Progress on Nuclear Power Module",
+    "description": "Destined for Mars and beyond, NASA’s Space Reactor-1 (SR-1) Freedom will be humanity’s first fission-powered spacecraft to travel outside Earth’s orbit. Announced during NASA’s “Ignition” event, this mission will demonstrate nuclear electric propulsion in deep space, and progress is underway on its key element: the nuclear power module. To expedite development of the spacecraft, NASA [&#8230;]",
+    "url": "https://www.nasa.gov/centers-and-facilities/glenn/sr-1-freedom-advances-with-progress-on-nuclear-power-module/",
+    "imageUrl": null,
+    "source": "NASA",
+    "categoryId": null,
+    "publishedAt": "2026-10-20T18:11:33.000Z",
+    "createdAt": "2026-10-21T00:24:02.144Z",
+    "language": "en",
+    "region": "Global",
+    "topic": "Space & Aerospace",
+    "contentFormats": [
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2161410,
+    "title": "NASA Experimental Mars Helicopter Blade Designs Target Longer Flights",
+    "description": "NASA researchers are developing the future of flight on Mars, laying the groundwork for helicopters with the ability to fly higher and farther while conducting science on the Red Planet. Using high-fidelity computer simulations and wind tunnel tests, engineers are reimagining the rotorcraft blades that could carry the next generation of Mars flyers.",
+    "url": "https://www.nasa.gov/science-research/aeronautics-research/nasa-experimental-mars-helicopter-blade-designs-target-longer-flights/",
+    "imageUrl": null,
+    "source": "NASA",
+    "categoryId": null,
+    "publishedAt": "2026-10-20T16:02:35.000Z",
+    "createdAt": "2026-10-21T00:24:02.144Z",
+    "language": "en",
+    "region": "Global",
+    "topic": "Chips & Compute",
+    "contentFormats": [
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2161411,
+    "title": "NASA Provides Progress Update on Moon Base Rovers",
+    "description": "As NASA works to build the Moon Base, crewed and robotic lunar rovers will play a crucial role during early development through technology demonstrations, astronaut transport, terrain mapping, scientific investigations, and resource prospecting. Data from these early missions will inform future mobility systems and infrastructure needed for astronauts to live and work on the Moon. [&#8230;]",
+    "url": "https://www.nasa.gov/missions/moon-base/nasa-provides-progress-update-on-moon-base-rovers/",
+    "imageUrl": null,
+    "source": "NASA",
+    "categoryId": null,
+    "publishedAt": "2026-10-20T15:00:10.000Z",
+    "createdAt": "2026-10-21T00:24:02.144Z",
+    "language": "en",
+    "region": "Global",
+    "topic": "Robotics & Embodied AI",
+    "contentFormats": [
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2161416,
+    "title": "启元机器人新进展：北大董豪团队推出 HIL-UMI，让后训练摆脱「真机依赖」",
+    "description": "继无本体之后，具身后训练范式有了新进展。 作者丨 齐铖湧 编辑丨岑 峰 最近，具身行业讨论“无本体进行后训练的可能性”的热度很高。国内外目前还没有团队做出可行方案。 说白了，无论是大模型还是具身机器人，想真正好用，光靠预训练打基础可不行，最终落地全靠“后训练”来调教。启元机器人首席科学家董豪告诉AI科技评论：“预训练提升的是下限，上限还得看后训练。” 当前具身公司追求进厂打工、家庭保洁等真实落地，比的就是成功率，也就是在比拼后训练的实力。 可后训练，难就难在它得跟真实物理世界打交道，过去都得用纯真机数据。 但真机训练成本太高，要大规模铺开，那么多的机器人本体，硬件磨损、场地、人工都是天价。所以，行业内预训练已经开始转向用“无本体”设备采集数据，虽然量上去了，但传统后训练最关键的“纠错”环节却没法搞定。 为了解决这个行业难题，北大和启元机器人董豪团队推出了HIL-UMI。 这个工作，围绕着具身后训练阶段无本体的前提下，围绕着最关键的“纠错”环节展开。 论文地址：https://arxiv.org/pdf/2609.20659 项目主页：https://hil-umi.github.io 01 具身后训练的成本， 为何远超大模型RLHF？ 跟大模型比起来，具身行业的后训练太贵，是很多具身模型无法尝试Scaling的重要原因。 大语言模型能变得这么好用，大家心里都清楚：不光是预训练数据量大，更关键的是后面有RLHF（人类反馈强化学习，可以简单理解为数据标注）和DPO这些“后训练”的功劳。 但具身机器人的后训练，成本可比大模型的RLHF高出不止百倍。大模型做RLHF，无非是请更多人坐在电脑前点点选选；可具身机器人，那就得真刀真枪地跟物理世界打交道。 拿传统上最常用的DAgger，也就是用人类或者算法作为专家评价后训练的模式，这套流程虽然有效，但又贵又慢。 比较常见的，是以传统的真机人在回路（也就是 HG-DAgger：Human-Gated DAgger），机械臂在运作，人类操作员坐在旁边高度紧张地盯着，等它快抓空、快撞车的时候紧急接管，把正确的轨迹录下来，这就是人类来把关整个训练回路。 最麻烦的是，每次校正完，还得人工把被碰乱的现场恢复原样。等机器人执行，人工干预，环境复位，一坐一下午，能用的数据不多。 这其中绝大部分时间，都耗在机器人的笨拙动作和人工环境复位上。 这种又",
+    "url": "https://www.leiphone.com/category/ai/XgCxObsqu8pc44px.html",
+    "imageUrl": null,
+    "source": "雷锋网",
+    "categoryId": null,
+    "publishedAt": "2026-10-20T04:06:00.000Z",
+    "createdAt": "2026-10-21T00:24:13.922Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "Robotics & Embodied AI",
+    "contentFormats": [
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2161412,
+    "title": "Curiosity Blog, Sols 5036-5042: Watching the Clouds Go By",
+    "description": "Written by Alex Innanen, Atmospheric Scientist at York University Earth planning date: Friday, Oct. 9, 2026 Happy New Mars Year! We mark the start of a new year on Mars at the beginning of the northern hemisphere spring, or the vernal equinox. We then keep track of the seasons by counting degrees of solar longitude […]",
+    "url": "https://science.nasa.gov/blog/curiosity-blog-sols-5036-5042-watching-the-clouds-go-by/",
+    "imageUrl": null,
+    "source": "NASA",
+    "categoryId": null,
+    "publishedAt": "2026-10-20T01:21:38.000Z",
+    "createdAt": "2026-10-21T00:24:02.144Z",
+    "language": "en",
+    "region": "Global",
+    "topic": "Space & Aerospace",
+    "contentFormats": [
+      "WeChat Deep Dive"
+    ]
+  },
+  {
     "id": 2161402,
     "title": "NASA Improves Shock, Vibration Analysis",
     "description": "Rockets vibrate, shake, and flex intensely as they climb into space, and spacecraft packed with delicate scientific instruments must survive those forces. Before any rocket leaves the ground, NASA engineers work to predict how those stresses will affect every part of a spacecraft. To do that, engineers in the Dynamic Environments Group with NASA’s Launch [&#8230;]",
@@ -100,6 +224,23 @@
     "language": "en",
     "region": "Global",
     "topic": "Space & Aerospace",
+    "contentFormats": [
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2161415,
+    "title": "从百比特芯片到整机交付，这家量子计算公司正将量子算力推向可调用服务",
+    "description": "同步搭建千比特规模量子算力云平台",
+    "url": "https://www.qbitai.com/2026/10/504277.html",
+    "imageUrl": null,
+    "source": "量子位",
+    "categoryId": null,
+    "publishedAt": "2026-10-19T14:33:26.000Z",
+    "createdAt": "2026-10-21T00:24:10.703Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "Chips & Compute",
     "contentFormats": [
       "WeChat Deep Dive"
     ]

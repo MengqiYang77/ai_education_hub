@@ -1,5 +1,169 @@
 [
   {
+    "id": 2161417,
+    "title": "NASA Conducts RS-25 Engine Test in Support of Future Artemis Missions",
+    "description": "NASA tested RS-25 engine No. 10001 on Oct. 21 on the Fred Haise Test Stand at NASA’s Stennis Space Center near Bay St. Louis, Mississippi. Test teams fired the developmental engine for almost eight-and-a-half minutes (500 seconds), the same amount of time RS-25 engines fire during launch of NASA’s SLS (Space Launch System) rocket. During [&#8230;]",
+    "url": "https://www.nasa.gov/image-article/rs-25-engine-test-in-support-of-future-artemis-missions/",
+    "imageUrl": null,
+    "source": "NASA",
+    "categoryId": null,
+    "publishedAt": "2026-10-21T20:51:50.000Z",
+    "createdAt": "2026-10-22T00:27:37.846Z",
+    "language": "en",
+    "region": "Global",
+    "topic": "Space & Aerospace",
+    "contentFormats": [
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2161418,
+    "title": "NASA JPL Looks to Next 90 Years of Innovation, Exploration",
+    "description": "Interstellar probes. Lunar drones. Helicopters on Mars. When a group of Caltech graduate students and enthusiasts began conducting rocket-propulsion tests in Pasadena’s Arroyo Seco on Oct. 31, 1936, they had no idea that their work marked the inception of the Jet Propulsion Laboratory. Ninety years later, the lab, now managed by Caltech for NASA, isn’t [&#8230;]",
+    "url": "https://www.nasa.gov/centers-and-facilities/jpl/nasa-jpl-looks-to-next-90-years-of-innovation-exploration/",
+    "imageUrl": null,
+    "source": "NASA",
+    "categoryId": null,
+    "publishedAt": "2026-10-21T18:35:56.000Z",
+    "createdAt": "2026-10-22T00:27:37.846Z",
+    "language": "en",
+    "region": "Global",
+    "topic": "Robotics & Embodied AI",
+    "contentFormats": [
+      "Xiaohongshu Explainer",
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2161419,
+    "title": "Tracks Along the Longest Drive on Another World",
+    "description": "Written by Vandi Verma, Chief Engineer for Robotic Operations at NASA’s Jet Propulsion Laboratory Oct. 12, 2026 Since the last blog update, Perseverance has achieved a major milestone on Mars. On Sol 2006 (Oct. 11, 2026), its odometer reached 45.22 kilometers (28.10 miles), setting a new record for the farthest distance driven on another celestial […]",
+    "url": "https://science.nasa.gov/blog/tracks-along-the-longest-drive-on-another-world/",
+    "imageUrl": null,
+    "source": "NASA",
+    "categoryId": null,
+    "publishedAt": "2026-10-21T15:50:44.000Z",
+    "createdAt": "2026-10-22T00:27:37.846Z",
+    "language": "en",
+    "region": "Global",
+    "topic": "Robotics & Embodied AI",
+    "contentFormats": [
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2161420,
+    "title": "Science on the Space Station with NASA Astronaut Jessica Watkins",
+    "description": "NASA astronaut and Expedition 75 flight engineer Jessica Watkins works inside the Kibo laboratory module&#8217;s Life Science Glovebox on Oct. 9, 2026, safely mixing living cell samples with a bioink and then filling a special cartridge with the cell‑ink mixture. The advanced research operations were part of the InSPA‑Auxilium Bioprinter‑Cell Printing investigation, which explores 3D [&#8230;]",
+    "url": "https://www.nasa.gov/image-article/science-on-the-space-station-with-nasa-astronaut-jessica-watkins/",
+    "imageUrl": null,
+    "source": "NASA",
+    "categoryId": null,
+    "publishedAt": "2026-10-21T15:05:08.000Z",
+    "createdAt": "2026-10-22T00:27:37.846Z",
+    "language": "en",
+    "region": "Global",
+    "topic": "Space & Aerospace",
+    "contentFormats": [
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2161422,
+    "title": "CMU Introduces 4 New Online Graduate Certificates for Professionals",
+    "description": "&lt;p&gt; &lt;img loading=\"lazy\" src=\"https://www.cmu.edu/news/sites/default/files/styles/listings_desktop_1x_/public/2026-06/260501A_Campus_Schenley_Aerial001.jpg.webp?h=a1e1a043&amp;itok=pMeAWBG6\" width=\"900\" height=\"508\" alt=\"aerial view of Schenley Park and Campus\"&gt; &lt;/p&gt; Carnegie Mellon University is introducing four online graduate certificates designed to help working professionals build graduate-level expertise in artificial intelligence, robotics, software engineering and product management.",
+    "url": "https://www.cmu.edu/news/stories/archives/2026/october/cmu-introduces-4-new-online-graduate-certificates-for-professionals",
+    "imageUrl": null,
+    "source": "Carnegie Mellon",
+    "categoryId": null,
+    "publishedAt": "2026-10-21T13:10:12.000Z",
+    "createdAt": "2026-10-22T00:27:39.171Z",
+    "language": "en",
+    "region": "Global",
+    "topic": "Robotics & Embodied AI",
+    "contentFormats": [
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2161421,
+    "title": "NASA’s CASALS Instrument Bridges Gaps in 3D Maps of Earth’s Surface",
+    "description": "From orbit, today’s space-based laser instruments measure Earth’s forests and terrain one narrow line at a time. Between those lines are enormous gaps that include millions of acres of land scientists never directly measure. NASA’s CASALS instrument will blend machine learning with an ultra-compact lidar instrument to adaptively ‘sweep’ large swaths of Earth’s surface. This […]",
+    "url": "https://science.nasa.gov/science-research/science-enabling-technology/technology-highlights/nasas-casals-instrument-bridges-gaps-in-3d-maps-of-earths-surface/",
+    "imageUrl": null,
+    "source": "NASA",
+    "categoryId": null,
+    "publishedAt": "2026-10-21T12:17:58.000Z",
+    "createdAt": "2026-10-22T00:27:37.846Z",
+    "language": "en",
+    "region": "Global",
+    "topic": "Education & Future Skills",
+    "contentFormats": [
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2161424,
+    "title": "生数科技Motubrain团队将直播Physical AI训练全流程，持续半个月",
+    "description": "大模型训练过程，开始更多地出现在公众视野中。 此前，小米MiMo负责人罗福莉公开了MiMo-V2.6强化学习阶段的训练进展，让外界看到了大模型训练中的一些具体细节。 现在，Physical AI领域也有了类似尝试。 10月21日，生数科技世界模型团队正式开启Motubrain 2.0训练全流程公开直播，计划持续半个月，向公众展示具身模型的训练过程及研究进展。 这次直播关注一个问题：Physical AI究竟如何实现？ Physical AI，即物理人工智能，希望让AI能够理解物理环境，并通过机器人完成实际任务。相比大语言模型，Physical AI 还需要解决动作决策、任务执行和跨场景泛化等问题。 Motubrain 系列是生数科技研发的具身模型，致力于为机器人构建具备通用能力的“大脑”，探索不同任务、场景和机器人本体之间的能力泛化。 Motubrain 2.0即将开源。在正式开源前，团队选择率先公开其训练全流程，向外界展示这款模型从训练、测试到能力迭代的过程。 此次公开训练涵盖四个环节： 1、预训练：观察训练规模对模型性能及零样本泛化能力的影响。 2、后训练：针对具体任务进一步训练，提升任务执行能力。 3、Agent任务执行：探索模型能否将已有经验迁移到其他任务。 4、RSI（递归自我改进）探索：研究模型能否根据执行反馈评估并改进自身行动。 此次直播的特别之处，是尝试打开具身模型训练的“黑盒”。 过去，外界了解具身智能技术进展，主要通过机器人Demo、评测结果和论文。模型经历了怎样的训练、不同阶段的能力如何变化，通常很难直接观察。 Motubrain 2.0 选择公开从训练、测试到能力迭代的全过程，希望让外界看到模型如何逐步形成能力，也能看到训练中的失败、试错和调整。 对于具身智能行业而言，这种方式让模型研发过程更加透明。研究者和开发者不仅能看到最终结果，也有机会了解训练中遇到的具体问题，以及团队如何通过实验和反馈不断改进模型。 同时，团队也希望借助此次直播，与技术同行分享研究中的经验、问题和思考，共同探讨规模化训练、跨任务泛化和自主改进等关键问题，为Physical AI实现范式的探索提供更多参考。 当然，相关研究仍处于探索阶段，具体效果还需要后续实验和评测验证。相比只展示机器人最终能做什么，公开模型如何训练、能力如何形成，同样具有研究价值。 直播入口：www.",
+    "url": "https://www.leiphone.com/category/industrynews/kgEaqVuNRRnvxpfp.html",
+    "imageUrl": null,
+    "source": "雷锋网",
+    "categoryId": null,
+    "publishedAt": "2026-10-21T10:00:00.000Z",
+    "createdAt": "2026-10-22T00:27:44.677Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "Robotics & Embodied AI",
+    "contentFormats": [
+      "Xiaohongshu Explainer",
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2161423,
+    "title": "生数科技Motubrain团队将直播Physical AI训练全流程，持续半个月",
+    "description": "10月21日，生数科技世界模型团队正式开启Motubrain 2.0训练全流程公开直播",
+    "url": "https://www.qbitai.com/2026/10/504730.html",
+    "imageUrl": null,
+    "source": "量子位",
+    "categoryId": null,
+    "publishedAt": "2026-10-21T09:45:22.000Z",
+    "createdAt": "2026-10-22T00:27:42.448Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "Robotics & Embodied AI",
+    "contentFormats": [
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2161425,
+    "title": "不做提分工具，CapaLeap在AI教育焦虑中找「15度夹角」",
+    "description": "一个六岁的孩子问AI“为什么天是蓝的”。三秒钟，“瑞利散射”的解释弹了出来，精确、流畅、挑不出毛病。 孩子听完，点了点头，问了下一个问题。 答案拿到了。但自己仰头看天、追问为什么早晚颜色不一样、在脑子里慢慢搭出因果链条的过程，被跳过了。 这不是个例。中国青少年研究中心2025年对7省（市）8563名中小学生的调查显示，AI总体使用率61.7%，71.0%用它辅助完成作业，21.5%表示“只想和AI聊天，不想和真人聊天”。孩子的自述之外，家长的观察同样直接：中国青年报社对1336名家长的调查中，58.8%觉察到孩子对AI产生心理依赖，42.7%感到其独立思考能力在下降。 OECD在《2026年数字教育展望》中提出“元认知懒惰”：把认知任务外包给通用聊天机器人，会制造“知识掌握”的假象，学生看似学会了，大脑却从未真正参与加工。 麻省理工学院媒体实验室对54名参与者的脑电图实验发现，使用ChatGPT写作的一组神经连接强度显著低于自主思考组；撤掉工具后，其α波与β波网络仍明显“参与不足”。 担忧归担忧，行为的惯性并没有因此停下。当越来越多AI产品争着替孩子“秒回答案”时，也有公司选择不同方向。 噜咔博士推出面向3至18岁的AI Agent平台与终端品牌CapaLeap卡灵，提出“感创（Vibe Creating）”概念，强调灵感与创造。它没有进入提分工具或学习机主赛道，而是试图讲一个“让孩子自己思考、自己创作”的故事。 01 一条15度夹角的路线 理解CapaLeap的选择，先要看它绕开了什么。 学习机赛道正在经历一轮残酷的集中化。据洛图科技数据，2026年一季度，中国学习平板全渠道销量125.2万台，六大品牌份额合计87.5%，比去年同期高了12.3个百分点。作业帮以32.9%的份额位居第一，学而思20.1%、科大讯飞18.5%紧随其后。 这条赛道的底层逻辑很清晰。学而思、作业帮走内容体系，录播课、知识框架、题库，相当于找一个规划好的补习老师；词典笔、复读机、单词卡走工具体系，服务某个具体功能。两条路殊途同归，都是内容的容器，服务于K12方向的成绩提升。 CapaLeap没有选择挤进去，而是绕到了旁边。 CEO杨坤用“15度夹角”来描述这个策略：市面上的主方向大家有共识，玩家众多，同向做竞争压力大、做不出差异化； 跟主方向保留一个15度的夹角，事情反而可能豁然开朗，能提",
+    "url": "https://www.leiphone.com/category/weiwu/2pumQSfiTnvcy26r.html",
+    "imageUrl": null,
+    "source": "雷锋网",
+    "categoryId": null,
+    "publishedAt": "2026-10-21T03:07:00.000Z",
+    "createdAt": "2026-10-22T00:27:44.678Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "Robotics & Embodied AI",
+    "contentFormats": [
+      "Xiaohongshu Explainer",
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
     "id": 2161413,
     "title": "Should parents be wary of Silicon Valley’s influence in schools?",
     "description": "Times reporter says students need ‘tech civics’ to understand value, drawbacks amid breakneck advance of tools like AI",

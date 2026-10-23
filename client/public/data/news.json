@@ -1,5 +1,132 @@
 [
   {
+    "id": 2161428,
+    "title": "NASA Invites Media to 2026 von Braun Space Exploration Symposium",
+    "description": "Members of the media are invited to join NASA at the 2026 von Braun Space Exploration Symposium from Monday, Oct. 26, to Wednesday, Oct. 28, at the University of Alabama in Huntsville. This year’s symposium is focused on humanity&#8217;s return to the Moon, sustainable lunar infrastructure, advanced space propulsion, and the evolving space workforce. Panels [&#8230;]",
+    "url": "https://www.nasa.gov/news-release/nasa-invites-media-to-2026-von-braun-space-exploration-symposium/",
+    "imageUrl": null,
+    "source": "NASA",
+    "categoryId": null,
+    "publishedAt": "2026-10-22T21:39:58.000Z",
+    "createdAt": "2026-10-23T00:25:45.644Z",
+    "language": "en",
+    "region": "Global",
+    "topic": "Space & Aerospace",
+    "contentFormats": [
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2161429,
+    "title": "Spiral&#8217;s Edge",
+    "description": "This NASA Hubble Space Telescope image released on Oct. 16, 2026, features the edge-on, intermediate spiral galaxy NGC 1827, located roughly 37 million light-years away in the constellation Columba, the Dove. Hubble captured the image as part of a survey looking at 260 satellite galaxies around 22 Milky Way-like host galaxies within a radius of [&#8230;]",
+    "url": "https://www.nasa.gov/image-article/spirals-edge/",
+    "imageUrl": null,
+    "source": "NASA",
+    "categoryId": null,
+    "publishedAt": "2026-10-22T21:35:38.000Z",
+    "createdAt": "2026-10-23T00:25:45.644Z",
+    "language": "en",
+    "region": "Global",
+    "topic": "Space & Aerospace",
+    "contentFormats": [
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2161431,
+    "title": "RoboRambler Expanding Culture of Innovation in Robotics",
+    "description": "&lt;span&gt;RoboRambler Expanding Culture of Innovation in Robotics &lt;/span&gt; &lt;span&gt;&lt;a title=\"View user profile.\" href=\"https://news.gatech.edu/user/1\"&gt;Superadmin&lt;/a&gt;&lt;/span&gt; &lt;span&gt;&lt;time datetime=\"2026-10-22T16:47:31-04:00\" title=\"Thursday, October 22, 2026 - 16:47\"&gt;Thu, 10/22/2026 - 16:47&lt;/time&gt; &lt;/span&gt; &lt;div&gt;&lt;div&gt;&lt;p&gt;RoboRambler is one of Georgia Tech’s newer student robotics clubs, but just two years after its creation, the team is making a name for itself on a national stage. &lt;/p&gt;&lt;/div&gt;&lt;div&gt;&lt;p&gt;At the 2026 ARC Championship — a simulated robotic combat tournament designed to test students’ engineering and strategy skills — RoboRambler took second place out of 30 universities from around the world in the 1v1 knockout category. The team also secured a top-10 finish in the 3v3 challenge. &lt;/p&gt;&lt;/div&gt;&lt;div&gt;&lt;p&gt;The robots used in the competition are the latest iteration of the ma",
+    "url": "https://news.gatech.edu/news/2026/10/22/roborambler-expanding-culture-innovation-robotics",
+    "imageUrl": null,
+    "source": "Georgia Tech",
+    "categoryId": null,
+    "publishedAt": "2026-10-22T20:47:31.000Z",
+    "createdAt": "2026-10-23T00:25:46.684Z",
+    "language": "en",
+    "region": "Global",
+    "topic": "Robotics & Embodied AI",
+    "contentFormats": [
+      "Xiaohongshu Explainer",
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2161426,
+    "title": "This design software reimagines everyday objects as self-aware devices",
+    "description": "“X-Hinges” helps design and 3D print items like lamps and gloves with an interactive twist: automatically embedded sensors that perceive and adaptively respond to human contact.",
+    "url": "https://news.mit.edu/2026/design-software-reimagines-everyday-objects-as-self-aware-devices-1022",
+    "imageUrl": null,
+    "source": "MIT AI",
+    "categoryId": null,
+    "publishedAt": "2026-10-22T20:45:00.000Z",
+    "createdAt": "2026-10-23T00:25:33.281Z",
+    "language": "en",
+    "region": "Global",
+    "topic": "Advanced Manufacturing",
+    "contentFormats": [
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2161427,
+    "title": "Flint-interactive: A language for creating interactive data visualizations",
+    "description": "Flint-interactive gives AI agents a language for creating interactive visualizations. Click a chart, filter data, highlight related content, and explore beyond the view the author originally chose. The post Flint-interactive: A language for creating interactive data visualizations appeared first on Microsoft Research .",
+    "url": "https://www.microsoft.com/en-us/research/blog/flint-interactive-a-language-for-creating-interactive-data-visualizations/",
+    "imageUrl": null,
+    "source": "Microsoft Research",
+    "categoryId": null,
+    "publishedAt": "2026-10-22T16:00:00.000Z",
+    "createdAt": "2026-10-23T00:25:45.420Z",
+    "language": "en",
+    "region": "Global",
+    "topic": "AI Models & Agents",
+    "contentFormats": [
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2161430,
+    "title": "CMU Expands Quantitative Finance Leadership with Commodities Quant Lab",
+    "description": "&lt;p&gt; &lt;img loading=\"lazy\" src=\"https://www.cmu.edu/news/sites/default/files/styles/listings_desktop_1x_/public/2026-10/1015-quant-lab-2000x1000.jpg.webp?h=c9a3a702&amp;itok=3sx4vZVP\" width=\"900\" height=\"508\" alt=\"CMU's Commodities Quant Lab\"&gt; &lt;/p&gt; Carnegie Mellon University has launched the Commodities Quant Lab (CQL) to explore how data, mathematics and artificial intelligence can help solve challenges in global commodity markets.",
+    "url": "https://www.cmu.edu/news/stories/archives/2026/october/cmu-expands-quantitative-finance-leadership-with-commodities-quant-lab",
+    "imageUrl": null,
+    "source": "Carnegie Mellon",
+    "categoryId": null,
+    "publishedAt": "2026-10-22T15:15:18.000Z",
+    "createdAt": "2026-10-23T00:25:45.974Z",
+    "language": "en",
+    "region": "Global",
+    "topic": "Education & Future Skills",
+    "contentFormats": [
+      "Xiaohongshu Explainer",
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2161432,
+    "title": "全球算力价格指数启动 九章云极核心共建算力定价基准",
+    "description": "10月21日，全球算力价格指数及综合信息服务平台在金融街论坛正式启动。该指数由中国经济信息社发起建设，旨在填补算力定价基准空白、完善算力价格形成体系，推动建立具有自主知识产权的中国算力价格基准。北京九章云极科技股份有限公司（下称“九章云极”）作为核心共建单位参与建设。 当前，人工智能产业快速发展，算力需求持续攀升，算力产业进入加速发展阶段。与此同时，算力市场仍缺乏统一的定价基准与公认的价格标尺，制约了产业协同与市场交易的效率。全球算力价格指数及综合信息服务平台的启动，将为算力跨规格、跨平台、跨区域比价与交易提供基础支撑，助力构建全球算力市场新秩序。 九章云极创始人、董事长兼CEO方磊在启动仪式上表示，全球算力价格指数的推出，是给AI时代的生产力装上“度量衡”。过去大量算力停留在资源层，产业侧算不清成本，金融侧看不懂产出，地方园区难以开展精准招商。该指数及综合信息服务平台的建设，将异构调度、Token产出、利用率和交付效率转化为可观测、可比较、可服务的产业信号，对行业发展具有三重意义：一是让企业用算有账本，从追求规模转向按有效算力付费；二是让资本识别真正进入工业、科研、制造等实体场景的算力，形成服务锚点；三是为政策制定与园区布局提供标尺，减少重复建设，推动真实生产力落地。 为了让算力这种抽象资源变得可理解、可计价，指数引入了九章云极“一度算力”作为基础计量单位。简单来说，“一度算力”类似于电力行业的“一度电”：它把不同型号的硬件、不同架构的集群、不同规格的计算服务，折算成统一的标准计量单元。就像用户不需要关心发电厂用的是煤还是水，只需要知道一度电能做什么，算力需求方也不需要理解硬件差异或集群架构细节，只需要知道“一度算力”能支撑多少模型训练量、能处理多少推理请求。这一理念的落地，意味着算力有了像电力一样的“通用计量语言”，让算力从“看不懂的技术参数”变成“可比较、可交易、可核算的公共服务”。九章云极基于“一度算力（DCU）”的算力计量计价产业实践，也入选了工业和信息化部《2025年度新型信息基础设施协调发展典型案例》。 九章云极作为算力价格指数计量方法的共建方，将依托其在异构算力调度、算力计量标准（DCU）等领域的技术积累，参与指数编制方法论设计与数据采集体系搭建，为指数提供异构算力折算与有效算力计量支持。新华指数研究院执行院长曹占忠在活动现场介绍，全球算力价格指数将",
+    "url": "https://www.leiphone.com/category/industrynews/NV7ccFeqrbG1oHSS.html",
+    "imageUrl": null,
+    "source": "雷锋网",
+    "categoryId": null,
+    "publishedAt": "2026-10-22T02:13:00.000Z",
+    "createdAt": "2026-10-23T00:25:59.649Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "Chips & Compute",
+    "contentFormats": [
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
     "id": 2161417,
     "title": "NASA Conducts RS-25 Engine Test in Support of Future Artemis Missions",
     "description": "NASA tested RS-25 engine No. 10001 on Oct. 21 on the Fred Haise Test Stand at NASA’s Stennis Space Center near Bay St. Louis, Mississippi. Test teams fired the developmental engine for almost eight-and-a-half minutes (500 seconds), the same amount of time RS-25 engines fire during launch of NASA’s SLS (Space Launch System) rocket. During [&#8230;]",

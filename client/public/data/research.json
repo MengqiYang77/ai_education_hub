@@ -105,6 +105,21 @@
     "createdAt": "2026-10-22T00:27:45.753Z"
   },
   {
+    "id": 841791,
+    "title": "Designing and Evaluating a Collaborative Teaching Model for Integrating AI-Assisted Media Art Practice into Secondary STEAM Education",
+    "abstract": "In this paper, the proposed collaboration-based teaching model with incorporation of AI-assisted media arts practice is considered within the scope of secondary STEAM education. Two intact classes of Grade 8 students enrolled at a secondary school conducted the experiment for eight weeks. The experimental class took part in the coordinated instruction in science, technology, and art subjects and performed an assignment called \"Urban Environmental Data and Interactive Media Art Project,\" where they used BBC micro:bit sensors, Adobe Express with Firefly, p5.js Web Editor, Google Classroom, and Padlet. The control class did a traditional STEAM project related to the same subject and period of time. Creativity test, project assessment rubrics, collaboration and engagement questionnaires, observations in classrooms, learning diaries, and interviews were utilized for evidence collection. The experimental class showed greater increase in creative problem solving compared to the control class (14.83 ± 5.21 vs. 5.87 ± 4.69) with statistically significant group effect. Furthermore, their projects had higher marks for data-art integration, interactivity, and justifications of design decisions. The score for collaboration and engagement achieved 4.31 ± 0.36 and 4.24 ± 0.41, respectively.",
+    "authors": "[\"Tian Wang\"]",
+    "url": "https://doi.org/10.54254/2755-2721/2026.37754",
+    "pdfUrl": "https://ace.ewapub.com/article/view/37754.pdf",
+    "source": "Applied and Computational Engineering",
+    "sourceId": "5f350e9784bb4d5dbb20d52d3fff3a34613c9356",
+    "categoryId": null,
+    "topic": "AI Education",
+    "publishedAt": "2026-10-20",
+    "fetchedAt": "2026-10-23T00:28:40.245Z",
+    "createdAt": "2026-10-23T00:28:40.245Z"
+  },
+  {
     "id": 841696,
     "title": "RL-Robotutor: a hierarchical reinforcement learning framework for multimodal robot tutoring",
     "abstract": null,
@@ -403,6 +418,21 @@
     "publishedAt": "2026-10-19",
     "fetchedAt": "2026-10-22T00:28:19.767Z",
     "createdAt": "2026-10-22T00:28:19.767Z"
+  },
+  {
+    "id": 841792,
+    "title": "Artificial Intelligence in Accounting Pedagogy and SDG Alignment",
+    "abstract": "Despite this interest in artificial intelligence-based accounting pedagogy, the extent to which African scholarship contributes to the field and aligns with sustainable development priorities remains underexplored. This study fills this gap by applying a PRISMA-guided bibliometric analysis alongside an assessment of alignment with the Sustainable Development Goals. Data were drawn from the Scopus and Web of Science databases, yielding a final sample of 148 publications released between 1986 and 2026. Bibliometric techniques, including performance analysis, Bradford’s Law, Lotka’s Law, co-authorship mapping, thematic analysis and conceptual structure mapping, were employed using the Bibliometrix R package. The findings point to a fast-growing research area with an annual growth rate of 5.34%, in which publication output has risen sharply since 2022, following the emergence of generative AI technologies. Research productivity and citation impact remain heavily concentrated in developed economies, particularly the United States, Australia and the United Kingdom, while African contributions are comparatively limited and largely driven by South Africa. Thematic analysis identifies artificial intelligence, accounting education, data analytics, skills development and higher education as dominant research clusters. Furthermore, the study from African researchers demonstrates substantial implicit alignment with SDG 4 and SDG 9. However, explicit integration of SDG frameworks within the literature remains limited. The study concludes that although African scholarship is contributing meaningfully to AI-driven educational innovation, greater investment in research capacity, digital infrastructure, international collaboration, and SDG-orientated scholarship is required to strengthen the continent’s influence in the global accounting education discourse and to support sustainable education.",
+    "authors": "[\"O. Agboola\",\"M. Hlongoane\"]",
+    "url": "https://doi.org/10.71291/nf90az66",
+    "pdfUrl": "https://jocatia.acata.org/index.php/jocatia/article/download/144/28",
+    "source": "Journal of Computer Adaptive Testing in Africa",
+    "sourceId": "354922b2719957a6fe081f8c513da7ca45106ae2",
+    "categoryId": null,
+    "topic": "AI Education",
+    "publishedAt": "2026-10-19",
+    "fetchedAt": "2026-10-23T00:28:40.245Z",
+    "createdAt": "2026-10-23T00:28:40.245Z"
   },
   {
     "id": 841674,
@@ -2580,6 +2610,21 @@
     "createdAt": "2026-10-21T00:24:55.671Z"
   },
   {
+    "id": 841790,
+    "title": "AI and Emerging Digital Technologies in Early Childhood Physics Education: A Systematic Review",
+    "abstract": "Background: Young children explore motion, force, light, sound, and material properties through play. Digital technologies may extend these experiences, but evidence on preschool physics learning is dispersed across research. Objective: This systematic literature review synthesizes technologies for physics-related learning among children aged 3–6, concepts and pedagogies, reported outcomes, study designs, and developmental, ethical, accessibility, and implementation considerations. Method: Guided by PRISMA 2020, searches covered Scopus, Web of Science, ERIC, Education Source, and IEEE Xplore, plus backward and forward citation searching. Eligible sources addressed preschool children and AI or emerging technologies in physics or related physical science. Findings were synthesized narratively and thematically, distinguishing direct physics evidence from adjacent research. Results: Twenty-five studies were identified. Technologies included robotics and AI activities, augmented and virtual reality, interactive multimedia, digital games, simulations, and mobile learning. Early-childhood AI research often addresses AI literacy, robotics, and computational thinking; physics-specific outcomes are less consistently reported. Technologies appear promising when paired with prediction, hands-on testing, teacher-guided discussion, and age-appropriate assessment. Conclusion: Emerging technologies can complement physical exploration and educator mediation. Claims about physics learning require measures of physical-science understanding, not engagement or adjacent outcomes. Transparent study-level reporting and quantitative synthesis are needed to strengthen the evidence base.",
+    "authors": "[\"Anugrah Dwicahyandi Oktavian Anugrah\",\"Izza Ikromatus Sa'adah\"]",
+    "url": "https://doi.org/10.23960/jape.v2i2.2365",
+    "pdfUrl": "https://jurnal.pbs.fkip.unila.ac.id/index.php/JAPE/article/download/2365/1296",
+    "source": "Journal of Advances in Physics Education",
+    "sourceId": "ea3b40cfd61d6dc9a98a36a61d5ae5a65aff8330",
+    "categoryId": null,
+    "topic": "Robotics",
+    "publishedAt": "2026-10-13",
+    "fetchedAt": "2026-10-23T00:28:21.042Z",
+    "createdAt": "2026-10-23T00:28:21.043Z"
+  },
+  {
     "id": 841475,
     "title": "The model of ethical AI in preparation for teaching (MPET): a practical guide for ethical AI adoption",
     "abstract": null,
@@ -3133,6 +3178,21 @@
     "publishedAt": "2026-10-12",
     "fetchedAt": "2026-10-21T00:24:31.127Z",
     "createdAt": "2026-10-21T00:24:31.127Z"
+  },
+  {
+    "id": 841789,
+    "title": "Beyond the Classroom: How Artificial Intelligence is Transforming Personalized Learning for Students",
+    "abstract": "Artificial intelligence (AI) is becoming extremely important in education and has the potential to change how students learn. This paper talks about how AI can create personalized learning experiences, provide timely feedback, and support students and teachers. AI-powered educational systems can analyze information about student performance and adapt learning materials, practice questions, and feedback to individual needs. These capabilities may allow students to receive additional academic support and review difficult concepts at their own pace. Research also suggests that AI can provide individualized assistance in a more advanced way, particularly through intelligent tutoring systems and AI learning assistants. However, the use of AI in education also presents significant challenges. Academic integrity, student privacy, unequal access to technology, bias, and false information are important concerns that schools and educators must address. Research on AI-supported learning suggests that AI is most effective when it is used to support humans rather than replacing teachers. Overall, AI has the potential to make education more personalized and accessible, but its benefits depend on responsible usage, appropriate safeguards, and continued human involvement in the learning process.",
+    "authors": "[\"Harshika Gupta\"]",
+    "url": "https://doi.org/10.32628/ijsraiml2624124",
+    "pdfUrl": "https://ijsraiml.com/home/article/download/IJSRAIML2624124/IJSRAIML2624124",
+    "source": "International Journal of Scientific Research in Artificial Intelligence and Machine Learning",
+    "sourceId": "2b3127fdf8f9479365b6113dc89e0f20be5312d6",
+    "categoryId": null,
+    "topic": "Policy & Ethics",
+    "publishedAt": "2026-10-12",
+    "fetchedAt": "2026-10-23T00:27:31.742Z",
+    "createdAt": "2026-10-23T00:27:31.742Z"
   },
   {
     "id": 841509,
@@ -4528,6 +4588,21 @@
     "publishedAt": "2026-10-08",
     "fetchedAt": "2026-10-22T00:28:11.440Z",
     "createdAt": "2026-10-22T00:28:11.440Z"
+  },
+  {
+    "id": 841793,
+    "title": "Hybrid Teaching in Data Science Education: Evaluating Its Impact on Learning Outcomes, Student Engagement, and Student Satisfaction at a Chinese University",
+    "abstract": "This study aims to evaluate the effectiveness of hybrid teaching in enhancing learning outcomes, learning engagement, and student satisfaction in university-level data science education. A convergent mixed-methods design was employed to integrate quantitative and qualitative evidence from a Data Preprocessing course at Y University, China. The study involved 242 undergraduate students, comprising 122 students in the hybrid teaching group and 120 students in the conventional lecture-based group. Data were collected using validated five-point Likert-scale questionnaires, academic performance records, and semi-structured interviews. Quantitative data were analyzed using descriptive statistics, reliability and validity analyses, independent-samples t-tests, Pearson correlation analysis, and multiple linear regression, while qualitative data were analyzed using thematic analysis. The results showed that students in the hybrid teaching group achieved significantly higher theoretical examination scores (M = 76.45 vs. 74.04, p = .023), practical performance scores (M = 84.91 vs. 75.97, p < .001), and overall academic achievement scores (M = 81.53 vs. 75.20, p < .001) than those in the conventional instruction group. Learning engagement emerged as the strongest predictor of overall satisfaction (β = .455, p < .001), followed by knowledge mastery and skill enhancement (β = .228, p < .05). Qualitative findings further indicated that students valued the flexibility of self-paced learning, collaborative classroom interactions, and authentic programming experiences. Overall, the findings suggest that hybrid teaching is a promising approach for supporting academic achievement, practical competencies, learning engagement, and student satisfaction. The findings support the integration of hybrid learning into data science curricula by combining flexible digital learning resources with face-to-face programming practice, collaborative problem-solving, and authentic data-processing activities.",
+    "authors": "[\"Fang-Nan Tang\",\"K. Suma\",\"I. G. W. Sudatha\"]",
+    "url": "https://doi.org/10.33394/jp.v13i4.22046",
+    "pdfUrl": "https://e-journal.undikma.ac.id/index.php/pedagogy/article/download/22046/10696",
+    "source": "Jurnal Paedagogy",
+    "sourceId": "801ca0eb61e9eb801c6c1ee54a02b9d1a7edbb62",
+    "categoryId": null,
+    "topic": "AI Education",
+    "publishedAt": "2026-10-08",
+    "fetchedAt": "2026-10-23T00:28:40.246Z",
+    "createdAt": "2026-10-23T00:28:40.246Z"
   },
   {
     "id": 841325,

@@ -1,5 +1,217 @@
 [
   {
+    "id": 2161437,
+    "title": "NASA, Partners Accelerate Lander Development for 2028 Moon Missions",
+    "description": "As NASA returns humans to the lunar surface and establishes a long-term presence on our closest celestial neighbor, the agency and commercial human landing system providers Blue Origin and SpaceX have streamlined the designs and changed both concepts of operations for its future crewed landers. Since NASA established initial contracts with Blue Origin and SpaceX [&#8230;]",
+    "url": "https://www.nasa.gov/missions/artemis/nasa-partners-accelerate-lander-development-for-2028-moon-missions/",
+    "imageUrl": null,
+    "source": "NASA",
+    "categoryId": null,
+    "publishedAt": "2026-10-23T22:39:39.000Z",
+    "createdAt": "2026-10-24T00:19:38.526Z",
+    "language": "en",
+    "region": "Global",
+    "topic": "Space & Aerospace",
+    "contentFormats": [
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2161438,
+    "title": "NASA’s Artemis III Mission to Test Future Moon Lander Operations",
+    "description": "Before astronauts return to the lunar surface, NASA will first conduct one of the most ambitious and complex test missions in the agency&#8217;s history.&#160; Launching in 2027, Artemis III will send NASA astronauts Randy Bresnik, Frank Rubio, Andre Douglas, and ESA (European Space Agency) astronaut Luca Parmitano aboard the Orion spacecraft into low Earth orbit [&#8230;]",
+    "url": "https://www.nasa.gov/missions/artemis/nasas-artemis-iii-mission-to-test-future-moon-lander-operations/",
+    "imageUrl": null,
+    "source": "NASA",
+    "categoryId": null,
+    "publishedAt": "2026-10-23T22:37:53.000Z",
+    "createdAt": "2026-10-24T00:19:38.527Z",
+    "language": "en",
+    "region": "Global",
+    "topic": "Space & Aerospace",
+    "contentFormats": [
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2161439,
+    "title": "NASA’s Swift Mission Ends, Leaves Behind Scientific Bonanza",
+    "description": "NASA’s Neil Gehrels Swift Observatory has ended its science mission now that the spacecraft is orbiting less than 171 miles (275 kilometers) above Earth’s surface. The greater atmospheric drag at this height prevents the satellite’s telescopes from steadily gazing at their astronomical targets. Swift conducted its final observation on Oct. 20. It is expected to […]",
+    "url": "https://science.nasa.gov/missions/swift/nasas-swift-mission-ends/",
+    "imageUrl": null,
+    "source": "NASA",
+    "categoryId": null,
+    "publishedAt": "2026-10-23T21:51:19.000Z",
+    "createdAt": "2026-10-24T00:19:38.527Z",
+    "language": "en",
+    "region": "Global",
+    "topic": "Space & Aerospace",
+    "contentFormats": [
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2161433,
+    "title": "At MIT, Martha Minow speaks on sustaining democracy, both by using and overcoming AI",
+    "description": "In Compton Lecture, the distinguished legal scholar warns of potential “loss of the Enlightenment” while suggesting ways innovations can meet our civic and cultural needs.",
+    "url": "https://news.mit.edu/2026/martha-minow-speaks-on-sustaining-democracy-using-overcoming-ai-1023",
+    "imageUrl": null,
+    "source": "MIT AI",
+    "categoryId": null,
+    "publishedAt": "2026-10-23T21:00:00.000Z",
+    "createdAt": "2026-10-24T00:19:25.005Z",
+    "language": "en",
+    "region": "Global",
+    "topic": "AI Models & Agents",
+    "contentFormats": [
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2161434,
+    "title": "Reinforcing the value of human understanding at MIT",
+    "description": "During the School of Humanities, Arts, and Social Sciences’ 75th Anniversary Symposium, President Sally Kornbluth said “MIT has never needed your particular insight and guidance more than we do now.”",
+    "url": "https://news.mit.edu/2026/reinforcing-value-of-human-understanding-at-mit-1023",
+    "imageUrl": null,
+    "source": "MIT AI",
+    "categoryId": null,
+    "publishedAt": "2026-10-23T19:35:00.000Z",
+    "createdAt": "2026-10-24T00:19:25.005Z",
+    "language": "en",
+    "region": "Global",
+    "topic": "Education & Future Skills",
+    "contentFormats": [
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2161440,
+    "title": "RS-25 Engine Tests at NASA Stennis",
+    "description": "Teams at NASA’s Stennis Space Center near Bay St. Louis, Mississippi tested RS-25 engine No. 10001 on Oct. 21, 2026. The hot fire test lasted for almost eight-and-a-half minutes (500 seconds), the same amount of time RS-25 engines fire during launch of NASA’s SLS (Space Launch System) rocket, with a 111% power level. For each [&#8230;]",
+    "url": "https://www.nasa.gov/image-article/rs-25-engine-tests-at-nasa-stennis/",
+    "imageUrl": null,
+    "source": "NASA",
+    "categoryId": null,
+    "publishedAt": "2026-10-23T18:57:04.000Z",
+    "createdAt": "2026-10-24T00:19:38.527Z",
+    "language": "en",
+    "region": "Global",
+    "topic": "Space & Aerospace",
+    "contentFormats": [
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2161442,
+    "title": "‘The bulk of the benefit and the threat is actually humans’",
+    "description": "Isaac Kohane cautions against both doomer and utopian visions of AI: ‘We have agency here.’",
+    "url": "https://news.harvard.edu/gazette/story/2026/10/the-bulk-of-the-benefit-and-the-threat-is-actually-humans/",
+    "imageUrl": null,
+    "source": "Harvard Gazette",
+    "categoryId": null,
+    "publishedAt": "2026-10-23T18:31:12.000Z",
+    "createdAt": "2026-10-24T00:19:39.381Z",
+    "language": "en",
+    "region": "Global",
+    "topic": "AI Models & Agents",
+    "contentFormats": [
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2161436,
+    "title": "Video Friday: Quadruped Robot Solves Giant Rubik’s Cube by Itself",
+    "description": "Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few months. Please send us your events for inclusion. CoRL 2026 : 9–12 November 2026, AUSTIN Humanoids 2026 : 6–9 December 2026, SANTA CLARA, CA Enjoy today’s videos! A quadruped robot autonomously solves a giant Rubik’s Cube using only its feet. [ ETH Zurich Robotics Systems Lab ] Humans effortlessly react to the world; they adeptly return a tennis shot, catch a falling cup, step aside from a passing cart, or pass a box tossed during truck unloading. These everyday actions require anticipating a moving target and reflexively responding with the whole body within about a second. Such visual reactive whole-body control remains challenging for humanoids. We present Reflex, a three-stage framework that learns these capabilities stage by stage while connecting them through a compact representation of o",
+    "url": "https://spectrum.ieee.org/video-friday-rubiks-cube-robot",
+    "imageUrl": null,
+    "source": "IEEE Spectrum Robotics",
+    "categoryId": null,
+    "publishedAt": "2026-10-23T15:30:02.000Z",
+    "createdAt": "2026-10-24T00:19:38.404Z",
+    "language": "en",
+    "region": "Global",
+    "topic": "Robotics & Embodied AI",
+    "contentFormats": [
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2161444,
+    "title": "千问蒋冠军：构建Personal Agent技术框架，需要模型、记忆与生态协同推进",
+    "description": "10月22日，在2026中国计算机大会上，阿里巴巴千问事业部AI算法负责人蒋冠军分享了千问打造Personal Agent的技术实践。他认为，真正的Personal Agent阶段，应该带来增量价值的创造和个性化的主动服务，模型、记忆与生态是共同构建这一核心能力的三要素。 他表示，Personal Agent解决日常工作、学习、生活问题的理论上限接近100%，释放这一潜力的关键，在于让系统能力与问题解决路径更好地匹配，通过模型、记忆与生态能力的高效协同，为不同问题找到最优解决路径。",
+    "url": "https://www.leiphone.com/category/industrynews/DHR4Qc9YwHX7lin8.html",
+    "imageUrl": null,
+    "source": "雷锋网",
+    "categoryId": null,
+    "publishedAt": "2026-10-23T07:38:00.000Z",
+    "createdAt": "2026-10-24T00:19:44.552Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "Education & Future Skills",
+    "contentFormats": [
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2161435,
+    "title": "Q&A: How AI came to model the “messy” human mind",
+    "description": "Assistant Professor Benjamin Lindquist studies how engineers deliberately injected randomness into early AI, giving rise to deep-learning models that sometimes hallucinate.",
+    "url": "https://news.mit.edu/2026/qa-how-ai-came-to-model-messy-human-mind-1023",
+    "imageUrl": null,
+    "source": "MIT AI",
+    "categoryId": null,
+    "publishedAt": "2026-10-23T04:00:00.000Z",
+    "createdAt": "2026-10-24T00:19:25.005Z",
+    "language": "en",
+    "region": "Global",
+    "topic": "Education & Future Skills",
+    "contentFormats": [
+      "Xiaohongshu Explainer",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2161441,
+    "title": "El Niño Then and Now",
+    "description": "A 35-year satellite altimetry record lets scientists hold this year’s El Niño up against its strongest predecessors.",
+    "url": "https://science.nasa.gov/earth/earth-observatory/el-nino-then-and-now/",
+    "imageUrl": null,
+    "source": "NASA",
+    "categoryId": null,
+    "publishedAt": "2026-10-23T04:00:00.000Z",
+    "createdAt": "2026-10-24T00:19:38.527Z",
+    "language": "en",
+    "region": "Global",
+    "topic": "Space & Aerospace",
+    "contentFormats": [
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2161443,
+    "title": "From Research to Market: 6 Georgia Tech Ventures Hold Term Sheets After Silicon Valley ‘RoadShow’",
+    "description": "&lt;span&gt;From Research to Market: 6 Georgia Tech Ventures Hold Term Sheets After Silicon Valley ‘RoadShow’&lt;/span&gt; &lt;span&gt;&lt;a title=\"View user profile.\" href=\"https://news.gatech.edu/user/1\"&gt;Superadmin&lt;/a&gt;&lt;/span&gt; &lt;span&gt;&lt;time datetime=\"2026-10-22T20:58:32-04:00\" title=\"Thursday, October 22, 2026 - 20:58\"&gt;Thu, 10/22/2026 - 20:58&lt;/time&gt; &lt;/span&gt; &lt;div&gt;&lt;div&gt;&lt;p&gt;Ten Georgia Tech ventures showcased emerging technologies and connected with investors at the Georgia Tech Silicon Valley &lt;em&gt;RoadShow&lt;/em&gt; on Sept. 24 in Palo Alto, California. &lt;/p&gt;&lt;/div&gt;&lt;div&gt;&lt;p&gt;Hosted by Quadrant-i, part of Georgia Tech's Office of Commercialization, the event drew 160 attendees for founder presentations, investor discussions, and networking. Less than two weeks later, six of the participating startups had investment term sheets, marking an encouraging development as the companies pursue funding and growth oppo",
+    "url": "https://news.gatech.edu/news/2026/10/22/research-market-6-georgia-tech-ventures-hold-term-sheets-after-silicon-valley",
+    "imageUrl": null,
+    "source": "Georgia Tech",
+    "categoryId": null,
+    "publishedAt": "2026-10-23T00:58:32.000Z",
+    "createdAt": "2026-10-24T00:19:40.397Z",
+    "language": "en",
+    "region": "Global",
+    "topic": "Chips & Compute",
+    "contentFormats": [
+      "Xiaohongshu Explainer",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
     "id": 2161428,
     "title": "NASA Invites Media to 2026 von Braun Space Exploration Symposium",
     "description": "Members of the media are invited to join NASA at the 2026 von Braun Space Exploration Symposium from Monday, Oct. 26, to Wednesday, Oct. 28, at the University of Alabama in Huntsville. This year’s symposium is focused on humanity&#8217;s return to the Moon, sustainable lunar infrastructure, advanced space propulsion, and the evolving space workforce. Panels [&#8230;]",

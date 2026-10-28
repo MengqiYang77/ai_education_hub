@@ -1,5 +1,76 @@
 [
   {
+    "id": 2161461,
+    "title": "Learner collaborates with MIT peers to develop book of AI insights",
+    "description": "Prabha Jha used her experience with MIT Open Learning’s program for senior executives to develop AI solutions for her employer, Verizon, and to write a book.",
+    "url": "https://news.mit.edu/2026/learner-prabha-jha-collaborates-with-mit-peers-to-develop-book-of-ai-insights-1027",
+    "imageUrl": null,
+    "source": "MIT AI",
+    "categoryId": null,
+    "publishedAt": "2026-10-27T20:55:00.000Z",
+    "createdAt": "2026-10-28T01:00:36.033Z",
+    "language": "en",
+    "region": "Global",
+    "topic": "Education & Future Skills",
+    "contentFormats": [
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2161462,
+    "title": "NASA Invites Media to Crew Completion of Yearlong Mars Simulation",
+    "description": "The four volunteers who lived and worked in a simulated NASA Mars mission for more than a year will exit their habitat on Saturday, Oct. 31, after 378 days of isolation in a facility at the agency’s Johnson Space Center in Houston. Health and performance data collected from the simulation can help NASA develop methods [&#8230;]",
+    "url": "https://www.nasa.gov/news-release/nasa-invites-media-to-crew-completion-of-yearlong-mars-simulation/",
+    "imageUrl": null,
+    "source": "NASA",
+    "categoryId": null,
+    "publishedAt": "2026-10-27T19:27:22.000Z",
+    "createdAt": "2026-10-28T01:00:47.933Z",
+    "language": "en",
+    "region": "Global",
+    "topic": "Space & Aerospace",
+    "contentFormats": [
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2161464,
+    "title": "GLM-5.5 要来了？唐杰最新论文，曝出智谱神秘模型",
+    "description": "图像生成正确率 54%，文字问答仅 14.57%。 作者丨 郑佳美 编辑丨岑 峰 智谱内部的 GLM-Omni，先在一篇论文里露了面。 这篇研究由清华大学与智谱 AI 联合完成，唐杰担任通讯作者。模型名称刚刚出现在论文中，社交平台上就有人把它与 GLM-5.5 联系起来。 虽然论文并没有披露版本对应关系，但给出了 GLM-Omni 的技术底座，以及它在统一视觉理解和图像生成方面的一组实验结果。 参考链接： https://arxiv.org/pdf/2610.21459 其中一组数据尤其扎眼：经过图像生成训练，GLM-Omni 在数字任务中，把指定号码正确画在球衣上的比例达到 72%，研究人员拿走图片，改用文字询问球衣号码，正确率却只有 2%。模型已经能在画面里复现的知识，换成一句问话，竟然几乎答不上来。 这恰好戳中了统一多模态模型的一处技术瓶颈。过去，图像理解负责看，图像生成负责画。如今两种能力逐渐进入同一套架构，模型在学习生成物体、地图和文字图案时，也会接触大量未被语言描述的视觉信息。 可图像里学来的东西，究竟能有多少被语言推理使用，光看生成效果很难知道。而智谱的这篇文章正是试着沿着知识进入模型、再被调用的过程，把这个问题拆开来看。 01 KTP：把答案留在图片里 要确认生成训练有没有教给模型新知识，先得绕开它已有的记忆。让模型生成现实球队的球衣，即使号码画对了，也可能只是因为它早在文字资料中读到过。雷峰网 研究人员因此搭建了一个虚构世界 MagicWorld，给从未存在过的实体安排颜色、号码和空间关系，让目标知识尽量只从此次训练的图片里进入模型。 例如，一件虚构球衣叫 Arvenbrock，号码设为 10。训练时，文字提示只要求生成这件球衣，数字 10 只出现在目标图像中。等模型完成训练，研究人员再直接问它 Arvenbrock 的球衣号码。如果能回答 10，就有理由认为它把图像里的实体属性关联带进了文字回答。 这套数据并不只有球衣。团队设计了颜色、数量、形状、空间排列、相对大小、数字和文字 7 类任务，每类 50 条知识，共 350 条，再为每个实体制作不同背景和视角的图像，筛选后留下 8552 组训练样本。 训练文本还经过检查，尽量排除答案泄漏和属性分布不均造成的干扰。不同任务也能拉开知识类型的差别：形状与颜色往往属于有限类别，空间排列要求理解对象之间的位",
+    "url": "https://www.leiphone.com/category/ai/LjPPo6aqhHUrRMFg.html",
+    "imageUrl": null,
+    "source": "雷锋网",
+    "categoryId": null,
+    "publishedAt": "2026-10-27T07:43:00.000Z",
+    "createdAt": "2026-10-28T01:00:57.105Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "Education & Future Skills",
+    "contentFormats": [
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2161465,
+    "title": "源创计划首期路演：五个AI硬科技项目集中亮相，智源学者加速从实验室走向产业一线",
+    "description": "从底层芯片、神经形态计算，到机器人自主部署、极端环境物理智能和地表物理环境建模，人工智能前沿技术正沿着多条不同路径推进产业应用落地。如何让实验室里的原创成果跨越工程验证与商业化之间的距离，成为科研创新走向产业实践的重要课题。 10月26日，北京智源人工智能研究院发布的“源创计划”首期路演在中关村国际技术交易中心举办。临界核科技、灵枢启智、张量场科技、苍穹极智、潜向量科技五个项目集中亮相，分别聚焦3D自选通V-RRAM芯片、神经形态具身智能、哈密顿世界模型、极端环境的可靠物理智能、地表物理环境统一世界模型等方向。活动还设置了项目与基金洽谈环节，推动创业团队与投资机构交流对接。 从“源头创新”到“产业验证”，源创计划要打通的不只是资金 活动现场，智源研究院副院长杨洋介绍了“源创计划”的定位与支持机制。作为主要面向智源学者群体的原创技术创业孵化计划，源创计划聚焦人工智能领域的原创科研课题，遵循“源头创新、快速决策、小步试行、全流程合规转化”的原则，整合技术、人才、资本与产业资源，为科研团队从实验室走向产业提供支持。计划不仅关注资金对接，更着力构建连接原创科研、创业团队与产业市场的协同机制，推动科研成果从技术发现走向工程验证与商业化应用。 源创计划的推出，也回应了人工智能产业发展与科技成果转化的现实需求。当前，AI正处于从技术突破迈向产业应用的关键阶段，原创技术的工程化验证、场景适配与商业化转化日益受到关注。与此同时，科技成果转化相关政策与机制持续完善，为科研机构探索原创成果转化提供了新的条件。源创计划希望把握这一窗口期，进一步打通科研创新与产业需求之间的连接，支持更多有潜力的原创技术走向市场。 五个项目，呈现AI原创技术的多元探索 1. 临界核科技：从原创器件到软硬件平台 临界核科技聚焦3DV-RRAM芯片，布局底层自选通RRAM器件、芯片、FlagOS软件生态与系统应用，致力于打造软硬件协同的全栈产品体系。项目以存储级内存和存算一体为切入点，探索新型存储与AI算力协同发展的新路径，旨在突破现有计算机体系结构面临的存储与算力瓶颈。团队由清华大学国家级青年人才领衔，曾获省部级自然科学一等奖(2025年)，兼具基础研究和工程技术攻关优势。 2. 灵枢启智：以神经形态计算重构具身智能感知架构 灵枢启智聚焦跨尺度多模态感知与神经形态具身智能，致力于为具身智能构建物理感知与类脑计算",
+    "url": "https://www.leiphone.com/category/ai/80I0hBKAVSTsKbtM.html",
+    "imageUrl": null,
+    "source": "雷锋网",
+    "categoryId": null,
+    "publishedAt": "2026-10-27T06:15:00.000Z",
+    "createdAt": "2026-10-28T01:00:57.106Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "Robotics & Embodied AI",
+    "contentFormats": [
+      "Xiaohongshu Explainer",
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
     "id": 2161447,
     "title": "NASA’s Perseverance Views Dust at Neretva Vallis",
     "description": "Description This 360-degree look at Neretva Vallis within Mars’ Jezero Crater was stitched together using 217 images acquired by the rover’s Mastcam-Z on May 20, 2024, the 1,155th Martian day, or sol, of the mission. While it is a wind-swept dusty vista today, billions of years ago it was home to a river channel that fed fresh water into […]",
@@ -224,6 +295,23 @@
     "createdAt": "2026-10-27T01:13:53.151Z",
     "language": "en",
     "region": "Global",
+    "topic": "Chips & Compute",
+    "contentFormats": [
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2161463,
+    "title": "OpenAI开始断网训练最强模型：“安全起见”",
+    "description": "模型开始利用GPU缓存聊天？",
+    "url": "https://www.qbitai.com/2026/10/505529.html",
+    "imageUrl": null,
+    "source": "量子位",
+    "categoryId": null,
+    "publishedAt": "2026-10-26T09:37:57.000Z",
+    "createdAt": "2026-10-28T01:00:51.405Z",
+    "language": "zh",
+    "region": "China",
     "topic": "Chips & Compute",
     "contentFormats": [
       "WeChat Deep Dive"

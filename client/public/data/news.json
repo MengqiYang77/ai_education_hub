@@ -1,5 +1,167 @@
 [
   {
+    "id": 2161471,
+    "title": "Stealth Partisan Outlets Exploit Trust in Local Journalism",
+    "description": "&lt;p&gt; &lt;img loading=\"lazy\" src=\"https://www.cmu.edu/news/sites/default/files/styles/listings_desktop_1x_/public/2026-10/PinkSlime2.jpg.webp?h=f0a29197&amp;itok=AwqnY-e-\" width=\"900\" height=\"508\" alt=\"Newspapers\"&gt; &lt;/p&gt; New research from Carnegie Mellon University’s Kenneth C. Griffin School of Computer Science found that partisan media operations spent millions of dollars on social media ads ahead of key elections to promote pink slime websites masquerading as local news sources to sway voters with their content.",
+    "url": "https://www.cmu.edu/news/stories/archives/2026/october/stealth-partisan-outlets-exploit-trust-in-local-journalism",
+    "imageUrl": null,
+    "source": "Carnegie Mellon",
+    "categoryId": null,
+    "publishedAt": "2026-10-28T19:20:34.000Z",
+    "createdAt": "2026-10-29T01:36:46.175Z",
+    "language": "en",
+    "region": "Global",
+    "topic": "Chips & Compute",
+    "contentFormats": [
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2161468,
+    "title": "Artemis III SLS Core Stage Joins Boosters at Kennedy",
+    "description": "NASA’s Artemis III SLS (Space Launch System) core stage is integrated alongside the twin solid rocket boosters on Oct. 28 inside the Vehicle Assembly Building’s High Bay 3 at NASA’s Kennedy Space Center in Florida. &#160; Technicians lifted the 212-foot rocket stage from the facility’s High Bay 2 using a one-of-a kind lifting beam designed [&#8230;]",
+    "url": "https://www.nasa.gov/image-article/artemis-iii-sls-core-stage-joins-boosters-at-kennedy/",
+    "imageUrl": null,
+    "source": "NASA",
+    "categoryId": null,
+    "publishedAt": "2026-10-28T18:59:44.000Z",
+    "createdAt": "2026-10-29T01:36:45.674Z",
+    "language": "en",
+    "region": "Global",
+    "topic": "Space & Aerospace",
+    "contentFormats": [
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2161469,
+    "title": "NASA University Challenge Ignites Trajectory of Drone Entrepreneur",
+    "description": "Five years ago, Gavin Gardner was a Michigan State University engineering student researching next-generation drone technology as part of a NASA grant. Garder expected the research to be demanding – but he was surprised that navigating the financial side of the work presented an even greater challenge. Although Gardner was used to leading fellow students [&#8230;]",
+    "url": "https://www.nasa.gov/aeronautics/nasa-challenge-drone-entrepreneur/",
+    "imageUrl": null,
+    "source": "NASA",
+    "categoryId": null,
+    "publishedAt": "2026-10-28T18:00:28.000Z",
+    "createdAt": "2026-10-29T01:36:45.674Z",
+    "language": "en",
+    "region": "Global",
+    "topic": "Robotics & Embodied AI",
+    "contentFormats": [
+      "Xiaohongshu Explainer",
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2161472,
+    "title": "ATDC’s North Star AI Labs Expands Access to AI Tools, Talent, Community for Georgia Entrepreneurs",
+    "description": "&lt;span&gt;ATDC’s North Star AI Labs Expands Access to AI Tools, Talent, Community for Georgia Entrepreneurs&lt;/span&gt; &lt;span&gt;&lt;a title=\"View user profile.\" href=\"https://news.gatech.edu/user/1\"&gt;Superadmin&lt;/a&gt;&lt;/span&gt; &lt;span&gt;&lt;time datetime=\"2026-10-28T12:28:31-04:00\" title=\"Wednesday, October 28, 2026 - 12:28\"&gt;Wed, 10/28/2026 - 12:28&lt;/time&gt; &lt;/span&gt; &lt;div&gt;&lt;p&gt;Atlanta – The Advanced Technology Development Center (ATDC) today announced the public launch of North Star AI Labs, an initiative designed to provide entrepreneurs across Georgia with access to artificial intelligence tools, technical talent, and a growing innovation community.&lt;/p&gt;&lt;p&gt;After operating in stealth mode over the past year, North Star AI Labs is now open to founders, startups, and creators seeking to build and scale AI-driven solutions. The initiative addresses a growing gap in the innovation ecosystem, where many entrepreneurs lack access to the infr",
+    "url": "https://news.gatech.edu/news/2026/10/28/atdcs-north-star-ai-labs-expands-access-ai-tools-talent-community-georgia",
+    "imageUrl": null,
+    "source": "Georgia Tech",
+    "categoryId": null,
+    "publishedAt": "2026-10-28T16:28:31.000Z",
+    "createdAt": "2026-10-29T01:36:47.010Z",
+    "language": "en",
+    "region": "Global",
+    "topic": "AI Models & Agents",
+    "contentFormats": [
+      "Xiaohongshu Explainer",
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2161466,
+    "title": "3 Questions: Why infrastructure is entering a defining era",
+    "description": "Professor Ali Jadbabaie describes how AI, digital transformation, climate change, and complex geopolitics are forcing engineers and policymakers to rethink how infrastructure is designed, built, and managed.",
+    "url": "https://news.mit.edu/2026/3-questions-why-infrastructure-is-entering-defining-era-1028",
+    "imageUrl": null,
+    "source": "MIT AI",
+    "categoryId": null,
+    "publishedAt": "2026-10-28T16:00:00.000Z",
+    "createdAt": "2026-10-29T01:36:33.046Z",
+    "language": "en",
+    "region": "Global",
+    "topic": "Policy & Society",
+    "contentFormats": [
+      "Xiaohongshu Explainer",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2161470,
+    "title": "Webb Sees Turbulent Star Nursery",
+    "description": "In this Webb image released on Oct. 22, 2026, we see a turbulent cauldron of star formation filled with dense clumps of gas. This region is named N159 and is located 161,000 light-years away in the Large Magellanic Cloud, one of the satellite galaxies orbiting the Milky Way galaxy. This region has a lower metallicity [&#8230;]",
+    "url": "https://www.nasa.gov/image-article/webb-sees-turbulent-star-nursery/",
+    "imageUrl": null,
+    "source": "NASA",
+    "categoryId": null,
+    "publishedAt": "2026-10-28T15:33:10.000Z",
+    "createdAt": "2026-10-29T01:36:45.674Z",
+    "language": "en",
+    "region": "Global",
+    "topic": "Space & Aerospace",
+    "contentFormats": [
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2161476,
+    "title": "模态缺失、噪声干扰怎么办？天津大学张长青：给多模态融合加上「可信度量尺」| CNCC 2026",
+    "description": "真正的挑战，是让模型保留有效信息、识别可靠证据，并适应新的任务。 作者丨 张 璐 编辑丨 马晓宁 在具身智能、自动驾驶和智慧医疗等场景中，模型需要处理的数据远不止图像、文本和语音。雷达、触觉、心电、医学影像及各类传感器数据，都可能成为预测和决策的依据。然而，不同模态之间既存在关联，也包含彼此无法替代的信息；现实数据还常常面临模态缺失、噪声干扰等问题。 如何在融合信息的同时保留模态差异？当不同来源的数据质量不一致时，模型又该如何判断哪些信息更可靠？如果每遇到一种新任务，都需要重新设计和训练专用模型，多模态技术的应用成本又该如何降低？ 10月21日，在 CNCC 2026 首日的Tutorial环节，天津大学人工智能学院英才教授、国家级青年人才张长青作了题为《广义多模态融合技术》的报告，介绍了团队围绕多模态表征、动态可信融合和通用预测基座开展的研究。 从保留模态特有信息，到利用证据评估预测的不确定性，再到尝试构建能够适应不同模态组合与预测任务的基础模型，这些工作指向同一个问题：如何让多模态融合更好地适应真实世界的复杂性。 01 超越简单对齐： 如何兼顾模态的共性与个性？ 多模态融合的价值，在于不同来源的信息能够相互补充。单一模态只能呈现对象或事件的部分特征，而不同模态的结合，有可能帮助模型形成更全面的判断。 但模态数量增加，并不意味着预测准确率必然提高。新增信息可能包含噪声，也可能对当前任务产生误导。因此，多模态融合不仅要回答如何整合信息，还要回答如何保留有效信息、抑制无关干扰。 张长青首先介绍了多模态表征中的两种思路：联合表征（Joint Representation）与协同表征（Coordinated Representation）。 联合表征尝试将不同模态的信息整合到共同的表征中；协同表征则强调不同模态之间的关联。以典型相关分析（CCA）及其深度学习变体为例，相关方法会将不同模态映射到具有较强相关性的空间，以利用它们之间的共性信息。 问题在于，如果过度强调共享信息，模态特有的信息可能难以得到充分保留。 例如，在医学诊断中，病原学检测和 CT 影像能够从不同角度提供信息。前者可能帮助识别感染的病原体，后者能够显示肺部病灶的位置与范围。两类信息相互补充，却不能简单地相互替代。 因此，多模态表征需要同时考虑共性与个性，而不是仅仅追求不同模态之间的一致性。 张长青团队尝试",
+    "url": "https://www.leiphone.com/category/private/L0riZpWS688dpXnN.html",
+    "imageUrl": null,
+    "source": "雷锋网",
+    "categoryId": null,
+    "publishedAt": "2026-10-28T07:58:00.000Z",
+    "createdAt": "2026-10-29T01:36:53.464Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "Robotics & Embodied AI",
+    "contentFormats": [
+      "Xiaohongshu Explainer",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2161467,
+    "title": "Making machines that can listen",
+    "description": "Professor Paris Smaragdis develops computers with superhuman hearing for applications like speech recognition, music understanding, and environmental monitoring.",
+    "url": "https://news.mit.edu/2026/making-machines-that-can-listen-paris-smaragdis-1028",
+    "imageUrl": null,
+    "source": "MIT AI",
+    "categoryId": null,
+    "publishedAt": "2026-10-28T04:00:00.000Z",
+    "createdAt": "2026-10-29T01:36:33.046Z",
+    "language": "en",
+    "region": "Global",
+    "topic": "Chips & Compute",
+    "contentFormats": [
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2161477,
+    "title": "AI做中学 创未来｜智源SoulAgent持续拓展教育应用",
+    "description": "10月19日至24日，北京智源人工智能研究院（以下简称“智源研究院”）连续走进中国人民大学附属中学，先后支持北京市“做中学”领航行动海淀区工作部署会暨科学与工程实践研讨会、“AI做中学，创未来——人工智能赋能创新人才培养研讨会”等活动，围绕SoulAgent在真实课堂、教研和学习场景中的应用开展实践与交流。 SoulAgent是智源研究院推出的“越用越懂你的个人智能体”。在教育场景中，SoulAgent围绕“帮我听课”、教师AI分身、作文批改、教学答疑等方向，探索AI如何帮助教师提升教学效率、沉淀教学内容，同时通过反馈、追问等方式支持学生理解问题、拓展思路、持续思考。 图注：SoulAgent走进校园，围绕真实教学与学习场景开展应用实践。 “帮我听课”：同时听多堂课，让课堂内容持续服务教研 公开课、听课和教研等场景中，多门课程往往同时进行，教师既需要关注课堂现场，也要记录内容、梳理重点并完成课后复盘，有限的时间很难兼顾所有感兴趣的课程。 SoulAgent“帮我听课”通过AI速记、智能总结和持续问答，辅助记录课堂内容、梳理教学重点。即使无法进入每一间课堂，教师也可以在课后回顾感兴趣的课程，并围绕课堂内容继续提问，让“听课”不再受限于同一时间只能进入一间教室。 10月21日活动期间，27节公开课接入SoulAgent“帮我听课”，通过课堂文字整理、教学要点梳理等功能，为教师回顾课堂、开展教学复盘提供参考。当天上午多门研究课并行开展，下午随即进入7个教研分论坛，沉淀下来的课堂速记和总结也可以成为后续讨论的共同参考，减少对课堂内容的重复回顾，把更多时间用于教学分析、经验交流和深入研讨。 从课堂记录到课后追问，再到教学复盘和教研交流，SoulAgent希望让一次性的课堂内容进一步沉淀为可查询、可回顾、可持续使用的教学资源。 图注：SoulAgent通过课堂文字整理、教学要点梳理和持续问答，为教师回顾课堂和开展教学复盘提供参考。 教师AI分身：让AI先理解教师，再辅助教学 如果说“帮我听课”解决的是课堂信息如何被更高效地记录和使用，那么教师AI分身进一步面对的，是AI如何真正适应不同教师的教学方式。 不同教师有自己的课程设计、评价尺度、批注习惯和讲评重点，真实教学并不存在一套完全统一的标准。SoulAgent将教师的课程资料、评价标准、批注样例、讲评口径以及实际使用中的反馈持",
+    "url": "https://www.leiphone.com/category/ai/TKr0YQ085uv1ME7X.html",
+    "imageUrl": null,
+    "source": "雷锋网",
+    "categoryId": null,
+    "publishedAt": "2026-10-28T03:19:00.000Z",
+    "createdAt": "2026-10-29T01:36:53.465Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "Education & Future Skills",
+    "contentFormats": [
+      "Xiaohongshu Explainer",
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
     "id": 2161461,
     "title": "Learner collaborates with MIT peers to develop book of AI insights",
     "description": "Prabha Jha used her experience with MIT Open Learning’s program for senior executives to develop AI solutions for her employer, Verizon, and to write a book.",
@@ -31,6 +193,58 @@
     "topic": "Space & Aerospace",
     "contentFormats": [
       "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2161473,
+    "title": "不藏了！人形机器人全开源动真格，从机械结构一路拆到运动算法",
+    "description": "人形机器人全套图纸开源！从关节到算法，下载就能自己造。",
+    "url": "https://www.qbitai.com/2026/10/505865.html",
+    "imageUrl": null,
+    "source": "量子位",
+    "categoryId": null,
+    "publishedAt": "2026-10-27T12:57:51.000Z",
+    "createdAt": "2026-10-29T01:36:49.387Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "Robotics & Embodied AI",
+    "contentFormats": [
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2161474,
+    "title": "Physical RSI第一站！便利店打工“人”自己进化，物理AI飞轮启动了",
+    "description": "无人在环进店实测啃下长尾场景",
+    "url": "https://www.qbitai.com/2026/10/505799.html",
+    "imageUrl": null,
+    "source": "量子位",
+    "categoryId": null,
+    "publishedAt": "2026-10-27T08:46:12.000Z",
+    "createdAt": "2026-10-29T01:36:49.387Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "AI Models & Agents",
+    "contentFormats": [
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2161475,
+    "title": "国产AI 3D大模型Hi3D来了！开源可商用，PK干掉GPT-6",
+    "description": "还是专业的模型做专业的事情",
+    "url": "https://www.qbitai.com/2026/10/505694.html",
+    "imageUrl": null,
+    "source": "量子位",
+    "categoryId": null,
+    "publishedAt": "2026-10-27T08:18:59.000Z",
+    "createdAt": "2026-10-29T01:36:49.387Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "AI Models & Agents",
+    "contentFormats": [
       "WeChat Deep Dive"
     ]
   },

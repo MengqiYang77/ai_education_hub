@@ -1,5 +1,183 @@
 [
   {
+    "id": 2161491,
+    "title": "MIT affiliates named 2026 Schmidt Sciences AI2050 Fellows",
+    "description": "Five MIT faculty members and two additional alumni are honored with fellowships to advance research on beneficial AI.",
+    "url": "https://news.mit.edu/2026/mit-affiliates-named-schmidt-sciences-ai2050-fellows-1030",
+    "imageUrl": null,
+    "source": "MIT AI",
+    "categoryId": null,
+    "publishedAt": "2026-10-30T20:15:00.000Z",
+    "createdAt": "2026-10-31T01:26:13.960Z",
+    "language": "en",
+    "region": "Global",
+    "topic": "AI Models & Agents",
+    "contentFormats": [
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2161497,
+    "title": "Where better than universities?",
+    "description": "The thorny ethical questions raised by AI demand exhaustive scrutiny, says Ifeoma Ajunwa—not to mention debate. She knows just the place.",
+    "url": "https://news.harvard.edu/gazette/story/2026/10/where-better-than-universities/",
+    "imageUrl": null,
+    "source": "Harvard Gazette",
+    "categoryId": null,
+    "publishedAt": "2026-10-30T19:55:48.000Z",
+    "createdAt": "2026-10-31T01:26:26.977Z",
+    "language": "en",
+    "region": "Global",
+    "topic": "Policy & Society",
+    "contentFormats": [
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2161495,
+    "title": "NASA Releases MAX POWER Key Events for Media, Participants",
+    "description": "America’s newest aerospace expo and air show – MAX POWER – is fast approaching, and NASA has announced key events beginning Friday, Nov. 6, and running through Sunday, Nov. 8, hosted on and near the agency’s Kennedy Space Center in Florida. Through multiple park experiences at MAX POWER, NASA and a variety of external collaborators [&#8230;]",
+    "url": "https://www.nasa.gov/news-release/nasa-releases-max-power-key-events-for-media-participants/",
+    "imageUrl": null,
+    "source": "NASA",
+    "categoryId": null,
+    "publishedAt": "2026-10-30T19:31:02.000Z",
+    "createdAt": "2026-10-31T01:26:25.231Z",
+    "language": "en",
+    "region": "Global",
+    "topic": "Space & Aerospace",
+    "contentFormats": [
+      "Xiaohongshu Explainer",
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2161492,
+    "title": "Q&A: Hey AI, who should I vote for this year?",
+    "description": "MIT professors Adam Berinsky and Chara Podimata discuss a new project to track how AI chatbots are responding to questions about the 2026 U.S. midterm elections.",
+    "url": "https://news.mit.edu/2026/qa-hey-ai-who-should-i-vote-for-this-year-1030",
+    "imageUrl": null,
+    "source": "MIT AI",
+    "categoryId": null,
+    "publishedAt": "2026-10-30T19:00:00.000Z",
+    "createdAt": "2026-10-31T01:26:13.961Z",
+    "language": "en",
+    "region": "Global",
+    "topic": "AI Models & Agents",
+    "contentFormats": [
+      "Xiaohongshu Explainer",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2161498,
+    "title": "8 Startups Graduate From Georgia Tech’s ATDC in 2026",
+    "description": "&lt;span&gt;8 Startups Graduate From Georgia Tech’s ATDC in 2026 &lt;/span&gt; &lt;span&gt;&lt;a title=\"View user profile.\" href=\"https://news.gatech.edu/user/1\"&gt;Superadmin&lt;/a&gt;&lt;/span&gt; &lt;span&gt;&lt;time datetime=\"2026-10-30T14:47:31-04:00\" title=\"Friday, October 30, 2026 - 14:47\"&gt;Fri, 10/30/2026 - 14:47&lt;/time&gt; &lt;/span&gt; &lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;p&gt;Eight technology startups graduated from Georgia Tech’s &lt;a href=\"https://atdc.org/\"&gt;Advanced Technology Development Center&lt;/a&gt; (ATDC) this year, marking the next chapter for companies that spent years developing products, building teams, and growing their businesses. &lt;/p&gt;&lt;/div&gt;&lt;div&gt;&lt;p&gt;The 2026 graduating class includes companies working in healthcare, financial services, artificial intelligence, cybersecurity, and consumer products. While their industries and business models differ, each has reached the milestones required to graduate from ATDC, Georgia Tech’s sta",
+    "url": "https://news.gatech.edu/news/2026/10/30/8-startups-graduate-georgia-techs-atdc-2026",
+    "imageUrl": null,
+    "source": "Georgia Tech",
+    "categoryId": null,
+    "publishedAt": "2026-10-30T18:47:31.000Z",
+    "createdAt": "2026-10-31T01:26:27.414Z",
+    "language": "en",
+    "region": "Global",
+    "topic": "AI Models & Agents",
+    "contentFormats": [
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2161494,
+    "title": "Video Friday: Spot Plays to Show Its Whole-Body Manipulation",
+    "description": "Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few months. Please send us your events for inclusion. CoRL 2026 : 9–12 November 2026, AUSTIN Humanoids 2026 : 6–9 December 2026, SANTA CLARA, CA Enjoy today’s videos! Some top-notch whole-body manipulation here from RAI, although it’s a little hard to tell whether there’s direct torso involvement, which is something that humans do with heavy or awkward stuff all the time. “Anything that shows up as a blob in a depth image can be taken for the tire, whether a person walking past or a stray object on the floor. In a few runs the robot left the tire and went after something else.” That “something else” seems suspiciously vague, doesn’t it? [ Robotics and AI Institute ] We present a contact-centric learning framework for versatile humanoid mobility in complex and unstructured environments. Our approach",
+    "url": "https://spectrum.ieee.org/video-friday-whole-body-manipulation",
+    "imageUrl": null,
+    "source": "IEEE Spectrum Robotics",
+    "categoryId": null,
+    "publishedAt": "2026-10-30T16:30:03.000Z",
+    "createdAt": "2026-10-31T01:26:25.182Z",
+    "language": "en",
+    "region": "Global",
+    "topic": "Robotics & Embodied AI",
+    "contentFormats": [
+      "Xiaohongshu Explainer",
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2161493,
+    "title": "From synthetic enterprise data evaluations to real Microsoft Copilot AI confidence",
+    "description": "Evaluating Microsoft Copilot at enterprise scale requires test data that captures the full complexity of real organizations, yet real enterprise data contains sensitive information that cannot be used for evaluation under any circumstances. The post From synthetic enterprise data evaluations to real Microsoft Copilot AI confidence appeared first on Microsoft Research .",
+    "url": "https://www.microsoft.com/en-us/research/blog/from-synthetic-enterprise-data-evaluations-to-real-microsoft-copilot-ai-confidence/",
+    "imageUrl": null,
+    "source": "Microsoft Research",
+    "categoryId": null,
+    "publishedAt": "2026-10-30T13:05:28.000Z",
+    "createdAt": "2026-10-31T01:26:25.084Z",
+    "language": "en",
+    "region": "Global",
+    "topic": "AI Models & Agents",
+    "contentFormats": [
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2161500,
+    "title": "全行业两年攒下百万小时数据，影溯想 1 个月生产完：全国首个具身仿真数采中心落地杭州",
+    "description": "产能公式从“人×小时”，变成“环境配置数×并行算力”。 作者丨 幸丽娟 编辑丨 岑 峰 训练一个可用的具身智能模型， 需 要千 万小时 的多模态交互数据；而 现实仅有百万小时 ，剔除低质部分后，真正可用的更少。 缺数据，是具身智能行业的共识。 但只盯着“数据”这两个字，会错过更关键的问题： 一台机器人在固定货架前抓取，成功率可以很高。货架挪个方向，目标前多放一排饮料，换一侧伸手，成功率就往下掉。练过的，它能一遍遍做对；没练过的，它连手该从哪边伸都不知道。 行业缺的不只是数据量，还有“数据里的变化”。 过去两年，补缺口的主流办法是建场地、加采集人手。 据中国信息通信研究院，截至今年6月底，全国共建成启用超过70家训练场，另有40 余家在建或规划。 然而，大量训练场集中在叠衣服、收拾桌面、分拣搬运这类易展示任务上，复杂长程任务挖掘严重不足。数据小时数在涨，模型见过的空间布局没涨。 问题出在扩容的对象上。加场地，加采集人手，扩的是同一批场景的采集次数——货架还是那个货架，只是多采了几遍。 多样性要涨，靠的是条件变多 ： 布局、遮挡、物体组合、接近路径，每多一种都是一次重新排列。 而一个训练场里能有多少种排列，取决于它被布置成什么样；改一次布置，采集流程就得跟着重走一遍。采集的人力、时间成本数倍往上叠。 产能越加越大，多样性原地踏步。行业真正卡住的地方，不是“采得不够多”，而是 “变一次太贵” 。 来自空间智能赛道的影溯，给出了另一种解法：不只采得多，还要穷尽空间的各种排列组合，采得“不一样”。 10月29日， 影溯 在杭州正式落地 全国首家以仿真为主的具身智能数采中心 ，目标将产能拉升至 月产百万小时级数据。 它以三维场景重建与生成为核心，把真实空间、生成式模型与仿真能力接到一起，做一套 可编辑、可复用、可扩展 的环境与数据供给体系。 在“真实数据为王”的共识里打出“仿真”的旗号，需要底气。 这种底气，源自影溯直接变革数采方式，同时解开数据多样性和产能两大“卡点”；更源自，它自己作为一家空间智能基模公司，最知道模型需要什么数据，以及什么才叫真正的高质量数据。 01 数据产能和多样性， 卡在“每加一种变化就重来一遍” 要看懂影溯的选择，得先看清楚它要替代的数采流程，成本到底花在哪。 EGO第一视角采集与遥操作，是具身智能获取真实行为数据的两种主要方式。EGO需要人员进入环境",
+    "url": "https://www.leiphone.com/category/academic/xPVWQgBN3Foj7fo5.html",
+    "imageUrl": null,
+    "source": "雷锋网",
+    "categoryId": null,
+    "publishedAt": "2026-10-30T11:08:00.000Z",
+    "createdAt": "2026-10-31T01:26:37.921Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "Robotics & Embodied AI",
+    "contentFormats": [
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2161496,
+    "title": "November’s Night Sky Notes: Light-Day Away",
+    "description": "Twin Travelers In 1977, NASA launched twin spacecraft Voyager 1 and 2, taking advantage of a once-every-175-year planetary alignment of the four largest planets in our solar system: Jupiter, Saturn, Uranus, and Neptune. Using six gravity assists between them, this Grand Tour gave us up-close views of the gas and ice giants, including several moons. […]",
+    "url": "https://science.nasa.gov/solar-system/skywatching/night-sky-network/novembers-night-sky-notes-light-day-away/",
+    "imageUrl": null,
+    "source": "NASA",
+    "categoryId": null,
+    "publishedAt": "2026-10-30T10:00:00.000Z",
+    "createdAt": "2026-10-31T01:26:25.231Z",
+    "language": "en",
+    "region": "Global",
+    "topic": "Space & Aerospace",
+    "contentFormats": [
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2161499,
+    "title": "从学习人类到学习机器人同伴，清华大学联合无问芯穹、智元提出具身智能规模化落地新路径",
+    "description": "让机器人成为彼此的“老师”",
+    "url": "https://www.qbitai.com/2026/10/506662.html",
+    "imageUrl": null,
+    "source": "量子位",
+    "categoryId": null,
+    "publishedAt": "2026-10-30T03:48:04.000Z",
+    "createdAt": "2026-10-31T01:26:28.886Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "Robotics & Embodied AI",
+    "contentFormats": [
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
     "id": 2161480,
     "title": "Map Showing Potential Origins of Martian Meteorite Teghaza 001",
     "description": "Description This global map of Mars shows 13 locations that match the mineralogy and chemistry of Teghaza 001, one of the most ancient Martian meteorites ever found on Earth. While scientists can never know for sure where a Martian meteorite originated, Teghaza 001 includes clues that link it to highlands in the southern hemisphere of […]",

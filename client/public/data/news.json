@@ -1,5 +1,167 @@
 [
   {
+    "id": 2161521,
+    "title": "Exploring CMU’s Florida Connections: From Space Coast Rovers to New Campus",
+    "description": "&lt;p&gt; &lt;img loading=\"lazy\" src=\"https://www.cmu.edu/news/sites/default/files/styles/listings_desktop_1x_/public/2024-01/iris-team-florida-04.jpg.webp?h=7e74fac4&amp;itok=1LrI4CF8\" width=\"900\" height=\"508\" alt=\"Members of the Iris team watch lift off.\"&gt; &lt;/p&gt; Over its storied history, Carnegie Mellon University research, including robotics and artistic endeavors, has either touched down in, or launched from, Florida.",
+    "url": "https://www.cmu.edu/news/stories/archives/2026/november/exploring-cmus-florida-connections-from-space-coast-rovers-to-new-campus",
+    "imageUrl": null,
+    "source": "Carnegie Mellon",
+    "categoryId": null,
+    "publishedAt": "2026-11-03T18:00:00.000Z",
+    "createdAt": "2026-11-04T01:56:46.150Z",
+    "language": "en",
+    "region": "Global",
+    "topic": "Robotics & Embodied AI",
+    "contentFormats": [
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2161517,
+    "title": "Learn the rules: The hacker mindset",
+    "description": "Research Manager Mike Walker reflects on a career spanning hacker culture, cybersecurity, and AI, sharing lessons about trust, teamwork, leadership, and why solving difficult problems requires curiosity, judgment, agility—and an understanding of the rules. The post Learn the rules: The hacker mindset appeared first on Microsoft Research .",
+    "url": "https://www.microsoft.com/en-us/research/podcast/learn-the-rules-the-hacker-mindset/",
+    "imageUrl": null,
+    "source": "Microsoft Research",
+    "categoryId": null,
+    "publishedAt": "2026-11-03T17:14:38.000Z",
+    "createdAt": "2026-11-04T01:56:44.597Z",
+    "language": "en",
+    "region": "Global",
+    "topic": "AI Models & Agents",
+    "contentFormats": [
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2161516,
+    "title": "Agentic cheminformatics with Google Antigravity",
+    "description": "Learn how Google Antigravity and our Cheminformatics Skills accelerate drug discovery workflows, search compounds, and propose novel rigidified macrocycles.",
+    "url": "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/",
+    "imageUrl": null,
+    "source": "Google DeepMind",
+    "categoryId": null,
+    "publishedAt": "2026-11-03T17:01:49.000Z",
+    "createdAt": "2026-11-04T01:56:43.891Z",
+    "language": "en",
+    "region": "Global",
+    "topic": "Bioengineering",
+    "contentFormats": [
+      "Xiaohongshu Explainer",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2161518,
+    "title": "Astronaut and Earth",
+    "description": "CSA (Canadian Space Agency) astronaut Joshua Kutryk is pictured during the Oct. 29, 2026, spacewalk. The International Space Station was soaring 267 miles above the South Atlantic Ocean at the time of this photograph. Kutryk and NASA astronaut Anil Menon installed a new roll-out solar array on the space station and performed some get-ahead work [&#8230;]",
+    "url": "https://www.nasa.gov/image-article/astronaut-and-earth/",
+    "imageUrl": null,
+    "source": "NASA",
+    "categoryId": null,
+    "publishedAt": "2026-11-03T16:37:42.000Z",
+    "createdAt": "2026-11-04T01:56:45.462Z",
+    "language": "en",
+    "region": "Global",
+    "topic": "Space & Aerospace",
+    "contentFormats": [
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2161519,
+    "title": "TB 26-10 Printed Circuit Board Assembly Chip Resistor Body Cracking",
+    "description": "For more information, contact Joel W. Sills, Langley Research Center, joel.w.sills@nasa.gov. Download PDF here Chip resistors are widely used in NASA projects, yet cases of alumina substrate cracking during environmental testing are rare. Two instances of thick-film chip resistor cracking were observed during thermal cycling after vibration, with fractures occurring across the short axis due [&#8230;]",
+    "url": "https://www.nasa.gov/centers-and-facilities/nesc/tb-26-10-printed-circuit-board-assembly-chip-resistor-body-cracking/",
+    "imageUrl": null,
+    "source": "NASA",
+    "categoryId": null,
+    "publishedAt": "2026-11-03T15:35:14.000Z",
+    "createdAt": "2026-11-04T01:56:45.462Z",
+    "language": "en",
+    "region": "Global",
+    "topic": "Chips & Compute",
+    "contentFormats": [
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2161520,
+    "title": "NASA Astronaut, STEM Creator Connect with Students for STEM Day",
+    "description": "Students across the country will have the opportunity to connect directly with the International Space Station during a live, interactive in-flight call with NASA astronaut Anil Menon and Mark Rober STEM content creator and founder of ClassCrunchLabs Foundation. The event, hosted by NASA’s Office of STEM Engagement, celebrates National STEM Day by bringing real‑world science, [&#8230;]",
+    "url": "https://www.nasa.gov/learning-resources/nasa-astronaut-stem-creator-connect-with-students-for-stem-day/",
+    "imageUrl": null,
+    "source": "NASA",
+    "categoryId": null,
+    "publishedAt": "2026-11-03T15:15:50.000Z",
+    "createdAt": "2026-11-04T01:56:45.462Z",
+    "language": "en",
+    "region": "Global",
+    "topic": "Space & Aerospace",
+    "contentFormats": [
+      "Xiaohongshu Explainer",
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2161522,
+    "title": "中国开源走向物理世界，蚂蚁灵波携机器人通用大脑亮相乌镇",
+    "description": "11月2日至5日，2026年世界互联网大会乌镇峰会在浙江乌镇举行，本届峰会的主题为“开源开放 共建共享——携手构建网络空间命运共同体”。蚂蚁集团旗下具身智能公司蚂蚁灵波，携全栈开源的机器人通用大脑亮相乌镇，展示模型研发、开源协作以及场景应用的新进展。 今天，开源正从语言、代码和内容生成，延伸至机器人对物理世界的感知、预测与行动。与数字世界不同，机器人本体千差万别，任务场景高度分散，许多团队不得不为每一种构型、每一个场景从头训练“大脑”。 对此，灵波给出的路径是开放的具身基础模型。目前，灵波已向全球开源覆盖空间智能、灵巧操作与环境反馈的核心模型，围绕让机器人“看得更清楚、想得更明白、干得更利索”构建全栈能力，让同一套智能在不同机器人构型、任务和场景中复用。 蚂蚁灵波大脑全栈2.0模型矩阵 据统计，LingBot系列模型开源9个月来，下载量已突破220万，GitHub Star数超过3.3万，相关工作被 Physical Intelligence、Generalist AI 等全球友商引用。这套来自中国的机器人大脑，已走进全球科研与工程体系：斯坦福大学OpenWAM项目复用并适配了LingBot-VA模块；韩国FastOPD研究以LingBot-VLA为教师模型，探索训练更轻量的机器人方案；瑞士洛桑联邦理工学院基于LingBot-Map开展珊瑚礁三维重建。 与此同时，灵波模型也在加速接入全球开发者工具链：LingBot-VLA、LingBot-VA已完成对全球最大机器人开发平台LeRobot的生态适配，LingBot-Vision已合入业界主流视觉骨干模型库timm主线，LingBot-World成为全球首个同时获得vLLM、SGLang两大主流开源推理引擎支持的世界模型，英伟达也将LingBot-World集成至其开源世界模型推理库FlashDreams。 开源生态的活力也体现在开发者社区。首届“蚂蚁灵波具身大模型挑战赛”线上初赛近日落幕，吸引了来自13个国家、648所高校及企业的1855支队伍、3252位选手参赛，创下行业最大规模。 蚂蚁灵波通用大脑驱动机器人自主取药 峰会期间，蚂蚁灵波与国大药房在乌镇世界互联网科技馆联合呈现机器人智慧药房。展位完整还原真实药房环境，药品密集摆放，机器人在80厘米宽的窄通道内，自主完成从订单接收、智能分拣到商品交付的全流程连续作业。",
+    "url": "https://www.leiphone.com/category/industrynews/ADcxxdwtaojQvzhp.html",
+    "imageUrl": null,
+    "source": "雷锋网",
+    "categoryId": null,
+    "publishedAt": "2026-11-03T13:41:00.000Z",
+    "createdAt": "2026-11-04T01:56:51.377Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "Robotics & Embodied AI",
+    "contentFormats": [
+      "Xiaohongshu Explainer",
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2161523,
+    "title": "香港大学发布全球首个KYA报告关注智能体信任建设，九类企业实践获收录",
+    "description": "11月3日，香港大学副校长汪扬教授与香港大学经管学院杨宏副教授代表香港大学KYA课题组，在2026年香港金融科技周 x StartmeupHK创业节发布全球首个KYA（Know Your Agent）领域报告《KYA：智能体信用体系研究报告》。 报告聚焦智能体参与真实经济活动后的身份、授权、信用与责任问题，结合109份从业者有效问卷及包含Stripe、蚂蚁数科等近十个企业案例，提出智能体成熟度模型、KYA框架和智能体发展指数，并进一步探讨“智能体信任资本”的形成及其经济价值。 “没有KYA，就没有智能体经济。”报告认为，模型能力的提升不会自动转化为商业上的可委托性。只有当身份可确权、履约可核验、权限可约束时，智能体才能获得与其能力相匹配的经济授权。KYA所要解决的，正是智能体从技术可能走向商业可行的问题。 香港大学副校长汪扬教授与香港大学经管学院杨宏副教授发布全球首个KYA领域报告 智能体加速进入真实经济，信任赤字正侵蚀人工智能红利 报告将智能体的演进概括为四个阶段：能力智能体、执行智能体、交易智能体和经济智能体。截至目前，行业整体仍处于从能力智能体向执行智能体加速演进的阶段，部分前沿场景已开始探索交易智能体。 从执行任务走向跨主体交易，意味着智能体需要获得企业内部流程之外的信任。采购、支付或专业服务智能体可以在授权范围内代表用户采取行动，但交易对手仍需确认其代表谁、获得何种授权、能否可靠履约，以及出现损失时由谁承担责任。 行业研究显示，智能体的企业部署意愿正在快速上升。Gartner在2026年《Agentic AI技术成熟度曲线》中指出，受访组织中已有17%部署AI智能体，超过60%预计在未来两年内部署。Gartner另预测，到2028年，全球《财富》500强企业平均使用的智能体数量将超过15万个。 智能体商业活动的潜在规模也受到关注。麦肯锡估计，到2030年，智能体商业可能为全球零售市场带来3万亿至5万亿美元的协调收入机会；该估算目前仅涉及商品零售，不包括服务和B2B市场。 与能力快速提升形成鲜明对照的是，支撑智能体运行的信任体系几乎仍是空白。报告将这一能力与制度之间的错位概括为“智能体信任真空”：过去两年，智能体越权操作、提示词注入、工具投毒、多智能体协作责任失效等安全事件密集出现，并直接转化为可计量的经济成本。 Cloud Security Allianc",
+    "url": "https://www.leiphone.com/category/industrynews/KkjVOHcQ55GyhDLv.html",
+    "imageUrl": null,
+    "source": "雷锋网",
+    "categoryId": null,
+    "publishedAt": "2026-11-03T10:09:00.000Z",
+    "createdAt": "2026-11-04T01:56:51.377Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "Policy & Society",
+    "contentFormats": [
+      "Xiaohongshu Explainer",
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2161524,
+    "title": "寻找AI时代的下一个黑马：安全创客汇重磅升级为AI创客汇",
+    "description": "11月3日，在2026年世界互联网大会乌镇峰会期间，奇安信宣布：国内网络安全领域最具影响力的专业创投平台之一—— 安全创客汇，即日起正式升级为“AI创客汇” 。新平台将延续过去严苛的选拔机制与创投生态，而赛道边界将彻底打开——由聚焦网络安全领域，升级为更加广阔的AI创新与应用领域，旨在发现和挖掘那些在AI浪潮中搏击的“创新黑马”。 本次升级不仅是名称的更迭，更是一次顺应时代潮汐的战略跃迁： 一个以安全为底色的专业创投平台，正式向整个AI时代的创新者发出邀请函。 AI创客汇：寻找AI时代的颠覆力量 当前，人工智能正以颠覆性的力量加速重塑千行百业，对社会生产与日常生活产生深远变革。AI+政务让城市治理更智慧高效，AI+金融推动风控与服务模式重构，AI+医疗加速精准诊疗与新药研发，AI+交通赋能自动驾驶与智慧物流，AI+教育则让个性化学习成为可能……如雨后春笋般涌现的应用场景，正催生出百花齐放的创新者与创业者。 沿着旧地图，找不到新大陆。全新的AI创客汇，将打破传统网安的边界，目光锁定在AI×各个领域的交叉创新，寻找那些能够深入业务腹地、解决行业痛点、紧贴用户需求且具备持续安全保障能力的创新先锋。奇安信将携手多家权威机构、产业领袖与学术泰斗，共同挖掘那些在各个细分场景中能够重塑生产力的种子选手。我们寻找的， 不仅是技术的突破者，更是应用落地的先行实践者。 安全为基：让AI走得更快、行得更稳 AI的高速发展，离不开安全的护航。发展与安全，从来都是相辅相成、相互依存的一体两面。当智能体失控从理论假设走向现实，自主越权、欺骗人类、入侵系统的事件已接连发生；当AI伪造与诈骗日益泛滥，换脸绕过生物识别、深度伪造视频骗走巨额资金，社会信任的基石正受到严重冲击；当每一行由AI生成的代码、每一段由AI合成的声音都可能成为攻击载体，安全的边界已从“事后补救”前移至“源头防控”……这些都传递出清晰的信号： 没有安全，再强大的模型也无法上牌桌；没有安全，再广阔的应用场景也只是空中楼阁。 在AI狂飙的时代，安全不再仅仅是附属品，而是拥有“一票否决权”的基石，其“入场券”的价值正在飙升。 正是在这样的时代背景下，安全创客汇升级为AI创客汇，将安全的基因深植于AI发展的全生命周期，让AI在安全可控的轨道上，释放出真正的变革伟力。 从网安新锐的摇篮，到AI创业者的新舞台 “回望来路，安全创客汇自201",
+    "url": "https://www.leiphone.com/category/industrynews/X8wk3oODlsrt6zy7.html",
+    "imageUrl": null,
+    "source": "雷锋网",
+    "categoryId": null,
+    "publishedAt": "2026-11-03T06:41:00.000Z",
+    "createdAt": "2026-11-04T01:56:51.378Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "Robotics & Embodied AI",
+    "contentFormats": [
+      "WeChat Deep Dive"
+    ]
+  },
+  {
     "id": 2161512,
     "title": "B站举办2026超级科学晚，脑机接口、人造太阳等前沿科技齐亮相",
     "description": "10月31日，2026年bilibili超级科学晚（以下简称“B站科学晚”）在北京如期举行。",

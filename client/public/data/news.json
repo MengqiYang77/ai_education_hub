@@ -1,5 +1,111 @@
 [
   {
+    "id": 2161536,
+    "title": "Edge Medicine awarded $10 million to bring AI to frontline healthcare",
+    "description": "The post Edge Medicine awarded $10 million to bring AI to frontline healthcare appeared first on Berkeley News .",
+    "url": "https://cdss.berkeley.edu/news/edge-medicine-awarded-10-million-laude-institute-competition-ai-healthcare",
+    "imageUrl": null,
+    "source": "Berkeley News",
+    "categoryId": null,
+    "publishedAt": "2026-11-05T22:02:54.000Z",
+    "createdAt": "2026-11-06T02:00:42.807Z",
+    "language": "en",
+    "region": "Global",
+    "topic": "AI Models & Agents",
+    "contentFormats": [
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2161532,
+    "title": "Formally verifying agent-written full-stack web apps with PDD Kit",
+    "description": "AI agents can generate code at a scale that’s hard for humans to review line-by-line. PDD Kit helps ensure the code is doing what the developer intended by creating formal specifications and testing against them. It converts developer intent into a Verus specification, proves AI-generated code meets it for every input, and uses tests where proofs aren't practical. Developers review intent, not every line. The post Formally verifying agent-written full-stack web apps with PDD Kit appeared first on Microsoft Research .",
+    "url": "https://www.microsoft.com/en-us/research/blog/formally-verifying-agent-written-full-stack-web-apps-with-pdd-kit/",
+    "imageUrl": null,
+    "source": "Microsoft Research",
+    "categoryId": null,
+    "publishedAt": "2026-11-05T16:00:00.000Z",
+    "createdAt": "2026-11-06T02:00:41.136Z",
+    "language": "en",
+    "region": "Global",
+    "topic": "AI Models & Agents",
+    "contentFormats": [
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2161533,
+    "title": "Midwestern City Lights",
+    "description": "City lights from the Midwestern United States to the East Coast sparkle across the landscape a couple of hours before sunrise on Oct. 18, 2026. Major urban areas visible in the photograph include Chicago, Illinois; Detroit, Michigan; and the New York metropolitan region. The International Space Station was orbiting 259 miles above Earth when this [&#8230;]",
+    "url": "https://www.nasa.gov/image-article/midwestern-city-lights/",
+    "imageUrl": null,
+    "source": "NASA",
+    "categoryId": null,
+    "publishedAt": "2026-11-05T15:17:19.000Z",
+    "createdAt": "2026-11-06T02:00:41.496Z",
+    "language": "en",
+    "region": "Global",
+    "topic": "Space & Aerospace",
+    "contentFormats": [
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2161534,
+    "title": "NASA Astronauts to Answer Questions from Florida Students",
+    "description": "Students in Florida will hear from NASA astronauts Jessica Watkins and Luke Delaney as they answer prerecorded STEM questions while aboard the&#160;International Space Station. The Earth-to-space call will begin at 10:40 a.m. EST Tuesday, Nov. 10, and will stream live on the agency’s&#160;Learn With NASA&#160;YouTube channel. This event is hosted by Freedom Crossing Academy in [&#8230;]",
+    "url": "https://www.nasa.gov/learning-resources/nasa-astronauts-to-answer-questions-from-florida-students-2/",
+    "imageUrl": null,
+    "source": "NASA",
+    "categoryId": null,
+    "publishedAt": "2026-11-05T15:11:25.000Z",
+    "createdAt": "2026-11-06T02:00:41.496Z",
+    "language": "en",
+    "region": "Global",
+    "topic": "Space & Aerospace",
+    "contentFormats": [
+      "Xiaohongshu Explainer",
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2161535,
+    "title": "CMU Researchers Teach Football to AI Models",
+    "description": "&lt;p&gt; &lt;img loading=\"lazy\" src=\"https://www.cmu.edu/news/sites/default/files/styles/listings_desktop_1x_/public/2026-11/260904A_EH_007.jpg.webp?h=5143bc21&amp;itok=iewEPaw4\" width=\"900\" height=\"508\" alt=\"CMU professors on football field\"&gt; &lt;/p&gt; The NFL has given Carnegie Mellon University researchers access to official film and on-field data to develop new technologies that can enhance the way coaches, players and fans annotate, analyze and understand games.",
+    "url": "https://www.cmu.edu/news/stories/archives/2026/november/cmu-researchers-teach-football-to-ai-models",
+    "imageUrl": null,
+    "source": "Carnegie Mellon",
+    "categoryId": null,
+    "publishedAt": "2026-11-05T14:00:42.000Z",
+    "createdAt": "2026-11-06T02:00:42.297Z",
+    "language": "en",
+    "region": "Global",
+    "topic": "Education & Future Skills",
+    "contentFormats": [
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2161531,
+    "title": "Clearing up a robot’s fuzzy memory",
+    "description": "A new system identifies and corrects unreliable object descriptions stored in a robot’s memory, improving the robot’s ability to interact with its environment.",
+    "url": "https://news.mit.edu/2026/clearing-up-robot-fuzzy-memory-1105",
+    "imageUrl": null,
+    "source": "MIT AI",
+    "categoryId": null,
+    "publishedAt": "2026-11-05T05:00:00.000Z",
+    "createdAt": "2026-11-06T02:00:23.025Z",
+    "language": "en",
+    "region": "Global",
+    "topic": "Robotics & Embodied AI",
+    "contentFormats": [
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
     "id": 2161526,
     "title": "NASA Shares Plans to Accelerate Artemis, Return to Moon",
     "description": "In an update on Oct. 23, NASA Administrator Jared Isaacman and other agency leaders shared the agency’s path to returning Americans to the lunar surface in 2028. Agency leadership provided updates on the previously announced acceleration plans for the Artemis program, advancing toward the agency’s Artemis III test flight in 2027 and Artemis IV Moon [&#8230;]",

@@ -75,6 +75,21 @@
     "createdAt": "2026-11-06T02:01:06.399Z"
   },
   {
+    "id": 842256,
+    "title": "Educational robotics beyond ROS: a custom library for direct transfer of Webots controllers in the Turtlebot3",
+    "abstract": "Robot Operating System (ROS) is becoming a standard in robotics courses at higher education, but its installation, configuration and distributed programming model can introduce a significant entry barrier in the new landscape of AI-based master and degree studies, where many students do not have a strong informatics background. This paper presents an educational experience that enables students to program a TurtleBot3 Burger directly in Python, while preserving a direct transfer path from simulation to the physical robot. The approach is based on a custom library that mirrors the Webots API, allowing the same controller code to be executed in the simulator and on the real TurtleBot3 with minimal modification. The library provides access to the robot motors, wheel encoders, inertial sensors and LiDAR, and is complemented by scripts that automate deployment and execution on the physical platform. It was used in a master-level course on introductory autonomous vehicles, and initial student feedback suggests that the approach reduces the perceived complexity of ROS-related infrastructure and helps learners focus on algorithmic logic and real-world behaviour.",
+    "authors": "[\"Jaime P. Pérez-Moro\",\"Alejandro Romero\",\"Héctor Quintián\",\"F. Bellas\"]",
+    "url": "https://www.semanticscholar.org/paper/e5afad7f9a16bb5eff04d69ee689090cf6e41d71",
+    "pdfUrl": "",
+    "source": "Semantic Scholar",
+    "sourceId": "e5afad7f9a16bb5eff04d69ee689090cf6e41d71",
+    "categoryId": null,
+    "topic": "Robotics",
+    "publishedAt": "2026-11-05",
+    "fetchedAt": "2026-11-07T01:43:07.414Z",
+    "createdAt": "2026-11-07T01:43:07.414Z"
+  },
+  {
     "id": 842173,
     "title": "From entrepreneurship education and AI literacy to AI-enabled entrepreneurial action: the role of technology readiness under resource constraints",
     "abstract": "\n \n This study aims to examine how entrepreneurship education, AI literacy, Technology Readiness and perceived resource scarcity are associated with university students’ AI-enabled micro-entrepreneurial opportunity enactment in a resource-constrained emerging-economy setting.\n \n \n \n Drawing on Entrepreneurial Action Theory and Technology Readiness research, the study analysed survey data from 450 university students in Nigeria. Partial least squares structural equation modelling was used to assess the proposed relationships and fuzzy-set qualitative comparative analysis examined alternative configurations associated with high and low levels of AI-enabled micro-entrepreneurial opportunity enactment.\n \n \n \n Entrepreneurship education and AI literacy were positively associated with Technology Readiness. Technology Readiness was positively associated with AI-enabled micro-entrepreneurial opportunity enactment and mediated the associations of entrepreneurship education and AI literacy with that outcome. Perceived resource scarcity was negatively associated with opportunity enactment but strengthened the positive association between Technology Readiness and opportunity enactment. The configurational analysis further indicated that high opportunity enactment can emerge through multiple combinations of educational, technological and contextual conditions, whereas configurations associated with low opportunity enactment were not simple inverses of high-outcome pathways.\n \n \n \n The study extends Entrepreneurial Action Theory by identifying Technology Readiness as a digitally mediated mechanism that enables entrepreneurial and AI-related capabilities to become practically consequential. It also shows that AI-enabled entrepreneurial participation depends on more than access to intelligent tools: students require entrepreneurial capability, AI literacy, practical readiness to engage with technology and conditions that reduce resource-related barriers to action.\n",

@@ -1,5 +1,75 @@
 [
   {
+    "id": 2161539,
+    "title": "K&L Gates–CMU Conference Examines the Opportunities and Challenges of AI in Medicine",
+    "description": "&lt;p&gt; &lt;img loading=\"lazy\" src=\"https://www.cmu.edu/news/sites/default/files/styles/listings_desktop_1x_/public/2026-11/261105B%20KL%20Gates%20IECT%20011.jpg.webp?h=910eff9e&amp;itok=2lByms1f\" width=\"900\" height=\"508\" alt=\"Alex John London\"&gt; &lt;/p&gt; Experts in artificial intelligence, medicine, ethics, law and policy gathered at Carnegie Mellon University for the K&amp;L Gates Initiative in Ethics and Computational Technologies conference on Artificial Intelligence in Medicine: Opportunities and Challenges on Nov. 5.",
+    "url": "https://www.cmu.edu/news/stories/archives/2026/november/kl-gates-cmu-conference-examines-the-opportunities-and-challenges-of-ai-in-medicine",
+    "imageUrl": null,
+    "source": "Carnegie Mellon",
+    "categoryId": null,
+    "publishedAt": "2026-11-06T20:25:04.000Z",
+    "createdAt": "2026-11-07T01:40:50.673Z",
+    "language": "en",
+    "region": "Global",
+    "topic": "Policy & Society",
+    "contentFormats": [
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2161537,
+    "title": "How to predict the behavior of molecules from scant data",
+    "description": "A machine-learning approach called CheMeleon provides a practical way to develop new drugs or other molecules with much less detailed, expensive experimentation.",
+    "url": "https://news.mit.edu/2026/how-to-predict-molecule-behavior-with-scant-data-1106",
+    "imageUrl": null,
+    "source": "MIT AI",
+    "categoryId": null,
+    "publishedAt": "2026-11-06T19:00:00.000Z",
+    "createdAt": "2026-11-07T01:40:38.133Z",
+    "language": "en",
+    "region": "Global",
+    "topic": "Education & Future Skills",
+    "contentFormats": [
+      "Xiaohongshu Explainer",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2161538,
+    "title": "Video Friday: Room-Scale Cable-Driven Home Robot Tidies Up",
+    "description": "Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few months. Please send us your events for inclusion. CoRL 2026 : 9–12 November 2026, AUSTIN, TEXAS Humanoids 2026 : 6–9 December 2026, SANTA CLARA, CALIF. Enjoy today’s videos! This is such a novel and underrated form factor for a household robot. I absolutely love it. Stringman is all yours for US $795. [ Neufangled Robotics ] As of yesterday, Agility Robotics is publicly trading as AGLT. [ Agility Robotics ] Happy Halloween from Flexiv Robotics! Okay WHAT. [ Flexiv ] Nothing hides from SCUTL. Not even the paranormal. [ Ground Control Robotics ] Thanks, Dan! Happy Halloween from HEBI Robotics! We asked ourselves if you can carve a pumpkin using nothing but a T-Series arm and a drill originally designed to run an auger. The answer is yes, so long as you don’t care too much about accuracy. Basic pa",
+    "url": "https://spectrum.ieee.org/video-friday-home-cable-robot",
+    "imageUrl": null,
+    "source": "IEEE Spectrum Robotics",
+    "categoryId": null,
+    "publishedAt": "2026-11-06T17:00:03.000Z",
+    "createdAt": "2026-11-07T01:40:50.159Z",
+    "language": "en",
+    "region": "Global",
+    "topic": "Robotics & Embodied AI",
+    "contentFormats": [
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2161540,
+    "title": "从RSI、Agent、Physical AI到整个系统栈，2026 奇点智能技术大会最新日程公布！",
+    "description": "11 月 20—21 日，2026 奇点智能技术大会将在北京万达文华酒店举行。",
+    "url": "https://www.qbitai.com/2026/11/508143.html",
+    "imageUrl": null,
+    "source": "量子位",
+    "categoryId": null,
+    "publishedAt": "2026-11-06T06:43:14.000Z",
+    "createdAt": "2026-11-07T01:40:53.435Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "Robotics & Embodied AI",
+    "contentFormats": [
+      "WeChat Deep Dive"
+    ]
+  },
+  {
     "id": 2161536,
     "title": "Edge Medicine awarded $10 million to bring AI to frontline healthcare",
     "description": "The post Edge Medicine awarded $10 million to bring AI to frontline healthcare appeared first on Berkeley News .",

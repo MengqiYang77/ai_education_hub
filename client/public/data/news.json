@@ -1,5 +1,146 @@
 [
   {
+    "id": 2161560,
+    "title": "Lazare, veni foras: Reprogramming Dormant Neurons to Backdoor AI Agents",
+    "description": "Microsoft researchers have discovered &#8220;Lazarus,&#8221; a backdoor technique that can reprogram dormant neurons in an AI model, causing an otherwise normal AI agent to execute malicious commands when a hidden trigger appears. The threat is especially serious for AI agents with tool or terminal access. A triggered model could quietly download and run attacker code, [&#8230;] The post Lazare, veni foras: Reprogramming Dormant Neurons to Backdoor AI Agents appeared first on Microsoft Research .",
+    "url": "https://www.microsoft.com/en-us/research/blog/lazare-veni-foras-reprogramming-dormant-neurons-to-backdoor-ai-agents/",
+    "imageUrl": null,
+    "source": "Microsoft Research",
+    "categoryId": null,
+    "publishedAt": "2026-11-10T20:52:56.000Z",
+    "createdAt": "2026-11-11T01:43:58.958Z",
+    "language": "en",
+    "region": "Global",
+    "topic": "AI Models & Agents",
+    "contentFormats": [
+      "Xiaohongshu Explainer",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2161561,
+    "title": "NASA Invites Media, Public to Join Voyager 1 One-Light Day Activities",
+    "description": "Launched nearly 50 years ago in 1977, NASA’s Voyager 1 on Wednesday, Nov. 18 will have traveled one light-day from Earth, which is more than 16 billion miles (25.9 billion kilometers). Voyager 1 is the most distant human-made object, and any light from Earth would take 24 hours to reach the spacecraft. NASA will highlight [&#8230;]",
+    "url": "https://www.nasa.gov/news-release/nasa-invites-media-public-to-join-voyager-1-one-light-day-activities/",
+    "imageUrl": null,
+    "source": "NASA",
+    "categoryId": null,
+    "publishedAt": "2026-11-10T19:22:45.000Z",
+    "createdAt": "2026-11-11T01:43:59.401Z",
+    "language": "en",
+    "region": "Global",
+    "topic": "Space & Aerospace",
+    "contentFormats": [
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2161562,
+    "title": "NASA to Welcome Expedition 74 Astronauts Home at Space Center Houston",
+    "description": "NASA will welcome home the Expedition 74 crew during a public event at Space Center Houston following their return from a long-duration mission aboard the International Space Station. NASA astronauts Jessica Meir, Jack Hathaway, and Chris Williams; ESA (European Space Agency) astronaut Sophie Adenot; and Roscosmos cosmonauts Sergey Kud‑Sverchkov and Sergei Mikaev will share mission [&#8230;]",
+    "url": "https://www.nasa.gov/news-release/nasa-to-welcome-expedition-74-astronauts-home-at-space-center-houston/",
+    "imageUrl": null,
+    "source": "NASA",
+    "categoryId": null,
+    "publishedAt": "2026-11-10T18:06:33.000Z",
+    "createdAt": "2026-11-11T01:43:59.401Z",
+    "language": "en",
+    "region": "Global",
+    "topic": "Space & Aerospace",
+    "contentFormats": [
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2161563,
+    "title": "从芯片到千比特整机，超导量子计算还有一场硬仗",
+    "description": "近亿元融资刚刚落袋",
+    "url": "https://www.qbitai.com/2026/11/509017.html",
+    "imageUrl": null,
+    "source": "量子位",
+    "categoryId": null,
+    "publishedAt": "2026-11-10T08:33:25.000Z",
+    "createdAt": "2026-11-11T01:44:09.343Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "Chips & Compute",
+    "contentFormats": [
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2161564,
+    "title": "从“一脑多机”到“一脑多手”，蚂蚁灵波开源LingBot-Touch触觉基础模型",
+    "description": "11月10日，蚂蚁灵波科技开源触觉基础模型LingBot-Touch",
+    "url": "https://www.qbitai.com/2026/11/508996.html",
+    "imageUrl": null,
+    "source": "量子位",
+    "categoryId": null,
+    "publishedAt": "2026-11-10T07:57:45.000Z",
+    "createdAt": "2026-11-11T01:44:09.343Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "AI Models & Agents",
+    "contentFormats": [
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2161565,
+    "title": "Token卷到触觉了！机器人终于有了通用手感",
+    "description": "蚂蚁灵波开源LingBot-Touch",
+    "url": "https://www.qbitai.com/2026/11/508919.html",
+    "imageUrl": null,
+    "source": "量子位",
+    "categoryId": null,
+    "publishedAt": "2026-11-10T07:26:53.000Z",
+    "createdAt": "2026-11-11T01:44:09.343Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "Robotics & Embodied AI",
+    "contentFormats": [
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2161566,
+    "title": "Fable 5.2 “撞车”蚂蚁灵波触觉模型，CEO 朱兴：两类模型协同将加速具身产业成熟",
+    "description": "11 月 10 日，Claude Fable 5.2 发布同日，蚂蚁灵波科技开源触觉基础模型 LingBot-Touch。一款面向数字世界的通用大模型，一款面向物理操作闭环的具身基础模型，同一天走进公众视野。 这两条技术路线的关系，正是当下具身智能行业讨论的焦点。在蚂蚁灵波看来，通用大模型与具身基础模型更接近 1+1＞2 的协同关系：前者增强对任务和环境的理解与推理，后者补齐物理感知与闭环操作能力，两者齐头并进，才能共同加速具身产业成熟。 此次开源的 LingBot-Touch 基于近 5000 小时真实触觉数据预训练，覆盖磁触觉、视触觉和压阻式三类主流传感原理，可将不同信号转化为同一套触觉表征，供不同灵巧手和动作模型使用，让机器人在“看得清楚、想得明白”的同时，进一步补齐精细操作所需的触觉感知。 此前，蚂蚁灵波通用大脑已覆盖高精度空间感知、高动态环境交互和可泛化灵巧操作，此次 LingBot-Touch 已接入 LingBot-VLA，将感知能力延伸到“指尖”，让机器人“摸得更灵敏”，具身原生通用大脑的手眼协同能力再上台阶。 26 项真机测试，任务成功率提高 14 至 26 个百分点 随着通用大模型持续进步，机器人理解复杂任务、推理操作步骤的能力正在增强。但在真实物理世界中，机器人每执行一步动作，都要感知物体和环境的变化，再修正下一步动作。许多精细操作里，机器人能看清物体在哪里，也能把手伸到正确位置，却未必能顺利完成任务——手指碰到物体之后，受力是否合适、物体是否滑移，仅靠视觉难以判断，需要触觉来补位。 以灵巧手拧瓶盖为例，深度信息可以帮助手指对准瓶盖；开始转动后，瓶盖可能已经松动，也可能指腹正沿着盖壁打滑。这两种情况在画面中相似，却需要不同的动作调整。指尖的接触位置、受力大小及其变化，往往被手指和物体遮挡，视觉难以获得，却正是动作模型的重要判断依据。 为验证触觉表征对真实操作的帮助，蚂蚁灵波在 Sharpa Wave 和 XHand1 两款灵巧手上进行了 26 项真机测试，涵盖翻书页、拧瓶盖、辨识麻将牌等精细操作。接入 LingBot-Touch 后，LingBot-VLA、π0.5、Diffusion Policy 和 T-Rex 四种动作模型的平均任务成功率较无触觉时提高约 14 至 26 个百分点。以 T-Rex 控制 Sharpa Wave 拧瓶盖为例，",
+    "url": "https://www.leiphone.com/category/industrynews/Qhv28gnFkgFPCbXV.html",
+    "imageUrl": null,
+    "source": "雷锋网",
+    "categoryId": null,
+    "publishedAt": "2026-11-10T06:49:00.000Z",
+    "createdAt": "2026-11-11T01:44:11.866Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "Robotics & Embodied AI",
+    "contentFormats": [
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2161558,
+    "title": "MIT-led team receives funding to develop next-generation alternatives to modern weed killers",
+    "description": "With up to $53 million from ARPA-H, the researchers will use AI to generate safer herbicides that reduce dependence on imports and improve the security of the U.S. food supply.",
+    "url": "https://news.mit.edu/2026/mit-led-team-receives-funding-next-generation-alternatives-modern-weed-killers-1110",
+    "imageUrl": null,
+    "source": "MIT AI",
+    "categoryId": null,
+    "publishedAt": "2026-11-10T05:00:00.000Z",
+    "createdAt": "2026-11-11T01:43:47.201Z",
+    "language": "en",
+    "region": "Global",
+    "topic": "AI Models & Agents",
+    "contentFormats": [
+      "WeChat Deep Dive"
+    ]
+  },
+  {
     "id": 2161551,
     "title": "Berkeley’s ESCAPADE spacecraft say goodbye to Earth. Next stop: Mars.",
     "description": "The twin Blue and Gold spacecraft looped around Earth on Nov. 7 and Nov. 9, respectively, firing their engines to put them on a course toward the Red Planet. The post Berkeley’s ESCAPADE spacecraft say goodbye to Earth. Next stop: Mars. appeared first on Berkeley News .",
@@ -31,6 +172,24 @@
     "region": "Global",
     "topic": "Space & Aerospace",
     "contentFormats": [
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2161559,
+    "title": "Gemini Robotics 2.5 accelerates real-world general dexterity",
+    "description": "Our most capable vision-language-action model enhances robot dexterity, reliability, and safety",
+    "url": "https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence/",
+    "imageUrl": null,
+    "source": "Google DeepMind",
+    "categoryId": null,
+    "publishedAt": "2026-11-09T19:51:47.000Z",
+    "createdAt": "2026-11-11T01:43:58.213Z",
+    "language": "en",
+    "region": "Global",
+    "topic": "Robotics & Embodied AI",
+    "contentFormats": [
+      "Short Video",
       "WeChat Deep Dive"
     ]
   },

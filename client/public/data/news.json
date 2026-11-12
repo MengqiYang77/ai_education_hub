@@ -1,5 +1,41 @@
 [
   {
+    "id": 2161568,
+    "title": "Curiosity Blog, Sols 5063-5069 Rocks and Chips",
+    "description": "Written by William Farrand, Senior Research Scientist, Space Science Institute Earth planning date: Friday, Nov. 6, 2026 This week Curiosity has been completing its drill campaign at the “Nazca” drill hole. This is an area characterized by bedrock containing disk-shaped (or in a liberal interpretation, potato chip shaped … see linked image) crystal forms. A […]",
+    "url": "https://science.nasa.gov/blog/curiosity-blog-sols-5063-5069-rocks-and-chips/",
+    "imageUrl": null,
+    "source": "NASA",
+    "categoryId": null,
+    "publishedAt": "2026-11-12T00:41:35.000Z",
+    "createdAt": "2026-11-12T02:43:42.610Z",
+    "language": "en",
+    "region": "Global",
+    "topic": "Chips & Compute",
+    "contentFormats": [
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2161567,
+    "title": "AlphaGenome 2: Deciphering how cells read DNA to better understand disease",
+    "description": "Predicting how DNA sequences and their variations impact specific human cell types and disease.",
+    "url": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/",
+    "imageUrl": null,
+    "source": "Google DeepMind",
+    "categoryId": null,
+    "publishedAt": "2026-11-11T15:00:15.000Z",
+    "createdAt": "2026-11-12T02:43:41.544Z",
+    "language": "en",
+    "region": "Global",
+    "topic": "Bioengineering",
+    "contentFormats": [
+      "Xiaohongshu Explainer",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
     "id": 2161560,
     "title": "Lazare, veni foras: Reprogramming Dormant Neurons to Backdoor AI Agents",
     "description": "Microsoft researchers have discovered &#8220;Lazarus,&#8221; a backdoor technique that can reprogram dormant neurons in an AI model, causing an otherwise normal AI agent to execute malicious commands when a hidden trigger appears. The threat is especially serious for AI agents with tool or terminal access. A triggered model could quietly download and run attacker code, [&#8230;] The post Lazare, veni foras: Reprogramming Dormant Neurons to Backdoor AI Agents appeared first on Microsoft Research .",
@@ -48,6 +84,24 @@
     "language": "en",
     "region": "Global",
     "topic": "Space & Aerospace",
+    "contentFormats": [
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2161569,
+    "title": "英伟达机器人开源撞上Fable 5.2发布！Jim Fan：不是寒冬是夏天",
+    "description": null,
+    "url": "https://www.qbitai.com/2026/11/509032.html",
+    "imageUrl": null,
+    "source": "量子位",
+    "categoryId": null,
+    "publishedAt": "2026-11-10T10:35:38.000Z",
+    "createdAt": "2026-11-12T02:43:46.217Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "Robotics & Embodied AI",
     "contentFormats": [
       "Short Video",
       "WeChat Deep Dive"

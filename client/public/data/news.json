@@ -1,5 +1,224 @@
 [
   {
+    "id": 2161597,
+    "title": "UC Berkeley, Berkeley Lab collaboration with Schmidt Science Computing Network will provide high-performance computing for cutting-edge research",
+    "description": "A major grant from Schmidt Sciences will establish the Berkeley Science AI Platform, which will run on hardware at Berkeley Lab's National Energy Research Scientific Computing Center. The post UC Berkeley, Berkeley Lab collaboration with Schmidt Science Computing Network will provide high-performance computing for cutting-edge research appeared first on Berkeley News .",
+    "url": "https://news.berkeley.edu/2026/11/16/uc-berkeley-berkeley-lab-collaboration-with-schmidt-science-computing-network-will-provide-high-performance-computing-for-cutting-edge-research/",
+    "imageUrl": null,
+    "source": "Berkeley News",
+    "categoryId": null,
+    "publishedAt": "2026-11-16T22:32:10.000Z",
+    "createdAt": "2026-11-17T04:20:50.501Z",
+    "language": "en",
+    "region": "Global",
+    "topic": "AI Models & Agents",
+    "contentFormats": [
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2161592,
+    "title": "A Collage Showing 49 Drill Holes Made by NASA’s Curiosity Mars Rover",
+    "description": "Description This collage shows 49 drill holes captured by NASA’s Curiosity Mars rover as of November 2026. Each hole represents a sample collected from rocks on the Martian surface; Curiosity’s drill, located on the end of its robotic arm, drops pulverized rock samples into instruments in its belly that analyze their composition. These images were […]",
+    "url": "https://science.nasa.gov/photojournal/a-collage-showing-49-drill-holes-made-by-nasas-curiosity-mars-rover/",
+    "imageUrl": null,
+    "source": "NASA",
+    "categoryId": null,
+    "publishedAt": "2026-11-16T22:05:23.000Z",
+    "createdAt": "2026-11-17T04:20:48.548Z",
+    "language": "en",
+    "region": "Global",
+    "topic": "Robotics & Embodied AI",
+    "contentFormats": [
+      "Xiaohongshu Explainer",
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2161593,
+    "title": "Sentinel-6B in Orbit Around Earth",
+    "description": "Description This artist’s concept shows the Sentinel-6B satellite, which will become the reference satellite for other missions studying sea surface height.",
+    "url": "https://science.nasa.gov/photojournal/sentinel-6b-in-orbit-around-earth/",
+    "imageUrl": null,
+    "source": "NASA",
+    "categoryId": null,
+    "publishedAt": "2026-11-16T18:52:32.000Z",
+    "createdAt": "2026-11-17T04:20:48.548Z",
+    "language": "en",
+    "region": "Global",
+    "topic": "Space & Aerospace",
+    "contentFormats": [
+      "Xiaohongshu Explainer",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2161594,
+    "title": "Thunderbirds in Formation",
+    "description": "U.S. Air Force Thunderbirds fighter jets pass overhead during the agency’s MAX POWER expo and air show on Saturday, Nov. 7, 2026, at NASA’s Kennedy Space Center in Florida. NASA’s inaugural MAX POWER was an aerospace festival celebrating the past, present, and future of flight and space exploration in honor of America&#8217;s 250th anniversary. Image [&#8230;]",
+    "url": "https://www.nasa.gov/image-article/thunderbirds-in-formation/",
+    "imageUrl": null,
+    "source": "NASA",
+    "categoryId": null,
+    "publishedAt": "2026-11-16T18:34:47.000Z",
+    "createdAt": "2026-11-17T04:20:48.548Z",
+    "language": "en",
+    "region": "Global",
+    "topic": "Space & Aerospace",
+    "contentFormats": [
+      "Xiaohongshu Explainer",
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2161598,
+    "title": "Untangling fact from fiction in the AI age",
+    "description": "In UC Berkeley Journalism Dean Michael Bolden’s media literacy seminar, undergrads from across campus learn to approach information online with a critical eye. The post Untangling fact from fiction in the AI age appeared first on Berkeley News .",
+    "url": "https://journalism.berkeley.edu/media-literacy-seminar-bolden/",
+    "imageUrl": null,
+    "source": "Berkeley News",
+    "categoryId": null,
+    "publishedAt": "2026-11-16T17:44:00.000Z",
+    "createdAt": "2026-11-17T04:20:50.501Z",
+    "language": "en",
+    "region": "Global",
+    "topic": "AI Models & Agents",
+    "contentFormats": [
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2161589,
+    "title": "TokenEconomizer: Learning from Experience to Make AI Coding Agents More Efficient",
+    "description": "AI coding agents can waste time and tokens relearning the same lessons. TokenEconomizer is an open-source plugin that builds on past sessions to cut costs while maintaining task success. It’s a path toward coding agents that learn not only how to solve tasks, but also how to spend computation more effectively. The post TokenEconomizer: Learning from Experience to Make AI Coding Agents More Efficient appeared first on Microsoft Research .",
+    "url": "https://www.microsoft.com/en-us/research/blog/tokeneconomizer-learning-from-experience-to-make-ai-coding-agents-more-efficient/",
+    "imageUrl": null,
+    "source": "Microsoft Research",
+    "categoryId": null,
+    "publishedAt": "2026-11-16T17:01:35.000Z",
+    "createdAt": "2026-11-17T04:20:48.130Z",
+    "language": "en",
+    "region": "Global",
+    "topic": "Education & Future Skills",
+    "contentFormats": [
+      "Xiaohongshu Explainer",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2161595,
+    "title": "Contractor to Civil Servant: NASA Welcomes Jim Mirandy",
+    "description": "The rumble of a rocket engine might be considered a soundtrack for Jim Mirandy’s life. Mirandy has grown up with NASA as a constant presence, and his path to becoming a civil servant at NASA’s Stennis Space Center near Bay St. Louis, Mississippi, has been decades in the making. Hired under the agency’s workforce directive [&#8230;]",
+    "url": "https://www.nasa.gov/centers-and-facilities/stennis/contractor-to-civil-servant-jim-mirandy/",
+    "imageUrl": null,
+    "source": "NASA",
+    "categoryId": null,
+    "publishedAt": "2026-11-16T15:22:09.000Z",
+    "createdAt": "2026-11-17T04:20:48.548Z",
+    "language": "en",
+    "region": "Global",
+    "topic": "Space & Aerospace",
+    "contentFormats": [
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2161590,
+    "title": "Can Robots Bring Stroke Surgery to Remote Hospitals?",
+    "description": "I am practicing brain surgery on a patient lying 6 meters away, out of my sight and reach. I press a foot pedal, activating the controller in my hand, and carefully steer a thin flexible tube called a catheter up through the patient’s blood vessels. I head for what I believe to be the brain, tracking my progress on the live X-ray feed. As I imagine finding a blood clot, David Bell , the surgeon seated to my right, helpfully reminds me that every minute a stroke goes untreated, millions of brain cells suffocate, swell, and die . The patient under the X-ray in Bell’s office is not flesh and blood, but a plastic container holding long branches of silicone tubing. The controller I hold comes from an Xbox. But the surgical robot is real. The Remedy N1 is designed for emergency operations, including thrombectomies , the standard brain operation for acute ischemic strokes caused by blood clots. Ischemia, a restriction of blood flow, is the most common cause of stroke. “We want it to feel a bi",
+    "url": "https://spectrum.ieee.org/telesurgery-stroke",
+    "imageUrl": null,
+    "source": "IEEE Spectrum Robotics",
+    "categoryId": null,
+    "publishedAt": "2026-11-16T14:00:02.000Z",
+    "createdAt": "2026-11-17T04:20:48.449Z",
+    "language": "en",
+    "region": "Global",
+    "topic": "Robotics & Embodied AI",
+    "contentFormats": [
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2161596,
+    "title": "CMU Opens Access to Top Computer Science Classes Through Free CS Learn Platform",
+    "description": "&lt;p&gt; &lt;img loading=\"lazy\" src=\"https://www.cmu.edu/news/sites/default/files/styles/listings_desktop_1x_/public/2026-11/SpringSCS_094.jpeg.webp?h=d8c8aa03&amp;itok=gcaNuY6q\" width=\"900\" height=\"508\" alt=\"A student sits at a computer inside the GHC. \"&gt; &lt;/p&gt; Carnegie Mellon University has launched CS Learn, a new online learning platform that offers free access to select courses from its top-ranked computer science program.",
+    "url": "https://www.cmu.edu/news/stories/archives/2026/november/cmu-opens-access-to-top-computer-science-classes-through-free-cs-learn-platform",
+    "imageUrl": null,
+    "source": "Carnegie Mellon",
+    "categoryId": null,
+    "publishedAt": "2026-11-16T13:30:00.000Z",
+    "createdAt": "2026-11-17T04:20:49.886Z",
+    "language": "en",
+    "region": "Global",
+    "topic": "Chips & Compute",
+    "contentFormats": [
+      "Xiaohongshu Explainer",
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2161591,
+    "title": "28 Zero-Day Findings in Under Two Days. Is Robotics Security Keeping Pace?",
+    "description": "This article is brought to you by VicOne . VicOne identified an initial set of 28 zero-day findings in less than two days using AI-assisted research across software and tools supporting the Physical AI ecosystem. These include projects developed or maintained by Google, NVIDIA, and Meta, among others. Based on initial validation, all 28 findings are classified as zero-day vulnerabilities. The count may change following vendor and vulnerability-authority review, and some findings do not yet have CVE tracking numbers. Many of these tools help teams train, simulate, test, and operate robots. Weaknesses in them could influence the models teams build, the test results they trust, and the instructions sent to robots. These findings create two demands for robotics teams: responding as AI helps uncover weaknesses faster , and assessing how each one could affect robot safety and operations . What AI changes about vulnerability discovery Vulnerability discovery involves examining code, tracing h",
+    "url": "https://spectrum.ieee.org/zero-day-robotics-vulnerabilities-vicone-security",
+    "imageUrl": null,
+    "source": "IEEE Spectrum Robotics",
+    "categoryId": null,
+    "publishedAt": "2026-11-16T10:00:01.000Z",
+    "createdAt": "2026-11-17T04:20:48.449Z",
+    "language": "en",
+    "region": "Global",
+    "topic": "Robotics & Embodied AI",
+    "contentFormats": [
+      "Xiaohongshu Explainer",
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2161599,
+    "title": "阿里正式发布Qwen4，智能体及编程能力进阶，迈向真实全场景",
+    "description": "11月16日，阿里巴巴发布全新一代基座大模型Qwen4-Max",
+    "url": "https://www.qbitai.com/2026/11/510486.html",
+    "imageUrl": null,
+    "source": "量子位",
+    "categoryId": null,
+    "publishedAt": "2026-11-16T07:51:57.000Z",
+    "createdAt": "2026-11-17T04:20:52.761Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "AI Models & Agents",
+    "contentFormats": [
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2161600,
+    "title": "阿里正式发布Qwen4，智能体及编程能力进阶，迈向真实全场景",
+    "description": "11月16日，阿里巴巴发布全新一代基座大模型Qwen4-Max，总参数2.4T，具备原生视觉能力，支持百万上下文。基于创新的模型架构和训练优化，Qwen4-Max以更少的Token消耗实现了更高的性能，在智能体和编程等关键能力项上持续进化：在权威的全球前端编程盲测CodeArena中，Qwen4位居第六；在Agents' Last Exam（ALE）、Vals Index等智能体能力及专业任务三方评测中，Qwen4均处于领先梯队。Qwen4面向全领域的真实任务深度优化，可更好地调用专业工具处理长周期任务，推进AI在汽车制造、游戏开发、金融投研及科学研究等专业领域的深入落地。 Qwen4-Max现已上线千问AI平台对外提供API服务，缓存命中每百万Tokens低至0.5元，完成单任务的平均费用较上代模型大降6成；用户也可通过阿里Token Plan调用新模型，或在千问办公、Qoder、千问APP等应用中直接体验。据悉，Qwen4系列中的中小尺寸模型将陆续开源发布。 （图说：在CodeArena前端编程全球榜中，Qwen4-Max位居第6） Qwen4-Max采用基于Qwen稀疏注意力（QSA）的全新MoE架构，2.4T总参数仅激活71B，每个Token激活参数较上代模型少25%，并拥有更高的思考效率：在 Terminal-Bench 4.0 专业编程评测中，同为 Xhigh 思考档位，Qwen4-Max 较上一代 Qwen3.8-Max 的每次尝试平均 Token 用量从 289K 降至 151K，减少近50%，评测得分则从 38.9 分提升至 48.5 分，提升近25%。同时，基于缓存命中价格的大幅下降，评测结果显示，Qwen4-Max相比Qwen3.8-Max完成单个任务的平均费用（Cost per Task）降低了 58%。 全新的架构结合高效的训练优化，使得Qwen4-Max性能全面提升。 在聚焦编程的CodeArena全球盲测权威榜单中，Qwen4-Max前端（Webdev）位列全球第6，居于GPT6-Astra和Claude Fable5.1之间，刷新中国模型最好成绩；在“智能体最后的考试” Agents' Last Exam（ALE）取得了46.7的最高分，较Qwen3.8-Max大幅提升18.8分；在评估大模型理解专业图表与推理能力的Chartogra",
+    "url": "https://www.leiphone.com/category/industrynews/TRw4D5Bw5HsTmC1G.html",
+    "imageUrl": null,
+    "source": "雷锋网",
+    "categoryId": null,
+    "publishedAt": "2026-11-16T03:33:00.000Z",
+    "createdAt": "2026-11-17T04:20:59.372Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "Advanced Manufacturing",
+    "contentFormats": [
+      "Xiaohongshu Explainer",
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
     "id": 2161588,
     "title": "Why Skydio Built a Lopsided Drone",
     "description": "Skydio’s drones have always been magical. From MIT research and early prototypes to what I would argue is still the most advanced consumer drone ever made , this is a company that makes very cool stuff. Sadly, Skydio no longer makes cool stuff for consumers , instead focusing on drone platforms for public safety, inspection, and other things that, on a good day, don’t affect me personally. Even so, a new drone from Skydio is worth paying attention to, especially when it’s as weird as this one—the F10 Lightrunner is a fixed-wing camera drone designed for autonomous deployment and high-speed flight, all while looking so lopsided that it’s surprising that it can actually fly. The benefits of asymmetrical aircraft There’s a short rabbit hole you can go down if you start looking for other examples of asymmetrical aircraft. In the 1990s, legendary aircraft designer Burt Rutan and his company Scaled Composites built some decidedly odd airplanes, including the Model 202 Boomerang . But perhaps",

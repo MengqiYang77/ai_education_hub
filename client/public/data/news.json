@@ -1,5 +1,257 @@
 [
   {
+    "id": 2161605,
+    "title": "NASA Launches Nuclear Power Systems Student Contest",
+    "description": "NASA’s Power to Explore Student Challenge kicked off Tuesday, Nov. 17. The science, engineering, technology, and mathematics (STEM) challenge invites kindergarten through 12th grade students in the United States to learn about space nuclear power systems and illustrate how these nuclear “batteries” could help power their lunar exploration vision. Students are also invited to write […]",
+    "url": "https://science.nasa.gov/centers-and-facilities/glenn/nasa-launches-nuclear-power-systems-student-contest/",
+    "imageUrl": null,
+    "source": "NASA",
+    "categoryId": null,
+    "publishedAt": "2026-11-17T22:02:48.000Z",
+    "createdAt": "2026-11-18T03:21:26.087Z",
+    "language": "en",
+    "region": "Global",
+    "topic": "Space & Aerospace",
+    "contentFormats": [
+      "Xiaohongshu Explainer",
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2161601,
+    "title": "Putting a spotlight on AI, society, and humanity",
+    "description": "Supported by the MIT Human Insight Collaborative, scholars are exploring how AI is impacting the human experience and reshaping higher education.",
+    "url": "https://news.mit.edu/2026/putting-spotlight-ai-society-humanity-1117",
+    "imageUrl": null,
+    "source": "MIT AI",
+    "categoryId": null,
+    "publishedAt": "2026-11-17T20:40:00.000Z",
+    "createdAt": "2026-11-18T03:21:14.398Z",
+    "language": "en",
+    "region": "Global",
+    "topic": "Education & Future Skills",
+    "contentFormats": [
+      "Xiaohongshu Explainer",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2161606,
+    "title": "BPS Digital AVATAR Challenge",
+    "description": "The NASA Space Biology Program within the Biological and Physical Sciences (BPS) Division investigates how living systems respond across the full spectrum of biological organization to advance understanding of how living systems respond to the unique stressors of space exploration—including microgravity, ionizing radiation, low magnetic fields, and elevated CO₂. As NASA prepares for long-duration deep [&#8230;]",
+    "url": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/bps-digital-avatar-challenge/",
+    "imageUrl": null,
+    "source": "NASA",
+    "categoryId": null,
+    "publishedAt": "2026-11-17T20:39:38.000Z",
+    "createdAt": "2026-11-18T03:21:26.087Z",
+    "language": "en",
+    "region": "Global",
+    "topic": "Bioengineering",
+    "contentFormats": [
+      "Xiaohongshu Explainer",
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2161607,
+    "title": "NASA to Cover 35th SpaceX Resupply Mission Space Station Departure",
+    "description": "NASA and its international partners are set to receive scientific research samples and hardware as a SpaceX Dragon spacecraft departs the International Space Station no earlier than Wednesday, Nov. 18, for its return to Earth. Pending weather conditions, the Dragon spacecraft will undock from the Harmony module’s space-facing port at 11:05 a.m. EST, following a [&#8230;]",
+    "url": "https://www.nasa.gov/news-release/nasa-to-cover-35th-spacex-resupply-mission-space-station-departure/",
+    "imageUrl": null,
+    "source": "NASA",
+    "categoryId": null,
+    "publishedAt": "2026-11-17T19:16:22.000Z",
+    "createdAt": "2026-11-18T03:21:26.087Z",
+    "language": "en",
+    "region": "Global",
+    "topic": "Space & Aerospace",
+    "contentFormats": [
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2161610,
+    "title": "CMU, Pitt Form Center to Study How Cells Organize and Function",
+    "description": "&lt;p&gt; &lt;img loading=\"lazy\" src=\"https://www.cmu.edu/news/sites/default/files/styles/listings_desktop_1x_/public/2026-11/261019_Condensates_In_The_Steel_City-05.jpg.webp?h=f5275baa&amp;itok=tRseVkGg\" width=\"900\" height=\"508\" alt=\"Attendees at a poster session at the Pittsburgh Condensates Symposium.\"&gt; &lt;/p&gt; The new Pittsburgh Center for Biomolecular Condensates combines Carnegie Mellon’s strengths in artificial intelligence, automation and engineering with Pitt’s expertise in medicine and translational research. It brings together biologists, chemists, engineers, physicists and medical professionals, connecting researchers to investigate how condensates organize biological activities and what happens when they malfunction.",
+    "url": "https://www.cmu.edu/news/stories/archives/2026/november/cmu-pitt-form-center-to-study-how-cells-organize-and-function",
+    "imageUrl": null,
+    "source": "Carnegie Mellon",
+    "categoryId": null,
+    "publishedAt": "2026-11-17T19:00:18.000Z",
+    "createdAt": "2026-11-18T03:21:27.379Z",
+    "language": "en",
+    "region": "Global",
+    "topic": "AI Models & Agents",
+    "contentFormats": [
+      "Xiaohongshu Explainer",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2161611,
+    "title": "Inside CMU’s Top-Ranked 'AI-Ready Campus'",
+    "description": "&lt;p&gt; &lt;img loading=\"lazy\" src=\"https://www.cmu.edu/news/sites/default/files/styles/listings_desktop_1x_/public/2026-11/260824_First_Day134.jpg.webp?h=604a2fc2&amp;itok=n7UuiWa1\" width=\"900\" height=\"508\" alt=\"a student walks on the mall in front of Hamerschlag Hall\"&gt; &lt;/p&gt; Carnegie Mellon University was ranked No. 1 in the inaugural AI-Ready Campus Index, a benchmark that examines how institutions are preparing their entire campuses for an artificial intelligence-driven future.",
+    "url": "https://www.cmu.edu/news/stories/archives/2026/november/inside-cmus-top-ranked-ai-ready-campus",
+    "imageUrl": null,
+    "source": "Carnegie Mellon",
+    "categoryId": null,
+    "publishedAt": "2026-11-17T19:00:00.000Z",
+    "createdAt": "2026-11-18T03:21:27.379Z",
+    "language": "en",
+    "region": "Global",
+    "topic": "Education & Future Skills",
+    "contentFormats": [
+      "Xiaohongshu Explainer",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2161608,
+    "title": "NICER Status Updates",
+    "description": "November 17, 2026 NASA’s NICER Telescope Ends Science Operations After studying the universe for six and a half years beyond its initial mission, NASA&#8217;s NICER (Neutron star Interior Composition Explorer) telescope on the International Space Station has ended science operations.&#160; The mission and space station teams are now focused on plans to finalize NICER’s 8-year [&#8230;]",
+    "url": "https://www.nasa.gov/missions/station/nicer-status-updates/",
+    "imageUrl": null,
+    "source": "NASA",
+    "categoryId": null,
+    "publishedAt": "2026-11-17T18:18:16.000Z",
+    "createdAt": "2026-11-18T03:21:26.087Z",
+    "language": "en",
+    "region": "Global",
+    "topic": "Space & Aerospace",
+    "contentFormats": [
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2161604,
+    "title": "Can AI help build a healthier future?",
+    "description": "What can AI enable in medicine, and how do we get there? Microsoft Research lead Doug Burger, Microsoft Principal Research Manager Ava Amini, Microsoft Chief Scientific Officer Eric Horvitz, and physician-scientist Eric Topol of Scripps Research explore these questions and more. The post Can AI help build a healthier future? appeared first on Microsoft Research .",
+    "url": "https://www.microsoft.com/en-us/research/podcast/can-ai-help-build-a-healthier-future/",
+    "imageUrl": null,
+    "source": "Microsoft Research",
+    "categoryId": null,
+    "publishedAt": "2026-11-17T16:52:17.000Z",
+    "createdAt": "2026-11-18T03:21:25.751Z",
+    "language": "en",
+    "region": "Global",
+    "topic": "AI Models & Agents",
+    "contentFormats": [
+      "Xiaohongshu Explainer",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2161609,
+    "title": "Space Selfie",
+    "description": "NASA astronaut Anil Menon took this selfie during a spacewalk on Oct. 29, 2026. He and CSA (Canadian Space Agency) astronaut Joshua Kutryk installed a new roll-out solar array on the International Space Station. Get daily updates from the space station. Image credit: NASA/Anil Menon",
+    "url": "https://www.nasa.gov/image-article/space-selfie-2/",
+    "imageUrl": null,
+    "source": "NASA",
+    "categoryId": null,
+    "publishedAt": "2026-11-17T16:51:14.000Z",
+    "createdAt": "2026-11-18T03:21:26.088Z",
+    "language": "en",
+    "region": "Global",
+    "topic": "Space & Aerospace",
+    "contentFormats": [
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2161612,
+    "title": "Georgia Tech Tests AI in the Classroom and Shares What Works",
+    "description": "&lt;span&gt;Georgia Tech Tests AI in the Classroom and Shares What Works&lt;/span&gt; &lt;span&gt;&lt;a title=\"View user profile.\" href=\"https://news.gatech.edu/user/1\"&gt;Superadmin&lt;/a&gt;&lt;/span&gt; &lt;span&gt;&lt;time datetime=\"2026-11-17T08:01:33-05:00\" title=\"Tuesday, November 17, 2026 - 08:01\"&gt;Tue, 11/17/2026 - 08:01&lt;/time&gt; &lt;/span&gt; &lt;div&gt;&lt;div&gt;&lt;p&gt;Long before generative AI put artificial intelligence at the center of conversations about the future of education, Georgia Tech faculty and researchers were experimenting with ways to use the technology to advance learning in the classroom. &lt;/p&gt;&lt;/div&gt;&lt;div&gt;&lt;p&gt;Georgia Tech’s first &lt;a href=\"https://sites.gatech.edu/academic-ai-playbook/\" rel=\"noreferrer noopener\" target=\"_blank\"&gt;Academic AI Playbook&lt;/a&gt; compiles lessons from classrooms across campus and give educators a practical look at what faculty have tried, what they have learned, and how those experiences might ",
+    "url": "https://news.gatech.edu/news/2026/11/17/georgia-tech-tests-ai-classroom-and-shares-what-works",
+    "imageUrl": null,
+    "source": "Georgia Tech",
+    "categoryId": null,
+    "publishedAt": "2026-11-17T13:01:33.000Z",
+    "createdAt": "2026-11-18T03:21:28.353Z",
+    "language": "en",
+    "region": "Global",
+    "topic": "Education & Future Skills",
+    "contentFormats": [
+      "Xiaohongshu Explainer",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2161613,
+    "title": "材料科学智能体MatOS正式开源！大幅提高材料研发任务成功率",
+    "description": "筛材料、找配方、开发新模型…拿下多项科研任务",
+    "url": "https://www.qbitai.com/2026/11/510652.html",
+    "imageUrl": null,
+    "source": "量子位",
+    "categoryId": null,
+    "publishedAt": "2026-11-17T06:09:40.000Z",
+    "createdAt": "2026-11-18T03:21:29.371Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "Advanced Manufacturing",
+    "contentFormats": [
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2161602,
+    "title": "Q&A: Why building math muscles remains important in the AI era",
+    "description": "Assistant Professor John Urschel explains why learning the fundamental skills of mathematics is still essential despite the evolution of AI tools.",
+    "url": "https://news.mit.edu/2026/qa-why-building-math-muscles-remains-important-ai-era-1117",
+    "imageUrl": null,
+    "source": "MIT AI",
+    "categoryId": null,
+    "publishedAt": "2026-11-17T05:00:00.000Z",
+    "createdAt": "2026-11-18T03:21:14.398Z",
+    "language": "en",
+    "region": "Global",
+    "topic": "Education & Future Skills",
+    "contentFormats": [
+      "Xiaohongshu Explainer",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2161603,
+    "title": "Learning the language of machine learning",
+    "description": "By studying the computational foundations of language learning, Associate Professor Jacob Andreas builds intelligent systems that can communicate effectively with humans.",
+    "url": "https://news.mit.edu/2026/learning-language-of-machine-learning-jacob-andreas-1117",
+    "imageUrl": null,
+    "source": "MIT AI",
+    "categoryId": null,
+    "publishedAt": "2026-11-17T05:00:00.000Z",
+    "createdAt": "2026-11-18T03:21:14.399Z",
+    "language": "en",
+    "region": "Global",
+    "topic": "Education & Future Skills",
+    "contentFormats": [
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2161614,
+    "title": "物理AI的强化学习仿真环境来了，光轮智能推出RoboFinals RL Envs",
+    "description": null,
+    "url": "https://www.qbitai.com/2026/11/510561.html",
+    "imageUrl": null,
+    "source": "量子位",
+    "categoryId": null,
+    "publishedAt": "2026-11-17T02:03:22.000Z",
+    "createdAt": "2026-11-18T03:21:29.371Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "Education & Future Skills",
+    "contentFormats": [
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
     "id": 2161597,
     "title": "UC Berkeley, Berkeley Lab collaboration with Schmidt Science Computing Network will provide high-performance computing for cutting-edge research",
     "description": "A major grant from Schmidt Sciences will establish the Berkeley Science AI Platform, which will run on hardware at Berkeley Lab's National Energy Research Scientific Computing Center. The post UC Berkeley, Berkeley Lab collaboration with Schmidt Science Computing Network will provide high-performance computing for cutting-edge research appeared first on Berkeley News .",

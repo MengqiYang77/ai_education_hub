@@ -1,5 +1,183 @@
 [
   {
+    "id": 2161618,
+    "title": "NASA Sets Coverage for Northrop Grumman CRS-25 Launch, Prelaunch",
+    "description": "NASA, Northrop Grumman, and SpaceX are targeting no earlier than 10:47 a.m. EST, Sunday, Nov. 29, for the next launch delivering science investigations, supplies, and equipment to the International Space Station. The agency also will hold a prelaunch media teleconference on Monday, Nov. 23. Filled with approximately 11,000 pounds of cargo, the Northrop Grumman Cygnus [&#8230;]",
+    "url": "https://www.nasa.gov/news-release/nasa-sets-coverage-for-northrop-grumman-crs-25-launch-prelaunch/",
+    "imageUrl": null,
+    "source": "NASA",
+    "categoryId": null,
+    "publishedAt": "2026-11-18T22:19:17.000Z",
+    "createdAt": "2026-11-19T02:56:58.953Z",
+    "language": "en",
+    "region": "Global",
+    "topic": "Space & Aerospace",
+    "contentFormats": [
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2161622,
+    "title": "Carnegie Mellon Ranks No. 5 Worldwide in Interdisciplinary Science Rankings",
+    "description": "&lt;p&gt; &lt;img loading=\"lazy\" src=\"https://www.cmu.edu/news/sites/default/files/styles/listings_desktop_1x_/public/2026-11/251210C_Bridge-Center-Concussion-Story4777.jpg.webp?h=1ea18e8b&amp;itok=Hm9wo03_\" width=\"900\" height=\"508\" alt=\"images from a MRI appear on a computer screen next to another monitor displaying the CMU wordmark\"&gt; &lt;/p&gt; Carnegie Mellon University has been ranked fifth in the world in the 2027 Times Higher Education Interdisciplinary Science Rankings, recognizing the university’s research across fields and its commitment to supporting that work.",
+    "url": "https://www.cmu.edu/news/stories/archives/2026/november/carnegie-mellon-ranks-no-5-worldwide-in-interdisciplinary-science-rankings",
+    "imageUrl": null,
+    "source": "Carnegie Mellon",
+    "categoryId": null,
+    "publishedAt": "2026-11-18T21:08:40.000Z",
+    "createdAt": "2026-11-19T02:57:00.646Z",
+    "language": "en",
+    "region": "Global",
+    "topic": "Chips & Compute",
+    "contentFormats": [
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2161615,
+    "title": "This featherweight, flying robot carries its own sensors and computers",
+    "description": "The speedy microrobot flies without an attached motion-capture system, moving it closer to applications like agriculture or industrial surveillance.",
+    "url": "https://news.mit.edu/2026/featherweight-flying-robot-carries-its-own-sensors-and-computers-1118",
+    "imageUrl": null,
+    "source": "MIT AI",
+    "categoryId": null,
+    "publishedAt": "2026-11-18T19:00:00.000Z",
+    "createdAt": "2026-11-19T02:56:57.116Z",
+    "language": "en",
+    "region": "Global",
+    "topic": "Robotics & Embodied AI",
+    "contentFormats": [
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2161619,
+    "title": "NASA Announces Mid-Power Electric Rocket Challenge for US Companies",
+    "description": "NASA launched a new competition inviting U.S. companies to produce prototypes of mid-power Hall effect thrusters – a type of electric propulsion system considered crucial for future space operations and exploration. Hall effect thrusters use an electric field to accelerate a propellant gas, producing efficient thrust for long-duration missions. Used for propelling satellites and deep [&#8230;]",
+    "url": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/nasa-announces-mid-power-electric-rocket-challenge-for-us-companies/",
+    "imageUrl": null,
+    "source": "NASA",
+    "categoryId": null,
+    "publishedAt": "2026-11-18T18:12:32.000Z",
+    "createdAt": "2026-11-19T02:56:58.953Z",
+    "language": "en",
+    "region": "Global",
+    "topic": "Space & Aerospace",
+    "contentFormats": [
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2161620,
+    "title": "Empire State Building Goes Gold for Voyager",
+    "description": "The Empire State Building is seen illuminated in gold to celebrate NASA&#8217;s Voyager 1 spacecraft as it was about to pass one light-day away from Earth, a distance reached by no other human-made object, Nov. 17, 2026. The color gold represents the gold-plated copper phonograph record that is flying on Voyager; the Golden Record contains [&#8230;]",
+    "url": "https://www.nasa.gov/image-article/empire-state-building-goes-gold-for-voyager/",
+    "imageUrl": null,
+    "source": "NASA",
+    "categoryId": null,
+    "publishedAt": "2026-11-18T17:50:26.000Z",
+    "createdAt": "2026-11-19T02:56:58.953Z",
+    "language": "en",
+    "region": "Global",
+    "topic": "Space & Aerospace",
+    "contentFormats": [
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2161621,
+    "title": "What Is the Moon Base?",
+    "description": "This article is for students. NASA is returning astronauts to the Moon – and this time they will spend more time on the lunar surface. The Moon Base is humanity’s first lunar outpost. It will be a place where astronauts live, work, and explore. ______________________________________________________________________ Words to Know outpost: a station or base located in [&#8230;]",
+    "url": "https://www.nasa.gov/learning-resources/for-kids-and-students/what-is-the-moon-base/",
+    "imageUrl": null,
+    "source": "NASA",
+    "categoryId": null,
+    "publishedAt": "2026-11-18T17:36:03.000Z",
+    "createdAt": "2026-11-19T02:56:58.953Z",
+    "language": "en",
+    "region": "Global",
+    "topic": "Space & Aerospace",
+    "contentFormats": [
+      "Xiaohongshu Explainer",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2161617,
+    "title": "Designing the next chapter for professional athletes",
+    "description": "MIT Sloan student Collin Johnson, a former NFL player, worked with MIT DesignX faculty to create Founders Academy, a program to help athletes plan their futures off the field.",
+    "url": "https://news.mit.edu/2026/founders-academy-designing-next-chapter-professional-athletes-1118",
+    "imageUrl": null,
+    "source": "MIT Education",
+    "categoryId": null,
+    "publishedAt": "2026-11-18T08:30:00.000Z",
+    "createdAt": "2026-11-19T02:56:57.206Z",
+    "language": "en",
+    "region": "Global",
+    "topic": "Education & Future Skills",
+    "contentFormats": [
+      "Xiaohongshu Explainer",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2161624,
+    "title": "清华徐梦迪：预训练做再好都不够，机器人需要在部署中学习 | CoRL 2026",
+    "description": "人机交互不只是目标，更是解决方案。 作者丨 邓哲敏 编辑丨 齐铖湧 2026 年 11 月 12 日，CoRL 2026 “Learn@Deploy”（机器人部署中学习）半日研讨会上，清华大学交叉信息研究院助理教授徐梦迪以 Keynote 讲者身份做开场报告 。 徐梦迪从清华车辆工程专业毕业后，前往卡内基梅隆大学机械工程系读博，师从 Safe AI Lab 负责人赵鼎，论文《构建可适应的通用机器人》拿下该系最佳博士论文奖。她在论文中指出，构建通用机器人不能只靠堆参数、堆数据、指望预训练自然泛化， 必须补上适应的能力，让机器人到现场后靠少量新信息快速调整策略。 博士毕业后，徐梦迪来到斯坦福视觉与学习实验室，跟随吴佳俊、李飞飞做博士后。期间，她做了 ROSETTA，用大模型把人类五花八门的口语偏好转成机器能学的奖励信号，让机器人学会训练时没见过的新指令。 2025年，徐梦迪加入清华叉院，组建自己的实验室，方向进一步 聚焦到“部署时学习” 。2026 年初，团队发布 CoVer-VLA，让机器人在行动前先多生成几组候选动作，再用验证器挑出最贴合指令的那一组，以此对齐指令。而 Dex-X 从人类视频学习灵巧操作，靠仿真补上视频里缺失的触觉监督，入选 CoRL 2026。 在这场报告中，徐梦迪对近两年的工作做了集中提炼，并向学界分享了她对未来技术发展的判断。以下为雷峰网从现场带回的演讲实录精编。 ▎ 报告人：徐梦迪 清华大学交叉信息研究院助理教授 报告题目：Building Adaptable Generalist Robots for Human-Centered Environments 01 为什么要在部署中学习 今天我想讨论的是，如何构建可适应的通用机器人，尤其是有人类在场景中的机器人。这类场景的独特挑战在于，机器人要在开放世界中完成导航和操作任务，比如清理午餐后的桌面；还要与人交互，从遵循指令、偏好、手势，到物理辅助，比如扶人站立或行走。 我有一些观察，希望能激发大家思考为什么在以人为本的场景中部署时学习非常重要。 第一，人类很容易要求机器人完成超出其技能范围的任务。 最简单的办法是让人做一次，机器人直接学习人的行为或偏好。比如倒水，机器人起初不会，或者遇到一个没见过的新水杯，人可以演示一次，让机器人了解物体性质并完成任务。 第二，开放世界环境很多情况下是可观测的。",
+    "url": "https://www.leiphone.com/category/private/S1vnQSfDZDVC7TWb.html",
+    "imageUrl": null,
+    "source": "雷锋网",
+    "categoryId": null,
+    "publishedAt": "2026-11-18T08:28:00.000Z",
+    "createdAt": "2026-11-19T02:57:05.594Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "Robotics & Embodied AI",
+    "contentFormats": [
+      "Xiaohongshu Explainer",
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2161623,
+    "title": "全球首个医疗健康AI独立评测与分析平台InclusionMed正式上线",
+    "description": "近日，全球首个医疗健康 AI 独立评测与分析平台InclusionMed 正式上线",
+    "url": "https://www.qbitai.com/2026/11/510916.html",
+    "imageUrl": null,
+    "source": "量子位",
+    "categoryId": null,
+    "publishedAt": "2026-11-18T07:24:50.000Z",
+    "createdAt": "2026-11-19T02:57:03.435Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "AI Models & Agents",
+    "contentFormats": [
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2161616,
+    "title": "Helping AI text detectors keep up with changing conditions",
+    "description": "A more flexible training method can make AI text detectors more robust when new models emerge or AI-generated text is disguised to appear human.",
+    "url": "https://news.mit.edu/2026/helping-ai-text-detectors-keep-up-with-changing-conditions-1118",
+    "imageUrl": null,
+    "source": "MIT AI",
+    "categoryId": null,
+    "publishedAt": "2026-11-18T05:00:00.000Z",
+    "createdAt": "2026-11-19T02:56:57.117Z",
+    "language": "en",
+    "region": "Global",
+    "topic": "AI Models & Agents",
+    "contentFormats": [
+      "WeChat Deep Dive"
+    ]
+  },
+  {
     "id": 2161605,
     "title": "NASA Launches Nuclear Power Systems Student Contest",
     "description": "NASA’s Power to Explore Student Challenge kicked off Tuesday, Nov. 17. The science, engineering, technology, and mathematics (STEM) challenge invites kindergarten through 12th grade students in the United States to learn about space nuclear power systems and illustrate how these nuclear “batteries” could help power their lunar exploration vision. Students are also invited to write […]",

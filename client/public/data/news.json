@@ -1,5 +1,184 @@
 [
   {
+    "id": 2161625,
+    "title": "AI helps researchers investigate how thousands of medical studies share code",
+    "description": "An MIT and Dana-Farber Institute-led team used large language models to examine nearly 4,000 studies and hundreds of code repositories, revealing gaps in the information needed to scrutinize and reuse published research.",
+    "url": "https://news.mit.edu/2026/ai-helps-researchers-investigate-how-medical-studies-share-code-1119",
+    "imageUrl": null,
+    "source": "MIT AI",
+    "categoryId": null,
+    "publishedAt": "2026-11-19T22:15:00.000Z",
+    "createdAt": "2026-11-20T02:51:46.764Z",
+    "language": "en",
+    "region": "Global",
+    "topic": "AI Models & Agents",
+    "contentFormats": [
+      "Xiaohongshu Explainer",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2161627,
+    "title": "Challenge: Public Input on Life and the World in 2075",
+    "description": "NASA’s Transformational Tools and Technologies (TTT) is gathering public perspectives on life today and how the world may change by 2075. This challenge asks for conceptual ideas about life in 2075 across four challenge topics. Ideas should explore how future aviation or aerospace systems could: Ideas should be conceptual rather than technical. Award: $20,000 in [&#8230;]",
+    "url": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/challenge-public-input-on-life-and-the-world-in-2075/",
+    "imageUrl": null,
+    "source": "NASA",
+    "categoryId": null,
+    "publishedAt": "2026-11-19T19:34:20.000Z",
+    "createdAt": "2026-11-20T02:51:49.461Z",
+    "language": "en",
+    "region": "Global",
+    "topic": "Space & Aerospace",
+    "contentFormats": [
+      "Xiaohongshu Explainer",
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2161631,
+    "title": "Watch: How a UC Berkeley innovation led to the microprocessors that run the world",
+    "description": "Discover how David Patterson, a UC Berkeley professor emeritus of computer science, helped co-create the technology that led to smaller, more powerful electronics. The post Watch: How a UC Berkeley innovation led to the microprocessors that run the world appeared first on Berkeley News .",
+    "url": "https://news.berkeley.edu/2026/11/19/watch-how-a-uc-berkeley-innovation-led-to-the-microprocessors-that-run-the-world/",
+    "imageUrl": null,
+    "source": "Berkeley News",
+    "categoryId": null,
+    "publishedAt": "2026-11-19T18:08:34.000Z",
+    "createdAt": "2026-11-20T02:51:50.312Z",
+    "language": "en",
+    "region": "Global",
+    "topic": "Chips & Compute",
+    "contentFormats": [
+      "Xiaohongshu Explainer",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2161628,
+    "title": "Lake Pelku",
+    "description": "An astronaut on the International Space Station captured this photograph of Lake Pelku (near center) as the station orbited above Asia. The International Space Station serves as a unique platform for observing Earth with both hands-on and automated equipment. Station crew members have produced hundreds of thousands of images. These images record phenomena in real [&#8230;]",
+    "url": "https://www.nasa.gov/image-article/lake-pelku/",
+    "imageUrl": null,
+    "source": "NASA",
+    "categoryId": null,
+    "publishedAt": "2026-11-19T15:32:39.000Z",
+    "createdAt": "2026-11-20T02:51:49.461Z",
+    "language": "en",
+    "region": "Global",
+    "topic": "Space & Aerospace",
+    "contentFormats": [
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2161629,
+    "title": "NASA’s Voyager 1 Makes History Reaching One Light-Day From Earth",
+    "description": "NASA’s Voyager 1 probe, humanity’s farthest-flying spacecraft, has reached one light-day from Earth, after more than 49 years of constant travel. A light-day is the distance light travels in 24 hours, equaling about 16.1 billion miles (25.9 billion kilometers). The spacecraft achieved the milestone at 2:16 a.m. PST (5:16 a.m. EST) Nov. 18. Voyager team [&#8230;]",
+    "url": "https://www.nasa.gov/news-release/nasas-voyager-1-makes-history-reaching-one-light-day-from-earth/",
+    "imageUrl": null,
+    "source": "NASA",
+    "categoryId": null,
+    "publishedAt": "2026-11-19T14:31:15.000Z",
+    "createdAt": "2026-11-20T02:51:49.461Z",
+    "language": "en",
+    "region": "Global",
+    "topic": "Space & Aerospace",
+    "contentFormats": [
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2161626,
+    "title": "Study reveals data centers’ long-distance damage to air quality",
+    "description": "Researchers find air pollution from data center electricity use can affect communities far from the facilities, with some of the highest impacts in the Midwest.",
+    "url": "https://news.mit.edu/2026/study-reveals-data-centers-long-distance-damage-air-quality-1119",
+    "imageUrl": null,
+    "source": "MIT AI",
+    "categoryId": null,
+    "publishedAt": "2026-11-19T14:00:00.000Z",
+    "createdAt": "2026-11-20T02:51:46.765Z",
+    "language": "en",
+    "region": "Global",
+    "topic": "Chips & Compute",
+    "contentFormats": [
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2161633,
+    "title": "Google 杀入 Jev 核心赛道：Gemini Decision 1 五项基准领先两项落后",
+    "description": "Jev 拿下的 75 亿美元估值曾被质疑是一场泡沫。现在 Google 用一款多模态决策模型告诉市场：这不是泡沫，是赛道。 作者丨郑佳美 编辑丨岑 峰 谷歌正式入场了。 刚刚，谷歌发布 Gemini Decision 1，正式向 两个月前引爆决策模型品类的 TypeSafe Jev发起挑战。 和 Jev 一样，这款模型不生成任何文本，只计算供程序直接驱动 Agent 执行的候选项概率和置信度，不需要逐 Token 生成答案，连输出 Token 费用也省了。 更大的突破出现在并行计算上。Gemini Decision 1 可以在同一份上下文中处理至多 1000 项独立判断，而且支持文本、图像、音频、视频和 PDF 混合输入。对于需要反复检查文档、选择工具、评估任务状态的 Agent，大量原本分散在不同模型调用中的判断，现在可以集中在一轮请求中完成。 在数据上，7 项双方均有报告的共享基准中，Gemini Decision 1 赢下 5 项，Jev 在 When2Call 工具调用和 Mind2Web 多模态上仍保持优势（82.0% vs 79.9%，86.8% vs 86.2%）。 不过，Gemini 每 100 万输入 Token 收费 0.10 美元，是 Jev 的约 2.38 倍。性能上去了，价格也更贵了，谷歌显然想用更强的多模态能力和批量决策能力打开市场。 Jev 在 9 月发布后数周内拿下 75 亿美元估值，a16z 领投 8.7 亿美元，约三分之一财富 500 强被列为客户。但质疑从未消散：厂商自报的“快 193 倍、便宜 445 倍”缺乏第三方复现，原创性争议尚未定论，独立评测指向同一个结论：快和便宜是真的，质量是另一回事。雷峰网 Google 此时入场，至少证明了一件事：决策模型不是一场闹剧，而是一个值得巨头押注的品类。 01 模型怎样跳过文本生成完成决策 普通 LLM 处理“从四个工具里选一个”这类任务时，仍然走自回归解码：逐 Token 生成工具名或 JSON，程序再解析执行。模型承担的是开放式文本生成，业务需要的却是有限候选项中的概率判断。 Gemini Decision 1 把输出目标改成了候选项评分。开发者提前定义问题、候选集合和判断标准，模型读取输入后，直接返回各候选项的概率分布。整个过程通过单次前向计算完成，不需要逐 Token 生成答案",
+    "url": "https://www.leiphone.com/category/ai/wctgzdX4CN2RVxCm.html",
+    "imageUrl": null,
+    "source": "雷锋网",
+    "categoryId": null,
+    "publishedAt": "2026-11-19T09:08:00.000Z",
+    "createdAt": "2026-11-20T02:51:55.356Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "AI Models & Agents",
+    "contentFormats": [
+      "Xiaohongshu Explainer",
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2161634,
+    "title": "对话西湖大学于开丞：通用语言模型再强，物理世界也「等不起」",
+    "description": "2023 年就下场做世界模型的先行者。 作者丨 幸丽娟 编辑丨 岑 峰 2026 年 9 月，机器人操作评测基准 RoboDojo-Sim 的榜单上出现了一个令人意外的名字：GPT-6 Astra。 这个语言模型没有为机器人做任何专项训练，就在 42 项操作任务上拿下平均成功率第一，反超 40 个公开机器人策略。 世界模型这张牌桌，被搅了局 。“语言模型是不是连世界模型的活都能干了？”这个问题被重新摆上桌面。 一个多月后，西湖大学宣布成立西湖世界模型研究中心，校长施一公亲自站台。 这所以创新机制闻名的研究型大学，在“世界模型还有没有必要”的质疑声中，把世界模型立成了校级交叉科研平台。推动这件事的人，叫于开丞，西湖大学工学院助理教授、自主智能实验室（AutoLab）负责人。 在他看来， 通用语言模型再强，物理世界也“等不起” 。语言模型根本无法直接替代世界模型。 他曾在瑞士洛桑联邦理工大学（EPFL）跟 几何视觉大牛 Pascal Fua 做了五年研究，博二那年就“抓出”了 NAS 行业级核心问题 并拿下高通创新基金，当年欧洲获奖者仅四位。 回国后他加入阿里巴巴达摩院，以 BEVFusion 等系列工作在自动驾驶圈成名。两年后，他因自动驾驶领域的一个现实困境，靠着研究直觉转向世界模型。 当时，Sora 还有一年才登场， 世界模型这个词鲜有人能看懂，以探索前沿著称的达摩院都接不住 。 于是，他把这个题目拿回学术界来做，在西湖大学的科研土壤上，一做就是三年。 2024年，在大语言模型最锣鼓喧天的那一年，他在 ECCV 的挑战赛上 用世界模型 pk 掉语言模型 ，拿下“全球冠军”，先一步论证了世界模型路线的可行性。 两年后，锣鼓喧天的主角，终于变成了世界模型。各路团队拿着技术概念，忙着融资。 而已在这个方向耕耘三年的于开丞，没有去追概念的热闹 。 在他眼里， 世界模型就是一个像Transformer 一样的通用技术。 他要做的，是在国内赛道拉满“一圆桌的人”，去跟欧美 AI 力量打擂台。 他要做的这件事，是有底气的。通用世界模型 Awomo-0.5，40 亿参数，在具身智能、物理世界理解等六个国际主流评测榜单上同时登顶， 代码和权重全部开源 。大多数创业公司还交不了卷， 这份“以小博大”的答卷 先交了出来。 开源链接： https://awomo-westlakedi.gi",
+    "url": "https://www.leiphone.com/category/academic/6GxO2SjZl8UPTGhH.html",
+    "imageUrl": null,
+    "source": "雷锋网",
+    "categoryId": null,
+    "publishedAt": "2026-11-19T08:23:00.000Z",
+    "createdAt": "2026-11-20T02:51:55.356Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "Robotics & Embodied AI",
+    "contentFormats": [
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2161630,
+    "title": "El Niño Rains Paint the Atacama",
+    "description": "Winter precipitation helped wake dormant seeds in northern Chile, carpeting the desert with what may be the region’s most extensive flowering of the satellite era.",
+    "url": "https://science.nasa.gov/earth/earth-observatory/el-nino-rains-paint-the-atacama/",
+    "imageUrl": null,
+    "source": "NASA",
+    "categoryId": null,
+    "publishedAt": "2026-11-19T05:00:00.000Z",
+    "createdAt": "2026-11-20T02:51:49.461Z",
+    "language": "en",
+    "region": "Global",
+    "topic": "Space & Aerospace",
+    "contentFormats": [
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2161632,
+    "title": "范式下场做基模了！国产算力全链路训练，双模型同步亮相",
+    "description": "语言模型单张3090卡即可运行",
+    "url": "https://www.qbitai.com/2026/11/511071.html",
+    "imageUrl": null,
+    "source": "量子位",
+    "categoryId": null,
+    "publishedAt": "2026-11-19T03:01:45.000Z",
+    "createdAt": "2026-11-20T02:51:52.374Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "Chips & Compute",
+    "contentFormats": [
+      "WeChat Deep Dive"
+    ]
+  },
+  {
     "id": 2161618,
     "title": "NASA Sets Coverage for Northrop Grumman CRS-25 Launch, Prelaunch",
     "description": "NASA, Northrop Grumman, and SpaceX are targeting no earlier than 10:47 a.m. EST, Sunday, Nov. 29, for the next launch delivering science investigations, supplies, and equipment to the International Space Station. The agency also will hold a prelaunch media teleconference on Monday, Nov. 23. Filled with approximately 11,000 pounds of cargo, the Northrop Grumman Cygnus [&#8230;]",

@@ -1,5 +1,166 @@
 [
   {
+    "id": 2161639,
+    "title": "Curiosity Spots Drifting Twilight Clouds",
+    "description": "Description NASA’s Curiosity Mars rover captured these drifting clouds on Oct. 31, 2026, the 5,061st Martian day, or sol, of the mission. The rover uses its navigation cameras to capture post-sunset clouds, called twilight clouds, which appear for only a short time each fall over Gale Crater, which it has been exploring for more than […]",
+    "url": "https://science.nasa.gov/photojournal/curiosity-spots-drifting-twilight-clouds/",
+    "imageUrl": null,
+    "source": "NASA",
+    "categoryId": null,
+    "publishedAt": "2026-11-20T22:27:05.000Z",
+    "createdAt": "2026-11-21T02:59:35.940Z",
+    "language": "en",
+    "region": "Global",
+    "topic": "Space & Aerospace",
+    "contentFormats": [
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2161635,
+    "title": "Q&A: Enabling more human-like interactions and understanding in multimodal foundation models",
+    "description": "Senior Research Scientist Jim Glass discusses how his MIT-IBM Computing Research Lab collaboration connects perception and language, and addresses the shortcoming of current models.",
+    "url": "https://news.mit.edu/2026/qa-enabling-more-human-interactions-understanding-multimodal-foundation-models-1120",
+    "imageUrl": null,
+    "source": "MIT AI",
+    "categoryId": null,
+    "publishedAt": "2026-11-20T21:00:00.000Z",
+    "createdAt": "2026-11-21T02:59:33.771Z",
+    "language": "en",
+    "region": "Global",
+    "topic": "AI Models & Agents",
+    "contentFormats": [
+      "Xiaohongshu Explainer",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2161640,
+    "title": "New NASA Seed Funding Primes Small Businesses for Innovation",
+    "description": "Awards to small businesses around the country are addressing some of NASA’s most crucial technology needs for exploration of the Moon and Mars while fueling the U.S. space economy. NASA’s Small Business Innovation Research/Small Business Technology Transfer (SBIR/STTR) program recently selected 302 innovative projects, for a total investment of up to $171 million in seed [&#8230;]",
+    "url": "https://www.nasa.gov/directorates/rtmd/new-nasa-seed-funding-primes-small-businesses-for-innovation/",
+    "imageUrl": null,
+    "source": "NASA",
+    "categoryId": null,
+    "publishedAt": "2026-11-20T20:46:14.000Z",
+    "createdAt": "2026-11-21T02:59:35.940Z",
+    "language": "en",
+    "region": "Global",
+    "topic": "Space & Aerospace",
+    "contentFormats": [
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2161636,
+    "title": "New approach enables physically consistent AI models of chaotic systems",
+    "description": "Enforcing physics-based constraints prevents AI models from generating unreliable predictions for complex nonlinear systems in weather, climate, and turbulent flows.",
+    "url": "https://news.mit.edu/new-approach-enables-physically-consistent-ai-models-chaotic-systems-1120",
+    "imageUrl": null,
+    "source": "MIT AI",
+    "categoryId": null,
+    "publishedAt": "2026-11-20T20:00:00.000Z",
+    "createdAt": "2026-11-21T02:59:33.771Z",
+    "language": "en",
+    "region": "Global",
+    "topic": "AI Models & Agents",
+    "contentFormats": [
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2161643,
+    "title": "Harvard-led team receives $12 million in federal funds to advance quantum computing with AI",
+    "description": "Project unites MIT, Cornell, three national labs, tech partners as part of Genesis Mission",
+    "url": "https://news.harvard.edu/gazette/story/2026/11/harvard-led-team-receives-12-million-in-federal-funds-to-advance-quantum-computing-with-ai/",
+    "imageUrl": null,
+    "source": "Harvard Gazette",
+    "categoryId": null,
+    "publishedAt": "2026-11-20T19:00:00.000Z",
+    "createdAt": "2026-11-21T02:59:36.332Z",
+    "language": "en",
+    "region": "Global",
+    "topic": "Quantum Technology",
+    "contentFormats": [
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2161638,
+    "title": "Video Friday: Drone Squeezes Itself to Fit Through Tight Spaces",
+    "description": "Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few months. Please send us your events for inclusion. Humanoids 2026 : 6–9 December 2026, SANTA CLARA, CA Enjoy today’s videos! Drones navigating cluttered spaces often encounter openings narrower than their bodies. We present a design method that jointly optimizes a quadrotor’s geometry and how its two side arms bend on contact. The resulting prototype folds from 31.3 cm to 14.1 cm wide on contact and flies through a 15 cm opening. [ Paper ] via [ Autonomous Robots Lab ] Thanks, Kostas! TeCoBots are soft, snake-like robots that can work alone and can also grab onto each other to form chains, loops and branches, building a new body for each task. A single robot can inch like a worm, roll across gravel and grass, climb inside a pipe and lift a 2.5-liter water bottle. The claw it uses to grab objects",
+    "url": "https://spectrum.ieee.org/video-friday-morphing-robots-quadrotor",
+    "imageUrl": null,
+    "source": "IEEE Spectrum Robotics",
+    "categoryId": null,
+    "publishedAt": "2026-11-20T17:30:03.000Z",
+    "createdAt": "2026-11-21T02:59:35.908Z",
+    "language": "en",
+    "region": "Global",
+    "topic": "Robotics & Embodied AI",
+    "contentFormats": [
+      "Xiaohongshu Explainer",
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2161641,
+    "title": "NASA&#8217;s Curiosity Mars Rover Collects Samples",
+    "description": "This Nov. 16 collage shows 49 drill holes captured by NASA’s Curiosity Mars rover as of November 2026. Each hole represents a sample collected from rocks on the Martian surface; Curiosity’s drill, located on the end of its robotic arm, drops pulverized rock samples into instruments in its belly that analyze their composition. Learn more [&#8230;]",
+    "url": "https://www.nasa.gov/image-article/nasas-curiosity-mars-rover-collects-samples/",
+    "imageUrl": null,
+    "source": "NASA",
+    "categoryId": null,
+    "publishedAt": "2026-11-20T15:53:24.000Z",
+    "createdAt": "2026-11-21T02:59:35.940Z",
+    "language": "en",
+    "region": "Global",
+    "topic": "Robotics & Embodied AI",
+    "contentFormats": [
+      "Xiaohongshu Explainer",
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2161637,
+    "title": "Following the “mathocalypse,” mathematicians consider the future",
+    "description": "A panel discussion at MIT explored AI’s implications for mathematical discovery and the people who make it their profession.",
+    "url": "https://news.mit.edu/2026/following-mathocalypse-mathematicians-consider-future-1120",
+    "imageUrl": null,
+    "source": "MIT AI",
+    "categoryId": null,
+    "publishedAt": "2026-11-20T15:20:00.000Z",
+    "createdAt": "2026-11-21T02:59:33.771Z",
+    "language": "en",
+    "region": "Global",
+    "topic": "AI Models & Agents",
+    "contentFormats": [
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2161642,
+    "title": "NSF CAREER Awards Support Wide-Ranging Research at CMU",
+    "description": "&lt;p&gt; &lt;img loading=\"lazy\" src=\"https://www.cmu.edu/news/sites/default/files/styles/listings_desktop_1x_/public/2026-11/260610A_Robotic_Caregiving_Visit334.jpg.webp?h=ec1f387e&amp;itok=N5xcZDUY\" width=\"900\" height=\"508\" alt=\"Baptist Senior Family residents and staff visit the the Robotic Caregiving and Human Interaction Lab on Wednesday, June 10, 2026, in Newell Simon Hall. Head of the lab Zackory Erickson, right, and PhD student Kavya Puthuveetil,talk to residents about the lab and the research done there.\"&gt; &lt;/p&gt; Eleven Carnegie Mellon University faculty members have received National Science Foundation Faculty Early Career Development Program awards for projects beginning in 2026.",
+    "url": "https://www.cmu.edu/news/stories/archives/2026/november/nsf-career-awards-support-wide-ranging-research-at-cmu",
+    "imageUrl": null,
+    "source": "Carnegie Mellon",
+    "categoryId": null,
+    "publishedAt": "2026-11-20T13:00:11.000Z",
+    "createdAt": "2026-11-21T02:59:36.252Z",
+    "language": "en",
+    "region": "Global",
+    "topic": "Robotics & Embodied AI",
+    "contentFormats": [
+      "Xiaohongshu Explainer",
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
     "id": 2161625,
     "title": "AI helps researchers investigate how thousands of medical studies share code",
     "description": "An MIT and Dana-Farber Institute-led team used large language models to examine nearly 4,000 studies and hundreds of code repositories, revealing gaps in the information needed to scrutinize and reuse published research.",

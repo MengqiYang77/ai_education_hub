@@ -1,5 +1,196 @@
 [
   {
+    "id": 2161653,
+    "title": "蚂蚁OceanBase发布湖库一体AI数据平台OceanLake，核心引擎向全球开源",
+    "description": "中国AI数据平台加速崛起",
+    "url": "https://www.qbitai.com/2026/11/512330.html",
+    "imageUrl": null,
+    "source": "量子位",
+    "categoryId": null,
+    "publishedAt": "2026-11-24T03:30:46.000Z",
+    "createdAt": "2026-11-24T05:45:37.842Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "AI Models & Agents",
+    "contentFormats": [
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2161656,
+    "title": "蚂蚁开源医疗健康预测模型，根据睡眠数据可预测未来六年150种疾病风险",
+    "description": "AI在医疗健康领域的应用，正在从疾病识别、健康咨询向更长期的健康风险预测延伸。11月24日，蚂蚁百灵宣布开源医疗健康预测模型 LingSante Pulse，可通过理解人体日常产生的生理信号，预测未来六年内150种疾病表型的发生风险。 不同于传统模型主要针对某一种生理信号或特定疾病进行训练，LingSante Pulse能够统一处理脑电图、心电图、光电脉搏波、肌电图等多种生理信号，并适应不同传感器的组合。模型基于超过15万小时、多场景生理序列数据预训练，能够从不同生理信号中提取人体状态特征，实现健康情况的远期预测。 在相关评测中，其可达到较高预测可靠性的疾病表型数量，比此前最优模型增加约42%。即使只使用心电图和胸带呼吸信号两个相对简单的传感器通道，模型对118种疾病仍具备较强的预测能力，接近使用完整睡眠监测设备的外部模型表现。 在其他任务中，LingSante-Pulse也展现出较强的通用性。在覆盖脑电、心电、脉搏波和肌电四大领域的38项单传感器预测任务，以及睡眠分期、睡眠呼吸暂停筛查等多模态任务评测中，模型综合表现领先现有单传感器领域专有模型及多模态生理信号基础模型。 目前，利用AI分析生理信号、开展疾病早期识别和风险预测，已经成为医疗AI领域的重要研究方向。国内外不少研究机构和企业都在探索，从心电、睡眠监测和可穿戴设备数据中发现传统诊疗中不易察觉的健康变化。 据了解，蚂蚁刚刚发布医疗健康模型全家桶，覆盖医疗推理、多模态理解、疾病风险预测、安全防护和实时智能体等多个方向。与此同时，阿福App宣布新一轮升级，解锁AI 实时音视频“望闻问切”功能，升级AI健康管家能力，并扩展无屏手环、戒指两大健康硬件品类。目前，LingSante-Pulse相关技术报告及模型已在GitHub和Hugging Face开放。 雷峰网 雷峰网",
+    "url": "https://www.leiphone.com/category/industrynews/lVVGnHDROrkdwJLp.html",
+    "imageUrl": null,
+    "source": "雷锋网",
+    "categoryId": null,
+    "publishedAt": "2026-11-24T03:13:00.000Z",
+    "createdAt": "2026-11-24T05:45:40.644Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "Policy & Society",
+    "contentFormats": [
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2161646,
+    "title": "Many languages, one common neural code",
+    "description": "Analyzing speakers of 21 languages, an MIT study using multilingual AI finds the human brain may represent meaning in much the same way.",
+    "url": "https://news.mit.edu/2026/many-languages-one-common-neural-code-1123",
+    "imageUrl": null,
+    "source": "MIT AI",
+    "categoryId": null,
+    "publishedAt": "2026-11-23T21:15:00.000Z",
+    "createdAt": "2026-11-24T05:45:30.836Z",
+    "language": "en",
+    "region": "Global",
+    "topic": "AI Models & Agents",
+    "contentFormats": [
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2161649,
+    "title": "NASA Awards Contract for NOAA’s Near Earth Orbit Network Program",
+    "description": "NASA, on behalf of the National Oceanic and Atmospheric Administration (NOAA), has awarded a contract to Northrop Grumman Systems Corporation for the Sounder for Microwave-Based Applications (SMBA) instruments on NOAA’s Near Earth Orbit Network (NEON) satellites. The cost-plus-fixed-fee, firm-fixed-price, and time-and-materials hybrid contract has a value of $290.6 million. The period of performance runs from [&#8230;]",
+    "url": "https://www.nasa.gov/news-release/nasa-awards-contract-for-noaas-near-earth-orbit-network-program/",
+    "imageUrl": null,
+    "source": "NASA",
+    "categoryId": null,
+    "publishedAt": "2026-11-23T21:10:03.000Z",
+    "createdAt": "2026-11-24T05:45:33.120Z",
+    "language": "en",
+    "region": "Global",
+    "topic": "Space & Aerospace",
+    "contentFormats": [
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2161650,
+    "title": "Studying Cancer Cells in Microgravity",
+    "description": "This Nov. 19, 2026, image shows gastric microtumors grown within an Encapsulates biochip. The Encapsulate-1 investigation studies patient-derived tumor samples aboard the International Space Station to better understand how cancer cells move and interact in microgravity. The results could help researchers develop further testing to predict a patient&#8217;s risk of metastasis and support more personalized [&#8230;]",
+    "url": "https://www.nasa.gov/image-article/studying-cancer-cells-in-microgravity/",
+    "imageUrl": null,
+    "source": "NASA",
+    "categoryId": null,
+    "publishedAt": "2026-11-23T17:28:37.000Z",
+    "createdAt": "2026-11-24T05:45:33.120Z",
+    "language": "en",
+    "region": "Global",
+    "topic": "Chips & Compute",
+    "contentFormats": [
+      "Xiaohongshu Explainer",
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2161651,
+    "title": "NASA Seeks Partners to Design First Nuclear Reactor for the Moon",
+    "description": "NASA is seeking industry partners to develop and test the first nuclear reactor designed to provide electricity on the Moon, a major step toward establishing a sustained human presence on the lunar surface.&#160; Lunar Reactor-1 (LR-1) will be a small fission power system that will generate 20 kilowatts of electricity, enough to power approximately 16 [&#8230;]",
+    "url": "https://www.nasa.gov/directorates/rtmd/nasa-seeks-partners-to-design-first-nuclear-reactor-for-the-moon/",
+    "imageUrl": null,
+    "source": "NASA",
+    "categoryId": null,
+    "publishedAt": "2026-11-23T17:23:50.000Z",
+    "createdAt": "2026-11-24T05:45:33.120Z",
+    "language": "en",
+    "region": "Global",
+    "topic": "Space & Aerospace",
+    "contentFormats": [
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2161648,
+    "title": "Finding faster quantum algorithms with agents and formal verification",
+    "description": "Using agent teams and formal verification to improve quantum algorithms for fusion and chemistry.",
+    "url": "https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/",
+    "imageUrl": null,
+    "source": "Google DeepMind",
+    "categoryId": null,
+    "publishedAt": "2026-11-23T16:59:40.000Z",
+    "createdAt": "2026-11-24T05:45:32.086Z",
+    "language": "en",
+    "region": "Global",
+    "topic": "Quantum Technology",
+    "contentFormats": [
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2161654,
+    "title": "蚂蚁医疗健康AI五连发！开源、本地部署、望闻问切全安排上了",
+    "description": "阿福大升级：让模型像医生一样思考",
+    "url": "https://www.qbitai.com/2026/11/512017.html",
+    "imageUrl": null,
+    "source": "量子位",
+    "categoryId": null,
+    "publishedAt": "2026-11-23T07:42:01.000Z",
+    "createdAt": "2026-11-24T05:45:37.842Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "AI Models & Agents",
+    "contentFormats": [
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2161655,
+    "title": "“Agent版arXiv”来了！936个智能体12个星期狂发近千篇论文，连同行评议都整上了",
+    "description": "一个完全由AI组成的科学家社会，是什么样？",
+    "url": "https://www.qbitai.com/2026/11/512004.html",
+    "imageUrl": null,
+    "source": "量子位",
+    "categoryId": null,
+    "publishedAt": "2026-11-23T06:59:38.000Z",
+    "createdAt": "2026-11-24T05:45:37.842Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "AI Models & Agents",
+    "contentFormats": [
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2161652,
+    "title": "Laser Focus at the Top of the World",
+    "description": "A next-generation geodetic instrument developed by NASA, part of a network that helps measure satellites’ orbits and the planet’s shape, has debuted in Svalbard, Norway.",
+    "url": "https://science.nasa.gov/earth/earth-observatory/laser-focus-at-the-top-of-the-world/",
+    "imageUrl": null,
+    "source": "NASA",
+    "categoryId": null,
+    "publishedAt": "2026-11-23T05:01:00.000Z",
+    "createdAt": "2026-11-24T05:45:33.120Z",
+    "language": "en",
+    "region": "Global",
+    "topic": "Space & Aerospace",
+    "contentFormats": [
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2161647,
+    "title": "AI-driven technique could help engineers design analog chips faster and with less expense",
+    "description": "The “SLIC” training method enables a small LLM to compete with much more resource-intensive models in complex circuit design tasks.",
+    "url": "https://news.mit.edu/2026/ai-driven-technique-could-help-engineers-design-analog-chips-faster-and-less-expensive-1123",
+    "imageUrl": null,
+    "source": "MIT AI",
+    "categoryId": null,
+    "publishedAt": "2026-11-23T05:00:00.000Z",
+    "createdAt": "2026-11-24T05:45:30.836Z",
+    "language": "en",
+    "region": "Global",
+    "topic": "Chips & Compute",
+    "contentFormats": [
+      "WeChat Deep Dive"
+    ]
+  },
+  {
     "id": 2161644,
     "title": "65 Years of Human Spaceflight at NASA Johnson",
     "description": "For 65 years, NASA’s Johnson Space Center in Houston has helped shape human spaceflight, from the Gemini missions that demonstrated rendezvous and docking techniques needed for Apollo to the research conducted aboard the International Space Station, which has supported a continuous human presence for more than 26 years. Today, Johnson teams are preparing crews and [&#8230;]",

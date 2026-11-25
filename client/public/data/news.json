@@ -1,5 +1,94 @@
 [
   {
+    "id": 2161658,
+    "title": "Teams Lock in Mission Architecture for NASA’s SR-1 Freedom",
+    "description": "NASA completed a major review for Space Reactor-1 (SR-1) Freedom and locked in key elements of the spacecraft, which is targeted to launch in 2028 and demonstrate nuclear electric propulsion in deep space for the first time.&#160;&#160; Experts from across the agency, the U.S. Department of Energy (DOE), and industry met at NASA’s Glenn Research [&#8230;]",
+    "url": "https://www.nasa.gov/general/nasa-locks-in-sr1-freedom-mission-architecture/",
+    "imageUrl": null,
+    "source": "NASA",
+    "categoryId": null,
+    "publishedAt": "2026-11-24T21:04:32.000Z",
+    "createdAt": "2026-11-25T04:47:49.633Z",
+    "language": "en",
+    "region": "Global",
+    "topic": "Space & Aerospace",
+    "contentFormats": [
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2161661,
+    "title": "Board of Regents Names Dr. Timothy C. Lieuwen President of Georgia Tech",
+    "description": "&lt;span&gt;Board of Regents Names Dr. Timothy C. Lieuwen President of Georgia Tech&lt;/span&gt; &lt;span&gt;&lt;a title=\"View user profile.\" href=\"https://news.gatech.edu/user/1\"&gt;Superadmin&lt;/a&gt;&lt;/span&gt; &lt;span&gt;&lt;time datetime=\"2026-11-24T14:47:32-05:00\" title=\"Tuesday, November 24, 2026 - 14:47\"&gt;Tue, 11/24/2026 - 14:47&lt;/time&gt; &lt;/span&gt; &lt;div&gt;&lt;p&gt;The Board of Regents of the University System of Georgia (USG) today named Dr. Timothy C. Lieuwen president of the Georgia Institute of Technology, effective Nov. 25, 2026.&lt;/p&gt;&lt;p&gt;Lieuwen, who currently serves as the institution’s interim president, brings more than 25 years of experience at Georgia Tech, in both faculty and leadership roles. He previously served as Georgia Tech’s executive vice president for Research. A member of the National Academy of Engineering, Lieuwen holds the title of Regents’ Professor and previously held the David S. Lewis Jr. Chair in Aerospace Engineering.&lt;/",
+    "url": "https://news.gatech.edu/news/2026/11/24/board-regents-names-dr-timothy-c-lieuwen-president-georgia-tech",
+    "imageUrl": null,
+    "source": "Georgia Tech",
+    "categoryId": null,
+    "publishedAt": "2026-11-24T19:47:32.000Z",
+    "createdAt": "2026-11-25T04:47:51.364Z",
+    "language": "en",
+    "region": "Global",
+    "topic": "Space & Aerospace",
+    "contentFormats": [
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2161657,
+    "title": "Agentic system personalizes physical controls to help users “DJ their art”",
+    "description": "“TangiMap” uses an AI agent to reprogram how buttons, knobs, and sliders are used, helping users do things like edit photos and perform music in a more dynamic, tactile way.",
+    "url": "https://news.mit.edu/2026/tangimap-agentic-system-personalizes-physical-controls-help-users-dj-their-art-1124",
+    "imageUrl": null,
+    "source": "MIT AI",
+    "categoryId": null,
+    "publishedAt": "2026-11-24T19:30:00.000Z",
+    "createdAt": "2026-11-25T04:47:47.353Z",
+    "language": "en",
+    "region": "Global",
+    "topic": "AI Models & Agents",
+    "contentFormats": [
+      "Xiaohongshu Explainer",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2161659,
+    "title": "NASA’s Northrop Grumman CRS-25 Mission Overview",
+    "description": "NASA’s Northrop Grumman Commercial Resupply Services 25 mission, or Northrop Grumman CRS-25, will deliver about 11,000 pounds of science and supplies to the International Space Station. The mission will be the third flight of the company’s Cygnus XL, the larger, more cargo-capable version of the company’s solar-powered spacecraft. The Cygnus XL will launch aboard a [&#8230;]",
+    "url": "https://www.nasa.gov/missions/station/nasas-northrop-grumman-crs-25-mission-overview/",
+    "imageUrl": null,
+    "source": "NASA",
+    "categoryId": null,
+    "publishedAt": "2026-11-24T19:09:16.000Z",
+    "createdAt": "2026-11-25T04:47:49.633Z",
+    "language": "en",
+    "region": "Global",
+    "topic": "Space & Aerospace",
+    "contentFormats": [
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2161660,
+    "title": "AGU Hyperwall Schedule",
+    "description": "American Geophysical Union (AGU) 2026 Join NASA in the Exhibit Hall (Booth #525) for Hyperwall Storytelling by NASA experts. Full Hyperwall Agenda below. TUESDAY, NOVEMBER 17 10:30 AMHigh Resolution Hydrology Simulations and Agentic Super Intelligence Interfaces for Mapping Water Availability and ExtremesSujay Kumar11:00 AMScale-Resolving CFD Methods for Predicting Aircraft “Edge of the Flight Envelope” PerformanceJared […]",
+    "url": "https://science.nasa.gov/earth/agu-hyperwall-schedule/",
+    "imageUrl": null,
+    "source": "NASA",
+    "categoryId": null,
+    "publishedAt": "2026-11-24T18:55:42.000Z",
+    "createdAt": "2026-11-25T04:47:49.633Z",
+    "language": "en",
+    "region": "Global",
+    "topic": "AI Models & Agents",
+    "contentFormats": [
+      "WeChat Deep Dive"
+    ]
+  },
+  {
     "id": 2161653,
     "title": "蚂蚁OceanBase发布湖库一体AI数据平台OceanLake，核心引擎向全球开源",
     "description": "中国AI数据平台加速崛起",

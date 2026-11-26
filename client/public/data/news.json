@@ -1,5 +1,113 @@
 [
   {
+    "id": 2161663,
+    "title": "NASA Enhances Supplier Program, Announces Mentor-Protégé Agreement",
+    "description": "How NASA works with small businesses is evolving, and as a result, the agency is strengthening the domestic aerospace industrial base to support future exploration missions through its recently renamed Small Business Supplier Development Program. As part of the program, NASA announced its latest Mentor-Protégé Agreement, this one signed between The Boeing Company and GRACE [&#8230;]",
+    "url": "https://www.nasa.gov/organizations/osbp/nasa-enhances-supplier-program-announces-mentor-protege-agreement/",
+    "imageUrl": null,
+    "source": "NASA",
+    "categoryId": null,
+    "publishedAt": "2026-11-25T19:06:56.000Z",
+    "createdAt": "2026-11-26T03:58:11.275Z",
+    "language": "en",
+    "region": "Global",
+    "topic": "Space & Aerospace",
+    "contentFormats": [
+      "Xiaohongshu Explainer",
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2161664,
+    "title": "NASA Eyes Crop Candidates for Future Menus",
+    "description": "As NASA prepares for future missions to the Moon and Mars, researchers are studying crops that could provide astronauts with fresh food, nutrition, and variety far from Earth. Such crop variety can help with menus in deep space, something top of mind this week as the nation celebrates Thanksgiving. Recent testing points to strawberries, […]",
+    "url": "https://science.nasa.gov/directorates/smd/nasa-eyes-crop-candidates-for-future-menus/",
+    "imageUrl": null,
+    "source": "NASA",
+    "categoryId": null,
+    "publishedAt": "2026-11-25T17:53:42.000Z",
+    "createdAt": "2026-11-26T03:58:11.275Z",
+    "language": "en",
+    "region": "Global",
+    "topic": "Space & Aerospace",
+    "contentFormats": [
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2161665,
+    "title": "Eye of the Sahara",
+    "description": "The Richat Structure, also known as the &#8220;Eye of the Sahara,&#8221; is seen from the International Space Station as it orbited above on Nov. 14, 2026. It is an eroded geological dome about 100 million years old created by igneous activity and uplift in the nation of Mauritania. In this type of geologic structure, rocks [&#8230;]",
+    "url": "https://www.nasa.gov/image-article/eye-of-the-sahara/",
+    "imageUrl": null,
+    "source": "NASA",
+    "categoryId": null,
+    "publishedAt": "2026-11-25T16:21:04.000Z",
+    "createdAt": "2026-11-26T03:58:11.275Z",
+    "language": "en",
+    "region": "Global",
+    "topic": "Space & Aerospace",
+    "contentFormats": [
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2161662,
+    "title": "How DARPA Challenged Teams to Bring Robots Into Disaster Triage",
+    "description": "On 5 November, 10 teams descended upon a 52-acre mock town in College Station, Texas called Disaster City . They were there for a nine-day competition to see how well teams of robots and humans could navigate simulated catastrophes, like a market ravaged by a tornado and a nighttime strike on a military base. At stake? US $2.5 million in prize money. The scenarios were the final of the DARPA Triage Challenge , which the U.S. agency has been running for three years with the goal of saving more lives in urgent mass casualty events. Engineers from academia and industry have competed in elaborately staged mass casualty events , such as simulated combat zones and plane crash scenes. Teams spent years designing systems where autonomous ground robots and drones could help first responders find mock victims and decide the best way to care for them. “Triage is all about resources,” says Jeremy Pamplin , who managed the challenge for DARPA. Pamplin is a critical care physician and retired colone",
+    "url": "https://spectrum.ieee.org/darpa-triage-challenge-final-robots",
+    "imageUrl": null,
+    "source": "IEEE Spectrum Robotics",
+    "categoryId": null,
+    "publishedAt": "2026-11-25T15:00:03.000Z",
+    "createdAt": "2026-11-26T03:58:11.222Z",
+    "language": "en",
+    "region": "Global",
+    "topic": "Robotics & Embodied AI",
+    "contentFormats": [
+      "Xiaohongshu Explainer",
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2161666,
+    "title": "逐际动⼒与商汤⼤装置达成合作，以高质量算力全⾯⽀撑机器⼈仿真训练与测试",
+    "description": "贯通具⾝智能研发流程",
+    "url": "https://www.qbitai.com/2026/11/512683.html",
+    "imageUrl": null,
+    "source": "量子位",
+    "categoryId": null,
+    "publishedAt": "2026-11-25T14:20:24.000Z",
+    "createdAt": "2026-11-26T03:58:14.563Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "Chips & Compute",
+    "contentFormats": [
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2161667,
+    "title": "从 AGI 到 ASI，DeepMind 提出让 AI 自己「开公司」、重塑组织架构，自己进化",
+    "description": "100 个 AI 联合做题竟学会「集体作弊」？谷歌抛出 ASI 演进新框架，揭示组织化进化的恐怖与隐忧。 作者丨 郑佳美 编辑丨岑 峰 刚刚，Google DeepMind 抛出了一套从 AGI 迈向 ASI 的技术演进框架，其中有个相当大胆的设想： 未来 AI 的能力增长，可能要靠它自己学会组建公司，甚至不断重写公司的组织架构。 这套框架提出了 Cooperative RSI（合作式递归自我改进）机制。设想一下，成千上万个 AI Agent 可以自行分工、积累专业经验、调整协作关系，再把节省下来的算力投入新一轮研发。随着组织效率提高，系统又获得更多资源来改造自身，形成持续迭代的增长循环。 这意味着，未来 AI 的进化单位可能从单个模型扩展为整个研发组织，连任务分配、专业分工和知识传递机制也会成为可优化的技术变量。不过，增加 Agent 容易，让一个组织持续创造超出资源消耗的能力增益却困难得多。 Cooperative RSI 究竟怎样形成递归增长，组织效率能否像模型能力一样被规模化扩展，以及谁来判断 AI 对自身的改造确实有效？ 这些问题构成了这套框架中颇有研究空间的技术核心。 01 从模型扩展到组织扩展 过去，AI 能力增长主要依赖模型架构、训练数据和计算规模。当多个 Agent 开始共同承担复杂研发任务时，计算资源与能力之间的关系就没有那么直接了。 问题出在任务依赖和协调成本上。复杂研发通常包含大量相互依赖的环节，上游结果决定下游工作能否继续。增加 Agent 可以提高独立任务的并行吞吐，却无法直接缩短任务依赖图中的关键路径。 随着成员规模扩大，中间结果传递、上下文同步和冲突解决还会消耗额外资源，组织甚至可能因为协调开销过高而降低整体效率。 这使 Multi-Agent Scaling Laws 与传统模型扩展规律出现明显差异。模型扩展主要考察计算投入与性能之间的关系，而组织扩展还必须考虑通信拓扑、任务可拆分程度、成员能力差异以及知识复用效率。 DeepMind 强调了数字智能区别于人类组织的几个特征：Agent 可以复制运行状态，通过高带宽通道共享知识，并在不同计算节点之间迁移工作。 这些条件降低了知识传播和协作重组的成本，但复制相同模型也会带来高度相关的推理偏差。即使不同 Agent 承担不同角色，共同的知识盲区仍可能让错误在组织内部相互强化。 因此，专业",
+    "url": "https://www.leiphone.com/category/ai/12hVnzl8xc2Hblwx.html",
+    "imageUrl": null,
+    "source": "雷锋网",
+    "categoryId": null,
+    "publishedAt": "2026-11-25T07:12:00.000Z",
+    "createdAt": "2026-11-26T03:58:17.200Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "Chips & Compute",
+    "contentFormats": [
+      "WeChat Deep Dive"
+    ]
+  },
+  {
     "id": 2161658,
     "title": "Teams Lock in Mission Architecture for NASA’s SR-1 Freedom",
     "description": "NASA completed a major review for Space Reactor-1 (SR-1) Freedom and locked in key elements of the spacecraft, which is targeted to launch in 2028 and demonstrate nuclear electric propulsion in deep space for the first time.&#160;&#160; Experts from across the agency, the U.S. Department of Energy (DOE), and industry met at NASA’s Glenn Research [&#8230;]",

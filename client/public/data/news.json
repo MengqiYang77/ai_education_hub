@@ -1,5 +1,58 @@
 [
   {
+    "id": 2161668,
+    "title": "20个AI Agents组队，4天狂跑350次实验，超越ClickBench最佳公开成绩",
+    "description": "Quickwit查询总耗时降31%，最高降87%",
+    "url": "https://www.qbitai.com/2026/11/513053.html",
+    "imageUrl": null,
+    "source": "量子位",
+    "categoryId": null,
+    "publishedAt": "2026-11-27T01:16:10.000Z",
+    "createdAt": "2026-11-27T03:57:18.986Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "AI Models & Agents",
+    "contentFormats": [
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2161670,
+    "title": "直播 25 天训出一个模型，五项登顶，一群 00 后的 Physical AI 实验",
+    "description": "聊聊榜单之外的 Motubrain 2.0，和它背后那支不太一样的团队。 作者丨 齐铖湧 编辑丨岑 峰 近日，行业独角兽企业 生数科技 正式发布 Motubrain 2.0，并宣布将于近期开源。 这次发布包括一个 20B 参数的世界动作模型（WAM），以及一套名为 Motubrain-Harness 的智能体系统。 过去一个月里，生数科技把 Motubrain 2.0 的预训练搬上了公开直播：25 天，600 小时，20 万步训练，19 个 Checkpoint 的真机评估，5624 次有效真机评测，超过 1 万次真机任务执行。任何人都可以实时看到训练曲线，包括它变坏的时候。 直播初期，模型的真机任务成功率一度随着训练推进不升反降。团队从训练与推理的一致性开始排查，最后定位到数据层：一批数据里，夹爪的 \"开\" 和 \"关\" 被标反了。排查、修复、重启都在直播里完成，团队没有掐断信号，放弃此前权重，从第 0 步推倒重训，学费以百万为单位计算。另一次，全量数据上线却忘了调整采样权重，成功率从 62% 掉到 45%。每一个训练细节，瑕疵和突破，都可回溯。（直播回放链接： https://www.motubrain.com/motubrain2.0-live/ ） 一个多月后，这个只有 20B 参数的世界动作模型，在六项代表性机器人操作 Benchmark 中拿下五项第一，在 RoboDojo 的公开评测中，得分超过了 GPT-6 Astra 和 Claude Opus 5.5。 但比起榜单，更值得讲的是它是怎么被训练出来的。 最近半年，物理 AI 的技术讨论发生了一个明显的变化。 过去大家关注的是机器人能不能叠衣服、做咖啡、拧瓶盖，现在更关心的是， 如果换一件衣服、换一个杯子，甚至换一个从未见过的任务 ，机器人还能不能干好。 另一边，GPT-6 的表现，让大家惊讶于前沿大语言模型的 空间 理解能力 ，也引发了物理 AI 的终局探讨。当下的共识是，大语言模型越来越擅长推理和规划，但这些能力并不能直接转化为机器人操作的成功率。 从模型本身走向真实场景，中间还有很长的技术链。 再加上近期备受关注的 AI Self-Improvement，如何让机器人利用真实世界中的行动反馈改进自身策略，也成了一个值得研究的方向。 Motubrain 2.0 的出现，源于背后的团队对这三个变化的关",
+    "url": "https://www.leiphone.com/category/ai/0DEts3fxmZTZ7ojp.html",
+    "imageUrl": null,
+    "source": "雷锋网",
+    "categoryId": null,
+    "publishedAt": "2026-11-26T12:50:00.000Z",
+    "createdAt": "2026-11-27T03:57:34.075Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "Robotics & Embodied AI",
+    "contentFormats": [
+      "Xiaohongshu Explainer",
+      "Short Video",
+      "WeChat Deep Dive"
+    ]
+  },
+  {
+    "id": 2161669,
+    "title": "任少卿带着世界模型3.0来了！蔚来智驾训练提效5倍，座舱也用上强化学习",
+    "description": "李斌坦言：不做AI变革可能活不下去",
+    "url": "https://www.qbitai.com/2026/11/512897.html",
+    "imageUrl": null,
+    "source": "量子位",
+    "categoryId": null,
+    "publishedAt": "2026-11-26T03:23:35.000Z",
+    "createdAt": "2026-11-27T03:57:18.986Z",
+    "language": "zh",
+    "region": "China",
+    "topic": "Education & Future Skills",
+    "contentFormats": [
+      "WeChat Deep Dive"
+    ]
+  },
+  {
     "id": 2161663,
     "title": "NASA Enhances Supplier Program, Announces Mentor-Protégé Agreement",
     "description": "How NASA works with small businesses is evolving, and as a result, the agency is strengthening the domestic aerospace industrial base to support future exploration missions through its recently renamed Small Business Supplier Development Program. As part of the program, NASA announced its latest Mentor-Protégé Agreement, this one signed between The Boeing Company and GRACE [&#8230;]",
